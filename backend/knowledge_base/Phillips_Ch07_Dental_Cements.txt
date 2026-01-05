@@ -1,0 +1,3443 @@
+7
+
+Dental Cements
+OUTLINE
+History of Dental Cements
+
+Cements for Luting
+
+Indications for Dental Cements
+
+Endodontic Sealers
+
+Performance Criteria for Dental Cements
+
+Tri-/Dicalcium Silicate Cement
+
+Solubility and Disintegration of Cements
+
+Calcium Phosphate Cements
+
+Fluoride-Releasing Materials
+
+Summary
+
+Pulp Protection
+
+KEY TERMS
+Acid–base reaction Chemical reaction between a compound
+containing replaceable hydrogen ions (acid) and a substance
+containing replaceable hydroxide ions (base) that yields a salt
+and water; for aqueous liquid and powder cements, the liquid is
+the acid, and the powder is the base.
+Atraumatic restorative treatment (ART) Clinical procedure performed without dental burs, air/water spray, or anesthesia that
+consists of manual excavation of cavitated carious tissues and
+restoration of the tooth cavity with a fluoride-releasing cement.
+Bioactivity Reactive potential of a material to form a layer of
+hydroxyapatite-like material on its surface in vivo.
+Calcium phosphate cements Cement that is used for bone
+regeneration that consists of powder (di-, tri-, or tetra-calcium
+phosphates) that is mixed with an aqueous solution from which
+hydroxyapatite precipitates.
+Cavity liner Material to coat the bottom of a cavity preparation to
+protect the pulp; a liner is applied in a thin layer.
+Cement Substance that hardens from a viscous state to a solid union
+between two surfaces; for dental applications, cements act as a
+base, liner, filling material, root canal sealer, or adhesive to bind
+devices and prostheses to tooth structure or to each other.
+Cement base Material used to protect the pulp in a cavity
+preparation by providing thermal insulation and sometimes a
+medicament, usually thicker and more distant from the pulp
+than a cavity liner.
+Cement thickness Distance between an abutment tooth and
+cemented prosthesis, influenced by the design of the prosthesis
+and the viscosity of the cement during seating.
+Compomer A term derived from the terms composite and ionomer; a resin-based composite consisting of a silicate glass filler
+phase and a methacrylate-based matrix with carboxylic groups;
+also known as polyacid-modified glass-ionomer cement.
+Endodontic sealer Material to prevent any transmittance of fluid
+or bacteria from the coronal to the apical region, used in conjunction with an obturation material such as gutta-percha.
+Film thickness Thickness in μm of a cement 7 min after 150 N
+have been applied, which is the International Organization for
+128
+
+Standardization (ISO) and American Dental Association (ADA)
+method for determining the ability of a cement to spread under
+pressure.
+Glass-ionomer cement (GIC) Cement that hardens following an
+acid–base reaction between fluoroaluminosilicate glass powders and an aqueous-based polyacrylic solution; also known as
+polyalkenoate cement.
+Hydraulic cement Cement that requires water to cause the material to set.
+Luting agent A viscous cement-like material that fills a gap
+between two surfaces to prevent dislodgement. The term luting
+agent originally referred to nonadhesive agents only but now
+also includes adhesive agents.
+Maturation Process of aqueous cement strengthening after setting.
+Mineral trioxide aggregate (MTA) A tri- and di-calcium silicatebased cement used for vital pulp therapy and other endodontic
+indications.
+Pulp capping A procedure to treat pulp that has been exposed
+through caries removal or trauma, by the application of a medicament; indirect pulp capping is the term used when the pulpal
+exposure is incipient, such as when dentinal tubules are visible
+in the cavity.
+Resin cement A resin-based composite material used for attaching fixed prostheses or orthodontic brackets; these cements are
+less viscous than resin composite restorative materials.
+Resin-modified glass-ionomer cement (hybrid ionomer
+cement) Cement that combines a glass powder and an aqueous
+solution of polymerizable groups attached to the polyacrylic acid.
+Varnish Material applied to the floor of a cavity; a solution of natural gum, synthetic resins, or resins dissolved in volatile solvent,
+such as acetone, ether, or chloroform; material applied superficially to a tooth to release fluoride.
+Zinc oxide eugenol (ZOE) cement Cement based on the reaction
+between zinc oxide and eugenol.
+Zinc phosphate cement Substance formed by the reaction between zinc oxide powder and phosphoric acid liquid that can be
+used either as a base or as a luting agent.
+
+CHAPTER 7
+
+Naturally occurring waxes and resins have been used since time
+immemorial for covering the surface of broken teeth and adhering
+replacement materials, including bone, animal teeth, wood, and early
+naturally occurring polymers. However, problems arose with many
+“natural” materials exposed to the warm, moist, and often acidic
+oral environment, leading to their gradual failure in vivo. Modern
+dentistry has evolved to achieve improved clinical results, which
+include a wide variety of cements created by various chemical reactions. Cements are used for many indications and may be needed for
+short-term (days to weeks), intermediate-term (weeks to months),
+and long-term (years) retention of dental appliances (devices).
+
+History of Dental Cements
+In the 1800s, zinc oxide (ZnO) powder of good purity was found
+to react with eugenol at room temperature to form a functional
+cement. The ZnO–eugenol material was used as an impression
+material and temporary restoration and was eventually found to
+be obtundent with the pulp and suitable as a root canal sealer.
+Zinc oxide was observed to react with phosphoric acid to yield
+a material stronger than ZnO–eugenol, capable of securing gold
+alloy restorations to tooth preparations. The high acidity of the
+ZnO–phosphate cement was unsuitable for pulpal contact but a
+good insulator for use as a base. In the mid-20th century, ZnO
+was also used with carboxylic acid to produce a cement that was
+lower in acidity and capable of bonding to tooth structure.
+When the zinc oxide in zinc phosphate cement was replaced
+with a glass powder, a semitranslucent esthetic filling called silicate
+cement was created. The longevity of the silicate cement restorations was unimpressive (<4 years) because the silicate cements
+have high solubility. Gradually, the silicate cements lost anatomical contour and degraded at the margins. Despite the deficiency,
+the occurrence of recurrent caries adjacent to these cements was
+rare. Laboratory studies showed that fluoride was released from
+the glass in silicate cements. The impressive anticariogenic potential of the silicate cements highlighted the ability of fluoride ions
+(F−) to inhibit demineralization.
+The lessons learned from silicate cement and zinc carboxylate
+cement led to the development of glass-ionomer cements (GICs),
+which contained a modified glass for the powder and polyacrylic
+acid for the liquid. Incorporating the polymerization technology
+of methacrylate resin into the liquid created dual-cured materials: acid–base and polymerization reactions. From this combination, resin-modified glass-ionomer cement (RMGI) evolved.
+Replacing the liquid component of RMGI with a water-free acidic
+polymerizable monomer created a light-curable single-component
+material called compomer, a term derived from the terms composite and ionomer. The goal of these two hybrid materials was to
+combine the strength of composite with the fluoride release and
+self-adhesion of glass ionomer in one material.
+Around the mid-20th century, new attributes for dental cements
+were needed for use with gutta-percha points in endodontic therapy. These cements are denoted as endodontic sealers, which must
+cure in the moist root canal dentin. Furthermore, endodontic
+materials must ensure that oral bacteria cannot percolate through
+the root to the periapical bone; otherwise, serious infection persists
+or occurs. Esthetics are less important for endodontic cements than
+for supragingival indications. Several dental materials were adapted
+for endodontic use: zinc oxide–eugenol (ZOE), polyvinyl siloxane, epoxy resins, and hydraulic ceramics (tri-/dicalcium silicate).
+In the 1990s, the bioactivity and sealing ability of tri-/dicalcium
+silicate cements became recognized and appreciated in dentistry.
+
+Dental Cements
+
+129
+
+This ceramic dental cement is now widely indicated for pulpal and
+periradicular contact, including endodontic indications.
+Varnish has been used for pulpal protection, especially with
+amalgam in a cavity preparation. The use of varnish has declined
+with decreased amalgam use. However, surficial varnishes are
+popular, especially among pediatric dentists. These varnishes are
+placed on enamel to release fluoride to provide protection against
+caries and promote remineralization from acids in the oral cavity
+with calcium ions. Sealants based on resins are also used superficially on teeth to provide protection against caries.
+In the 20th century, varnishes included silver ions, silver
+nitrate, and silver diammine fluoride solutions for arresting caries and reducing sensitivity. The hazard with silver compounds is
+imparting a black color to the caries, as discussed later.
+Most current cements include polymers and ceramic powders.
+The remainder of this chapter is organized by general indications: pulp protection and enamel protection, fixed prosthodontic
+device cementation, endodontic restoratives, and sealing.
+
+Indications for Dental Cements
+Dental cements are classified according to their major component,
+as shown in Table 7-1, which includes their general indications.
+Several formats are offered for dental cements: powder and liquid, two pastes, or single component. Biocompatibility, durability
+for the indication, and safety for the patient and dental practitioner are important general cement attributes, all with a “reasonable” price. Some cements achieve their biocompatibility by
+being mildly cytotoxic, whereas others are bioinert or bioactive,
+as described later. The biocompatibility of dental cements is discussed in general terms in this chapter. Principles of biocompatibility are discussed in Chapter 17, Biocompatibility.
+Other characteristics are designed for a cement’s unique
+indications, such as viscosity. For pulpal protection or surficial
+tooth sealing, a fluid layer is usually suitable. A medium-viscosity
+cement is used for cavity liner or cement-base indications. For
+adhering an appliance, a cement must have a sufficiently low viscosity to flow along the interfaces between the tooth tissue and
+a restorative. A low-viscosity cement is also needed to enable an
+endodontic sealer to fill complex root canal anatomy. Orthodontic bands require a low-viscosity cement, but orthodontic brackets require higher-viscosity cements to keep orthodontic brackets
+from drifting before the cement is cured. Base/liner materials
+should flow and set within, but not out of, the cavity preparation.
+Viscous cements are used for filling perforations, for root-end
+filling, or for covering pulps after a pulpotomy. Whether low or
+high viscosity, a low-contact-angle material is useful for wetting
+the surface of enamel or dentin or a prosthetic device.
+Cements must harden (set) within a reasonable time that
+depends on the indication, ranging from minutes to days. Strength
+requirements vary from a compressive strength of 35 MPa for
+pulp capping and base materials to 50 MPa for aqueous cements
+for the adhesion of devices. The strength should be appropriate
+for the indication and increase during maturation. For instance,
+the tri-/dicalcium silicate cements mature over about 1 month.
+All cements undergo a chemical reaction in vivo. Varnishes set
+by evaporation of the solvent to form a coherent protective layer.
+Two-part cements begin setting/hardening when the components are mixed. Single-component polymer-based cements set
+through polymerization activated by visible light. Dual-cured
+resin cements use both chemical and light-curing mechanisms to
+maximize polymerization. The hydraulic bioactive cements set by
+
+130
+
+PA RT I I
+
+TABLE 7-1
+
+Direct Restorative Materials
+
+Overview of Dental Cements
+
+Powder/Liquid Systems
+Materials
+
+Powder
+
+Liquid
+
+Reaction Type
+
+Indications
+
+Zinc phosphate
+
+Zinc oxide and magnesium
+oxide
+
+Phosphoric acid, water
+
+Acid–base reaction
+
+Cementing metallic fixed
+prostheses
+
+Zinc oxide–eugenol
+
+Zinc oxide
+
+Eugenol
+
+Acid–base reaction
+
+Pulp protection, temporary
+cement
+
+Zinc oxide–eugenol (EBA
+modified)
+
+Zinc oxide
+
+Eugenol, EBA
+
+Acid–base reaction
+
+Pulp protection, temporary
+cement
+
+Zinc polycarboxylate
+
+Zinc oxide and magnesium
+oxide
+
+Polyacrylic acid, water
+
+Acid–base reaction
+
+Metallic fixed prostheses
+short spans or crowns
+
+Glass ionomer
+
+Fluoroaluminosilicate glass
+
+Polyacrylic acid, polybasic
+carboxylic acid, water
+
+Acid–base reaction
+
+Cementing crowns (alumina,
+zirconia metal), metal posts
+and core restoration
+
+Fluoroaluminosilicate glass,
+chemical- and/or lightactivated initiator(s)
+
+Polyacrylic acid, water-soluble
+methacrylate monomer, water,
+activator
+
+Light- or chemical-activated
+polymerization and acid–base
+reaction
+
+Fluoroaluminosilicate glass,
+metallic oxides, sodium
+fluoride, chemical- and/or
+light-activated initiator(s)
+
+Dimethacrylate/carboxylic
+monomers, multiple functional
+acrylate monomers, water,
+activator for chemical
+activation
+
+Polymerization by light- and
+chemical-activation and acid–
+base reaction
+
+Fluoroaluminosilicate glass,
+nonreactive filler, reactive
+monomers
+
+Nonreactive filler, methacrylate- Light-activated polymerization
+modified polyalkanoic acid,
+and acid–base reaction
+water-soluble methacrylate
+monomer, water
+
+Epoxy
+
+Methenamine, titania, silver
+
+Bisphenol A, epichlorohydrin
+resin
+
+Chemical crosslinking
+polymerization of epoxide
+
+Root canal sealing
+
+Tri-/dicalcium silicate
+
+Tri-/dicalcium silicate and
+radiopaque powder
+
+Water-based liquid
+
+Hydration with liquid
+
+Pulpal protection,
+periradicular contact,
+endodontic sealing
+
+Base Paste
+
+Catalyst Paste
+
+Reaction Type
+
+Indications
+
+Fluoroaluminosilicate glass,
+metallic oxides, sodium
+fluoride, chemical- and/or
+light-activated initiator(s)
+
+Dimethacrylate/carboxylic
+monomers, multiple functional
+acrylate monomers water,
+activator (for chemical cure)
+
+Light or chemical activation of
+polymerization and acid–base
+reaction
+
+Cavities in deciduous
+teeth, cervical cavities in
+adults, anterior proximal
+restorations in adults, small
+load-bearing restorations in
+adults, temporary
+
+Methacrylate monomers,
+fillers, light-activated
+initiator(s)
+
+Methacrylate monomers,
+fillers, activator (for chemical
+cure)
+
+Polymerization by light
+and chemical activation, or
+chemical activation only
+
+Polymethyl methacrylate
+polymer beads
+
+Liquid 1: Methacrylate
+monomers Liquid 2: Catalyst
+
+Chemical-activated
+polymerization
+
+Disalicylate
+
+Butyl ethylene glycol salicylate
+resin, bismuth oxide
+
+Resimpol natural resin, 13%
+“MTA” (tri-/dicalcium silicate
+and tricalcium aluminate?),
+titania and silica
+
+Chemical-activated
+polymerization
+
+Endodontic sealing
+
+Disalicylate
+
+Glycol disalicylate, titanium
+dioxide and barium sulfate,
+titania, zinc oxide
+
+Ethyl toluene sulfonamide,
+calcium hydroxide, zinc oxide,
+zinc stearate
+
+Chemical-activated
+polymerization
+
+Pulp capping
+
+Epoxy
+
+Bisphenol-A epoxy resin,
+bisphenol-F epoxy resin,
+calcium tungstate, zirconium
+oxide, silica, iron-oxide
+pigments
+
+Dibenzydiamine,
+aminoadamantane,
+tricyclodecane-diamine,
+calcium tungstate, zirconium
+oxide, silica, silicone oil
+
+Chemical-activated
+polymerization
+
+Endodontic sealing
+
+Resin-modified glass
+ionomer (hybrid ionomer)
+
+Two-Paste Systems
+Materials
+Compomer
+
+Resin cement
+
+Metal, lithium disilicate,
+alumina or zirconia
+prostheses,* metal posts/
+core
+
+Ceramic veneers, Maryland
+bridges, lithium disilicate,
+alumina, zirconia, cores and
+posts
+
+CHAPTER 7
+
+TABLE 7-1
+
+Dental Cements
+
+131
+
+Overview of Dental Cements—cont’d
+
+Single Component
+Materials
+
+Paste or Liquid
+
+Reaction Type
+
+Indications
+
+Compomer
+
+Methacrylate monomer,
+acidic monomer,
+fluoroaluminosilicate glass,
+initiator
+
+Light-activated polymerization
+
+Cavities in deciduous teeth,
+cervical cavities in adults,
+anterior proximal restorations
+in adults, small load-bearing
+restorations in adults,
+temporary
+
+Varnish
+
+Resins, organic solvent
+(acetone); chloroform ether
+may include silver, fluoride, or
+calcium compounds
+
+Evaporation of solvent
+
+Pulp protection, surficial ion
+release for caries prevention
+or remineralization
+
+Inert
+
+Methacrylate monomers,
+initiator, ceramic fillers
+
+Light-activated polymerization
+
+Cementing ceramic
+restorations or orthodontic
+brackets
+
+Tri-/dicalcium silicate
+
+Methacrylate monomers,
+initiators, tri-/dicalcium
+silicate, barium zirconate
+
+Light-activated polymerization
+
+Pulp-capping, pulpotomies
+
+Tri-/dicalcium silicate
+
+Organic liquid, tri-/dicalcium
+silicate, radiopaque powder
+
+Hydration in vivo
+
+Pulpotomies, endodontic
+sealing
+
+Calcium hydroxide
+
+Iodoform, silicone, calcium
+hydroxide
+
+Nonsetting
+
+Primary tooth pulpectomy
+
+Tri-/dicalcium silicate
+
+Tricalcium silicate, salicylate
+resin, titanium oxide, calcium
+tungstate
+
+Nonsetting
+
+Primary tooth pulpectomy
+
+EBA, ethoxybenzoic acid.
+*
+Don’t use for anterior because of opacity.
+
+reaction with water that is either included in two-part systems or
+absorbed from the tooth. The exception is the nonsetting materials used with primary teeth after a pulpectomy, where a cement
+should not interfere with exfoliation.
+Long-term retention of devices is important for crowns and
+bridges. However, temporary cements are sometimes needed,
+for instance, when transient devices are placed during prosthetic
+treatments. Dental cements are crucial for orthodontic brackets
+and bands, but the durability of these materials can be less than
+other cements because orthodontic treatments usually last about
+2 years. Sealants and cements to reduce sensitivity (by occluding
+exposed dentinal tubules) are not expected to last long term.
+
+Performance Criteria for Dental Cements
+Dental cements must solidify into a biocompatible mass in the
+oral cavity and function over time in vivo by resisting hydrolysis (degradation by water). Properties of dental cements vary, but
+those that are often compared include the mixing time, working
+time, setting time, film thickness, compressive strength, and
+vulnerability to acid. Requirements for dental cements (base/
+liner and luting materials) have been codified in International
+Organization for Standardization (ISO) Standards 9917-1 and
+9917-2 (Dentistry−Water-Based Cements) and ISO 6876:2012
+(Root Canal Sealing Materials), where the test methods for these
+properties are described. These standards apply to water-based luting cement, bases, linings, restorations, core buildup materials,
+and root canal sealing. See Table 7-2 for the requirements. Except
+
+for root canal sealers, cements should set in less than 8 minutes
+(min) and resist acid erosion.
+
+Solubility and Disintegration of Cements
+Cements are often placed supragingivally and exposed to a variety
+of acids produced by microorganisms or as components of foods
+and drinks. ISO 9917-1 describes the erosion test of impinging a
+0.1-M solution of lactic acid/sodium lactate (pH = 2.74) on waterbased cements. The depth of erosion after 24 hours (h) is measured
+as mm/h. The results show that the rate of erosion decreased from
+conventional GIC to hybrid GIC to compomer. The solubility
+procedure described in ISO 4049 for dental composites uses the
+weight (mg) and volume (mm3) of the specimen before immersion
+in water and the weight of the specimen after 5 days of immersion,
+and then desiccation. The solubility is calculated by dividing the
+weight changes by the volume. ISO 6876 for endodontic sealers
+measures the weight of the specimen before 24 h of immersion in
+water, and the weight percentage of residue is reported.
+Testing conditions have been shown to significantly influence the solubility, such as varying the pH, the electrolytic concentration of the storage media, the soaking or impingement of
+a test medium on the cement, the powder-to-liquid (P/L) ratio
+of the cement, and the testing duration. For example, lowering
+the pH and P/L ratio will generally increase solubility. Delaying
+exposure to a storage medium decreases solubility. Some cements
+show no solubility (by weight) when concurrent dissolution and
+water sorption occur. Therefore poor correlation has been found
+
+132
+
+PA RT I I
+
+TABLE 7-2
+
+Direct Restorative Materials
+
+ISO Requirements
+
+ISO 9917-1 Water-Based Cements—Part 1: Powder/Liquid Acid-Base Cements
+
+Zn PHOSPHATE
+
+Zn POLYCARBOXYLATE
+
+GLASS IONOMER
+
+Cement Type
+
+Luting
+
+Liner or Base
+
+Luting
+
+Liner or Base
+
+Luting
+
+Liner or Base
+
+Maximum mixing time (min)
+
+2.5
+
+2
+
+2.5
+
+2
+
+1.5
+
+1.5
+
+Final setting time (min)
+
+8
+
+6
+
+8
+
+6
+
+8
+
+6
+
+Maximum film thickness (μm)
+
+25
+
+nr
+
+25
+
+nr
+
+25
+
+nr
+
+Minimum compressive strength (MPa)
+
+50
+
+Maximum acid erosion (mm)
+
+0.3
+
+0.4
+
+0.17
+
+ISO 9917-2 Water-Based Cements—Part 2: Resin-Modified Cements
+
+Cement Use
+
+Luting
+
+Liner or Base
+
+Restorative
+
+Minimum working time (min)
+
+1.5
+
+1.5
+
+1.5
+
+Minimum setting time (min)
+
+8
+
+6
+
+6
+
+Maximum film thickness (μm)
+
+25
+
+nr
+
+Minimum flexural strength (MPa)
+
+10
+
+10
+
+25
+
+ISO 6876 Root Canal Sealing Materials/ADA 57 Endodontic Sealing Materials
+
+Property
+
+Requirement
+
+Flow (mm)
+
+>17
+
+Working time
+
+To be stated by manufacturer in minutes or hours
+
+Setting time
+
+To be stated by manufacturer in minutes or hours
+
+Maximum film thickness (μm)
+
+50
+
+Solubility (%)
+
+<3
+
+Radiopacity (mm of equivalent Al)
+
+>3
+
+Dimensional stability (ADA 57 only)
+
+<0.1% expansion, less than 1% shrinkage
+
+ADA, American Dental Association; nr, no requirement.
+
+for solubility data from the acidic-erosion and passive-weight-loss
+tests. In vitro data show that cement solubility differs among categories of materials and products. For the cements that rely on
+water to set, the solubility increases from glass ionomer to zinc
+phosphate and polycarboxylate cements. The solubilities between
+zinc polycarboxylate cement and zinc phosphate cement were not
+significantly different when mixed as recommended. However, a
+reduction in the powder-to-liquid ratio for zinc polycarboxylate
+reduced the viscosity and produced a cement that disintegrated
+rapidly. Zinc phosphate cements have a relatively low solubility
+in water; however, in vivo disintegration occurs with the lactic,
+acetic, and citric acids present in foods.
+With solubility being inversely proportional to the resin content, resin cements are the least soluble of all dental cements,
+especially hydrophobic resins. The low solubility of resin cement
+makes this material suitable for cementing all-ceramic or resinbased restorations, where more cement may be exposed compared
+with metal or metal-ceramic restorations. Polymerizing monomers
+in glass-ionomer cements (RMGIs) have reduced the solubility
+compared with GIC.
+The durability of some cements has been tested by placing
+small specimens of the cements in intraoral appliances that can
+
+be removed from the mouth to measure the loss of material.
+In one study, cements were inserted in tiny wells placed in the
+proximal surfaces of cast crown restorations. These crowns were
+cemented with temporary ZOE cement. After 1 year, the crowns
+were removed, and the cement loss was measured. GIC degraded
+the least, followed by zinc polycarboxylate cement, zinc phosphate cement, and zinc polycarboxylate cement mixed in a lower
+P/L ratio.
+The solubilities of endodontic sealers based on ZOE and early
+formulations of glass ionomer were near the maximum allowed
+in ISO specifications (3%). ZOE-based root canal sealers have
+been used successfully for decades in endodontics, despite their
+high solubility. Sealers with epoxy or polyvinyl siloxane (PVS)
+bases have significantly lower solubility among endodontic sealers. The tri-/dicalcium silicate cements do not meet this limit after
+24 hours; however, after longer times, these materials become less
+soluble. Immediately after setting, the tri-/dicalcium silicates have
+calcium hydroxide on the surface, which is beneficial for bioactivity but appears as solubility. Nevertheless, the tricalcium silicate
+sealers are highly successful clinically.
+The variety of dental cements encompasses many material categories, and the properties vary widely, as discussed herein.
+
+CHAPTER 7
+
+80
+
+The anticariogenic potential of silicate cement confirms the ability
+of F– to inhibit demineralization and lead to the development of
+several fluoride-containing restorative materials and cements: conventional glass ionomers, resin-modified glass ionomers, polyacidmodified composites (compomers), and fluoridated varnishes. For
+the fluorosilicate glass-based materials, fluoride is first dissolved
+in the matrix from the glass during the acid–base reaction, and
+then released to the oral cavity. For fluoridated varnishes, the fillers incorporated in the material dissolve partially upon contact
+with saliva, and then F– is released from the varnishes. The rate
+of fluoride release depends on the cement matrix, porosity, and
+nature of the fluoridated filler (i.e., type, amount, particle, and
+size). Figure 7-1 illustrates the typical behavior of fluoride release
+from dental materials.
+In vitro data have shown that fluoride release from GIC
+remains detectable for years, although the rate of release is reduced
+by a factor of 10 within the first few months (Figure 7-1, A). The
+release rate and duration depend on the cement matrix; porosity;
+and the fluoridated filler’s type, amount, silanation, and particle
+size. Figure 7-1, B & C illustrate the typical behavior of fluoride
+release from dental materials.
+
+70
+
+Clinical Significance
+In vitro studies have shown that fluoride-releasing restoratives
+inhibit the enamel and dentin demineralization produced by
+acidic gels or demineralizing buffer solutions. The inhibition of
+enamel demineralization reached up to 7 mm from the edge of
+the material. These results were confirmed by microradiographic
+assessments of the lesion depth of artificial caries and the mineral
+density of enamel adjacent to a conventional and a resin-modified
+glass-ionomer. For both materials, lesion depth increased, and
+mineral density decreased, with increasing distance (1 to 3 mm)
+from the restoration margin.
+Fluoride release varies between categories of material and brands
+and is influenced by the material and the material’s setting mechanisms, the fluoride content, and the testing conditions. Clinical
+studies have not clearly shown whether the initial burst or longterm release of F ions is clinically more important to prevent caries. Despite the proven effects from in vitro studies, clinical studies
+
+60
+50
+40
+30
+20
+
+0
+
+Recharge
+
+0
+
+25
+
+50
+
+A
+
+75
+
+100
+
+125
+
+100
+
+125
+
+10
+
+12
+
+Time (d)
+700
+
+Cumulative release (mg/cm2)
+
+Fluoride-release studies usually are conducted in vitro, where the
+experimental conditions are controlled and the fluoride release
+is easier to measure. Also, the intrinsic characteristics of the
+material—such as formulas, filler compositions, ratios of component mixing, mixing procedure, and curing time—can be studied
+more easily. For such in vitro tests, the protocols have varied in
+terms of the composition and pH of storage media, the frequency
+of the storage solution change, and plaque and pellicle formation.
+When the demineralization–remineralization cycling is used
+in in vitro studies, higher fluoride release is observed in acids.
+However, ion-enriched (ions other than F−) storage media, such as
+artificial saliva, reduce the release of fluoride and surface coatings
+from human saliva. The presence of esterase or hydrolases in the
+storage media or on the surface of the material increases fluoride
+release. Although removal of the outer layer of the material by air
+polishing or finishing can lead to higher release, toothbrushing has
+not been found to affect fluoride release.
+
+133
+
+10
+
+600
+500
+400
+300
+200
+100
+0
+0
+
+25
+
+50
+
+B
+
+75
+
+Time (d)
+700
+
+Cumulative release (mg/cm2)
+
+Factors Affecting Fluoride Release in Vitro
+
+Release rate (mg/d.cm2)
+
+Fluoride-Releasing Materials
+
+Dental Cements
+
+600
+500
+400
+300
+200
+100
+0
+
+C
+
+0
+
+2
+
+4
+
+6
+
+8
+
+Square root of time (d0.5)
+
+• Figure 7-1 Typical fluoride-release profiles. A, Release rate versus time;
+the spike reflects fluoride recharging, and the blue dotted line represents the
+fluoride release where no recharging has occurred. B, Cumulative release
+over time; the diamonds are experimental data of (A) without recharging,
+and the curve is the best-fit curve of Y (total release) = a + b • (time){1/2}.
+C, The same data in (B) plotted against the square root of time, revealing
+a linear relationship. The effect of recharging is not shown in (B) or (C).
+
+134
+
+PA RT I I
+
+Direct Restorative Materials
+
+conflict as to whether these materials sufficiently prevent or inhibit
+recurrent caries compared with nonfluoridated restoratives. Further
+clinical studies, preferably in split-mouth designs, are needed to evaluate the impact of fluoride-releasing restoratives on recurrent caries
+development and progression, especially in patient groups that have
+limited access to or low compliance with prophylactic measures.
+An in situ study compared the effectiveness of a conventional
+GIC, an RMGI, a compomer, and a fluoridated composite for
+resistance to enamel lesion formation using intraoral appliances
+embedded with these materials. Intraoral appliances were worn by
+the subjects for 4 weeks without additional application of topical
+fluorides. The results showed that only one ion-releasing material led to significantly lower lesion depth and mineral loss. No
+other materials had a preventive effect on recurrent caries. Clinical
+studies of fluoride-releasing composites often show no differences
+in the occurrence of recurrent caries.
+
+Fluoride Recharge
+Dental restoratives are frequently exposed to exogenous sources
+of fluoride, such as fluoridated dentifrices, mouth rinses, fluoride
+gels, and varnishes. These released fluoride ions can be absorbed
+by the dental restoratives to “recharge” with fluoride. A common
+recharging method is exposing the restorative to a concentrated
+fluoride agent such as 0.02% NaF solution (90 ppm) or 1.23%
+(12,300 ppm) acidulated phosphate fluoride (APF) solution for 4
+to 5 min, although treatments up to 1 hour have been reported.
+Recharging is more effective with acidic fluoridating agents, such
+as APF. However, APF is known to cause surface damage of some
+restorative materials. The ability of a restorative material to be
+recharged and serve as a fluoride reservoir depends on the type and
+permeability of the material, the frequency of fluoride exposure,
+and the concentration of the fluoridating agent. Glass ionomers,
+resin-modified glass ionomers, and compomers are recharged
+more easily than composite resin-based materials. In vivo fluoride
+recharging is influenced by saliva and plaque. The higher viscosity of saliva reduces the diffusion of ions in and out of the material. The formation of a surface pellicle is a barrier hampering the
+recharging process. The release data for recharged materials is significantly higher in the first 24 hours but decreases within several
+days to the preexposure level (Figure 7-1, A), suggesting that the
+initial release may occur partly by washout of fluoride ions retained
+on the surface or in the pores of the material. The level of release
+after recharging depends on the concentration of the recharging
+medium and the duration of treatment.
+
+metallic material is used to restore the tooth, discomfort may arise
+from hot or cold nutrition or galvanic contact with metal restoratives on opposing dentition. During restorative procedures, the
+acidic components of some dental cements may irritate the pulp
+before setting. Therefore pulp protectants are required when little
+protective dentin is left after a cavity preparation.
+Pulp protectants for cavity preparations approximating the
+pulp are denoted as pulp-capping materials, varnishes, cavity liners, or base materials. Pulp-capping materials are in direct contact
+with the pulp, and their biocompatibility is crucial to the pulp’s
+healing. Varnishes as very thin resin layers used to plug and block
+the dentinal tubules exposed in a cavity preparation. Cavity liners
+are thin layers and are used for indirect pulp capping when the
+remaining dentin is less than 1 mm and are more protective than
+varnishes. Base materials are placed in thicker layers than liners
+and are commonly placed farther from the pulp. The base material
+is needed for insulation from the thermal, chemical, or galvanic
+irritations that may occur with restorative materials.
+
+Pulp-Capping Materials
+Pulp-capping agents are used when the pulp has been exposed
+and bleeding is frank. The best pulp-capping and cavity-liner
+materials are bioactive and antimicrobial. Bioactivity, as defined
+in ISO 22317, is the spontaneous formation of a thin layer rich
+in Ca and P, similar to hydroxyapatite, on the surface of a material
+in vivo or synthetic body fluid. Bioactivity occurs by the release
+of calcium and hydroxide ions that create a high pH (alkaline),
+thus causing the precipitation of calcium phosphate from the
+supersaturated body fluids in the vicinity of their surface. Bone
+morphogenic protein (BMP) and transforming growth factorbeta one (TGF-β1) may be solubilized from the bone or dentine
+by the high pH and released to stimulate repair. The pulp can
+heal by forming pulpal odontoblasts on the calcium phosphate
+layer of the bioactive materials, forming reparative dentin. Such a
+histological result is shown in Figure 7-2. Bioactive pulp-capping
+
+CRITICAL QUESTION
+What is the benefit of calcium hydroxide in contact with pulpal tissue?
+
+Pulp Protection
+Tooth enamel is a translucent crystalline bioceramic but is vulnerable to acids and the repeated stress of a lifetime of chewing. The
+underlying dentin may be exposed to the oral cavity when the
+enamel is worn, chemically eroded by acidic foods or cariogenic
+bacteria, mechanically abraded by food or opposing teeth, fractured, or prepared for restoration. Depending on the remaining
+dentin thickness, the exposed dentinal tubules provide a communication path to the pulp for acids and microbiological insults.
+The dentin must be covered to minimize further damage. When
+
+• Figure 7-2 Reactionary dentin. Histological section of a human tooth
+submitted to a slight pathological stimulus from a deep cavity filled with
+light-cured glass-ionomer cement, and then extracted 30 days after the
+procedure. The remaining dentin thickness is 287 μm at the thinnest region. Note that the pulp tissue subjacent to the continuous odontoblast
+layer (hollow arrows) does not show inflammation. (Courtesy Dr. Carlos
+Alberto de Souza Costa.)
+
+CHAPTER 7
+
+Dental Cements
+
+135
+
+agents include calcium hydroxide powder and tri-/dicalcium silicate materials.
+
+The properties and applications of tri-/dicalcium silicate will be
+discussed in more detail later in the chapter.
+
+Calcium Hydroxide
+Calcium hydroxide medicaments are available as powder, onepaste, or two-paste products with radiopaque fillers. Calcium
+hydroxide powder may simply be mixed with water and placed,
+or some products disperse the powder in a carrier such as polyethylene glycol liquid, such as UltraCal (Ultradent Inc.). Other
+products may include calcium hydroxide in a resin formula that
+sets chemically or with light, such as Dycal (Caulk Dentsply
+Sirona). Calcium hydroxide is sparingly soluble in water and does
+not set into a hardened cement during the procedure but gradually converts to calcium carbonate by carbon dioxide in the blood
+and oral fluids over time. Such products must not be left on the
+margins of the cavity preparation; otherwise, the margin will not
+be properly sealed. Calcium hydroxide is beneficial because of a
+high pH, which makes this material antimicrobial. However, calcium hydroxide alone does not set or provide much thermal insulation but is bioinert. Histologically, calcium hydroxide stimulates
+reparative dentin when placed on the pulp, although the reparative dentin may have tunnel defects.
+
+Formocresol and Ferric Sulfate
+Formocresol and ferric sulfate have been used as protective medicaments for partial or complete pulpotomy procedures, among
+other techniques, including electrosurgery and laser cautery. Ferric sulfate and formocresol staunch the bleeding pulp, but neither
+material is bioactive. By far, formocresol has been the most popular
+among pediatric dentists. Ferric sulfate–treated pulpotomies have
+led to the unfortunate consequence of root resorption. Calcium
+hydroxide has not been popular in pediatric dentistry because this
+material has been less successful with pulpal inflammation and
+tooth resorption in small, thin primary teeth. The bioactive tricalcium silicate–based products are superseding the use of formocresol or ferric sulfate medicaments for pediatric pulpotomies, with a
+better success rate for retention before exfoliation.
+Pediatric pulpotomies may fail or may not be suitable because
+of deeper infection of the pulp. For these cases, the pulp is extirpated, and the canal is filled with a nonsetting medicament. The
+filling material is nonsetting to avoid interference with the primary tooth’s exfoliation. These materials should be radiopaque.
+Two such materials contain calcium hydroxide in silicone oil or
+tricalcium silicate powder in salicylate resin.
+
+CRITICAL QUESTION
+Why is MTA cement biocompatible and considered bioactive?
+
+Tri-/Dicalcium Silicate
+Tri-/dicalcium silicate (tricalcium silicate, for short) products are
+also known by the names mineral trioxide aggregate (MTA),
+calcium silicate, biosilicates, or bioceramics. Chemically, the predominant compounds in these cements are tricalcium silicate and
+dicalcium silicate powders with inert radiopaque ceramic powders.
+The tricalcium silicate powders are unique ceramic compounds
+because they set with water and form calcium hydroxide as a reaction product within a hard matrix of hydrated tri- and dicalcium
+silicate. The calcium hydroxide reaction product renders bioactivity and imparts antimicrobial properties. Furthermore, because
+the calcium hydroxide is within a matrix, the alkalinity is sustained
+longer than in calcium hydroxide alone. This type of cement is
+thermally insulating and seals very well, without shrinkage.
+For pulpotomies, hemorrhage should be controlled with a
+cotton pellet moistened with saline, a dilute solution of sodium
+hypochlorite (0.5% to 1.0%) before placement, to avoid blood
+seeping into the cement and ensure removal of enough affected
+pulp. The consistency of the tricalcium silicate can be fluid or
+putty-like for pulpal placement. After placement, any restorative
+material, including ZOE, GIC, hybrid ionomer liner, or flowable
+compomer or composite, can be placed immediately over the tricalcium silicate without waiting for a full set of tricalcium silicates. Bonding agents do not adhere to tricalcium silicates, and
+etching should not be performed directly on tricalcium silicates.
+The precipitation of hydroxyapatite at interfaces with the tissue
+should prevent the tricalcium silicates from being dislodged. After
+pulpotomy treatment, the pulp should be periodically assessed for
+vitality, as an indication of a dentinal barrier forming beneath the
+tricalcium silicate cement. Tricalcium silicates have been added to
+the resin matrix as pulp protectant, such as TheraCal and TheraCal PT (Bisco). These products set by light curing or dual curing
+of the resin, but their bioactivity is lessened by the resin encapsulation of the bioactive component.
+
+CRITICAL QUESTION
+What is the purpose of using cavity varnishes, and why is copal varnish no
+longer used as often as it was during the 1960s through 1990?
+
+Cavity Varnishes and Liners
+When the remaining dentin thickness is less than 1 mm, irritants
+must be prevented from reaching the pulp through the dentinal
+tubules by placing a protective layer. The classic pulp protectant is
+a cavity varnish, which prevents pulpal irritation by occluding the
+exposed dentinal tubules.
+Varnishes are solutions of synthetic resins or natural gums, such
+as copal or rosins, in an organic solvent (ethanol, acetone, chloroform, or ether). The varnish is applied as a thin coating on the
+dentin, which forms a coherent layer as the solvent evaporates in
+about 30 seconds. At least two layers of varnish should be applied to
+obtain a complete, continuous coating with few pinholes. Each varnish layer should be thoroughly dried before proceeding. Varnishes
+are applied with a disposable brush or a small pledget of cotton. For
+infection control, a used varnish applicator should not be inserted
+in a varnish bottle; hence, unit-dose containers are common.
+Additional cavity-liner products include low-viscosity ZOE,
+glass ionomer, calcium hydroxide products, and the tricalcium silicates. Calcium hydroxide–containing products are preferred for
+cavity lining, for the same reason as the pulp-capping materials:
+bioactivity. Some liners adhere to the tooth, enhancing their ability to seal the dentinal tubules. Glass ionomers are less desirable in
+the vicinity of the pulp because of their acidity, but resin-modified
+glass ionomers are used. Varnish is not indicated or needed when
+adhesive materials are selected for restorations. The resin bonding
+systems serve the same role as varnish.
+
+Fluoridated Varnishes
+Varnishes containing fluoride are applied superficially on teeth.
+Varnishes reduce sensitivity by occluding dentinal tubules and
+
+136
+
+PA RT I I
+
+Direct Restorative Materials
+
+provide fluoride release. Typically, these varnishes contain 5%
+sodium fluoride to elute fluoride ions, although others contain
+calcium fluoride or amorphous calcium phosphate. Varnish films
+are temporarily effective but must be reapplied for caries prevention at hygiene appointments. Superficial varnishes are often flavored for patient acceptance (Figure 7-3, left).
+Silver nitrate has a long history of use to arrest caries. Later,
+a Japanese researcher developed a 38% silver diammine fluoride
+solution for arresting caries and reducing dentinal sensitivity
+(Figure 7-3, right). The silver ions are dissolved in an ammonia solution, which can attack and kill bacteria. The term silver diammine fluoride (SDF) has been accepted in dentistry for
+AgF • (NH3)2. SDF solutions contain twice the fluoride present in
+a 5% NaF varnish. This solution will arrest caries by precipitating
+the silver ions but will darken carious lesions with silver precipitates. Darkening of the tooth can be alleviated by using a potassium iodide solution after application of the SDF. This material
+is convenient to use for the medically compromised or bedridden
+and primary teeth, despite the discoloration.
+
+Cement Bases
+Cement bases are more distant from the pulp and placed at the
+bottom of cavity preparations. Bases provide thermal or galvanic
+insulation (Chapter 3, Clinical Significance of Galvanic Currents), although eliminating communication to the pulp is also
+important. Being farther from the pulp allows some acidic materials to be used, such as zinc phosphate cement. Zinc phosphate
+cement has been an effective base material because this cement
+is thermally insulating but has a low pH (acidity) and therefore
+requires another material under the cement to protect the pulp.
+
+When mixed as a base, zinc phosphate cement should be kept cool
+and mixed to a thick, nontacky, putty-like consistency that slows
+the reaction and minimizes free acid on the surface when placed.
+ZOE, zinc polycarboxylate, fast-setting glass ionomers, calcium
+hydroxide, and tricalcium silicate cements have been used as cavity bases. All these cements contain ceramic powders, which inherently have lower thermal and electrical conductivity than metals
+(Table 7-3). Heat transfer is a complex phenomenon that depends
+on the material’s heat capacity, thickness, and density (Chapter 3,
+Thermal Properties).
+Cement bases should be strong enough to withstand condensation forces during placement of restorative materials, especially
+amalgam, and the forces during mastication or bruxing. Table 7-4
+shows the compressive strength of representative dental cements
+over 24 hours. For most dental cements, the strength increases
+rapidly over 30 min and keeps increasing on the first day. Notably,
+the tricalcium silicate cements mature by hydration more slowly
+and gain their strength over 1 month, but especially during the
+first week. The minimum strength required of base materials to
+resist masticatory forces has not been determined because of the
+complexity and the influence of the design of the prepared tooth
+cavity. However, a study of amalgam restorations placed over a
+
+TABLE 7-3
+
+Material
+
+Approximate Thermal Conductivity
+(mcal/cm-s-K)
+
+Dentin
+
+1–2.3
+
+Enamel
+
+1.6–2.2
+
+Tricalcium silicate
+cement
+
+0.7
+
+Glass
+
+2–2.5
+
+Zinc phosphate cement
+
+2.5–3.1
+
+Zinc oxide–eugenol
+
+4.0
+
+Amalgam
+
+5.4
+
+Stainless steel
+
+38
+
+Gold
+
+740
+
+TABLE 7-4
+
+Compressive Strength of Cement Base
+Materials
+
+Material
+
+7 Min (MPa)
+
+30 Min (MPa)
+
+24 Hours (MPa)
+
+2.8
+
+3.5
+
+5.2
+
+6.2
+
+6.9
+
+12.4
+
+15.9
+
+20.7
+
+24.1
+
+Calcium
+hydroxide
+
+3.8
+
+4.8
+
+10.3
+
+7.6
+
+6.2
+
+8.3
+
+Tricalcium
+silicate
+
+~0
+
+Not determined
+
+14–40
+
+Zinc
+phosphate
+
+6.9
+
+86.9
+
+119.3
+
+Zinc oxide–
+eugenol
+
+• Figure 7-3 Flavored fluoride varnish for surface application to teeth, especially primary teeth (left), and silver diammine fluoride solution cleared in
+the United States for sensitivity treatments, used off-label for caries treatment (right). (Courtesy Elevate Oral Care.)
+
+Thermal Conductivity of Cement Base and
+Reference Materials
+
+CHAPTER 7
+
+hard-setting calcium hydroxide base showed no evidence of failure, even though the strength of the material was only about
+10 MPa after 1 day. For a class I tooth preparation where the base
+is supported on all sides by tooth structure, less strength is necessary than is required for class II preparations.
+
+CRITICAL QUESTION
+During the initial seating of a three-unit fixed partial denture (bridge), the
+prosthesis fits the prepared tooth perfectly and appears to be retained on
+the tooth so tenaciously that removal requires a great deal of force. Why is
+cement required for retention under this condition?
+
+Cements for Luting
+The first zinc oxide–based cement for cementing fixed prostheses
+was not adhesive to the tooth or metal prostheses. The cement
+functioned by filling the microscopic space between the device
+and the tooth and hardening to a high cohesive mass, which prevented dislodgement (Figure 7-4). The mechanical retention is
+
+• Figure 7-4 Diagram of the suggested mechanism through which a
+dental cement provides mechanical retention of a gold crown. The cement penetrates irregularities in the tooth structure and the casting. Upon
+hardening, these retentive sites aid in retaining the cast crown in place.
+The enlargement shows a fracture through the cement, resulting in dislodgment of the crown.
+
+Dental Cements
+
+137
+
+obtained by the combination of the microscopically rough tooth
+and prosthesis surfaces, along with the rigid cement that fills the
+gaps. This mechanical retention is referred to as luting, where zinc
+phosphate is the dominating cement. The degree of cement retentiveness for a given restoration relies on many factors: prepared
+tooth form, height, number of abutments, accuracy of superstructure fit, distribution of the cement, and occlusion. Dental
+prostheses that are mechanically retained include the following:
+(1) fixed prosthodontics made of metal, ceramic-veneered metal,
+or ceramic; (2) temporary restorations; (3) pins and posts used
+for retention of restorations; and (4) implant superstructures. As
+discussed in Chapter 6, Luting Agents, luting traditionally refers
+to the use of nonadhesive materials for retaining prostheses, and
+bonding refers to the use of adhesive bonding materials. The distinction has faded in the literature; the use of adhesive bonding
+medium is also referred to as luting.
+When a device is seated without a luting agent, point contacts
+are made between the tooth and the appliance (Figure 7-5A & B).
+The cement is used to fill the areas that are not in contact. The
+cement prevents oral fluid from flowing between the surfaces,
+thereby preventing bacterial invasion. Luting of a device to a tooth
+requires a cement of low viscosity and low contact angle to the
+tooth and the appliance to form a continuous film (Figure 7-5, C),
+without the formation of voids at interface (Figure 7-5, D). Voids
+impair the cement’s ability to support and retain a prosthesis.
+Porosity in powder-liquid cements is created from incorporating air while mixing powder into liquid. One study with luting agents showed that the method of mixing had no influence
+on the formation of small pores, but hand mixing yielded more
+large pores than triturator mixing. Porosity measurement of handmixed powder-to-liquid cements showed that polycarboxylate
+cement had the highest porosity, followed by zinc phosphate and
+GICs. Higher viscosity generally leads to more pores during mixing. If air bubbles are entrapped, masticatory forces may fracture
+weak appliances such as veneers. When a void-free layer is formed
+and hardens, one surface is wedged against another to resist the
+shearing stresses that might dislodge the appliance.
+To choose a cement for attaching a fixed prosthesis, the key
+characteristics are the working time, setting time, consistency,
+ease of removal of excess material, and adhesion. Any cement
+
+A
+
+B
+
+C
+
+D
+
+• Figure 7-5 Schematic illustration of the abutment–prosthesis interfaces. A, Irregular surface morphology of the two surfaces to be bonded. B, Two surfaces pressed against each other without an intermediate
+layer. Note the small number of points of contact illustrated by the circles. C, Continuous interface when a
+third material, either cement or adhesive, is used as the intermediate layer. D, Voids generated as a result
+of the inability of the intermediate layer to wet the surfaces completely.
+
+138
+
+PA RT I I
+
+Direct Restorative Materials
+
+for attachment must flow under pressure and wet (spread over)
+the tooth and prosthetic surfaces. The internationally accepted
+requirements for luting cements are shown in Tables 7-2. Luting cements are required to have a film thickness less than 25 μm
+when tested according to American National Standards Institute
+(ANSI)/American Dental Association (ADA) Specification No. 96
+and ISO 9917-1 or 9917-2. For endodontic sealers, which are discussed later, the maximum film thickness is 50 μm per ISO 6876.
+The film thickness essentially reflects the consistency of the cement
+mixture and is affected by the size of particles and the P/L ratio.
+The ISO film-thickness test method requires freshly mixed cement
+to be placed between two optically flat surfaces, and a 150-N vertical load is applied. Seven minutes later, the thickness of the film is
+measured. Such samples should appear to create continuous films.
+The intaglio of a crown must be cleaned before the application
+of luting cement. The interior surface should be carefully abraded
+with a stone or sandblasted with alumina abrasive. Prolonged
+sandblasting can deform metal margins or erode ceramic margins
+and should be avoided. Crowns should be thoroughly rinsed to
+remove debris and dried. Cementing a prosthesis to a tooth occurs
+in three steps after the cement is mixed, if mixing is required:
+cement placement, seating, and excess-cement removal.
+After mixing, a luting cement should be as free of bubbles
+as possible, and then placed in the intaglio of a crown or bridge
+(Figure 7-6, A & B). The cement should coat the entire intaglio
+surface but fill only a portion of the intaglio. Filling the entire
+
+intaglio increases the risk for bubble entrapment, the time and
+pressure needed for seating, and the time and effort required to
+remove excess cement. A fixed prosthesis should be fully seated
+with moderate finger pressure, displacing excess cement.
+Cement thickness is not the same as film thickness but refers to
+the actual thickness of the cement that occurs clinically between a
+cast crown, inlay, onlay, or veneer and the tooth structure. Lowerviscosity cements make the seating process easier. Thinner cement
+layers are created by applying sufficient seating force such that excess
+cement is expressed at the margin. Tapping the crown or vibrating
+the crown with an ultrasonic device may help achieve complete seating. Asking the patient to bite on a soft substance such as wood or
+a cotton roll also helps complete seating and expels excess cement
+(Figure 7-6, C). Three points on the margin should be examined
+with an explorer to ensure seating was complete. The design of
+the prosthesis should allow the cement to flow and create an even
+layer of cement between the prosthetic device and the tooth. However, a higher taper of the tooth preparation (Figure 7-6, D) and
+a lower crown height reduce retention. Cement thickness between
+the prosthesis and the abutment should be thin to minimize pores,
+maximize retention, and minimize plaque accumulation and microleakage between the device and the tooth.
+Cement thickness plays a significant role in prosthesis retention. The thickness varies with (1) the amount of force applied
+during seating of the prosthesis, (2) the direction in which the
+force is applied to the prosthesis during seating, (3) the design
+of the prosthesis relative to hindering or facilitating the flow of
+cement, (4) the fit of the prosthesis on the prepared tooth, and (5)
+the inherent film thickness of the cement. An acceptable cement
+thickness value in the literature is between 25 and 150 μm.
+
+CRITICAL QUESTION
+Why does the technique of removing excess cement differ among the types
+of cements?
+
+A
+
+B
+
+C
+
+D
+
+• Figure 7-6 Mechanics of cementing a prosthesis. A, Assembly of a
+fixed prosthesis and respective tooth preparation. B, Luting agent placed
+in the prosthesis should cover the entire surface. C, Space for expelling excess cement decreases as the prosthesis reaches its final position. Arrows show the thickness of space for expelling excess cement.
+D, Higher degree of the abutment taper provides a greater space for expelling excess cement.
+
+Excess luting cement should be present at the margin of a
+crown just after seating, an indication of complete cement coverage under the crown. The technique of removing excess cement
+depends on the properties of the cement that should be described
+in the instructions for use. A knotted dental floss should be run
+through the interproximal regions immediately after complete
+seating of the prosthesis to remove excess cement and create access
+for cement removal required in other parts of the margin.
+Aqueous-based cements mature after the setting and require
+moisture, but not too much moisture. As a precaution, the clinician should apply a varnish coat (or a bonding agent) along the
+accessible margin of cemented restorations before discharging the
+patient. This coating should seal the margin, prevent dissolution,
+and avoid infiltration by food or beverages during maturation,
+and it may release fluoride.
+A crown or bridge may be dislodged after the cement has
+set if the cement fractures, dissolves, or erodes, which leaves a
+space where plaque may accumulate, and caries may recur in the
+marginal opening (Figure 7-7). Care must be exercised during luting to avoid this occurrence.
+
+Zinc Oxide–Based Cements
+The zinc oxide group of cements include zinc phosphate, zinc
+carboxylate, and ZOE cements (Figure 7-8). Although they are
+less popular today, understanding these cements enables one
+
+CHAPTER 7
+
+to appreciate the evolution of dental cements to contemporary
+adhesives. The acid–base reaction never progresses to completion.
+Therefore the hardened cements retain composite structure, unreacted powder particles in a matrix of reaction products.
+
+Zinc Phosphate Cement
+This cement’s powder contains zinc oxide (>75%) and as much
+as 13% magnesia (magnesium oxide) and radiopaque powder.
+The zinc oxide and magnesia may have been sintered, and then
+ground into a fine powder; the sintering intimately combines the
+two powders to control the setting rate. The finer the particle size,
+the faster the cement sets, which is true for all the powder–liquid
+reactions. Bismuth oxide is common as a radiopaque powder component in these cements. The water-based liquid contains phosphoric acid (38% to 59%), aluminum phosphate (2% to 3%),
+and sometimes zinc phosphate (0% to 10%) to adjust the setting
+reaction to a rate suitable for dentistry.
+
+Critical Question
+Explain why zinc phosphate cement should be mixed by increments on a cool
+slab.
+
+To mix zinc phosphate cement, the powder should be dispensed first on a cool glass mixing slab and divided into six increments, usually noted in the manufacturer’s instructions for use.
+The temperature of the glass slab should be above the dew point
+
+Dental Cements
+
+139
+
+of the room; otherwise, moisture condensed on the slab will dilute
+the liquid, reducing the strength of the zinc phosphate cement.
+Next, the liquid is dispensed just before mixing to minimize the
+evaporation of water from the liquid. When the powder and liquid are mixed, the phosphoric acid solution (pH ~0.5) dissolves
+the outer surface of the particle. The dissolved zinc ions react with
+the aluminum phosphate ions in the liquid to precipitate a zinc
+alumino-phosphate gel on the remaining undissolved zinc oxide
+particles. The reaction between zinc oxide and phosphoric acid is
+exothermic and requires a strict mixing protocol to control excess
+heat generation. A small increment of powder is first mixed to
+reduce the acidity of the liquid. Subsequent increments of powder
+are added, and the heat also increases. Brisk spatulation for less
+than 20 seconds is needed for each powder increment, with all
+powder incorporated within 2 min to create a creamy mixture.
+The heat must be dissipated properly by the cool glass slab; otherwise, the reaction will accelerate and shorten the working time.
+Nonabsorbent paper pads should not be used. A test of “stringing”
+the cement before use will indicate if the mixture is too viscous for
+cementation.
+After seating a prosthesis with a zinc phosphate cement, firm
+pressure and a dry field are needed until the cement sets. Excess
+cement in the interproximal area should be removed immediately
+with a knotted dental floss after complete seating. The rest can
+be removed after complete setting. Varnish or other nonpermeable coating should be applied at the margin to allow the cement
+to mature isolated from the oral fluids. If a cavity liner has been
+applied before the zinc phosphate cement, retention will be lower
+because of the smooth liner surface with less interlocking.
+
+CRITICAL QUESTION
+Why should freshly mixed zinc polycarboxylate cement be applied on the
+tooth preparation before the cement loses its glossy appearance?
+
+• Figure 7-7 Loss of cement at the marginal area resulting from exposure
+to oral fluid.
+
+Zinc Polycarboxylate Cement
+Zinc polycarboxylate cement evolved from zinc phosphate and
+was the first dental cement that chemically bonded to teeth. This
+powder–liquid cement sets via an acid–base reaction of a powder
+similar to that of zinc phosphate cement with a liquid based on
+polyacrylic acids having a molecular weight of 30,000 to 50,000
+Dalton. The acid concentration varies from 32% to 42% by weight.
+Zinc polycarboxylate cements set by the acid-dissolving part of the
+zinc oxide particles, which releases zinc, magnesium, and tin ions
+that bind and crosslink the carboxyl groups. The polyacrylic acid
+bonds to the zinc ions of the powder and to the calcium ions of
+the mineralized tooth. A crosslinked polycarboxylate matrix phase
+
+A
+B
+C
+• Figure 7-8 Zinc oxide–based cement. A, Zinc-phosphate cement. B, Zinc polycarboxylate cement.
+C, Polymer-reinforced zinc oxide–eugenol cement.
+
+140
+
+PA RT I I
+
+Direct Restorative Materials
+
+is formed, which encapsulates the unreacted portion of the particles, as with zinc phosphate cement. Stannous fluoride may be a
+minor component to modify the setting time, raise the strength,
+and enhance manipulative properties. The fluoride released from
+such zinc carboxylate is minor compared with that released from
+the glass-ionomer cements discussed later.
+The powder may be refrigerated, which will retard the reaction.
+However, the liquid should not be refrigerated because this will
+cause it to thicken. Polycarboxylate cements are mixed at about
+1.5:1 powder:liquid by weight on a nonabsorbent surface. The
+powder should be incorporated into the liquid to create a glossy
+mixture, indicative of carboxylic acid on the surface for bonding
+to the tooth. A cool slab can be used to lengthen the working time
+for zinc carboxylate cement, even though the reaction is not exothermic; however, a cool slab thickens the polyacrylic acid, which
+hinders mixing.
+A meticulously clean tooth surface is necessary to achieve adhesion and ensure intimate contact between the polycarboxylate
+cement and the tooth. Application of a 10% polyacrylic or maleic
+acid solution (10 to 15 seconds) should precede cement application, followed by rinsing with water. After cleansing, the abutment
+should be isolated and blotted dry to prevent contamination by oral
+fluids. Drying with an air syringe is acceptable, although the patient
+may experience discomfort if a vital tooth is not anesthetized. The
+outer surface of a prosthesis should be coated carefully with a separating medium, such as petroleum jelly. The separating medium
+prevents excess polycarboxylate cement from adhering to the crown
+so that excess cement can be removed when the cement hardens.
+The working time for polycarboxylate cement is much shorter
+than for zinc phosphate cement, approximately 2.5 versus 5 min;
+therefore rapid spatulation and prompt seating are necessary to
+ensure a low cement thickness. The pH of the cement liquid is initially very low (1.7) but higher than that of zinc phosphate, and it
+rises rapidly as the setting reaction proceeds. During setting, polycarboxylate cement passes through a rubbery stage. Excess cement
+should not be removed during this stage because the cement can
+be pulled out from the margins, leaving a void. The setting time
+ranges from 6 to 8 min as required in ISO 9917-1. Because of
+the short working time, only crowns or short bridge spans can be
+cemented with zinc polycarboxylate cement. The adhesive acrylic
+bonds create a cement that can withstand thermal cycling, unlike
+zinc phosphate cement.
+
+cement: (1) temporary cementation, (2) long-term cementation
+of fixed prostheses, (3) temporary fillings and thermal insulating
+bases, and (4) intermediate restorations. ZOE cements are also
+used as root canal sealers and periodontal dressings. Temporary
+ZOE restorations are expected to last a few weeks. The antimicrobial attribute of ZOE is a benefit compared with glass-ionomer
+cements or resin composites. However, ZOE cements can cause
+pulpal necrosis; therefore ZOE should not be used directly on
+pulp. Indirectly used, ZOE has a sedative effect by sealing the
+dentinal tubules against the ingress of oral fluids until a more permanent restoration can be fabricated and cemented.
+Intermediate-duration ZOE cements serve as a restorative material for about 1 year. To achieve the properties necessary for this
+use, a stiff, putty-like restorative consistency must be used (high P/L
+ratio). The higher the P/L ratio, the faster the material sets. A cool
+glass mixing slab slows the setting, which should be above the dew
+point to avoid moisture condensation and dilution of the cement.
+An excellent application for these ZOE cements is for temporary or provisional (short-term or intermediate-term) luting of
+provisional fixed prosthodontics. Long-term ZOE luting cements
+are somewhat difficult to manipulate because their film thicknesses are high, and excess cement is difficult to remove; therefore
+long-term ZOE luting cements should never be used for temporary cementation. ZOE cement is used for implant superstructure
+cementation, where more retentive cements could lead to damage
+of the supporting implant if retrieval is required. The consequence
+of the less adhesive cement is potential loosening of the implant
+prosthesis.
+To improve the strength of ZOE cements, part of the eugenol
+liquid has been replaced by orthoethoxybenzoic acid and alumina
+added to the powder. Another system, called polymer-reinforced
+ZOE, incorporates a powder containing 20 to 40 wt% fine polymer particles and zinc oxide particles treated with carboxylic acid.
+Residual eugenol is thought to interfere with the proper polymerization of resin-based composites or cements; therefore some
+carboxylic acids have been used to replace eugenol and produce
+a ZOE-like material. Such products are called zinc oxide–noneugenol cements. The compressive strength of these improved ZOE
+cements is acceptable, but their strength values are inferior to
+those of glass-ionomer and resin cements (Table 7-4).
+
+Zinc Oxide Eugenol and Noneugenol Cements
+ZOE cements have been formulated as powder–liquid and twopaste systems. The powder–liquid combination contains zinc
+oxide powder and eugenol liquid. The two-paste system includes
+a base paste containing zinc oxide powder, and the eugenol is in
+the accelerator (or catalyst). The ZOE setting reaction starts with
+water present in the tooth or the eugenol solution hydrolyzing
+the zinc oxide to form zinc hydroxide. The zinc hydroxide and
+eugenol chelate and solidify. The reaction proceeds more rapidly
+in a warm, humid environment, such as inside a tooth. When
+zinc acetate dihydrate is included in the powder, the reaction is
+faster; zinc acetate is more soluble than zinc oxide or hydroxide.
+Acetic acid in the eugenol solution also accelerates the dissolution of zinc oxide. The setting reaction is slower for the other zinc
+oxide cements. A wide variety of ZOE cements are available, with
+compressive strengths ranging from 3 to 55 MPa. Finer powders
+increase the strength of the resulting cement.
+The versatility of ZOE is reflected in ISO 3107:2011 (ANSI/
+ADA Standard No. 30), which lists four clinical types of ZOE
+
+Glass polyalkenoate cement is the proper designation for specialized
+glass powders that react with polyacrylic acid. However, glass ionomer, glass-ionomer cement, and GIC are recognized as acceptable
+names within the dental profession. The glass-ionomer cements
+are an improvement over the predecessor silicate cements because
+they include the bonding mechanism found in the zinc carboxylate cement with glass powder. The result is a superior and versatile
+material that is adherent, translucent, and fluoride releasing. GICs
+have been used for (1) the esthetic restoration of anterior teeth
+(e.g., class III and V sites), (2) adhesive cements for fixed prostheses and orthodontic appliances, (3) intermediate restorations, (4)
+pit and fissure sealants, (5) cavity liners and bases, and (6) core
+buildup materials. The GICs are classified by variations in powder
+composition and particle size to achieve the desired function, as
+follows:
+Type I: Luting crowns, bridges, and orthodontic brackets
+Type II a: Esthetic restorative cements
+Type II b: Reinforced restorative cements
+Type III: Lining cements and bases
+
+Glass-Ionomer Cement
+
+CHAPTER 7
+
+Chemistry and Setting
+The glass powders for GIC always contain silica, calcia, alumina,
+fluoride, and other oxides (Table 7-5). Higher-atomic-number
+metal oxides (baria, strontia) are included in the glass formulas
+to increase radiopacity. During melting, the raw materials are
+homogenized into an amorphous glassy mass at temperatures
+between 1100° and 1500 °C. After the molten mass is quenched,
+the glass is ground into a powder, with average particle sizes ranging from less than 10 to about 50 μm, depending on the indication. Coarser powders are used for restoratives, and finer particles
+are used for cementing devices or pulpal protectant products.
+These glass powders for polyalkenoate cements are soluble in the
+polyacrylic acids.
+The first aqueous GIC solutions contained 40% to 50% polyacrylic acid, but such liquids were viscous and had a short shelf
+life because they gelled. Current glass-ionomer liquids contain
+mixtures of copolymers of itaconic, maleic, or tricarboxylic acids
+(Figure 7-9). Tartaric acid is used as a rate-controlling additive
+in the GIC liquid to improve handling, decrease viscosity, and
+increase working time. Tartaric acid also shortens the setting time
+(Figure 7-10) by “sharpening” the setting curve and extends the
+shelf life before the liquid gels. Adding 5% to 10% tartaric acid
+enables the use of lower-fluoride-content glasses, which makes
+the restoratives more translucent and esthetic. Fluoride in glass
+can cause phase separation within the glass particles, which
+creates opacity.
+When the GIC powder and liquid are mixed, the acid starts
+to dissolve the glass, releasing calcium, aluminum, sodium, and
+fluorine ions into the liquid. The high aluminum content is the
+key to the glass reactivity with polyacrylic acid. The undissolved
+portion of the glass particles is sheathed by a silica-rich gel formed
+on the surface of the glass particles when the ions are leached. The
+polyacrylic acid chains crosslink with the calcium ions and aluminum ions. Sodium and fluorine ions of the glass do not participate
+in the crosslinking of the cement. The set GIC consists of undissolved glass particles with a silica gel coating, embedded in an
+
+Nominal Compositions of Glass-Ionomer
+Cement Powders (wt%)
+
+Compound
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+SiO2
+
+36
+
+20–30
+
+41.9
+
+35.2
+
+34
+
+32
+
+Al2O3
+
+36
+
+10–20
+
+28.6
+
+20.1
+
+45
+
+32
+
+AlF3
+
+1.6
+
+2.4
+
+CaF2
+
+15.7
+
+20.1
+
+NaF
+
+9.3
+
+3.6
+
+AlPO4
+
+3.8
+
+12.0
+
+CRITICAL QUESTION
+Identify two critical roles of water in the setting of conventional GIC, and
+discuss their influence on the properties of the set GIC.
+
+CH
+
+9
+
+10–15
+
+Na2O
+
+7
+
+1–5
+
+Acrylic acid
+unit
+CH2
+C
+
+CH2 COOH
+
+Itaconic acid
+unit
+
+CH2
+CH
+
+COOH
+Maleic acid
+unit
+
+CH2
+
+COOH
+
+CH
+
+COOH
+Tricarboxylic
+acid unit
+
+COOH
+CH2 COOH
+
+• Figure 7-9 Structure of various types of alkanoic acids that make up
+polyacids of glass-ionomer cements.
+
+9
+
+8
+7
+
+No (+) tartaric acid
+
+3
+
+BaO
+
+10–20
+14
+
+10–20
+
+SrO
+P2O5
+
+COOH
+
+(+) Tartaric acid
+
+La2O5
+
+CaO
+
+COOH
+
+Viscosity
+
+F
+
+141
+
+amorphous matrix of hydrated calcium and aluminum polysalts
+containing fluoride ions. Figure 7-11 shows the stylized structure
+of set GIC. Glass ionomers bond to tooth structure by chelation
+of the carboxyl groups of the polyacrylic acids with the calcium in
+the apatite of the enamel and dentin, like that of polycarboxylate
+cement. Figure 7-12 is a micrograph of set GIC.
+A specialized GIC known as a water-settable glass ionomer is formulated with freeze-dried polyacrylic acid blended with the glass
+powder. The powder is mixed with water or an aqueous solution
+containing tartaric acid. This type of GIC has an extended working time because additional time is needed to dissolve the dried
+polyacrylic acid in water to initiate the acid–base reaction.
+
+C
+
+TABLE 7-5
+
+Dental Cements
+
+13
+
+Time
+
+11
+5
+
+1–5
+
+1
+
+5
+
+• Figure 7-10 Effect of tartaric acid on the viscosity–time relationship for
+a glass-ionomer cement during setting.
+
+142
+
+PA RT I I
+
+Direct Restorative Materials
+
+Ca++
+COO-
+
+COO-
+
+Ca++
+COOCOO-
+
+COO-
+
+COOCa++
+COO-
+
+COO-
+
+COOCa++
+
+A
+
+Al+++
+COO- COO-
+
+COOCOOCa++
+
+• Figure 7-11 Diagram depicting the structure of a glass-ionomer cement. The solid blue particles represent unreacted glass particles, surrounded by the gel (light blue shaded structure), that form when Al3+ and
+Ca2+ ions are leached from the glass as a result of attack by the polyacrylic
+acid. The Ca2+ and Al3+ ions form polysalts with the COO− groups of the
+polyacrylic acid to form a crosslinked structure. The carboxyl groups react
+with the calcium in enamel and dentin.
+
+• Figure 7-12 Photomicrograph of a set glass-ionomer cement showing
+unreacted particles surrounded by the continuous matrix.
+
+Clinical Manipulation
+Before using GIC for luting, the surface of the prepared tooth
+must be clean, uncontaminated by saliva or blood, and dry but
+not desiccated deep into the tubules. A pumice slurry can be
+used to remove the smear layer produced by cavity preparation.
+
+B
+• Figure 7-13 Prepared dentin surfaces. A, Freshly prepared surface with
+smear layer. B, After cleansing with polyacrylic acid, the smear layer is
+removed, yet the tubules remain plugged.
+
+Alternatively, the tooth may be etched (conditioned) with phosphoric acid (34% to 37%) or an organic acid–like polyacrylic acid
+(10% to 20%) for 10 to 20 seconds, followed by a 20- to 30-second water rinse. Figure 7-13 shows the smear layer and the smear
+layer removal after a 10-second swabbing action with a 10% polyacrylic acid solution. For cases where the residual dentin thickness from the pulp is less than 0.5 mm, a calcium hydroxide or
+tricalcium silicate liner is needed to ensure the GIC acidity does
+not affect the pulp. The need for protection from the acidity of the
+water-based cements is seen in Table 7-6. After 24 hours, the pH
+values of these cements have risen from 2 to 6.
+A nonabsorbent paper pad or a cool, dry glass slab may be
+used for mixing GIC. A cool glass slab will retard the reaction,
+which extends the working time. Like the zinc oxide cements, the
+slab should not be colder than the dew point of the room temperature to avoid water condensation and dilution of the liquid.
+The powder and liquid should be dispensed just before mixing is
+begun; otherwise, evaporation of water increases the acidity of the
+liquid. The powder should be rapidly spatulated into the liquid in
+less than 45 seconds, or as prescribed in the instructions for use.
+Normally, one-half of the powder is mixed into the liquid for 5
+to 15 seconds; then the remaining powder is quickly added and
+mixed by folding the cement on itself until a uniform and glossy
+appearance is observed. A glossy appearance is critical because
+this indicates that unreacted polyacid is present for bonding to
+teeth. A dull appearance indicates that the setting reaction has
+progressed too far.
+
+CHAPTER 7
+
+The viscosity of the mixed GIC varies widely among manufacturers from low to very high. The variations are achieved by
+varying the particle-size distribution and P/L ratio. Coarser particles (about 50 μm average) are used for the viscous, restorative
+indications, and fine glass particles (about 15 μm) are used for
+cementing.
+Some glass ionomers are supplied in capsules containing preproportioned powder and liquid (Figure 7-14). The capsules are
+convenient and offer a consistent P/L ratio with less variation than
+hand spatulation. The seal of the capsule is broken, and the capsule is placed in a triturator for the time and speed given by the
+manufacturer. Some capsules are designed with a nozzle for injection directly into the prepared tooth cavity or fixed prosthesis.
+With any glass-ionomer cement, a protective liner (i.e.,
+Ca[OH]2) should be used if the preparation is estimated to be
+closer than 0.5 mm to the pulp chamber. Glass-ionomer restoratives pose a lesser pulpal hazard than when used as luting cements
+because the luting cements are mixed with a low P/L ratio and
+remain acidic for a longer time. For luting, GIC is applied with
+a plastic instrument to coat the entire intaglio surface of the
+prosthesis before seating. Excess cement can be removed immediately after seating or when prescribed in the instructions for
+use. No surface protection of the cement is needed during the
+
+TABLE 7-6
+
+pH Powder–Liquid Acid–Base of Cements
+GLASS IONOMER
+
+Time
+
+Zinc
+Phosphate
+
+Zinc
+Polycarboxylate
+
+Polyacid
+Liquid
+
+Water
+Settable
+
+2 min
+
+2.1
+
+3.4
+
+2.3
+
+1.8
+
+5 min
+
+2.6
+
+4.0
+
+3.3
+
+2.0
+
+10 min
+
+3.1
+
+4.4
+
+3.8
+
+3.4
+
+15 min
+
+3.3
+
+4.8
+
+3.9
+
+3.9
+
+60 min
+
+4.3
+
+5.1
+
+4.6
+
+4.8
+
+24 h
+
+5.5
+
+6.0
+
+5.7
+
+6.0
+
+A
+
+Dental Cements
+
+143
+
+initial setting, but a protective coating should be applied after the
+removal of excess cement to avoid excess water sorption. For GIC
+restorations, the surface of fresh GIC should be covered with a
+plastic matrix for about 5 min to avoid excess water sorption during the initial setting. Otherwise, saliva will dilute the matrixforming cations and anions and destroy the hydrated matrix,
+creating a weak restorative. When the plastic matrix is removed,
+the surface must be protected with varnish or petrolatum while
+the excess GIC is removed from the margins. Surface finishing
+of GIC restorations must be carried out after the cement sets
+and without excessive drying. Before dismissing the patient, GIC
+restorations should again be coated with varnish or petrolatum.
+If these recommended procedures are not followed, the surface
+inevitably becomes chalky or crazed, such as in the restorative
+shown in Figure 7-15.
+Glass ionomers have served patients well because of their
+dimensional stability and persistent fluoride release (Table 7-7),
+lasting for 30 days after setting. Although in vitro studies have
+shown the ability of the glass-ionomer restorations to inhibit
+enamel and dentin demineralization, not all clinical studies have
+confirmed the effectiveness of GIC over nonfluoridated materials. GIC restoratives are more vulnerable to wear and have lower
+fracture toughness than composite restorations.
+
+Metal-Reinforced Glass-Ionomer Cement
+Metal powders have been incorporated into glass-ionomer
+cements with the objective of faster setting and perhaps replacing amalgam. The metallic fillers can be silver alloy powder, such
+as the alloys used in amalgams, termed alloy admix, or particles
+of silver sintered to glass, known as cermet. Metal fillers make
+the GIC grayish but more radiopaque. More fluoride is released
+from the admix type because the alloy particles are not bonded
+to the glass. Less fluoride is released from GI cermet because a
+portion of the glass particle is coated with metal. All the procedures that apply to conventional GIC apply to metal-reinforced
+GIC. The faster setting, adhesion, and fluoride release from
+metal-reinforced GIC are useful for the following applications:
+
+B
+
+• Figure 7-14 Two powder–liquid type II restorative glass-ionomer ce-
+
+• Figure 7-15 Crazed surface on glass-ionomer restorations that resulted
+
+ments. A, Two-bottle system for hand mixing. B, Capsule for trituration
+(GC Fuji Triage capsule).
+
+from inadequate protection of the material during maturation. (Courtesy
+Dr. Saulo Geradeli.)
+
+144
+
+PA RT I I
+
+TABLE 7-7
+
+Direct Restorative Materials
+
+Cumulative Fluoride Release From
+Various Glass-Ionomer Products
+
+Fracture Toughness of Glass-Ionomer
+Materials and Selected Restorative
+Materials
+
+TABLE 7-9
+
+FLUORIDE RELEASED (μg)
+Cement Type
+
+Fracture Toughness (MPa⋅m1/2)
+
+Type of Material
+
+14 Days
+
+30 Days
+
+Cermet
+
+200
+
+300
+
+Conventional GIC (luting)3
+
+Type II glass
+ionomer
+
+440
+
+650
+
+Metal-modified GIC (admixed)5
+
+0.30
+
+Metal-modified GIC (cermet)5
+
+0.51
+
+Type I glass ionomer
+
+470
+
+700
+
+Glass-ionomer liner
+(conventional)
+
+1000
+
+1300
+
+0.27–0.37
+
+High-viscosity GIC6
+
+0.45–0.72
+4
+
+Conventional GIC (restoration)
+
+0.72
+
+3
+
+Glass-ionomer liner
+(light-cured)
+
+1200
+
+1600
+
+2
+
+0.97–1.23
+
+Compomer (restoration)
+
+Alloy admix glass
+ionomer (silver alloy
+admix)
+
+3350
+
+4040
+
+3
+
+Resin cement
+
+1.30
+5
+
+Resin-modified GIC (restoration)
+1
+2
+
+Properties of Restorative Glass-Ionomer
+Cements
+
+1.37
+0.97–1.60
+
+Amalgam
+TABLE 7-8
+
+0.79–1.08
+
+Resin-modified GIC (luting)
+
+Hybrid composite
+
+1.75–1.92
+
+1
+
+Lloyd CH, Adamson M, The fracture toughness (KIC) of amalgam. J Oral Rehabil 12:59, 1985.
+
+2
+
+Compressive
+Strength (MPa)
+
+Diametral Tensile
+Strength (MPa)
+
+Hardness
+(KHN)
+
+Glass ionomer
+(Type II)
+
+196–251
+
+18–26
+
+87–177
+
+Cermet
+
+176–212
+
+19–22
+
+30–45
+
+High-viscosity
+glass ionomer
+
+301
+
+24
+
+108
+
+Hybrid ionomer
+
+202–306
+
+20–48
+
+64–85
+
+(1) core buildups of teeth to be restored with cast crowns, (2)
+restoratives on occlusal surfaces of primary molars with stainlesssteel crowns, and (3) cementing pins and other retentive forms.
+The metal-reinforced GICs have limited use as an alternative to
+amalgam or composite for posterior restorations because they
+are weaker than resin composite core materials and other GICs
+(Tables 7-8 and 7-9).
+
+CRITICAL QUESTION
+For the atraumatic restorative treatment technique, why is a high-viscosity
+GIC the most appropriate material?
+
+High-Viscosity Glass-Ionomer Cement
+Atraumatic restorative treatment (ART) is a preventive and
+restorative caries-management concept developed for dentistry in
+regions of the world that do not have infrastructure such as electricity or piped water systems. Glass-ionomer cements are a natural choice for ART because of their adhesion and fluoride release.
+High-viscosity GICs have been developed for this purpose with
+smaller particle sizes and using a higher P/L ratio, which increases
+the compressive strength (Table 7-8).
+The clinical steps in the ART procedure are as follows: (1)
+isolating the tooth with cotton rolls, (2) accessing the carious
+lesion with hand instruments, (3) removing the soft tissue with an
+
+Adrian Yap UJ, Chung SM, Chow WS, Tsai KT, Lim CT. Fracture resistance of compomer and
+composite restoratives. Oper Dent 29:410, 2004.
+3
+
+Mitchell CA, Douglas WH, Cheng YS. Fracture toughness of conventional, resin-modified
+glass–ionomer and composite luting cements. Dent Mater 15:7, 1999.
+4
+
+Bonilla E, Mardirossian G, Caputo AA. Fracture toughness of various core build-up materials.
+J Prosthodon 9:14, 2000.
+5
+Kovarik RE, Muncy MV. Fracture toughness of resin-modified glass ionomers. Am J Dent
+8:145, 1995.
+6
+
+Yamazaki T, Schricker SR, Brantley WA, Culbertson BM, Johnston W. Viscoelastic behavior
+and fracture toughness of six glass-ionomer cements. J Prosthet Dent 96:266, 2006.
+GIC, glass-ionomer cement.
+
+excavator, (4) using a weak acid to condition the tooth (enhance
+chemical bonding), and (5) placing a high-viscosity GIC using
+finger pressure. The survival rate of partially and fully retained single-surface restorations on permanent teeth was reported as 88%
+after 3 years. Another study followed restorations in two groups
+of children: (1) high-viscosity GIC placed by the ART procedure
+and (2) amalgam restorations. The cumulative survival rates after
+6.3 years for ART and amalgam restorations were 66% and 57%,
+demonstrating the usefulness of the ART procedure.
+In a general practice office, electricity and water are available, but the same ART procedures can be used, augmented by
+rotary instruments. One study compared the survival of highviscosity GIC using the ART procedure and conventional cavity
+preparation with rotary instruments; no statistical difference was
+observed between the two methods for class I preparations after
+2 years. High-viscosity GICs have been used for core buildup,
+primary tooth filling, non-stress-bearing restorations, and intermediate restorations. Short-term clinical studies confirmed that
+high-viscosity GICs are suitable alternatives to amalgam in
+class I and class II restorations in primary teeth. The capsulized
+packaging of high-viscosity GIC (Figure 7-16) is convenient for
+trituration.
+Orthodontic bands are commonly cemented with GIC. Band
+removal is easier with GICs because the use of a desiccating air
+spray will weaken the cement. Glass ionomers have also been used
+for pit and fissure sealing.
+
+CHAPTER 7
+
+145
+
+Dental Cements
+
+F
+A
+B
+C
+D
+
+RelyX unicem capsule
+
+E
+
+• Figure 7-17 Commercial resin cements. A, A hand-mixing paste–paste
+dual-cured system for temporary prostheses. B, A single-component
+light-cured system for porcelain veneers. C, A paste–paste dual-cartridge
+dispensing system that requires hand mixing. D, A powder–liquid capsule
+system that is triturated. E, Two paste–paste dual-cartridge systems that
+require static mixing; the top one requires a bonding agent, and the bottom one is self-adhesive. F, A liquid–liquid system.
+
+Ketac Molar
+Aplicap
+
+GC Fuji IX
+Capsule
+
+• Figure 7-16 Two high-viscosity glass-ionomer cements.
+
+Resin Cements
+Resin cements are low-viscosity versions of resin-based composites.
+These cements have a matrix of methacrylate monomers with dispersed fillers. Silane coating is required on the filler particle surfaces
+to bond them to the monomers during polymerization for a durable, wear-resistant material. Polymerization of the resin cement can
+be by self-, light- or dual-cured mechanisms. Most resin cements
+for adhering devices are dual-cured materials. Dual- or self-cured
+cements are used for prostheses made with medium- or high-opacity materials. For dual-cured cements, blue light initiates the curing
+at the margins, and the self-cure progresses over time. The lightcured resin cements are indicated for cementing ceramic veneers
+and direct bonding of ceramic or polymeric orthodontic brackets.
+Because of light attenuation by the translucent prostheses, longer
+light exposure is often required than with direct composites. However, the duration of light exposure should be minimized to avoid
+heating the pulp. Many brands are available worldwide, which vary
+widely in physical properties (Figure 7-17).
+
+Composition and Setting
+Resin cements, like resin-based composite, require the same bonding systems as resin-based composites for adhesion to teeth. Many
+bonding systems are available, which vary in the steps needed.
+The one-, two-, and three-component systems were discussed in
+Chapter 6, Classifications by Clinical Steps. The one-component
+system combines etching and priming. Bonding systems, like the
+resin cements, may be self-, dual-, or light-cured materials, but all
+incorporate at least one hydrophilic monomer. Thirty hydrophilic
+monomers have been used, each with a methacrylate functionality,
+
+to infiltrate the dentinal collagen and establish a micromechanical bond. Typically, these monomers are acidic or amide formulas in a water-miscible solution. Examples are HEMA, 4-META,
+carboxylic acids, and an organophosphate (e.g., 10-methacryloyloxydecamethylene phosphoric acid [MDP]). For systems that
+require a bonding agent, the resin primers partially infiltrate
+the collagen fibrils that have been demineralized by acid etching.
+The resin tags fill the space to reduce adverse pulpal responses
+from the osteoblastic processes in the tubules.
+Self-cured and dual-cured resin cements contain two components (base and catalyst) that require mixing. Components are
+mixed on a paper pad for 20 to 30 seconds or two pastes can be
+mixed when dispensed through a dual-chambered syringe through
+a static mixing tip. Chemical activation is slower than with light
+curing and provides extended working time. In dual-cured
+cements, light-curing becomes dominate setting mechanism when
+the cement is exposed to a curing light. The most esthetic resin
+cements are light-cured only, and their color stability over time is
+better than the dual-cured resins.
+Some bonding agents are called “universal” bonding agents by
+the manufacturer. Most universal bonding agents can be used with
+total, self-, and selective etching before placement of dual- or selfcuring cements. Some universal adhesives release fluoride, and some
+are two-part liquids that require mixing. The adhesive agent may
+also be used as a primer on metal and ceramic-based restoratives.
+Not all resin cement systems require a bonding agent. One
+system based on 4-META uses liquid monomers and catalysts
+without any traditional inorganic fillers and relies on mixing with
+various amounts of polymer beads to adjust the viscosity of the
+cement for intended applications. This cement eliminates the steps
+of etching, priming, and bonding and allows the clinician to bond
+prostheses directly to clean abutments. These cement systems
+rely on modified dimethacrylate monomers with acid-containing
+side chains, such as phosphoric acid, attached as pendant groups.
+Upon contact with the tooth surface, the acidic group binds with
+calcium in the hydroxyapatite to bond to the tooth.
+
+146
+
+PA RT I I
+
+Direct Restorative Materials
+
+The current self-adhesive resin cements are two-part systems:
+liquid–powder and paste–paste. For the paste–paste system, one
+component is composed of the conventional monomers used in
+resin-based composites and acid-leachable fillers, similar to those
+used in GICs. The other component contains acid-functional
+monomers (Figure 6-4) to achieve demineralization and bonding
+to the tooth surface, with inert fillers. Initiators for polymerization
+are distributed between components. Only the acidic monomers
+on the surface of the mixture contribute to etching and bonding
+of the cement to tooth surface, as in GICs. The remaining acidity
+of the mixture is neutralized by the leachable glass. This acid–
+base reaction constitutes the recurrent setting reaction and releases
+fluoride. The setting mechanisms also qualify them as dual-cured
+materials.
+The self-adhesive resin cements usually show lower bond
+strength values than non-self-adhesive resin cements in microtensile or shear testing. Unlike phosphoric acid, the acidic monomers
+that etch and promote bonding of the self-adhesive resin cements
+do not etch enamel. Therefore for enamel bonding, phosphoric
+acid etching is needed.
+
+silicate-embedded area that can be treated with silane to improve
+bonding metals with resin cements. The bond-strength values are
+similar for metals prepared by grit blasting and electrochemical
+etching. Some bonding systems include a metal primer to promote adhesion. Oxide formation on the surface of base metals
+increases the bond strength when a resin cement containing MDP
+or 4-META is used. However, high-noble-metal dental alloys lack
+stable surface oxides. The bonding of noble-metal prostheses is
+enhanced by a thin (about 0.5 μm) layer of tin electroplated on
+the prosthesis by a dental laboratory. When heated, a layer of tin
+oxide forms, which is more adhesive to the cement.
+
+Clinical Manipulation and Evaluation
+Liquid–powder formulations are often packaged in capsule form
+and mixed by trituration (Figure 7-17, D). Two-paste resin systems are often sold with a static mixer tube to use on the end of
+a two-barrel syringe; the static mixer dispenses a mixed cement
+(Figure 7-17, E). Static mixing or trituration of capsules has largely
+replaced hand mixing. Static mixing is convenient and does not
+mix air into the cement, unlike hand mixing. The mechanism of
+static mixing is discussed in Chapter 13, Manipulation of Impression Materials.
+For bonding inlays or crowns, a separate phosphoric acid–
+etching of the enamel margins improves marginal sealing and
+adaptation. However, phosphoric acid decreases bond strength to
+dentin because the viscous cements cannot penetrate a demineralized collagenous matrix created by phosphoric acid. However,
+the self-adhesive resin cements have fairly strong bonds to dentin,
+despite the lack of formation of the classical hybrid layer shown
+for enamel bonding.
+The chemical and physical properties of self-adhesive resin
+cements reported in the literature show that self-adhesive resin
+cements may be expected to perform as well as other resin-based
+and non-resin-based dental cements; however, few long-term
+studies are available. Nonetheless, the handling properties of these
+materials appear to be excellent, and their acceptance by the profession is increasing.
+The monomers in uncured resin cements are irritating to the
+pulp. To prevent the infiltration of irritants, pulp protection with
+a liner is important when the thickness of the remaining dentin is
+less than 0.5 mm. The procedure for preparing the tooth remains
+the same for each resin system, but the treatment of the prosthesis
+differs depending on the prosthesis material, as described next.
+
+Ceramic Prostheses
+Early ceramic prostheses often fractured when nonadhesively
+luted with the traditional zinc oxide–based cements. The bonding agents of resin cement are now used to fill the surface flaws
+in the ceramic and have reduced the fracture of ceramic prostheses. Resin cement may be partially seen through a translucent
+ceramic prosthesis, such as ceramic veneer, and therefore influence
+the esthetics. Usually several shades of light-cured resin cements
+are available that enable the clinician to optimize esthetics with
+ceramic restorations. Some products include water-soluble tryin gels with the same shades as the cements. The try-in gels are
+applied like a cement, and then the prosthesis is provisionally
+seated and examined in situ for esthetic appearance. This process
+can be repeated with various try-in gel shades until the clinician
+and patient are satisfied with the esthetic appearance. After the
+cement shade has been selected, the try-in paste must be thoroughly removed from the tooth and the prosthesis. The cementation process is completed using a cement with the same shade as
+the selected try-in gel.
+A variety of ceramic materials are used for prosthodontics,
+and they vary in composition and translucency. The porcelain
+and lithia disilicate materials contain glass, so these prostheses are
+prepared by etching with hydrofluoric acid (HF), usually by the
+dental laboratory. Then the etched ceramic is silanated to enhance
+adhesion to the resin cement. Zirconia and alumina restoratives
+are silica-free, acid-resistant, polycrystalline ceramics. Without the
+silicate glass phase, HF etching and silane application are not useful for bonding. These polycrystalline ceramic restorations must
+be air abraded with alumina (not silica), and then coated with a
+bonding agent containing MDP. Grit blasting with silicate-coated
+alumina particles deposits silica on the zirconia or alumina surface
+to help with silanization and bonding.
+
+CRITICAL QUESTION
+Why does the treatment of the surface of the prosthesis differ by the type of
+resin cement used?
+
+Metallic Prostheses
+When bonding a base metal prosthesis, the intaglio should
+be roughened by electrochemical etching or grit blasting. Air
+blasting of metal surfaces with silicate-coated particles leaves a
+
+Polymeric Prostheses
+Polymer-based prostheses, including polymeric veneers, must be
+grit-based on the intaglio to increase the roughness for mechanical
+adhesion. Some polymer prostheses systems have a special adhesive to be used for bonding, based on the same monomer that is
+used to fabricate the prosthesis. A 30-min surface treatment with
+special adhesive must be allowed for adequate penetration of the
+adhesive into the polymer prostheses before cementing.
+
+Orthodontic Brackets
+Mechanical and chemical adhesion to metal orthodontic devices
+and teeth are important for the prevention of premature debonding. Bonding of orthodontic brackets requires proper isolation
+and etching of the enamel surface to secure the bond between
+the tooth and the bracket. The tooth-facing side of the bracket
+requires some means of mechanical retention, such as the metal
+mesh of the metal bracket or other retentive dimples or ridges
+
+CHAPTER 7
+
+on ceramic or polymer brackets. Additional surface treatment
+depends on the class of materials used in the brackets. Ceramic
+bracket bases are commonly precoated with an organosilane, like
+those used to bond inorganic fillers within the resin matrix of
+resin-based composites. Polycarbonate brackets are primed with
+a solvent containing methylmethacrylate monomer. When treatment is completed, removal of the appliances should occur at the
+tooth–cement interface or, less preferably, at the cement–bracket
+interface, but not within the tooth enamel.
+
+CRITICAL QUESTION
+What are the advantages of incorporating polymerizing resin in the GICs?
+
+Combination Cements
+Cements may have unique properties created by substituting or
+incorporating ingredients. For instance, fluoride release and curing on command (light curing) are desirable for clinicians. Some
+noted developments in combination cements are discussed in this
+section.
+
+Resin-Modified Glass-Ionomer Cement
+RMGIs are also referred to as hybrid ionomers (Figure 7-18). These
+cements contain water-soluble polymerizable monomers in a liquid,
+usually a water solution of polyacrylic acid, 2-hydroxyethyl methacrylate (HEMA), and polyacrylic acid–modified methacrylate. Catalysts, such as diphenyliodonium chloride (DPICI), are included.
+This type of cement has a longer working time and is less sensitive
+to water contamination than conventional glass-ionomer cement.
+The monomers in hybrid glass-ionomer cements make the
+cements more translucent than glass ionomer and therefore more
+suitable for restorative indications. The fluoride release and the
+higher diametral tensile strengths over glass-ionomer cements
+(Table 7-8) make the hybrid GICs more desirable for restoratives.
+The hybrid ionomers have a higher tensile strength that is attributed
+to their lower elastic modulus imparted by the resin component.
+As a powder–liquid system, the liquid component comprises
+lower water and carboxylic acid contents than that of GIC. The
+powder contains fluoroaluminosilicate glass particles and initiators
+for light curing and/or chemical curing monomers in the liquid.
+
+A
+
+B
+
+Dental Cements
+
+147
+
+The incorporation of polymerization of the methacrylate groups
+makes RMGI a dual-cured cement. The acid–base reaction begins
+upon mixing but continues after the monomer polymerizes. A
+tri-cured cement has both chemical and light activation that are
+included with the hybrid cement. The carboxylate groups in hybrid
+ionomer cements bond to tooth structure as in other GICs, and
+the monomers form an amorphous layer at the cement–dentin
+interface, with some resin infiltration into the etched dentin for
+added adhesion. Higher bond strengths have been measured for
+hybrid ionomer cements than for conventional glass ionomers.
+The higher bonding to teeth may occur because of better micromechanical interlocking to a roughened tooth surface. The adhesion
+of the GIC component of hybrid ionomers to dentin reduces the
+probability of gap formation at gingival margins. This feature helps
+compensate for the polymerization shrinkage of an overlying resin
+composite restoration placed on a hybrid ionomer cavity base.
+Clinical indications for hybrid ionomers include cavity liners/
+bases, fissure sealants, core buildups, adhesive for orthodontic
+brackets, repair material for damaged amalgam cores or cusps, and
+restoratives. Direct pulp capping is contraindicated. For any indication, surface conditioning of the tooth structure with a mild acid
+is important for bonding the resin component. Placing a hybrid
+ionomer, and then a resin-based composite is the so-called “sandwich technique.” This technique combines the fluoride release of
+a glass ionomer and the esthetics of a composite restoration and
+is recommended for class II and V composite restorations when
+individual patients are at a moderate to high risk for caries.
+Low-viscosity hybrid ionomers or conventional GICs have
+been used for fissure/sealant indications. The retention rate of
+glass-ionomer sealants was poor after 1 year, but patches of glassionomer cement that remained within the fissures were effective
+in preventing caries.
+Some hybrid ionomer cements are marketed based on the unique
+filler properties and their ability to flow or to not flow, the latter allowing “stacking.” Marketing terms such as “S-PRG” and “Giomer” are
+unique terms from manufacturers that indicate a glass-ionomer filler.
+Some hybrid ionomer cements also contain nonreactive filler particles, which lengthen the working time, improve the early strength,
+and reduce sensitivity to moisture during setting. The use of nonreactive filler particles along with less carboxylic acid available for bonding
+to tooth structure; therefore a dentin bonding system is needed.
+
+C
+
+D
+
+E
+
+• Figure 7-18 Representative resin-modified glass-ionomer cements. A and B, Two-bottle powder–liquid
+system. C, Photac Fil Quick Aplicap. D, GC Fuji Plus Capsule. E, Ketac Nano, a paste–paste system using
+static mixing.
+
+148
+
+PA RT I I
+
+Direct Restorative Materials
+
+A few reports of adverse effects have been attributed to hybrid
+ionomers that include HEMA in the formula. HEMA can cause
+pulpal inflammation and allergic contact dermatitis. Therefore
+hybrid ionomers are not as biocompatible as conventional glass
+ionomers. The HEMA in hybrid ionomers increases water absorption over time, with concurrent expansion of up to 8 vol%. The
+expansion has been linked to the fracture of all-ceramic crown restorations when hybrid ionomers were used for core buildup or luting cement. Dental personnel may be at risk from adverse effects
+such as contact dermatitis and other immunological responses.
+
+bonding, compomers are also used for treating class I and class II
+lesions in the primary dentition because of their fluoride-releasing
+potential. Compomers are finished just like resin composites.
+In a 24-month clinical study of fissure sealants, compomers
+performed as well as composite resin sealants, although their marginal integrity was less. Compomers perform as well as composite
+resins for class I and II restorations. However, the color stability
+of compomers is a problem, likely caused by water absorption and
+staining by food. Compomers have been used for bonding orthodontic bands and brackets because of their adhesion to metal,
+fast curing, and fluoride release.
+
+CRITICAL QUESTION
+How does compomer differ from resin-based composite?
+
+CRITICAL QUESTION
+What is the setting mechanism of calcium aluminate glass-ionomer cement?
+
+Compomer
+Compomer is a light-cured material that integrates the fluoridereleasing capability of glass ionomers with the durability of composite resins in a one-paste restorative resin. As a restoration,
+compomer restorations perform better than resin-modified glass
+ionomers but are inferior to hybrid composites. They contain
+nonreactive inorganic filler particles, reactive silicate glass particles, sodium fluoride, a polyacid-modified monomer (e.g., di-ester
+of 2-hydroxyl methacrylate with butane carboxylic acid [TCB]),
+and photo activators. Compomers are usually one-paste materials
+for restorative applications (Figure 7-19).
+Single-component compomer cements are water-free and are
+packaged in moisture-resistant blister packs. Compomers set by a
+polymerization reaction, and then absorb water from the saliva to
+initiate the slow acid–base reaction between the acidic functional
+groups and silicate glass particles. The product of the acid–base
+reaction becomes the source of fluoride release. However, restorative compomers release less fluoride than GICs and hybrid ionomers. Compomer pastes require a dentin-bonding agent prior
+to their placement as a restorative because they do not contain
+water to be self-adhesive like GICs or hybrid ionomers. The tooth
+structure should be etched and followed by the dentin-bonding
+agent before placing the compomer. The bond strength of paste
+compomers to tooth structure using a dentin-bonding agent is
+like that of hybrid ionomers. The restorative compomer materials are mainly used in low-stress-bearing areas, such as class III
+and V cavities, as an alternative to glass-ionomer restoratives or
+resin-based composites. Together with one-bottle adhesives for
+
+Calcium Aluminate Glass-Ionomer Cement
+An innovative self-adhesive bioactive cement combines GIC with
+calcium aluminate cement. The unique cement is indicated for
+luting of fixed dental prostheses. The main ingredients in the
+powder are monocalcium aluminate, polyacrylic acid, tartaric
+acid, strontium-fluoro-alumino-glass, and strontium fluoride.
+The liquid component contains 99.6% water and 0.4% additives
+for controlling setting. The polyacrylic acid (PAA) functions as
+in a conventional GIC, crosslinked by Ca2+ ions from the soluble
+glass and the Ca-aluminate. The glass-ionomer reaction is responsible for setting time and strength. The working and setting time
+are reported to be 2 and 5 min, and the film thickness is low, 15 ±
+4 μm. The resulting hydrated material is a composite of hydrated
+calcium aluminate cement and a crosslinked polyacrylate polymer. Setting expansion of 0.4% has been reported, although in
+vitro studies where the cement was set inside glass tubes did not
+show breakage. This amount of expansion was considered acceptable. The monocalcium aluminate absorbs water, which is reputed
+to impart bioactivity, forming hydroxyapatite at the margins of
+the cement and in contact with the pulp. A microstructural study
+showed the formation of hydroxyapatite over this cement in a
+phosphate buffer solution. The cement has long-term stability
+and strength for crown cementation. Results of a 3-year clinical
+study of 38 crowns and bridges revealed a favorable performance
+of this cement. The cement is packaged in powder–liquid systems
+for hand mixing or capsules using triturator.
+
+CRITICAL QUESTION
+What are the materials and techniques needed to overcome the root canal
+system environment and create a hermetic seal with endodontic obturation
+systems?
+
+Endodontic Sealers
+
+• Figure 7-19 Typical compomer materials. A, A powder–liquid system.
+B, Two single-paste systems. C, A paste–paste dual cartridge using static
+mixing. All systems are light-curable.
+
+Endodontic sealers are specialized versions of dental cement
+(Figure 7-20) that are used during obturation with gutta-percha
+to fill voids and promote a close seal between the core and the
+dentinal walls of the canal, preventing or minimizing leakage,
+entombing residual microorganisms, and preferably filling areas
+of the root canal system that are inaccessible by instrumentation. The requirements for the ideal root canal sealer are listed in
+Box 7-1, and the ISO 6876 requirements are shown in Table 7-2.
+Several dental cements have been adapted for this specialized use;
+the most popular are ZOE-based sealers. ZOE sealers are inexpensive, are slow setting, and have a long history of acceptable clinical
+
+CHAPTER 7
+
+• BOX 7.1
+
+• Figure 7-20 Root canal sealers. The two materials in the back are
+powder–liquid systems. The dual-cartridge syringe in the foreground is a
+paste–paste system with static mixing tip.
+
+use. However, the newer epoxy-based sealers are radiopaque and
+more biocompatible than ZOE. Polyvinylsiloxane (PVS) sealers
+are also available as powder–liquid and two-paste systems. Glassionomer cement and resin-modified GICs have also been used.
+A filled biodegradable thermoplastic polymer, Resilon (Resilon
+Research LLC, Madison, CT), along with a resin-based sealer,
+Epiphany (Pentron Clinical Technologies, Wallingford, CT), was
+introduced in the 1990s. This system claimed to have less leakage than the traditional gutta-percha with sealer but performed
+poorly over time as a result of degradation of the polymer matrix.
+Another system uses gutta-percha cones that are coated with a
+proprietary resin coating (EndoREZ, Ultradent, South Jordan,
+UT) for use in combination with a methacrylate-based, dualcured resin sealer and no dentin-bonding agent. In this case, the
+endodontic seal is dependent on the penetration of the hydrophilic sealer into the dentinal tubules and lateral canals following
+removal of the smear layer.
+In the long, narrow space of the root canal, the application of
+any bonding system to form a uniform interface is challenging.
+For example, in bonding systems that contain volatile solvents,
+evaporation might be hindered. The canal anatomy is not only
+problematic to adhesive root canal obturation but also for the
+bonding of prefabricated posts. A further problem is that some
+irrigating solutions (e.g., sodium hypochlorite) and intracanal
+medicaments have adverse effects on root canal dentin collagen
+and the longevity of endodontic bonding. Unlike other cements,
+endodontic sealers are not light-cured because of the inability to
+complete the curing in the depths of a root canal (~2 cm), the
+complex anatomy of intercommunicating canals, and the inaccessible locations often in the posterior.
+The configuration of the root canal also presents a high “C-factor”
+(Chapter 5, Cure Shrinkage and Managing Shrinkage Stress) because
+a nonbonded area of the cement layer exists within the bonded canal.
+Thus a resin endodontic sealer is subjected to severe stresses induced
+by the sealer’s polymerization shrinkage during setting. Debonding
+and gaps may occur between the sealer and dentin wall or in between
+the solid core material and the sealer along the periphery of the root
+canal obturation.
+The newest category of endodontic sealers incorporates bioactive cements, such as Total Fill, Edge Endo, iRoot ES, and
+Endosequence BC Sealer. These materials are a single paste of
+tri-/dicalcium silicate powders suspended in organic liquids. Such
+
+Dental Cements
+
+149
+
+Endodontic Sealer Criteria
+
+Endodontic sealers should have the following characteristics:
+• Make a hermetic seal
+• Be tacky when mixed to provide good adhesion with the canal wall
+when set
+• Contain particles of powder that are very ne so that they can mix easily
+with liquid, where appropriate
+• Be radiopaque for visualization on a radiograph
+• Not shrink upon setting
+• Not discolor tooth structure
+• Be bacteriostatic or at least not encourage bacterial growth
+• Set slowly
+• Be insoluble in tissue uids
+• Be well tolerated by the periapical tissue (and also not provoke an
+immune response, be mutagenic, or carcinogenic)
+• Be soluble in common solvents, if necessary, to remove the root canal
+filling
+
+sealers have a low setting expansion of 0.2% as a result of hydration-forming hydroxyapatite. Many sealers have shrinkage of 6%
+or higher, which leads to interface separation, whereas even a small
+expansion promotes hermetic interface sealing.
+Resin-based sealers with bioactive fillers dispersed in the resin
+may not have the same bioactive effect as the single-paste sealer.
+The resins coat the bioactive particles and interfere with the release
+of calcium and hydroxide ions.
+
+Tri-/Dicalcium Silicate Cement
+Dental cements based on tri- and dicalcium silicates (tricalcium
+silicate, for short) are beneficial because of their sealing ability,
+biocompatibility, and bioactivity. These cements are less cytotoxic than glass-ionomer cements or polymeric materials. These
+hydraulic cements need water to set, which is ever present in the
+oral cavity. The first tri-/dicalcium silicate product was called mineral trioxide aggregate (MTA) and later, bioceramic. These names
+are widely used in dentistry to denote the tri-/dicalcium silicates
+products (Figure 7-21).
+The essential components of these bioactive cements are tricalcium silicate and dicalcium silicate ceramic powders blended
+with inert radiopaque powders, usually bismuth oxide, zirconia,
+calcium tungstate, barium zirconate, or tantalum oxide. Minor
+phases of tricalcium aluminate, calcium sulfate (Table 7-10), calcium carbonate, and tetracalcium aluminoferrite are sometimes
+present, depending on the brand. The ferrite compound makes
+the cement gray.
+Tricalcium silicate cement sets by reaction with water to form
+a rigid matrix of calcium silicate hydrates with embedded calcium
+hydroxide. The hydration starts on the surface of the tricalcium
+silicate particles and gradually penetrates inward, although never
+completely. Setting times for these products vary from a few minutes to 2 hours for the original ProRoot MTA. The long setting
+time, washout, and high price were major drawbacks of early
+products. Improved products are now available with shorter setting times based on finer particle sizes and modified water-based
+liquids containing calcium chloride, polycarboxylate, or various
+water-soluble organic materials.
+Products are available for a range of indications, from pulpal
+to periradicular contact. The primary indications are for pulp and
+periradicular tissue contact. The tri-/dicalcium silicate cements
+
+150
+
+PA RT I I
+
+Direct Restorative Materials
+
+A
+
+B
+
+D
+
+E
+
+C
+
+F
+
+• Figure 7-21 An assortment of tricalcium silicate products with various packaging for the bioactive powder. A, Sachets. B, Bottles. C, Amalgam-type cartridges. D, Ampoules. E, Vials. F, Paste.
+
+TABLE 7-10
+
+Phases in Tricalcium Silicate Cement
+Before Hydration
+
+Ceramic Phases
+
+Wt%
+
+Tricalcium silicate 3(CaO)⋅SiO2
+
+45–75
+
+Dicalcium silicate 2(CaO)⋅SiO2
+
+7–32
+
+Radiopaque filler (Bi2O3, ZrO2, CaWO4,Ta2O5)
+
+20–55
+
+A
+
+Minor phases, optional
+Tricalcium aluminate 3(CaO)⋅Al2O3
+
+0–13
+
+Tetracalcium aluminoferrite
+4(CaO)⋅Al2O3⋅Fe2O3
+
+0–18
+
+Gypsum CaSO4⋅2H2O
+
+2–10
+
+Calcium carbonate (CaCO3)
+
+<10
+
+B
+
+C
+
+are vulnerable to acid dissolution; therefore periodontal and
+coronal usage is only temporary. The cement sets over a wide
+range of P/L ratios, roughly between 4:1 and 2:1. The P/L ratio
+can be varied to suit the case and the clinician’s preference. The
+powder should be dispensed onto a glass slab (Figure 7-22, A),
+with a drop of the liquid next to the powder. A medium-stiffness
+metal spatula should be used to bring powder to liquid and spatulate until a putty-like consistency is reached (Figure 7-22, B).
+The mixture can be formed into a “roll” with gloved fingers
+(Figure 7-22, C), and then the spatula can be used to cut off small
+sections for insertion into a pulpotomy preparation, a root-end
+filling of a perforation site, a cavity preparation, or a pulp exposure, such as a pulpotomy. A plastic filling instrument or a small
+amalgam carrier is commonly used to transport the cement into
+
+• Figure 7-22 Mixing of mineral trioxide aggregate. A, Dispense powder
+and liquid. B, Bring the powder to liquid and spatulate until a putty-like
+consistency. C, Roll to the desire shape for usage.
+
+the surgical location, and the cement is then gently compacted. If
+the mixed cement is not used immediately, a moist gauze “tent”
+can be placed over the material to prevent dehydration. If the
+mixture appears dry, usually more liquid can be added to prolong
+the working time.
+The pH of MTA rises rapidly after contact with water by
+releasing calcium hydroxide as a reaction product. The calcium
+hydroxide in the set tricalcium silicate makes this material antibacterial, antifungal, and bioactive. That is, the high pH on the
+surface causes the precipitation of hydroxyapatite crystals on the
+surface in vitro or in vivo. MTA should not be allowed to stay in
+contact with the mucosa because the high pH can cause a superficial lesion. Excess material should be washed out of the oral cavity.
+The surficial layer of hydroxyapatite that forms in vivo causes a
+
+CHAPTER 7
+
+chain of healing reactions to the bone-like surface, which does
+not appear as a foreign body to the cells. Reparative dentin forms
+in apposition to the tri-/dicalcium silicates in pulpal indications.
+Cementum-like layers form over the tricalcium silicate used to
+fill perforations, resorption defects, or root ends. When the tri-/
+dicalcium silicate materials set, the dimensional change is < 0.1%
+expansion, which is highly desirable for sealing, unlike polymers
+that shrink.
+New bioactive, hydraulic paste products have been introduced. For these, the tri-/dicalcium silicate cement and
+radiopaque powders are suspended in organic liquids. When
+used in vivo, the organic liquid diffuses away from the powder, and water diffuses inward to cause setting. Such onecomponent paste products are being used for pulpal and
+periradicular containing cements, including endodontic sealing
+with gutta-percha.
+Other hydraulic cements are likely to be developed that incorporate calcium monoaluminate to make a more acid-resistant
+cement suitable for infected (acidic) sights. Also, the reaction
+of silica hydrate (silicic acid) with calcium hydroxide (pozzolan
+reaction) will be used for new products to create a hydrated silica
+cement.
+
+Calcium Phosphate Cements
+Calcium phosphate cements are combinations of dicalcium
+phosphate dihydrate, dicalcium phosphate anhydrous, tricalcium phosphate, and tetracalcium phosphate that are mixed
+with an aqueous solution saturated with calcium phosphate,
+an organic acid, or a solution of polymers. An example is
+Sankin Apatite Root Canal Sealer (Dentsply Sankin, Tokyo,
+Japan).
+The cement pastes gradually set and form hydroxyapatite. The
+calcium phosphate phases dissolve in the liquid and precipitate a
+less soluble calcium phosphate, which “sets” at 37 °C, with some
+poorly crystalline hydroxyapatite being formed. The cements
+are suitable bone-substitute materials because they are gradually resorbed. They can sometimes be used in place of granular
+hydroxyapatite. However, their washout and low strength are
+problematic.
+Experimental formulas of calcium phosphate base and liner
+products have been made that include polymerizable resins and
+additives in the liquid phase. The resins allow water diffusion that
+facilitates the conversion of calcium phosphate to hydroxyapatite.
+Clinical studies show that the caries-affected dentin underneath
+this cement had significantly more calcium and phosphorus content to a depth of 30 μm, and the mineral content was in the range
+of healthy dentin after 3 months. Research continues to investigate such biocompatible materials for pulpal protection and endodontic indications.
+
+Summary
+No single cement is applicable for all indications in dentistry. Prudent dentists have several types of cements in their armamentarium. Manufacturers’ formulas and processes dictate most cement
+characteristics, but the clinician has some control over the handling, setting, and to some degree, the biocompatibility through
+the mixing ratios or technique.
+The historic zinc phosphate cement has fallen out of use, but
+ZOE cements are used for luting, for temporary restorations, and
+for retaining fixed prostheses on implant-supported abutments,
+
+Dental Cements
+
+151
+
+which facilitates retrievability of the prostheses. Zinc polycarboxylate cements are noninjurious to the pulp and adhesive to tooth
+structure, but they are not commonly used because of their short
+working time and viscous nature.
+Glass-ionomer cements work well for orthodontic bands and
+cementing of metal crowns on primary teeth. The fluoride-releasing capability makes glass-ionomer cement the material of choice
+for the replacement of restorations that have failed because of
+recurrent caries and for patients living in areas where fluoridated
+drinking water is not available. A primary disadvantage of glassionomer cements is the slow maturing process that is required to
+develop their highest strength.
+Resin cements are insoluble in oral fluids, and their fracture
+toughness is higher than that of other cements. Resin cements
+can be used for all types of cementation, most notably for prostheses with poor retention, and for all-ceramic prostheses where
+the esthetic demand is very high. Resin cements require bonding
+agents to be effective. Etching may be required to obtain a strong
+attachment to enamel with bonding agents. Self-etching and selfadhesive resin cements are now available.
+Hybrid ionomer cements are used as a liner, fissure sealant, and
+base material and in core buildups and orthodontic band cementation. Compomers are used for cementing metallic prostheses
+and some restorative indications. The durability of compomers is
+inferior to that of resin-based composites; thus they should only
+be used for low-stress areas.
+Glass-ionomer, polycarboxylate, and resin cements adhere
+chemically and physically to the surrounding surfaces. Excess
+cement should be removed as soon as the seating is completed
+to prevent adhesion to the exterior of the prostheses or surrounding teeth. A separating medium, such as petroleum jelly, spread
+on external and surrounding surfaces inhibits cement adherence,
+making cement removal easier when these cements fully set.
+The important properties of cements for adhering devices are
+summarized in Table 7-11. A high elastic modulus was important
+for gold alloy restorations, and a lower elastic modulus is needed
+under ceramic restorations.
+Pulp capping and cavity liners/base materials are important for
+pulpal health and protection from acidic cements. GICs elicit a
+greater pulpal reaction than ZOE cement but less than zinc phosphate cement. Calcium hydroxide and tricalcium silicate products are important for direct or indirect pulpal protection. These
+bioactive materials initiate subgingival or pulpal tissue healing,
+although the tricalcium silicates are superseding calcium hydroxide products, especially for pulpotomies.
+Calcium aluminate–glass-ionomer cement relies on the GIC to
+establish the early strength and the hydration of calcium aluminate
+for final properties and bioactivity. New formulas of cements are
+anticipated, based on calcium aluminates and pozzolanic cements.
+The latter cement is based on silicic acid reacting with calcium
+hydroxide, often called Roman cement.
+Specialty areas of dentistry, such as orthodontics and endodontics, use variations of the cements discussed to achieve the unique
+needs for their procedures. Endodontic cement formulas include
+ZOE, epoxy, polyvinyl siloxane, and now the tricalcium silicates.
+The tricalcium silicates are used surgically and nonsurgically,
+depending on the viscosity of the cement used.
+Cements for dentistry continue to evolve and improve in
+their insolubility, sealing, esthetics, bonding, and durability.
+Filler particles, usually glass, continue to move to smaller sizes.
+Nanoparticles is now a commonly used term, which usually means
+silica particles are included, but the material may include other
+
+152
+
+PA RT I I
+
+TABLE 7-11
+
+Direct Restorative Materials
+
+Properties of Cements for Affixing Devices
+
+Cement Type
+
+Setting Time
+(min)
+
+Film Thickness
+(μm)
+
+24-h Compressive
+Strength (MPa)
+
+24-h Diametral Tensile
+Strength (MPa)
+
+Elastic Modulus
+(GPa)
+
+Solubility in
+Water (wt%)
+
+Zinc phosphate
+
+5.5
+
+20
+
+104
+
+5.5
+
+13.5
+
+0.06
+
+ZOE* (type I)
+
+4.0–10
+
+25
+
+6–28
+
+—
+
+—
+
+0.04
+
+9.5
+
+25
+
+55
+
+4.1
+
+5.0
+
+0.05
+
+ZOE + polymer (type II)
+
+6.0–10
+
+32
+
+48
+
+4.1
+
+2.5
+
+0.08
+
+Zinc polycarboxylate
+
+6.0
+
+21
+
+55
+
+6.2
+
+5.1
+
+0.06
+
+Glass ionomer
+
+7.0
+
+24
+
+86
+
+6.2
+
+7.3
+
+1.25
+
+2.0–4.0
+
+<25
+
+70–172
+
+—
+
+2.1–3.1
+
+0–0.01
+
+ZOE–EBA (type II)
+
+Resin
+
+EBA, ethoxybenzoic acid; ZOE, zinc oxide–eugenol.
+
+fillers that have some portion of particles finer than 0.1 μm (100
+nm). New adhesive polymers and refinement of the fillers will
+continue to help dentists minimize tissue destruction and maximize preservation.
+
+Acknowledgment
+
+Selected Readings
+
+Primus CM, Tay FR, Niu L-N: Bioactive tri/dicalcium silicate cements
+for treatment of pulpal and periapical tissues, Acta Biomater 96:35–
+54, 2019.
+A thorough review of the tricalcium silicate cements.
+ten Cate JW, Featherstone JD: Mechanistic aspect of the interactions between
+fluoride and dental enamel, Crit Rev Oral Biol Med 2:283–296, 1991.
+This article critically reviews the information about tooth-fluoride
+interactions, both from laboratory and clinical studies.
+Tyas MJ: Milestones in adhesion: Glass-ionomer cements, J Adhes Dent
+5:259–266, 2003.
+An excellent review of the conventional and hybrid glass ionomer cements.
+Weiner R: Liners and bases in general dentistry, Aust Dent J 56(Suppl 1):11–
+22, 2011.
+This review article discusses the use of liners and bases and the types of
+materials that are available to the restorative dentist.
+Wilson AD, McLean JW: Glass Ionomer Cements, Chicago, 1988, Quintessence Publishing Co.
+This book provides an in-depth discussion of the evolution and chemistry of various GIC formulations.
+
+Ambard AJ, Mueninghoff L: Calcium phosphate cement: Review of
+mechanical and biological properties, J Prosthodont 15:321–328, 2006.
+This article reviewed literature regarding the use of calcium phosphate
+up to 2003.
+Darvell BW: Materials Science for Dentistry, ed 10, Duxford, UK, 2018,
+Woodhead Publishing.
+An excellent resource on chemistry of dental materials.
+Davidson CL, Mjör IA: Advances in Glass Ionomer Cements, Chicago,
+1999, Quintessence.
+Fourteen chapters covering such topics as chemistry, physical properties, bonding, fluoride release, and clinical applications.
+Jefferies SR: Bioactive and biomimetic restorative materials: a comprehensive review, Part I, J Esthet Restor Dent 26:14–26, 2014.
+An informative paper on use of calcium aluminate cement for
+crowns.
+Nicholson JW: Polyacid-modified composite resins (“compomers”) and
+their use in clinical dentistry, Dent Mater 23:615–622, 2007.
+Chemistry and properties of compomers designed for use in clinical
+dentistry and reviews the literature in this area.
+
+Figure 7-2 was generously provided by Dr. Carlos Alberto de
+Souza Costa of São Paulo State University, Brazil.
+
+Full Selected Readings for this chapter can be found on www.expertconsult.com.
+
+Selected Readings (Web Version)
+Ambard AJ, Mueninghoff L: Calcium phosphate cement: Review of
+mechanical and biological properties, J Prosthodont 15:321–328,
+2006.
+This article reviewed literature regarding the use of calcium phosphate
+up to 2003.
+Balderamos LP, O’Keefe KL, Powers JM: Color accuracy of resin cements
+and try-in paste, Int J Prosthodont 10:111–115, 1997.
+Color reading by instrument showed there were significant differences
+in color between resin cements and their corresponding try-in pastes
+by instrument reading.
+Berekally TL, Makinson OF, Pietrobon RA: A microscopic examination
+of bond surfaces in failed electrolytically etched cast metal fixed prostheses, Aust Dent J 38:229–237, 1993.
+The study showed clinical failure of debonded electrolytically etched
+[Maryland] bridge retainers occurred mostly at the of resin failure
+within the cement layer close to the enamel-resin interface.
+Bonilla ED, Mardirossian G, Caputo AA: Fracture toughness of various
+core build-up materials, J Prosthodont 9:14–18, 2000.
+Chaar MS, Att W, Strub JR: Prosthetic outcome of cement-retained
+implant-supported fixed dental restorations: A systematic review, J
+Oral Rehabil 38:697–711, 2011.
+Cement-retained implant-supported fixed restorations are a reliable
+and effective option for single crowns and short-span FDPs but did
+not provide accurate information about the ideal type of cement for
+stability and retrievability.
+Costa CAS, Mesas AN, Hebling J: Pulp response to direct capping with
+an adhesive system, Am J Dent 13:81–87, 2000.
+This paper reported the effect of direct pulp capping with an adhesive
+system and a zinc-oxide eugenol cement [ZOE] in rat molar teeth.
+Both materials allowed pulp repair.
+Crisp S, Kent BE, Lewis BG, et al: Glass ionomer cement formulations.
+II. The synthesis of novel polycarboxylic acids, J Dent Res 59:1055,
+1980.
+The synthesis of many polycarboxylic acids is reported. A copolymer
+of acrylic and itaconic acids was found to combine several favorable
+characteristics.
+Darvell BW: Materials Science for Dentistry, ed 10, Duxford UK, 2018,
+Woodhead Publishing.
+An excellent resource on chemistry of dental materials.
+Darvell BW, Wu RC: “MTA”—a hydraulic silicate cement: Review
+update and setting reaction, Dent Mater 27:407–422, 2011.
+A very good review of tricalcium silicate materials.
+Davidson CL, Mjör IA: Advances in Glass Ionomer Cements, Chicago,
+1999, Quintessence.
+Fourteen chapters covering such topics as chemistry, physical properties, bonding, fluoride release, and clinical applications.
+Dickens-Venz SH, Takagi S, Chow LC, et al: Physical and chemical
+properties of resin-reinforced calcium phosphate cements, Dent Mater
+10:100–106, 1994.
+This article described the formulation of a resin modified calcium
+phosphate cement and the evaluation of properties.
+Forsten L: Fluoride release from a glass ionomer cement, Scand J Dent Res
+85:503–504, 1977.
+The article measured release of fluoride from a glass ionomer cement
+and a silicate cement. The fluoride release during the first 2 weeks
+was more than those during the subsequent 5 weeks. Slightly more
+fluoride was released from the glass ionomer cement than from the
+silicate.
+Frencken JE, Taifour D, van’t Hof MA: Survival of ART and amalgam
+restorations in permanent teeth of children after 6.3 years, J Dent Res
+85:622–626, 2006.
+For a total of 1117 single- and multiple-surface restorations made
+of amalgam and ART GIC, the restorations produced with the ART
+approach survived longer than those produced with amalgam.
+Goldman M: Fracture properties of composite and glass ionomer dental
+restorative materials, J Biomed Mater Res 19:771–783, 1985.
+
+The investigation found metal-reinforced GIC exhibited a lower fracture toughness than that of composite resins—a reflection of brittle
+material.
+Jefferies SR: Bioactive and biomimetic restorative materials: a comprehensive review. Part I, J Eesthet Restor Dent 26:14–26, 2014.
+An informative paper on use of calcium aluminate cement for crowns.
+Knibbs PJ, Walls AWG: A laboratory and clinical evaluation of three dental luting cements, J Oral Rehabil 16:467–473, 1989.
+A number of studies such as this one have found poor correlation
+between in vitro and in vivo disintegration of different luting agents.
+The possible explanations are discussed.
+Kovarik RE, Muncy MV: Fracture toughness of resin-modified glass ionomers, Am J Dent 8:145–148, 1995.
+Lloyd CH, Adamson M: The fracture toughness (KIC) of amalgam, J Oral
+Rehabil 12:59–68, 1985.
+McKinney JE, Antonucci JM, Rupp NW: Wear and microhardness of a
+silver-sintered glass ionomer cement, J Dent Res 67:831–835, 1988.
+The investigation showed reduced wear with a cermet ionomer compared with an unfilled cement by test procedures designed to replicate
+masticatory wear patterns. It also suggested that silver might have provided some lubricating effect.
+McLean JW: Limitations of posterior composite resins and extending
+their use with glass ionomer cements, Quintessence Int 18:517–529,
+1987.
+The advantages and disadvantages of composite resins versus glass
+ionomer cements in posterior situations are reviewed.
+Mennemeyer VA, Neuman P, Powers JM: Bonding of hybrid ionomers
+and, resin cements to modified orthodontic band materials, Am J
+Orthod Dentofac Orthop 115:143–147, 1999.
+Air abrasion of band materials provides highly increased bond strength
+of hybrid ionomer and resin cements to metal, except for the conventional glass ionomer.
+Mitchell CA, Douglas WH, Cheng YS: Fracture toughness of conventional, resin-modified glass-ionomer and composite luting cements,
+Dent Mater 15:7–13, 1999.
+This study determined differences existed between the fracture toughness of the three types of luting cement, and the effect of mixing
+method.
+Mount GJ: An Atlas of Glass Ionomer Cements—A Clinician’s Guide, ed 3,
+London, 2002, Martin Dunitz.
+An excellent book for step-by-step presentation of the clinical usage of
+the various GIC formulations.
+Nicholson JW: Polyacid-modified composite resins (“compomers”) and
+their use in clinical dentistry, Dent Mater 23:615–622, 2007.
+Chemistry and properties of compomers designed for use in clinical
+dentistry and reviews the literature in this area.
+Pameijer CH, Nilner K: Long term clinical evaluation of three luting
+materials, Swed Dent J 18:59–67, 1994.
+Clinical evaluations up to 4 years show the three luting cements
+performed satisfactorily. The choice of a final luting agent should
+be based on anticipated postoperative pulpal reactions, rather than
+exclusive reliance on physical properties.
+Peters MC, Bresciani E, Barata TJ, et al: In vivo dentin remineralization
+by calcium-phosphate cement, J Dent Res 89:286–291, 2010.
+Clinical study reveals the capacity of a Ca-P base to promote remineralization of caries-affected dentin.
+Phillips RW, Crim G, Swartz ML, et al: Resistance of calcium hydroxide
+preparations to solubility in phosphoric acid, J Prosthet Dent 52:358–
+360, 1984.
+Newer “hard-setting” calcium hydroxide base material is less soluble
+in acid than earlier versions.
+Phillips RW, Swartz ML, Lund MS: In vivo disintegration of luting
+agents, J Am Dent Assoc 114:489–492, 1987.
+The in vivo solubility of a GIC was superior to either zinc phosphate
+or carboxylic cement. Only silicophosphate cement approached the
+GIC.
+Powis DR, Folleras T, Merson SA, et al: Improved adhesion of a glass ionomer cement to dentin and enamel, J Dent Res 61:1416–1422, 1982.
+152.e1
+
+The first of many studies showing improvement in the bond strength
+of a glass ionomer cement to tooth structure when the smear layer is
+removed with polyacrylic acid.
+Primus CM, Tay FR, Niu L-N: Bioactive tri/dicalcium silicate cements
+for treatment of pulpal and periapical tissues, Acta Biomater 96:35–
+54, 2019. doi:10.1016/j.actbio.2019.05.050.
+A thorough review of the tricalcium silicate cements.
+Sidhu SK, Watson TF: Resin-modified glass ionomer materials - A status
+report for the American Journal of Dentistry, Am J Dent 8:59–67,
+1995.
+This report described the difference between conventional and early
+version of hybrid ionomers.
+Smith DC: Development of glass-ionomer cement systems, Biomaterials
+19:467–478, 1998.
+This article reviewed bonding of polyacrylic acid to backgrounds that
+led to the development of glass ionomer cement.
+Smith DC, Ruse ND: Acidity of glass ionomer cements during setting
+and its relation to pulp sensitivity, J Am Dent Assoc 112:654–657,
+1986.
+The data showed that the glass ionomer luting cements showed lower
+pH values for longer times than zinc phosphate and polycarboxylic
+cements.
+Swartz ML, Phillips RW, Clark HE: Long-term F release from glass ionomer cements, J Dent Res 63:158–160, 1984.
+Fluoride release from luting and filling GIC, and silicate cement is
+similar over a 12-month period. The silicophosphate cement released
+somewhat lesser fluoride, while the release from a fluoride containing
+polycarboxylate was negligible after the first few days.
+ten Cate JW, Featherstone JD: Mechanistic aspect of the interactions
+between fluoride and dental enamel, Crit Rev Oral Biol Med 2:283–
+296, 1991.
+
+152.e2
+
+This article critically reviews the information about tooth-fluoride
+interactions, both from laboratory and clinical studies.
+Tyas MJ: Milestones in adhesion: Glass-ionomer cements, J Adhes Dent
+5:259–266, 2003.
+An excellent review of the conventional and hybrid glass ionomer
+cements.
+Weiner R: Liners and bases in general dentistry, Aust Dent J 56(Suppl
+1):11–22, 2011.
+This review article discusses the use of liners and bases and the types of
+materials that are available to the restorative dentist.
+Welbury RR, McCabe JF, Murray JJ, et al: Factors affecting the bond
+strength of composite resin to etched glass ionomer cement, J Dent
+16:188–193, 1988.
+Omission of the etching process did not produce a significantly inferior bond, but the results were less dependable.
+Wilson AD, McLean JW: Glass Ionomer Cements, Chicago, 1988, Quintessence Publishing Co.
+This book provides an in-depth discussion of the evolution and chemistry of different GIC formulations.
+Wolff MS, Barretto MT, Gale EN, et al: The effect of the powder-liquid ratio on in vivo solubility of zinc phosphate and polycarboxylate
+cements, J Dent Res 64:316, 1985.
+Low powder-liquid ration ratios undergo significantly more rapid disintegration than mixes made with recommended ratio.
+Yamazaki T, Schricker SR, Brantley WA, et al: Viscoelastic behavior
+and fracture toughness of six glass-ionomer cements, J Prosthet Dent
+96:266–272, 2006.
+Yap AU, Soh MS, Han TT, et al: Influence of curing lights and modes
+on cross-link density of dental composites, Oper Dent 29:410–415,
+2004.
+

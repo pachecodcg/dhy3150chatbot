@@ -1,0 +1,2929 @@
+17
+
+Biocompatibility
+OUTLINE
+Basic Concept of Biocompatibility
+
+Side Effect of Various Material Groups
+
+Biological Effects From Exposure to Dental Materials
+
+Patient Reports and Complaints of Adverse Effects
+
+Occupational Hazards for Dental Personnel
+
+Clinical Guidelines for Selecting Biocompatible Materials
+
+Biocompatibility Testing
+
+Acknowledgments
+
+Legal Regulations and Risk Classes
+
+KEY TERMS
+GENERAL
+Adverse reaction Any unintended, unexpected, and harmful response of an individual to a (dental) treatment or
+biomaterial.
+Bioactive materials Biomaterials that, in addition to their primary
+function (e.g., to restore dental hard tissues), actively stimulate
+a specific positive tissue response or control their microbiologic
+environment.
+Biocompatibility The ability of a biomaterial to perform its
+desired function with respect to a medical (or dental) therapy,
+without eliciting any undesirable local, allergic, or systemic effects in the recipient or beneficiary of that therapy but generating the most appropriate beneficial cellular or tissue response
+in that specific situation and optimizing the clinically relevant
+performance of that therapy.
+Biointegration The process of forming an interface between
+bone or other living tissue and an implanted material with
+no intervening space. Biocompatibility is a prerequisite for
+biointegration.
+Osseointegration The process of forming a direct structural and
+functional interface between live bone and an artificial implant
+surface without any intervening fibrous connective tissue. Biocompatibility is a prerequisite for osseointegration.
+Risk Combination of the probability of harm to health occurring
+as a result of adverse reactions associated with a biomaterial
+interaction and the severity of that harm.
+Safety The absence (freedom) from unacceptable risks in the
+context of the intended use.
+Xenoestrogen A chemical that is not indigenous to the body but
+acts in a manner similar to that of estrogen.
+
+BIOLOGICAL OR CLINICAL EFFECTS
+Allergy A clinical hypersensitivity reaction initiated by specific
+immunological mechanisms.
+
+Carcinogenicity Malignant tumor formation caused, for example,
+by an exposure to a chemical or biomaterial.
+Cytotoxicity Cell death or impairment of cell metabolism caused
+by an exposure to a chemical or biomaterial.
+Estrogenicity Body reaction in a manner similar to that of estrogen, the female sex hormone, from exposure to a chemical or
+biomaterial.
+Genotoxicity A change of the DNA or of chromosomes caused, for
+example, by an exposure to a chemical or biomaterial.
+Hypersensitivity The objectively reproducible symptoms or signs
+initiated by an exposure to a defined stimulus at a dose tolerated by normal persons.
+Mutagenicity A change of the DNA or of chromosomes, which is
+transferred to the next cell generation, caused, for example, by
+an exposure to a chemical or biomaterial.
+Sensitization The process by which antibodies or specific immune
+cells are produced, which react specifically to the causative
+foreign substance.
+Toxicity The relative ability (dose-related effect) of a substance
+or a material to cause injury to biological tissues, ranging
+from improper biochemical function, organ damage, and cell
+destruction to death. Depending on the duration of exposure
+period, the terms acute toxicity (≤24 hours), subacute toxicity
+(>24 hours but ≤30 days), and chronic toxicity (>30 days) are
+used.
+
+LIMIT VALUES
+Lethal dose fifty (LD50) The calculated dose of a substance that is
+expected to cause the death of 50% of the entire population of
+a biological collective, such as specific experimental animals or
+cells.
+No-observed-adverse-effect level (NOAEL) The highest tested
+dose of a substance that has been reported to have no harmful
+(adverse) health effects on people, animals, or cells.
+
+355
+
+356
+
+PA RT V
+
+Assessing Dental Restorations
+
+Since ancient times, a wide variety of materials have been placed
+or implanted in humans to replace or repair missing, damaged,
+or defective body tissues. Animal bones, seashells, animal teeth,
+human teeth, metals, resin materials, and inorganic compounds
+are materials that have been used for restoration of damaged or
+decayed teeth or replacement of missing teeth. The outcomes of
+these interventions have varied from short-term failure to limited
+success in certain individuals. Many of these treatments reflected
+situations in which the risks were far greater than the anticipated benefits. Some of these materials have caused immediate
+or delayed adverse reactions because of their allergenic or toxic
+potentials. On the other hand, some materials appear to evoke a
+minimal biological response but seem to interact with the host tissue harmoniously. Thus the term biocompatible evolves.
+
+Basic Concept of Biocompatibility
+Biocompatibility is related to the fact that a (dental) material that
+is placed on or in parts of the human body comes into close contact
+with living tissue, with the consequence of an interaction between
+the material and the tissue. This interaction is primarily based
+on the substances that are eluted (i.e., released) from the material when in contact with various tissues; released substances then
+in turn influence the living tissues (Figure 17-1). Furthermore,
+such released substances can influence the surrounding microbiota (e.g., biofilms), which then indirectly affects the tissue, such
+as inducing a bacterial inflammation. Nanoparticles originating
+from dental materials during processing (grinding or polishing)
+or during restoration removal can also interact with cells. Finally,
+the influence of disposing dental material wastes to the environment has gained increased concern. For example, amalgam debris
+discharged from dental offices enters water treatment plants and
+then landfills as sewage waste. The mercury in amalgam is released
+to ground water or air and eventually enters the food chain, which
+may influence human health. Thus the primary purpose of characterizing the biocompatibility of dental materials is the protection
+of the patient, the dental personnel, and the environment.
+The adverse effects of a material lead to the awareness of biocompatibility. Adverse reactions caused by dental restorative materials
+can be classified into three groups: systemic effects, local effects,
+and allergies. Systemic effects are those where the site of application
+
+Release of substances,
+nanoparticles
+
+Waste
+
+is distant from the site of action. For example, mercury vapor
+from amalgam fillings reaches different organs through inhalation
+and then the bloodstream, with (claimed) adverse effects at these
+organs (Figure 17-2). Local effects occur in the direct vicinity of the
+material applied. This can be an inflammation of the dental pulp
+after placement of a resin-based composite restoration in a deep
+cavity or inflammation of the gingiva next to a resin-based restoration (Figure 17-3) or a metal prosthesis (Figure 17-4). Allergies
+are based on an immunological antibody–antigen reaction leading
+to a number of clinical symptoms that occur more frequently than
+systemic effects. The adverse effects are discussed in detail in the
+next section.
+Bioactivity can be regarded as an intended positive local effect
+of dental materials in addition to their primary function (e.g.,
+to restore dental hard tissues). The term bio means “life/living.”
+Therefore bioactive effects are primarily related to material-induced
+and cell-mediated effects on living tissues like the dental pulp.
+Examples are the induction of new dentin formation by calcium
+hydroxide products. Also, antimicrobial activity may be regarded
+as a bioactive effect. Some manufacturers and authors broaden the
+term bioactivity to include a mainly inorganic chemically induced
+remineralization of dental hard tissues or the formation of an apatite-like substance on the surface. Therefore materials that release
+Ca2+, (PO4)3–, or F–, which are necessary components for forming apatite, are termed bioactive materials or smart materials by
+manufacturers. The clinician should be critical and ask for actual
+clinical evidence of such claims based on clinical studies and
+ensure that the necessary properties of the restorative materials
+for fulfilling their primary use are not impaired as a result of the
+release of molecules.
+In daily life, the assessment of the biocompatibility of dental
+materials is often expressed in terms of risk and safety. “Safety”
+in layperson terms is often meant to describe a situation where
+harm will never happen. But such an “absolute safety” is not possible. There is always a chance, however small it may be, that an
+adverse event may happen. Interestingly, high-risk activities, such
+as mountain climbing, are engaged in by patients without any
+major concern, but the same patients are afraid of certain dental materials (e.g., amalgam) or of certain procedures (e.g., dental x-rays). This indicates that the risk perception of the patient
+is purely intuitive, and it is not related to the actual risk. The
+
+Environment,
+e.g., water treatment plants,
+ground water, fish, atmosphere
+
+Food chain
+
+Contact of tissue/tissue fluids,
+e.g., gingiva, pulp, saliva with materials
+Nanoparticles
+
+Material
+
+Release of substances
+
+Tissue
+Barriers
+
+Release of substances/
+surface effects
+
+Bacteria
+accumulation
+
+• Figure 17-1 Basic concept of the interaction of dental materials with tissues. Orange arrows indicate
+the action of the tissues on the material. Cyan arrows show the action of the materials/their eluates on
+the tissues, and brown arrows show the bacteria-mediated interaction. Blue arrows indicate the effect of
+materials on the environment, which then also may influence human health. (Adapted from Schmalz G,
+Galler KM: Biocompatibility of biomaterials, Dent Mater 33:382–393, 2017.)
+
+CHAPTER 17
+
+Biocompatibility
+
+LOCAL EFFECTS
+
+SYSTEMIC EFFECTS
+
+Skin, lips, and oral mucosa
+Inflammation: Non-allergic, allergic
+Allergy: Burning mouth, erythema,
+vesicles, lichenoid lesions
+Cause: Metals, acrylics, latex
+
+Toxicity: Neurobehavioral effects,
+multiple sclerosis, Alzheimer,
+Parkinson disease, epilepsy
+Cause: Unknown
+
+357
+
+Brain and nervous system
+
+Lung
+Toxicity: Pneumoconiosis
+Cause: Silica, beryllium, asbestos,
+grinding dusts, vapors, fumes
+
+• Figure 17-2 Schematic illustration of critical tissues and organs that may be susceptible to the adverse
+effects of dental materials.
+
+• Figure 17-3 Inflammatory response or possible allergic reaction adjacent to a Class V resin-based composite. However, no patch test was
+performed to confirm an allergy as the cause of this inflammation. (Courtesy Dr. Hyun-Ju Chung.)
+
+actual risk is the combination of the probability and the severity of harm that can be evaluated according to ISO 14971:2019,
+Medical Devices—Application of Risk Management to Medical
+Devices. Therefore, when informing the patients about possible
+adverse effects from dental materials, the clinician must consider
+the difference between the public’s perception and the measurable
+estimation in terms of risk and safety by ISO 14971:2019.
+Finally, risk versus benefit has to be assessed before a material is
+allowed to be sold on the market. Dental (and medical) materials
+are used to diagnose, prevent, and alleviate disease (e.g., caries)
+or restore lost teeth structure. An example is mercury, which is
+an element that is poisonous to human health and has been used
+to form amalgam as a dental restoration for restoring function of
+teeth damaged by caries. However, mercury should not be used in
+shoes to switch on lights for fun.
+
+CRITICAL QUESTIONS
+Why might the local response and the systemic response to a dental material
+differ? Which factors come into play to explain these differences?
+
+• Figure 17-4 Inflammatory response adjacent to a crown (lower right)
+made from a metal coping. No definitive diagnosis can be made of potential allergens. Thorough dental and medical histories and patch testing are
+required for the evaluation of this condition. (Courtesy Dr. Hyun-Ju Chung.)
+
+Biological Effects From Exposure to Dental
+Materials
+There are five main pathways through which harmful substances
+can enter the body: (1) absorption through skin/mucosa/dentin
+and eye contact, (2) leakage through the tooth apex, (3) direct
+contact with bone (implants), (4) inhalation, and (5) ingestion.
+Keep in mind that skin, mucosa, and dentin act as a (partial) barrier against the entry of foreign substances into the body. If this
+protective barrier is broken by abrasions or lacerations, toxic substances can penetrate the barrier and migrate into the body. In
+addition, exposure to some organic solvents or inorganic acids can
+increase the permeability of the skin, mucosa, and dentin. The
+fastest way for toxic substances to enter the body is through inhalation (Figure 17-2) or in direct contact with bone. Inhaled vapors
+or particulate matter can make immediate contact with respiratory
+tissues and soon thereafter make contact with the bloodstream.
+Once a substance has entered the bloodstream, this substance is
+transported rapidly throughout the body.
+
+358
+
+PA RT V
+
+Assessing Dental Restorations
+
+Systemic Effects of Materials
+Systemic effects from dental materials are a function of the distribution of substances released from dental materials in the body. Their
+migration to other sites of the body can occur by diffusion through
+tissues or by flow through lymphatic channels or blood vessels.
+The ultimate systemic response depends on six key variables: (1)
+site of exposure, (2) the intrinsic (i.e., molecular) toxicity, (3) the
+effective concentration of the substance at the site of action, (4)
+the time of exposure, (5) the excretion rate of the substance, and
+(6) the target organ (site of action). When substances are excreted
+slowly, their critical concentrations are reached more rapidly than
+are those concentrations of substances that are excreted quickly.
+
+CMR Effects
+The term CMR effects refers to carcinogenicity, mutagenicity, and
+reproductive toxicity. Any adverse effect on the DNA of an organism caused by a chemical or a material is termed genotoxicity. If
+the adverse effect is transferred to the next (heritable) generation
+of cells, the effect is called mutagenicity. Thus genotoxicity can
+be regarded as the first and necessary step for mutagenicity. Genotoxic reactions occur when a physical or chemical agent changes
+the genetic material of an organism. Mutations are common
+occurrences in the DNA of all humans, and they may result from
+many factors, such as radiation, genotoxic chemicals, and genetic
+errors in the DNA replication process. Several metal ions, such as
+beryllium, cobalt, and nickel, are known mutagens. Some components in root canal sealers and resin-based materials have exhibited
+mutagenic potential in vitro. Mutagenicity does not have the same
+consequences as carcinogenicity, and many mutations are repaired.
+Others are irrelevant or insignificant, or the affected cell undergoes
+apoptosis, preventing the transfer of the DNA damage to the next
+cell generation. No dental material has ever been shown to be carcinogenic in dental patients. Reproductive toxicity plays virtually no
+role in dental materials but has to be considered during preclinical
+risk assessments performed by the manufacturer.
+Estrogenicity
+Estrogenicity is the ability of a chemical to act as the hormone
+estrogen does in the body. If these chemicals are not indigenous to
+the body, the substances are called xenoestrogens. In 1996 Olea
+et al. claimed that dental sealants released estrogenic substances in
+sufficient quantities to warrant concern. The compound of concern
+is called bisphenol-A (BPA), which is a precursor of the bisphenolA glycidyl dimethacrylate (bis-GMA) monomer widely used in the
+formulation of dental composites and sealants and a building block
+of plastics like the polycarbonates used in some orthodontic brackets. BPA is a known xenoestrogen. The fear is that the release of
+these substances from dental materials will compound exposure to
+other (nondental) sources of endocrine disruptors, which in turn
+may lead to (claimed!) diseases such as type 2 diabetes, obesity,
+premature puberty, and even (breast) cancer, albeit such claims are
+highly controversial. The amounts of BPA released from dental resin
+composites are very low. Therefore the estrogenicity of dental composites has also been questioned, particularly for use in children. For
+more details, see the discussion on resin-based composites.
+
+Local Effects of Materials
+The arrows in Figure 17-5 indicate the pathways that foreign substances from a restorative material can take leading into the oral
+cavity (OC), the tissue space next to the periodontium (PD), the
+
+R
+OC
+D
+
+P
+
+PD
+
+PA
+
+• Figure 17-5 Schematic illustration of pathways that leached ions or
+substances may follow during in vivo degradation of a dental restoration
+(R) into the oral cavity (OC), dentin (D), the pulp chamber and the pulp tissue (P), the periodontium (PD), and periapical tissue and bone (PA).
+
+pulp chamber (P), or the periapical region (PA). Local effects that
+occur on nearby oral tissues such as the buccal mucosa, the periodontium, or tongue are generally apparent to visual inspection.
+Local effects also occur, often hidden from our eyesight, including
+in the pulp tissue, tooth–restoration interfaces, and bone–implant
+interfaces.
+
+Pulp Tissue
+Postoperative discomfort/sensitivity or pain, which may occur
+shortly after the treatment with dental restorative materials, may
+result from several factors, including thermal trauma, chemical
+injury, microleakage, and allergy. The perception of this postoperative sensitivity is generally believed to be related to the movement
+of extracellular fluid in the dentinal tubules and the influence of
+this fluid movement on the odontoblastic processes, as proposed
+in the so-called hydrodynamic theory of postoperative sensitivity.
+As a result of this movement, cell receptors on the surface of the
+odontoblast processes are stimulated, and the odontoblasts transfer this signal to afferent nerves, which are closely associated with
+the odontoblast layer. Therefore sealing the dentinal tubules during the restorative procedure is clinically important to prevent
+or reduce intratubular fluid movement and thus postoperative
+sensitivity.
+Pulp damage (inflammation) caused by a restorative material
+may very often occur without any clinical symptoms at the beginning and is only detected histologically. The intratubular fluid
+becomes the medium for the diffusion of foreign substances into
+the pulp chamber. However, the thickness of the remaining dentin
+between the material and the pulp chamber can slow down the
+process, and dentinal sclerosis under a carious lesion will further
+decrease the dentin permeability. Furthermore, dentin may act as
+a buffer for acidic substances like self-etch adhesives. Therefore
+dentin can be regarded as a partial barrier. A major problem in the
+
+CHAPTER 17
+
+diagnosis of potential pulp damage caused by a restoration is the
+fact that there is virtually no correlation between the histologically
+documented damage to the pulp and clinical symptoms. This is
+considered a major drawback of clinical studies (without histology) in this area.
+
+Dentin
+Enamel
+“Pocket”
+
+Pulp
+chamber
+
+Cementum
+
+Cortical
+bone
+
+Periodontium
+The periodontal attachment to the tooth is an important junction
+between the outside of the body (oral cavity) and the inside of the
+body (Figure 17-6). The periodontal tissues are targets for possible adverse effects from dental materials because these materials
+are in close proximity to these tissues. The periodontal pocket, or
+gingival sulcus, may accumulate biofilms and significant concentrations of ions or molecules of leached substances. Such accumulations can elicit inflammatory reactions such as gingivitis or
+influence the body’s ability to defend against bacteria that cause
+periodontal disease.
+
+How can microleakage influence the biological response to a material?
+
+Periodontal
+ligament
+
+Alveolar
+bone
+
+Spongy
+bone
+
+• Figure 17-6 Schematic illustration of the periodontal attachment area.
+The gingiva is attached to the tooth’s cementum surface just below the
+enamel with a specialized epithelium, which is called the junctional epithelium. The periodontal “pocket” is formed from the gingival tissue extension
+above the junctional epithelium. Cementum covers the dentin, starting at
+the enamel–dentin junction. Below the gingiva, alveolar bone attaches to
+cementum through a tissue called the periodontal ligament. This ligament
+is not present when implants are osseointegrated with bone.
+
+Tooth–Restoration Interfaces—Microleakage and
+Nanoleakage
+Dental restorative materials form interfaces with one another (adhesives with resin composites or cements with dental alloys) and with
+the dental hard tissues. The tooth–restoration interface is critical
+for the transfer of leached substances into dentinal fluid. As shown
+in Figure 17-7, debonding of the adhesive layer from the dentin,
+as a result of, for example, polymerization stress, can lead to fluid
+ingress along gaps, which leads to so-called microleakage, or the diffusion of bacteria and fluids into this gap. The microscopic gap and
+the microleakage may lead to several undesirable events. Bacteria
+may migrate into this gap and may even form a thin biofilm, which
+then initiates an inflammation of the pulp tissue. The gap also promotes material breakdown and secondary caries along the unsupported margin. This breakdown increases the gap width, which
+allows larger particles and molecules to progress toward the pulp
+chamber. The presence of this gap also causes marginal staining and
+compromised esthetics that may lead to restoration replacement.
+If the resin from dental adhesives penetrates the collagen
+network of the acid-treated dentin but does not penetrate the
+
+Composite resin
+
+Resin-impregnated
+collagen mesh
+
+Microleakage
+
+R
+
+Partially demineralized
+dentin
+
+Nanoleakage
+
+DT
+
+Unaffected
+dentin
+
+D
+
+A
+
+359
+
+CRITICAL QUESTION
+
+Junctional
+epithelium
+
+Gingiva
+
+Biocompatibility
+
+B
+• Figure 17-7 Concepts of microleakage and nanoleakage. A, Cross section of Class I composite restoration. B, Diagram illustrating the interphase of bonding resins (R) to dentin (D). The dentin has been
+acid-etched in preparation for the application of the resin adhesive, which leaves the collagenous matrix of
+the dentin exposed (demineralized dentin). If the resin does not completely penetrate the collagen network
+(left), then a small space of communication exists between the tubules (DT) and the collagen network
+(red arrow, left). This situation allows for nanoleakage. On the other hand, if the resin fails to penetrate the
+collagen network at all, or debonds from it, then the space is much larger (red arrow, right). This situation
+allows for microleakage. In the ideal situation (center), the resin penetrates the collagen network all the
+way to the mineralized dentin.
+
+360
+
+PA RT V
+
+Assessing Dental Restorations
+
+network completely, then a much smaller gap (less than 0.1 μm in
+most cases) may develop between the mineralized matrix of dentin and the collagen–resin hybrid layer (Figure 17-7). This much
+smaller gap may lead to nanoleakage, which probably does not
+permit bacteria penetration but allows fluid exchange that may
+degrade the resin or the collagen network and subsequently reduce
+the longevity of the dentin–resin bond.
+Micromechanical interlocking occurs between the bonding of
+resins from dental adhesives to enamel. Enamel does not contain
+collagens, and the bond to resin is based on the interlocking of the
+resin with the etched enamel surface and potentially on chemical
+bonding between the resin and the enamel apatite (for 10-methacryloyloxydecyl dihydrogen phosphate [MDP]-based adhesives).
+Therefore nanoleakage is not known to occur between restorations
+and enamel.
+
+Bone–Implant Interface
+The success of endosseous dental implants depends on the stability of the implant, which is determined by the biomechanical properties of the bone–implant interface. The initial stability
+is gained from introducing the implant into a prepared cavity slightly smaller than the size of implant, which allows the
+implants to be threaded into bone. The final stability is achieved
+by the ingrowth and integration of new bone onto the implant
+surface through the process of osseointegration. Materials that
+allow osseointegration have very low degradation rates, and they
+tend to form biocompatible surface oxides that enhance bony
+approximation. The general process of biointegration involves
+the adaptation of bone or other tissue to the implanted material
+without any intervening space along the tissue–material interface. The majority of current dental implants are made of commercially pure titanium or titanium alloys (Chapter 12, Titanium
+and Titanium Alloys).
+
+A
+
+B
+
+Allergic Reactions
+An allergic reaction occurs when the body recognizes a substance,
+molecule, or ion as foreign, and the human immune system can
+react specifically even at a very low dose. The reactions are well
+recognized by the public, but specific allergens are difficult for
+health care professionals to identify.
+There are four types of allergy reactions according to the Gell
+and Coombs classification of immune responses proposed in
+1963. A type I reaction (mediated by immunoglobulin E [IgE]
+or immunoglobulin G4 [IgG4]) is an immediate hypersensitive reaction or anaphylactic reaction when an antigen interacts
+with mast cells or basophils. A type II reaction is caused by cytotoxic antibodies, which are primarily immunoglobulin M (IgM)
+or immunoglobulin G (IgG). A type III reaction involves tissue
+injury by immune complexes. A type IV reaction is a delayed or
+cell-mediated hypersensitivity, and it is evoked, for example, by
+metal ions, which, as so-called haptens, must first interact with a
+host molecule (protein) in order to be able to produce a delayed
+type IV hypersensitivity reaction. This type is often associated
+with an allergic contact dermatitis. A type V reaction, which is a
+stimulating antibody reaction, has been suggested but sometimes
+classified as a subcategory of type II. In dentistry, allergy type IV
+reactions (delayed type) are generally more frequent than type I
+reactions (immediate reactions).
+Figure 17-8 illustrates three potential sites for allergic reactions
+to nickel-containing metals: a watchband buckle (Figure 17-8,
+A); bilateral, fixed metal-ceramic prostheses with copings and
+
+C
+• Figure 17-8 Various forms of nickel allergy. A, Allergic reaction to nickel
+alloy in watchband buckle. B, Bilateral erythema in a female patient that
+may have been associated with allergic reactions to nickel in a recently
+cemented metal-ceramic crown (left) and in two metal-ceramic crowns
+(right) of a three-unit fixed dental prosthesis. C, Severe allergic reaction in
+the lips of a patient who was exposed to a nickel-containing orthodontic
+wire. (C, Courtesy Dr. Donald Cohen.)
+
+framework made from nickel alloy (Figure 17-8, B); and a severe
+reaction of lips to nickel-containing wire (Figure 17-8, C).
+
+Frequencies
+Dental professionals suffer hand dermatitis from frequent hand
+washing, prolonged glove use, and exposure to skin-irritating and
+skin-sensitizing chemicals in their working environment, particularly methacrylate-based monomers. In one study, nearly 2% of
+dental personnel were reported to suffer from methacrylate-caused
+hand dermatitis. Contact allergy to methacrylate was seen in 22%
+of the patch-tested persons. Other frequent allergens are nickel,
+cobalt, palladium, fragrance mix, colophonium, and thiuram mix.
+Allergy to natural rubber latex was diagnosed in 10% of the dental
+personnel. In summary, chemical-irritant hand dermatitis was the
+dominant diagnosis.
+
+CHAPTER 17
+
+Dental patients usually present with different manifestations
+of the oral mucosa. In a group of more than 4000 people with a
+clinically suspected allergy against dental materials, the most frequent allergic patch test reactions in the dental screening series
+were induced by nickel, ammoniated mercury, metallic mercury,
+gold, benzoic acid, palladium, cobalt, and 2-hydroxyethyl methacrylate (HEMA). Moreover, triethylene glycol dimethacrylate
+(TEGDMA) was found to be a frequent sensitizer. Other studies
+have reported chromium and indium as allergens. Positive reactions to metals were frequent in patients with different symptoms,
+and no specific association between a specific clinical presentation
+and a particular allergen was found.
+A maximal frequency of 0.3% for any adverse effect and for all
+dental materials has been reported, meaning the frequency of just
+allergic reactions of patients may be even lower. Within the group
+of patients claiming that their subjective complaints or objective
+symptoms are the result of applied dental materials, the rate of allergic reactions was found to range between 10% and 14%. Within
+another group of patients who also exhibit clinical symptoms of
+an allergy (see following discussion), the rate of positive patch tests
+(i.e., verification of an allergy) was between 40% and 60%.
+
+361
+
+cells specifically directed to this substance. After sensitization to
+the particular substance, even a brief contact with that allergen
+may cause the allergic reaction to appear. Dental materials mainly
+elicit delayed-type reactions (type IV), occurring within 24 to 48
+hours or even later. A typical type IV reaction to dental materials
+is contact dermatitis. One of the most common signs is a change
+in the color of the skin/mucosa, which usually appears on the spot
+that was in contact with the material. Other areas of the body can
+exhibit signs after the initial reaction has occurred. The general
+signs of contact allergies include (1) reddish, itchy, swollen skin;
+(2) vesicles; (3) scaly areas; (4) darkening of affected tissue; (5)
+leathery skin; and (6) cracked skin. The best “cures” for these reactions are avoidance of the suspected materials.
+
+Inflammation
+Inflammation may result from microbes/biofilms, trauma (i.e.,
+excessive force, laceration, and abrasion), allergy, or toxicity. Histologically, the inflammatory response is initially characterized by
+edema of the tissue and by an infiltration of inflammatory cells
+such as neutrophils and, later in the chronic stage, by the action of
+monocytes/macrophages and lymphocytic cells. For the clinician,
+it is important to identify the reason for an apparent inflammation
+in order to be able to correctly treat the patient.
+A rather frequent reason for an inflammation of the oral soft
+tissues/oral mucosa is bacterial biofilms on or under a dental
+material. Antibacterial treatment comprises mechanical cleaning of teeth and possibly removable prostheses, improving the
+patient’s own oral hygiene measures, and the use of antiseptic
+mouth rinses. If the inflammation subsides, bacterial biofilm can
+be regarded as the reason for the inflammation. If the inflammation persists, and the suspected material is part of a removable
+prosthesis, this prosthesis should be removed from the mouth
+for 1 or 2 weeks (elimination test). If the inflammation subsides
+and reappears after insertion, an allergy can be suspected, and a
+patch test should be initiated. Figure 17-10 shows an erythematous reaction caused by an acrylic appliance that subsided 2 to 3
+days after removal of the appliance. The same is true if inflammation persists after antimicrobial treatment and the material
+cannot be removed from the mouth. Other material-associated
+soft tissue inflammations are caused by marginal discrepancies of
+metallic fixed prostheses (Chapter 9, Manipulation of Base-Metal
+Alloys) and ill-fitting removable prostheses (Chapter 11, Allergic
+Reactions). Gingivitis adjacent to metal-ceramic crowns may also
+be caused by insufficient removal of metal oxides after the firing
+
+Symptoms
+For dental personnel with a verified allergy to dental materials,
+the symptoms found among 174 cases were hand eczema (63%),
+irritant contact dermatitis (67%), and allergy-induced contact
+dermatitis (33%). Further diagnoses included other eczemas, urticaria, rosacea, psoriasis, tinea pedis, and bullous pemphigoid.
+Exposure of patients to dental materials and other products can
+elicit symptoms such as burning, tingling, cheilitis, and oral lichenoid contact lesions, as well as swelling of the face, lips, tongue, palate, and buccal mucosa. Between 2000 and 2004, patch tests of
+121 patients aged 20 to 80 years revealed that the most frequent
+oral manifestations were cheilitis and perioral dermatitis (25.6%),
+burning mouth (15.7%), lichenoid contact reaction (14.0%), and
+orofacial granulomatosis (10.7%). Dental personnel, representing
+18 (14.9%) of the 121 patients, all suffered from hand dermatitis.
+Intraorally, so-called lichenoid contact lesions (Figure 17-9) have
+been associated with an allergic reaction to amalgam and dental
+alloys. Also, other causes, such as mechanical irritation, have,
+however, been considered as a cause for such contact lesions. The
+generalized oral lichen planus is not associated with an allergy.
+An allergic reaction only occurs after the patient has been sensitized during a first contact by developing antibodies or immune
+
+A
+
+Biocompatibility
+
+B
+
+• Figure 17-9 Bilateral localized lichenoid lesions that are associated with gold alloy crowns. A, Lichenoid mucositis lesion (white area) in tissue adjacent to a gold alloy crown. B, Lichenoid mucositis lesion in
+vestibular tissue next to gold alloy crown on opposite side of the arch. Patch testing of the patient was not
+performed. (Courtesy Dr. Donald Cohen.)
+
+362
+
+PA RT V
+
+Assessing Dental Restorations
+
+A
+
+B
+
+C
+
+• Figure 17-10 Erythematous reaction sites. Patch testing was not performed to confirm a suspected
+allergic response. A, Palatal area that was exposed to an acrylic palatal appliance. B, Acrylic appliance
+with embedded wire. C, Initial healing of palatal tissue shown in (A) within 2 to 3 days after removal of the
+palatal appliance. (Courtesy Dr. Byung-Gook Kim.)
+
+• Figure 17-11 Inflammation adjacent to the metal margin of a metal-ceramic crown. A potential allergy to one of the metal components should be
+explored by a patch test. Furthermore, gingival reactions to metal oxides
+that were produced during the firing process for metal-ceramic crowns
+have also been proposed. (Courtesy Dr. Hyun-Ju Chung.)
+
+process (Figure 17-11). In those cases, the prostheses are adjusted
+or remade to eliminate the inflammation.
+
+CRITICAL QUESTION
+What is the task of the clinician when an allergy is suspected?
+
+Patch Test
+A patch test is only indicated for patients who exhibit clinical
+symptoms suspected to be a type IV allergy. Because this type of
+allergy is most prominent for dental materials, the patch test is
+mainly performed to verify the allergenic nature of the clinical
+symptoms. A series of substances, which are suspected to cause the
+allergy, is placed on the back of the patient in tiny reservoirs and
+covered by a patch. Figure 17-12 illustrates positive responses of
+dental alloys on a patient’s back. Patch testing in general has been
+validated for epidermal exposure, which may also induce sensitization of naive T lymphocytes and is relevant primarily for detecting dermal effects of hypersensitivity (contact dermatitis). In vitro
+testing, for example, with the lymphocyte transformation test
+(LTT), has been proposed but so far has not found general acceptance by relevant scientific organizations (e.g., American Academy
+of Allergy, Asthma and Immunology [AAAI]; see https://www
+.aaaai.org/ask-the-expert/lymphocyte).
+
+• Figure 17-12 Positive responses to patch tests on a patient’s back.
+(Courtesy Dr. Young Ho Won.)
+
+All testing for verifying allergies has to be performed by an
+allergologist, and the referring dentist must provide a list of suspected substances. Tests may be performed with samples of the
+suspected material (e.g., the alloy) or with the components, such
+as the cations from metals that are components of the alloy. The
+use of metal cations and monomers is generally more sensitive
+than using material samples and is the standard procedure. Therefore information on the composition of the used materials is
+essential (see the Safety Data Sheets section later in the chapter).
+
+Immunotoxicity
+The principal concept of immunotoxicity is that substances can
+alter the immune system. These cellular alterations can occur
+because of the direct toxic effect of a leached substance. Monocytes/macrophages control chronic inflammatory and immune
+responses, and they also secrete many substances, such as signaling
+molecules, that alter the actions of other cells. Thus, if substances
+leached from a biomaterial reduce the monocyte’s ability to secrete
+these substances, this may impair the immune system.
+Released substances from dental materials, such as metal ions
+or monomers, can also alter the immune system at subtoxic concentrations. As shown in Figure 17-13, mercury ions increase the
+glutathione (GSH) content of human monocytes in cell culture,
+whereas palladium ions decrease the cells’ GSH content. GSH
+
+CHAPTER 17
+
+363
+
+250
+TNF-alpha secretion (pg/mL)
+
+6
+
+5
+Hg2+
+
+Glutathione/cell (pg)
+
+Biocompatibility
+
+4
+
+3
+
++LPS
+
+200
+
+150
+
+100
+
+50
+–LPS
+
+2
+0
+
+Control
+
+Pd2+
+
+1
+
+1000
+
+4000
+
+Concentration of HEMA (µM)
+
+• Figure 17-14 Reduction in secretion of tumor necrosis factor alpha
+0
+0.1
+
+1
+10
+100
+Metal ion concentration (µM)
+
+1000
+
+• Figure 17-13 Response of monocytes in a cell culture after a 24-hour
+exposure to mercury ions (Hg2+) or palladium ions (Pd2+). Mercury ions
+produced a spike in glutathione at an ion concentration of about 8 μmol/L
+and a subsequent decrease as mercury became toxic to the cells. In contrast, during exposure to palladium ions, the glutathione content did not
+decrease significantly until the palladium ion concentration increased to
+between 200 and 300 μmol/L, which is far below the ion concentrations
+required to induce toxicity in these cells. Because both types of metal ions
+alter the chemical defense (glutathione production) against oxidative stress
+at subtoxic ion levels, these metals are believed to affect the immune system. (Courtesy Dr. John Wataha.)
+
+is a tripeptide and is necessary for maintaining the redox balance in cells because GSH compensates for the constantly and
+physiologically generated reactive oxygen species (ROS). GSH
+is also responsible for the detoxification of foreign substances
+entering the cell. However, if the concentration of the foreign
+substance is increasing, the cellular GSH is depleted (as a result
+of the detoxification), and the redox balance is impaired. The
+consequence is cellular stress as a result of the increased ROS concentration. Thus, necessary cell functions in the immune system
+are impaired.
+A further effect on the immune system is a result of the influence of substances from dental materials on the cellular bacterial
+defense system. Bacterial surface antigens, such as lipopolysaccharides (LPSs) from gram-negative bacteria or lipoteichoic acid from
+gram-positive bacteria, are recognized by the immune cell surface
+receptors of human macrophages, which then, through intracellular signal transduction, results in the release of interleukin-1 (IL-1)
+or interleukin-6 (IL-6) or tumor necrosis factor alpha (TNF-α).
+These substances are secreted to induce inflammation, with the
+aim of eliminating the invading bacteria (bacterial clearance).
+Figure 17-14 shows a graph of the amount of TNF-α secreted
+by monocytes after LPS stimulation (control) and after additional exposure to HEMA in different concentrations. Exposure
+to HEMA clearly reduced the TNF-α secretion and therefore
+impaired bacterial clearance. The significance of this effect is that
+the relatively small amounts of HEMA released from, for example,
+dental adhesives can alter the normal functions of immune cells,
+
+(TNF-α) by monocytes after exposure to different concentrations of hydroxyethyl methacrylate (HEMA). The TNF-α secretion shown on the yaxis is plotted against the HEMA concentration on the x-axis for cells that
+were either stimulated by lipopolysaccharide (+LPS) or not stimulated by
+lipopolysaccharide (−LPS). HEMA reduces the immune response toward
+LPS/bacteria. (Courtesy Dr. John Wataha.)
+
+thereby contributing to the potential immunotoxicity of some
+dental materials.
+
+Effect on the Environment
+Dental practice generates not only sharps and infectious waste
+but also chemical waste. In many countries the disposal of special chemical waste is regulated by laws. For example, any residues
+from placing amalgam fillings, such as scraps or used amalgam
+capsules, have to be disposed of properly. Of special importance
+are amalgam particles produced during the removal of amalgam
+restorations. So-called amalgam separators have been developed in
+order to remove—according to ISO 11143—at least 95% of these
+particles from the effluent water of dental practices. Within the
+Minamata Convention of 2013, aimed at reducing the discharge
+of mercury into the environment worldwide, the installation of
+such amalgam separators has been mentioned as one provision to
+reduce the mercury discharge from dental practices. Such particles
+are also generated during the removal of other restorative materials, such as resin composites.
+
+CRITICAL QUESTIONS
+What are the obligations of the clinician to prevent occupational hazards for
+the practice team?
+
+Occupational Hazards for Dental Personnel
+Dental technicians are exposed to significantly more metallic elements and monomers than the general population. Inhalation and
+aspiration of various dust and toxic vapors, which are generated
+during the heating, melting, and finishing of certain alloys and
+the processing of resin materials, may irritate the respiratory and
+gastrointestinal systems of these technicians and may cause toxic
+or allergic reactions.
+
+364
+
+PA RT V
+
+Assessing Dental Restorations
+
+Pneumoconiosis is a severe fibrotic lung disease that can be
+caused by chronic exposure to inorganic dust. A 1993 epidemiological study reported a prevalence of this lung disease in
+approximately 15% of dental technicians after 20 years or more
+of exposure. The prevalence in the general population is less than
+1%. Pneumoconiosis is caused by dust that is generated during
+the finishing of base-metal frameworks and comprises silica and
+silicon carbide from abrasives (Chapter 16, Biological Hazards of
+Abrasive Procedures); asbestos; or alloys such as Co-Cr, Co-CrMo, and Ni-Cr-Be. Silicosis is the most common occupational
+disease among dental technicians. According to the World Health
+Organization (WHO) International Agency for Research on
+Cancer (IARC), beryllium and beryllium compounds are carcinogenic to humans. The incidence of pneumoconiosis increases
+significantly among dental technicians working in laboratories
+with insufficient dust-handling facilities. However, such lung diseases may occur only if currently recognized safety precautions
+(see following discussion) are not followed. Furthermore, there is
+no evidence to suggest that metallic dental restorations increase
+carcinogenic risks in patients.
+Dental technicians also report more allergic contact dermatitis
+than the general population because they have frequent contact
+with alloys or methacrylate-based monomers, such as methylmethactylate (MMA). However, data on the frequency of such
+reactions among dental technicians vary from slight to major risks.
+Improved safety measures in dental laboratories have reduced the
+frequency of contact dermatitis from allergen exposure, although
+wearing gloves may increase the allergic reaction to latex. The
+most frequent allergens are different acrylates, followed by metals
+like palladium and nickel.
+Adverse occupational reactions are common for dental office
+personnel exhibiting various forms of hand or facial contact
+dermatitis, as well as respiratory disease. Contact-type reactions
+occurred most often because of exposure to acrylates, formaldehyde, fragrances, latex, and rubber additives. Allergic reactions
+to latex gloves are well recognized for dental office staff. Metallic
+dental materials do not seem to be a major occupational hazard
+for dental personnel. The special problems related to mercury handling are described later in the chapter (Dental Amalgam section).
+Also, allergic respiratory problems such as asthma, rhinitis,
+and laryngitis have been reported for dental personnel, especially
+by dental auxiliary personnel. The reason is exposure to different
+acrylates, usually those contained in dental adhesives. If a type I
+reaction is suspected, a prick test (pricking the skin on the inner
+side of the forearm with a needle or pin containing a small amount
+of the allergen) can be performed.
+Since the last century, dentists have worn gloves when treating patients, mainly to reduce the risk of microbial transmission.
+However, wearing gloves does not protect against the exposure of
+the skin to substances like monomers. Therefore a so-called “notouch-technique” is recommended to avoid contact of uncured
+materials with both protected and unprotected skin.
+
+Biocompatibility Testing
+Biological testing of materials has evolved significantly since the
+1950s and 1960s. Comparability of test results between laboratories was soon recognized to be possible only if test methods
+were standardized. In 1980 the Fédération Internationale Dentaire (FDI) published its “Recommended Standard Practices for
+Biological Evaluation of Dental Materials.” In the same year,
+American National Standards Institute (ANSI)/American Dental
+
+Association (ADA) Specification No. 41, under the same title,
+became effective. Both documents were a collection of generally
+accepted standardized test methods and represented great progress
+toward the establishment of biological test programs for dental
+materials. The FDI recommendation has led to the publication
+of ISO 7405:1997, Preclinical Evaluation of Biocompatibility
+of Medical Devices Used in Dentistry—Test Methods for Dental Materials. This ISO standard was revised in 2008 and 2018.
+Meanwhile, ANSI/ADA No. 41 was also revised extensively and is
+now largely identical to ISO 7405:2018.
+
+Purpose of Biocompatibility Testing
+The primary purpose of biocompatibility testing is to protect
+dental patients, dental personnel, and the environment. Before
+the actual testing, there is a clinical risk assessment for the new
+material that needs to be completed. This risk assessment must
+take into consideration the intended function of the material in
+the mouth, the physical and chemical characteristics, the material’s release of substances, location, and the time of exposure. The
+outcome of the clinical risk assessment determines the tests to be
+performed.
+The law requires that the manufacturer provides a clinical
+risk assessment together with necessary tests as a prerequisite for
+market access of new materials and for newly emerging risks for
+materials that are already on the market (see Legal Requirements
+section). The clinician should be familiar with the basic concepts
+of biocompatibility testing in order to be able to critically evaluate the claims of the manufacturers. As such, the discussion of the
+evaluation of biological effects of dental materials is based on the
+principles of (1) the release of substances to reach these sites, (2)
+their intrinsic (i.e., molecular) toxicity, (3) their concentrations,
+and (4) the exposure times, which may range from seconds to
+years. Finally, the relevant tests have to be performed and the risks
+fully evaluated.
+
+CRITICAL QUESTION
+How can a material exhibiting no obvious biological effects by itself alter body
+functions?
+
+Release of Substances From Materials
+Each biomaterial can degrade and release components under certain environmental and physical conditions. The environment–
+material interface is an active site for the corrosion of alloys that
+alters the material’s surface structure and releases metallic ions to
+the body. A decline in pH may also occur at the biofilm–material
+interface after intake of cariogenic food and may increase the corrosion of certain dental alloys and the release of substances from
+glass-ionomer cements (GICs). A change in the environment
+caused by acidic substances such as citrus juices or regurgitated
+hydrochloric acid can alter the surfaces of ceramics. On the other
+hand, high-pH environments may also increase the dissolution of
+some materials, such as glass-phase ceramics. Another factor that
+increases the potential for the release of substances is the surface
+roughness of a restoration or prosthesis. Rough surfaces promote
+the corrosion of alloys and the liberation of monomers and catalysts from resin materials.
+Unfinished surfaces of resin composites and pit-and-fissure sealants have an oxygen-inhibited outer layer that may be more susceptible to leaching monomers or impurities such as bisphenol A.
+
+CHAPTER 17
+
+Also, unpolymerized monomers or other unreacted components
+of set resin composites can be liberated over time. For resin-based
+composites, the lipophilicity of the environment is important,
+and more substances are eluted, for example, in ethanol compared
+with water. The release of substances generally declines after setting, as was shown for resin composites. However, substances are
+also released over an extended period of time.
+
+Biocompatibility
+
+claim that allergic reactions are dose independent. However, clinical experience shows that patients with proven contact dermatitis to nickel ions may, in certain cases, tolerate nickel-containing
+alloys in the mouth. One explanation is the extremely low concentration of Ni caused by the diluting effect of saliva.
+
+CRITICAL QUESTION
+Why does test exposure time matter in conducting biocompatibility tests?
+
+Dose–Response Relationship of Toxicity
+Paracelsus (1493−1541), who is sometimes referred to as the
+“father of toxicology,” stated, “All things are poison, and nothing is without poison; only the dose permits something not to be
+poisonous.” In short, “The dose makes the poison.” The statement
+indicates that toxicity is dose dependent; the effect of a specific
+dose of a therapeutic substance may be toxic, nontoxic, or beneficial. The quantity of a substance (in milligrams) ingested by test
+animals is often expressed as milligrams per kilograms of body
+weight (mg/kg bw).
+Figure 17-15 shows a typical dose–response curve from a cellculture test (cytotoxicity test), where cell viability, measured as
+relative optical density, decreases with an increase in the dose of the
+applied chemical (e.g., ZnCl2). Two important concepts evolved
+from the dose–response plot. A dose can be described either as a
+lethal dose (LD), in which the response is the death of animals or
+cells, or an effective dose (ED), in which the response is another
+observable outcome. The plot allows us to identify the doses that
+affect a percentage of the exposed population. For example, lethal
+dose fifty (LD50) is the dose that kills 50% of the test organisms.
+The plot also shows that there are doses of a substance that do
+not elicit any adverse biological reaction, called the threshold dosage, and the highest nontoxic dose is the so-called no-observedadverse-effect level (NOAEL).
+Not all biological reactions to dental materials follow this strict
+dose concept. As has been mentioned, allergic reactions can occur
+at much lower concentrations than toxic reactions, and they are
+rather insensitive to the concentration of allergen. Some even
+
+Test Requirements
+The test conditions and the interpretation of the test results
+should reflect the nature of body contact and the duration of
+that contact (ISO 10993-1). The nature of contact can be a
+surface contact, an externally communicating medical device,
+or implanted medical devices. Materials may contact an intact
+or a breached surface. For instance, removable dentures contact
+the mucosal membrane, which mainly is intact, but periodontal
+dressings contact breached mucosal surfaces. Dental restorative
+materials generally belong to the group of externally communicating devices. This classification obviously reflects the presence
+or the lack of a barrier, such as the epithelium or the dentin,
+between the material and the target tissue. No such barrier is
+present for dental implants.
+The duration of contact is grouped into (1) limited (≤24 hours),
+(2) prolonged (>24 hours to 30 days), and (3) long term (>30
+days) contact (ISO 10993-1). For example, impression materials
+are used only for a few minutes, and temporary cements are in
+the mouth for up to a few weeks. For short-term exposures, the
+risk for allergic reactions is of special concern but not the risks of
+chronic toxic or mutagenic effects. In general, the most demanding tests are designed to evaluate materials that are expected to last
+for the longest times.
+All available biocompatibility tests are so-called “models,”
+always representing one specific aspect of biocompatibility, and
+as such, a model may not meet all the requirements mentioned
+
+Relative optical density (%)
+
+150
+
+100
+
+50
+
+0
+NOAEL
+
+–50
+1E-2
+
+1E-1
+
+365
+
+1E0
+
+1E+1
+
+1E+2
+
+LD50
+
+1E+3
+
+1E+4
+
+1E+5
+
+Concentration of ZnCl2 (M)
+
+• Figure 17-15 Typical dose–response curve indicating the biological reaction (cell metabolism, measured
+as relative optical density) in relation to the applied dose of Zn2+. Single measurements are shown (in circle)
+in combination with a best-fit curve (solid) and 95% confidence interval (dotted lines). The lethal dose fifty
+(LD50) is the concentration of Zn2+ that affects 50% of the culture; the no-observed-adverse-effect level
+(NOAEL) is the highest concentration that has no effect.
+
+366
+
+PA RT V
+
+Assessing Dental Restorations
+
+previously. Therefore a set of tests is necessary for a final evaluation
+of the biocompatibility.
+
+CRITICAL QUESTION
+Is there one best test to measure biocompatibility?
+
+Types of Biocompatibility Tests
+Three types of tests are used to analyze the biocompatibility of
+dental materials: (1) in vitro tests, (2) animal tests, and (3) usage
+tests performed in experimental animals or humans. Tests can be
+performed either with the material or with an extract. Extracts are
+prepared by placing a test material with a defined surface into a
+liquid (e.g., saline or cell-culture medium) of a given volume for a
+defined period of time. The terms eluate and extract are often used
+synonymously in the literature.
+
+In Vitro Tests
+For in vitro tests, the candidate material or an extract of the material is placed in direct or indirect contact with some biological system outside of an organism in a container (e.g., cell-culture dishes
+or test tubes). Indirect contact involves a barrier such as agar, a
+membrane filter, or dentin between the test material and the target biological system. The goal of indirect contact is to improve
+the relevance of cell-culture tests for certain clinical situations.
+For example, a dentin–disk barrier mimics the tooth cavity in a
+cell-culture system. Biological systems may consist of mammalian cells, cellular organelles, tissues, bacteria, or certain enzymes.
+The main endpoints to be recorded are cytotoxicity, genotoxicity,
+and mutagenicity. In vitro tests are relatively fast and inexpensive.
+They can easily be standardized and controlled to provide highly
+reliable and reproducible measurements.
+The in vitro tests, however, lack the ability to closely simulate
+the complex interactions that exist in an organism between and
+among the immune, inflammatory, and circulatory systems. The
+poor correlation between cytotoxicity assays and pulp reactions
+for some restorative materials in animal models has been reported.
+In conclusion, in vitro tests can be used to check if a substance
+eluted from the test material has the general potential to be harmful to cells. In vitro tests for assessing genotoxicity or mutagenicity
+are often used to assess the carcinogenic potential of a new material in order to avoid complex and expensive animal experiments.
+Animal Tests
+Animal tests differ from in vitro tests in that an intact animal
+(e.g., cats, ferrets, guinea pigs, hamsters, mice, and rats) is used
+rather than cells or tissues of animal or human origin. In some animal tests, the test materials are not applied as intended in dental
+patients (e.g., restorative materials are implanted subcutaneously
+in rats for evaluation of nonspecific toxic response). For acute or
+chronic toxicity tests to determine LD50 values, test materials are
+ground and fed to animals. Because oral ingestion in such quantities is not realistic, the relevance of such tests for dental materials is
+questioned. Many other animal models are described in the literature for testing certain material properties (e.g., carcinogenicity),
+but they are rarely used for testing dental materials, and respective
+in vitro methods are used instead.
+The advantage of animal tests lies in their ability to permit
+intact biological systems to respond to or interact with a candidate
+material. The disadvantages of animal tests are their high costs, the
+difficulty in controlling confounding factors, and the length of
+
+time that may be required to obtain a measurable response. Also,
+animal rights activists and other individuals criticize these tests
+because of ethical concerns regarding the use of animals. Finally,
+the relevance of animal tests in simulating human responses is
+often challenged. In spite of these disadvantages, animal tests are
+still relevant for evaluating certain risks of new materials prior
+to their clinical use, such as testing the sensitization potential in
+guinea pigs.
+
+Usage Test
+In this group of tests, materials are applied in the test animal as
+they are in the patient (e.g., a class V cavity is prepared in monkey
+teeth and filled with the test material). After up to 3 months, the
+pulp reaction is evaluated histologically. Such usage tests can also
+be performed in humans (e.g., in teeth scheduled for extraction
+for orthodontic reasons). The choice of animals for a usage test
+usually involves larger animals with an anatomy similar to that of
+humans, such as dogs, monkeys, or sheep. The ultimate relevance
+of a usage test depends on the extent to which the test simulates
+the clinical use of the product.
+Human clinical trials may be regarded as the best-known usage
+test, but there are limitations. Very often no histology is performed, and from clinical symptoms alone, no evaluation of the
+real damage to the pulp after placement of a restorative material
+is possible. Furthermore, teeth scheduled for extraction because of
+orthodontic reasons are normally obtained from young patients.
+These teeth have rather open apices, which may react differently
+from the teeth of older patients, which have narrow apical openings and may potentially have previous pulp damage from caries.
+Usage tests involving either animals or human subjects have
+several disadvantages, including their design complexity, the difficulty in controlling experimental variables, and interpretation
+challenges. If humans are used in a clinical trial, approval for the
+proposed usage tests must be obtained from an institutional review
+board. Such tests usually take a long time, which adds considerably to the typically high cost of using human subjects. Finally,
+human usage tests may involve legal and confidentiality issues that
+do not occur for animal and in vitro tests.
+All test methods just mentioned have advantages and limitations. As cell-culture techniques evolve, animal-based tests are
+continuously being replaced by in vitro tests, along with imaging
+techniques and research focused on mechanisms that control the
+biological responses to materials. Biocompatibility testing in the
+future may lead to more reliable predictions of adverse effects, and
+this knowledge of biological properties may allow us to formulate materials that provide specific, desired biological responses.
+However, one should keep in mind that to date, no test can guarantee that a substance will not cause an adverse effect in individuals exposed to that material in the clinic. Therefore postmarket
+surveillance is of utmost importance (see Legal Regulations and
+Risk Classes section).
+Test Strategy
+All test methods discussed previously have obvious pros and cons,
+and thus following certain test strategies is advisable. In vitro tests
+should initially be performed for cytotoxicity or genotoxicity/mutagenicity evaluation. Assessment is then made if the results from in
+vitro tests together with what is known from the literature are sufficient to fulfill the biocompatibility criteria. If not, animal tests such
+as allergy tests using guinea pigs are performed. Afterward, a new
+assessment is made to determine whether further testing is necessary. The strategy is shown in Figure 17-16. Clinical tests in some
+
+CHAPTER 17
+
+Acceptable risks
+
+Reassessment
+
+Clinical tests
+
+Reassessment
+
+In vivo tests (animal experiments)
+
+Reassessment
+
+In vitro tests (cell cultures)
+
+Risk assessment by an expert
+
+• Figure 17-16 Strategy of biocompatibility testing. Based on a clinical
+risk assessment if necessary, in vitro tests are performed. After reevaluation, it will be decided if an animal test is necessary. Then a further reevaluation follows, and so forth. (From Schmalz G, Arenholt-Bindslev D, editors:
+Biocompatibility of Dental Materials. Berlin-Heidelberg, 2009, Springer.)
+
+countries are mandatory for materials that are considered to be of
+high risk. The final decision for market clearance is then made by
+an interchange between manufacturers and a government agency
+(e.g., the U.S. Food and Drug Administration [FDA] in the United
+States) or a private organization with authority granted by a government agency.
+
+CRITICAL QUESTION
+If you were presented with a new material, never before used in a human
+being, how would you decide if it was safe for use as a dental restorative
+material?
+
+Responsibilities
+The manufacturer is responsible and liable for a new material to
+meet all requirements regarding biocompatibility (see Legal Regulations and Risk Classes section). When such products are released to
+the profession, dentists, dental staff, and patients must assume that
+sufficient safety testing has been performed to minimize potential
+risks. The question is, how much evidence is sufficient to demonstrate that a product is sufficiently safe for general clinical use? The
+consensus of several parties (i.e., manufacturers and government
+agencies) is a prerequisite, as discussed later in this chapter. In addition, the clinician also has certain responsibilities in this respect.
+First of all, the clinician must strictly follow the instructions
+for use with the correct material indications. If the clinician does
+
+Biocompatibility
+
+367
+
+not follow the indication, the manufacturer is no longer liable.
+Furthermore, the clinician must apply state-of-the-art techniques;
+for instance, insufficient curing of resin materials results in increased
+cytotoxicity of the material and impaired mechanical properties.
+New risks may arise with materials already on the market (e.g.,
+estrogenicity associated with sealants), and the clinician must be
+able to critically assess the information provided by the manufacturer or in the scientific literature. The information on biocompatibility provided by the manufacturer may be insufficient because
+the detailed composition of the materials is often not declared. If
+a patient is allergic to certain monomers or metals, the clinician
+needs to know the composition of the material to be used to avoid
+an adverse effect. If in doubt, the clinician can contact the company directly to obtain this information.
+Manufacturers often make special claims regarding their materials, such as bioactivity. The clinician must be very critical of such
+claims, which should only be generated on the basis of neutral
+information and basic knowledge. More importantly, one can
+search for the most current evidence in the PubMed, Web of Science, or other databases with key words or MeSH terms.
+A request should be made to national agencies in the dentist’s
+home country to determine whether any adverse-event reports
+have been made. As one might expect, unless catastrophic failures
+have occurred soon after the product’s introduction, the shorter
+the time that the product has been in existence, the smaller the
+number of adverse-effects reports that will be found. Furthermore, legal regulations may require that dentists report adverse
+reactions they observed with their patients (see Postmarket
+Surveillance section).
+Finally, the clinician should be well informed about the biocompatibility of dental materials to answer the queries of patients.
+Biocompatibility is a current topic for the media, and there is lots
+of information available on the Internet, some of which is not
+based on scientific evidence. The clinician must be able to provide
+correct answers to the patient.
+
+Biocompatibility Testing Standards
+Because of the multifactorial nature of biocompatibility and the
+large number of different test methods described in the literature,
+standardization is essential for the unbiased comparison of results
+from different studies, and standards are helpful to fulfill the
+legal requirements for biocompatibility. The two ISO standards
+relevant to the biocompatibility of devices and materials in dentistry are ISO 10993, Biological Evaluation of Medical Devices;
+and ISO 7405:2018, Evaluation of Biocompatibility of Medical
+Devices Used in Dentistry.
+ISO 10993 consists of more than 20 single standards and
+related documents, each addressing a different area of biological testing of medical devices (which includes dental materials). For example, Part 1 describes the general requirements for
+biocompatibility testing; Part 3 describes tests for genotoxicity,
+carcinogenicity, and reproductive toxicity; Part 5 describes different tests for cytotoxicity; and Part 10 describes tests for irritation and skin sensitization. ISO 7405:2018 describes the tests
+that are specific to dental materials. For example, the standard
+describes dentistry-specific cytotoxicity tests and all usage tests,
+such as the pulp/dentin test, the pulp capping test, the endodontic usage test, and the implant usage test, as well as the dentin–
+disk barrier test in a cell-culture system described earlier. Clinical
+risk assessment (see Figure 17-16) can be performed as recommended in ISO 14971:2019, Medical Devices—Application of
+
+368
+
+PA RT V
+
+Assessing Dental Restorations
+
+Risk Management to Medical Devices, where the different steps
+for selecting the appropriate tests are delineated.
+Standards are regularly reviewed and revised. However, standards also have some disadvantages. Standards may not always
+keep pace with the development of new scientific technology. In
+addition, standards are developed based on agreements and compromises among manufacturers, academicians, and the dental
+profession, which is a time-consuming process. Standards may be
+considered arbitrary in nature because certain tests are selected
+out of a larger number of methods. However, in spite of these
+limitations, standards for biological testing are necessary to ensure
+the biological safety of medical and dental products, and they are
+generally considered to represent the state of the art in biocompatibility testing.
+
+Safety Data Sheets
+Each dental product is supplied with a Safety Data Sheet (SDS),
+also known as a Material Safety Data Sheet (MSDS) before 2013
+or a product safety data sheet (PSDS). In the United Kingdom, the
+Control of Substances Hazardous to Health (COSHH) requires
+such information. This is a standardized report on the properties of
+a particular product/substance, for example, melting point, boiling
+point, and flash point. This report is intended for occupational settings and is essential for users and emergency personnel because this
+data sheet describes procedures for handling or working with the
+material safely. In addition to physical data, this document identifies
+toxicity risks, health effects, first-aid procedures, reactivity, storage
+and disposal conditions, and where applicable, procedures for firefighting. Furthermore, SDSs contain information on the types of
+protective equipment that should be used and procedures that must
+be followed for accidental releases and handling of spills. Limited
+information on the composition of the material is also included.
+
+Labeling
+Labeling requirements are based on national or international legislation. Besides other obligations, potentially harmful substances
+must be properly labeled to minimize the risk of injuries to anyone
+who may come in contact with them and the risks of environmental exposure. The United Nations has installed a Globally Harmonized System of Classification and Labeling of Chemicals (GHS),
+which provides a harmonized basis for labeling. Special pictograms may be placed on the package in addition to so-called Hand P-statements. H-statements are a set of standardized phrases
+about the hazards of chemical substances. P-statements are a set
+of precautionary statements. Examples of the GHS pictograms are
+shown in Figure 17-17.
+
+Legal Regulations and Risk Classes
+The Dental Products Panel (DPP) of the FDA Medical Devices
+Advisory Committee reviews and evaluates data concerning the
+safety and effectiveness of marketed and investigational products
+for use in dentistry, endodontics, or bone physiology relative to
+the oral and maxillofacial area and makes appropriate recommendations to the Commissioner of Food and Drugs.
+
+Risk Classes
+The FDA classifies all medical devices into one of three classes—
+Class I, II, or III—according to the risk-based regulatory
+
+controls necessary to provide a reasonable assurance of the safety
+and effectiveness of a device. Class I devices generally pose the
+lowest risk to the patient/user, and Class III devices pose the
+highest risk. Dental devices that are not specifically exempted are
+required to be cleared by FDA prior to distribution into interstate commerce.
+There are three levels of regulatory controls: general controls,
+special controls, and premarket approval (PMA). General controls have the least amount of regulatory control and are used
+whenever the level of device risk is low. They apply to all three
+classes of devices and include adulteration or misbranding,
+device electronic establishment registration and listing, premarket notification, quality systems, medical device reporting,
+and labeling. Special controls apply when general controls alone
+are insufficient to ensure safety and effectiveness. They apply
+to Class II devices and include device guidelines and manuals,
+adhering to mandatory performance standards, recommendations or other actions, and special labeling. PMA is necessary
+whenever general or special controls cannot provide sufficient
+information to ensure medical device safety and effectiveness.
+They apply to Class III devices and include clinical investigations, safety and effectiveness data, adverse reactions and complications, patient information, and many more according to
+the type of device.
+If the manufacturers intend to introduce a device to the U.S.
+market that does not require the standard PMA (e.g., Class II
+devices), they need to submit a 510(k). The 510(k) is a premarket
+submission to FDA to demonstrate that the device is at least as
+safe and effective as, that is, substantially equivalent to, a legally
+marketed device that is not subject to PMA. Most of the submissions to the Dental Branch are 510(k) types of submissions.
+Similar regulatory systems have been established in other parts of
+the world. For example, the EU system also uses risk Classes I, II, and
+III but subdivides Class II into IIa and IIb. Dental devices are mainly
+in Class I or IIa; dental implants are in Class IIb. Class II devices
+require the involvement of a “notified body,” and Class III require a
+device examination by a “notified body” (comparable to the PMA).
+
+Postmarket Surveillance
+Even if all available test methods and required evidence are used
+and exercised with due diligence, an adverse reaction may still
+occur when a large population is exposed to a new material.
+Therefore clinicians are required (in some countries by law) to
+report observed adverse reactions to competent authorities. The
+FDA receives adverse-event reports on devices as either individual
+reports or summary reports. Individual reports include voluntary
+reports submitted by health care providers and consumers through
+MedWatch (http://www.fda.gov/Safety/MedWatch/default.htm),
+the safety information and adverse-event reporting program of
+the FDA. Manufacturers and user facilities submit mandatory
+reports.
+
+Side Effect of Various Material Groups
+To assess the biocompatibility of a material, it is necessary to know
+the composition, the substances released, and the chemical/physical characteristics of both the material and the substances released.
+Biocompatibility cannot be predicted by the composition alone.
+The material groups of interest include dental amalgam, methacrylate-based resins, dental alloys, dental ceramics, hydrofluoric
+acid, GICs, and latex products.
+
+CHAPTER 17
+
+PICTOGRAM
+
+MEANING OF PICTOGRAM
+
+Acute Toxic
+
+TYPE OF HAZARD(S)
+(Associated with this pictogram)
+
+The chemical is a risk to
+health if used improperly.
+
+• Carcinogen
+• Mutagenicity
+• Reproductive Toxicity
+• Respiratory Sensitizer
+• Target Organ Toxicity
+• Aspiration Toxicity
+
+The chemical is a serious
+health or physical hazard
+or poison. It will produce
+adverse effects following a
+single dose. This pictogram
+is usually used in combination
+with the Health Hazard Pictogram.
+
+• Acute Toxicity (fatal or
+toxic) if inhaled or
+swallowed, or if it comes
+in contact with the skin.
+
+The chemical may cause
+immediate, serious health
+effects but it is less severe than
+the Severe Toxic pictogram (skull
+and crossbones). This pictogram
+is usually used in combination with
+the Health Hazard Pictogram.
+
+• Irritant (skin and eye)
+• Skin Sensitizer
+• Acute Toxicity
+• Narcotic Effects
+• Respiratory Tract Irritant
+
+The chemical may burst into
+flame. Be careful to keep away
+from ignition sources and
+combustible materials.
+
+• Flammables
+• Pyrophorics
+• Self-Heating
+• Emits Flammable Gas
+• Self-Reactive
+• Organic Peroxides
+
+The chemical is a physical or
+health hazard that can easily
+damage skin or eyes. Be aware
+of PPE and storage requirements.
+
+• Skin Corrosion/Burns
+• Eye Damage
+• Corrosive to Metals
+
+The chemical may cause other
+materials to ignite or burn faster.
+It can create an increased fire
+risk in work or storage environment.
+
+• Oxidizers
+
+Health Hazard
+
+Severe Toxic
+
+Biocompatibility
+
+Flammable
+
+Corrosive
+
+Oxidizer
+
+Gas Under Pressure
+
+Explosive
+
+This chemical consists of
+pressurized gas that would
+explode, rocket, or damage
+health if heated, ruptured,
+or leaking.
+
+• Gases Under Pressure
+
+This material can blow up
+or otherwise create an
+uncontrolled reaction.
+Should be treated with
+extreme caution.
+
+• Explosives
+• Self-Reactives
+• Organic Peroxides
+
+• Figure 17-17 Examples for labeling according to the Globally Harmonized System of Classification and
+Labeling of Chemicals (GHS) system. This labeling system, developed for chemicals, is often used for
+labeling dental materials.
+
+369
+
+370
+
+PA RT V
+
+Assessing Dental Restorations
+
+CRITICAL QUESTION
+What evidence or documentation can you provide to dental patients to assure
+them that amalgam is a safe material for dental restorations for the general
+population?
+
+Dental Amalgam
+Although amalgam is an alloy of metals such as Ag, Sn, Cu, or Zn
+with Hg, most of the controversy stems from the known toxicity
+of mercury and the question of the toxic effects of mercury within
+amalgam restorations.
+
+Mercury
+Mercury occurs naturally and exists in the environment in three
+forms: metallic mercury (Hg⁰), inorganic salts (HgS and HgCl2),
+and organic mercury (CH3Hg and C2H5Hg). Microorganisms
+and various natural processes can convert metallic mercury to
+inorganic compounds, inorganic mercury to organic compounds,
+or organic mercury to inorganic compounds. Methylmercury is
+the most common organic form that is transformed by natural
+processes in the environment and is more toxic than ethyl mercury, metallic mercury, or the inorganic salts. Methylmercury is a
+major safety concern because it bioaccumulates through the food
+chain, mainly in large fishes such as sharks, swordfish, and tuna,
+and enters the human body through fish consumption. Metallic mercury accumulates in the kidneys and the brain. In the
+brain, metallic mercury can be converted to inorganic salt with
+an increased retention time. The half-life ranges from 13 to 99
+days depending on the form, with metallic mercury exhibiting a
+longer half-life than inorganic forms. Evidence from primate studies, human case studies, modeling studies, or experimental studies
+shows a large variation of data, but the half-life of inorganic mercury in the brain may be years or decades.
+Metallic mercury gains access to the body via the skin or as
+a vapor inhaled through the lungs. Ingested metallic mercury is
+poorly absorbed from the gut (0.01%), which makes inhalation
+of mercury vapor the primary portal into the body. Absorption
+of ingested inorganic mercury in the gut is 1% to 7%. Excretion may occur through exhaled vapor or through urine, feces,
+or skin (sweat). For example, mercury vapor is readily absorbed
+after inhalation. Dissolved mercury can be transported through
+blood and distributed to the brain and other organs and excreted
+by exhalation and in urine. Metallic mercury is transported to
+blood cells and tissues, where metallic mercury is oxidized rapidly
+to mercuric ions (Hg2+).
+Numerous tests for the body burden of mercury have been
+developed, including those based on the analysis of blood, urine,
+and hair. Of these test parameters, the measurement of mercury
+in the urine after 24 hours may be the best long-term indicator
+of the total metallic mercury body burden (expressed as μg/L)
+or normalized to grams of creatinine in urine (expressed as μg/g
+creatinine). Normal levels of creatinine in urine are between
+0.6 and 1.1 mg/dL (females) and 0.7 and 1.3 mg/dL (males).
+Sampling of metals in hair, nails, feces, bone, and teeth is also
+advocated in certain cases as a partial indication of long-term
+exposure.
+Symptoms of Mercury Poisoning
+The nervous system is sensitive to all forms of mercury, although
+the brain is most sensitive to metallic mercury and methylmercury. Acute symptoms of mercury poisoning are mainly a result of
+
+spillage of liquid mercury in confined industrial spaces. The first
+sign is dyspnea. This may be followed by paroxysmal cough, chest
+pain, pulmonary infiltration, chills, nausea, and vomiting. Fatal
+outcomes have also occurred.
+Chronic exposure levels indicated by a mercury concentration
+in urine of 5 μg/g creatinine (or 7 μg/L) are associated with no
+risk; concentrations of >20 μg/g creatinine are associated with
+increased risk of subtle or unclear symptoms; at 50 μg/g creatinine, subclinical adverse effects of kidney function may occur; and
+the level of 100 μg/g creatinine is considered the onset of mercurialism. Symptoms of mercurialism include weakness, fatigue,
+anorexia, weight loss, insomnia, irritability, changes in personality,
+dizziness, tremors in the extremities or the eyelids, memory loss,
+and impairment of vision and hearing. Although amalgams do
+not release anywhere near toxic levels of mercury, the long half-life
+of mercury in the body raises concerns among some individuals.
+
+Mercury Release From Amalgam and Body Uptake
+A low quantity of mercury is released from amalgam restorations
+as a result of a passive tarnish layer on the surface. The total
+mercury uptake from dental amalgams was estimated to be 1 to
+3 μg/day, depending on the number and size of amalgam restorations present, although an uptake as high as 17 μg/day has been
+reported. The WHO limit for the provisional tolerable weekly
+intake (PTWI) value is 5 μg/kg bw or 50 μg/day for a 70-kg
+person. The main source of mercury uptake from amalgam fillings is inhaled mercury vapor. Methylmercury is not released
+from amalgams but is generally a product of bacteria or other
+biological systems acting on metallic mercury, mainly in the
+environment and taken up by humans through fish consumption. The conversion of inorganic mercury into methylmercury
+inside the human body generally does not take place or only
+in minor amounts. The total uptake of mercury from amalgam
+fillings is reflected in an increased blood/urine level of mercury.
+An increase of 1 to 1.8 μg/L of mercury in urine for each 10
+restored amalgam surfaces is estimated, with more recent data
+demonstrating lower values.
+Levels of 1 to 5 μg/L in urine were described as the normal
+range for nonoccupational groups. A 2013 study by Nicolae et
+al. reported that 5418 Canadians, aged between 6 and 79 years,
+with amalgam restorations of up to 65 surfaces per individual
+showed that the mean urine mercury concentrations for 98% of
+the group were below the levels associated with any health risks.
+One study estimated the uptake of food-related organic mercury
+to be approximately six times greater than the uptake of mercury
+from amalgam restorations. A large survey of the U.S. population
+published in 2016 confirmed that the inorganic mercury concentration in the blood increases with the number of amalgam
+restoration surfaces. However, the level was well below the safety
+threshold established by the WHO and the Environmental Protection Agency (EPA).
+The mercury burden of dental personnel is usually higher than
+for patients because of the application or removal of amalgam
+fillings but has decreased in recent years, probably as a result of
+improved handling techniques with amalgam, such as the use of
+amalgam capsules.
+Clinical Symptoms After Amalgam Application
+Most claims for adverse reactions to amalgam have been related
+to systemic effects. A main concern was directed toward the problem of neurological effects of mercury from amalgam fillings in
+children.
+
+CHAPTER 17
+
+Systemic Reactions
+
+Two extensive studies, the Casa Pia study of Portugal led by
+Dr. Timothy DeRouen and the New England study of the United
+States led by Dr. David Bellinger, were performed in parallel and
+reported in 2006. Each study included more than 500 children
+divided into two groups; one group received amalgam, and the
+other group received resin composite fillings. After 5 years, the
+level of mercury in urine in the children was larger with the amalgam group than that in the resin composite group in both studies.
+However, no neurological effects could be observed with either
+group in both studies. Later, the data/material of the studies was
+used for further biochemical analyses or genetic testing, and new
+groups of the children were formed. However, the results had been
+inconsistent, and such “post hoc” analyses (regrouping of existing
+data sets) are regarded as precarious because of possible bias.
+The literature on the possible adverse effects of mercury from
+amalgam is very extensive. The Scientific Committee on Emerging and Newly Identified Health Risks (SCENIHR), a scientific
+commission of the EU, published a review in 2015 of recent existing literature, which concluded that the current evidence does not
+preclude the use of amalgam for the general population. However, the choice of material should be based on the medical history of the patient, such as allergies or severe renal diseases, which
+impair the renal excretion of mercury. In summary, there are no
+data to show that mercury released from dental amalgam is harmful to the general population. The observation has been confirmed
+by a 2020 literature survey from the International Association for
+Dental Research (IADR) Science Information Committee.
+Nevertheless, a small number of patients claim that their complaints/symptoms are derived from their amalgam fillings. Several
+studies have investigated if claimed symptoms had disappeared after
+the removal of amalgam. Nerdrum et al. (2004) could not find any
+significant improvement of the symptoms after 7 years, but a questionnaire-based study by Kristoffersen et al. (2016) revealed some
+improvement. Melchart et al. (2008) reported that implementing
+a health-promotion program aimed at developing health-related
+lifestyle management skills had a similar effect as amalgam removal
+on the reduction of subjective complaints. The study also reported
+a significant reduction of the inorganic mercury concentration in
+the blood and urine for the amalgam-removal group.
+Local Reactions
+
+Lichenoid reactions have been associated with contact allergy to
+mercury from amalgam restorations and possibly mechanical irritation by the restoration. Their appearance can be whitish plaque-like
+
+Biocompatibility
+
+371
+
+or even with erosive parts. In the presence of such a reaction, the
+amalgam restoration should be corrected to remove the mechanical irritant or replaced with a mercury-free material. A study of
+patients with oral lichenoid contact reactions and positive patch-test
+reactions to mercury compounds showed that partial or complete
+replacement of amalgam fillings led to a significant improvement in
+nearly all patients. In very rare cases, a carcinoma may develop following a localized lichenoid reaction. These patients should be monitored regularly and referred to a specialist if the reaction persists.
+Amalgam debris can be trapped in the mucosal connective
+tissue during placement or removal of amalgam restorations
+through mucosal abrasions, lacerations, or compaction into the
+gingival sulcus. Amalgam may enter the socket or periosteum
+during tooth extraction or be left within the surgical site of an
+endodontic retrofill procedure. Over time, the debris corrodes
+and causes discoloration of the mucosa, known as an amalgam
+tattoo (Figure 17-18). Implanted amalgam does not normally
+cause acute tissue reactions and is normally totally asymptomatic.
+Therefore these fragments of amalgam generally do not need to be
+removed except for diagnostic reasons.
+Allergic Reactions
+
+Allergic reactions have been described, mainly related to mercury
+but less to amalgam. If a patch test of mercury is positive, no new
+amalgam restoration should be placed. Existing amalgam restorations should be replaced, if clinical symptoms are present.
+
+FDA Recommendations
+Recently, FDA has issued new recommendations for the use of dental amalgam (https://www.fda.gov/medical-devices/dental-devices
+/dental-amalgam-fillings). Briefly, FDA states that the majority of
+evidence suggests exposure to mercury from dental amalgam does
+not lead to negative health effects in the general population. Exposure to mercury may pose a greater health risk in certain groups of
+people, who may be more susceptible to potential adverse effects
+generally associated with mercury. These high-risk populations
+include:
+• Pregnant women and their developing fetuses
+• Women who are planning to become pregnant
+• Nursing women and their newborns and infants
+• Children, especially those younger than six years of age
+• People with pre-existing neurological disease
+• People with impaired kidney function
+• People with known heightened sensitivity (allergy) to mercury
+or other components of dental amalgam
+
+• Figure 17-18 Large blue-colored areas, typically referred to as an amalgam tattoo, which is a benign
+area of discolored mucous membrane in the mouth. These examples are not associated with allergic reactions to mercury or any other metallic elements in the amalgam fillings. The discoloration is caused by
+small amalgam granules that have fallen into open wounds created during the condensation and carving
+of amalgam fillings in prepared teeth (A and B) or retrograde fillings in root apices (C). (Upper two photos,
+Courtesy Dr. Hyun-Ju Chung.)
+
+372
+
+PA RT V
+
+Assessing Dental Restorations
+
+The FDA strongly encourages that alternative, non-mercury
+materials such as resin composites or glass ionomer cements be
+used when possible and appropriate. In addition, The FDA does
+not recommend anyone remove or replace existing amalgam fillings in good condition unless it is considered medically necessary
+by a health care professional.
+
+Environment
+In 2013, the Minamata Convention was signed and ratified
+by more than 120 countries, where participating countries are
+legally bound to reduce the mercury burden to the environment.
+Although the relative contribution of dental amalgam to environmental mercury exposure compared with fossil fuel combustion
+or small business gold mining is very low, a phase-down of dental
+amalgam use was agreed upon. A number of provisions for such
+a phase-down have been listed in the Minamata Convention of
+2013; provisions include improved caries prevention, the use of
+amalgam capsules, the installation of amalgam separators, and the
+research/development of new alternative materials. The clinician
+should check with the local authorities for the respective legal
+regulations to follow with regard to amalgam waste disposal.
+Handling of Mercury in the Dental Office
+Because of the potential health risks for dental personnel exposed
+to mercury from handling amalgam, special care must be exercised
+when using dental amalgam. In 2003 the ADA issued detailed recommendations that ensure safe handling of amalgam and amalgam waste. For more details, see Chapter 8, Mercury Hygiene in
+Dental Offices.
+
+Methacrylates and Resin Composites
+There is ample evidence that dental adhesives and resin materials
+release free monomers into biological environments over extended
+periods of time. Additionally, catalysts, accelerators, other additives, components within filler particles, and nanoparticles can
+be liberated. The amount of released substances depends on the
+degree of polymerization. Undercuring leads to an increased
+amount of released substances and increased cytotoxicity. Monomers have been shown to evaporate during procedures in the dental offices or processing in the dental laboratory. The measured
+monomer concentrations in the dental office are well below limit
+values but greater in the dental laboratories despite mandatory
+specific safety precautions. Although noticeable nanoparticles are
+released during grinding, polishing, or restoration removal, the
+amount of released particles is low, and no health risk for the dental personnel and the patient can be assumed. The main interest
+of this section is directed to the monomers that include bis-GMA
+and related molecules, urethane dimethacrylate (UDMA), TEGDMA, HEMA, or bisphenol A dimethacrylate (bis-DMA). Polyacid modified resin composites (“compomers”) have a similar
+composition as resin composites, and they can be assumed to have
+the same biological properties.
+
+CRITICAL QUESTION
+Why can resin composites be used although bisphenol A is released?
+
+Systemic Reactions
+Presently, the most intensively discussed systemic effect of resin
+materials is the (claimed) estrogenicity of bisphenol A (BPA) released
+from dental resin materials. The evidence of BPA estrogenicity is
+
+derived from molecular modeling studies and in vitro studies of
+estrogen receptor–BPA binding. These studies also show that BPA
+is probably 1000-fold less potent than the native estrogen hormone. Nonetheless, a number of diseases have been claimed to be
+associated with BPA exposure from many environmental sources,
+such as food can linings or polycarbonate plastics.
+BPA is a precursor of bis-GMA, bis-DMA, and similar aromatic
+monomers, which are used in resin composites. BPA can exist as
+an impurity in both monomers. Bis-GMA under physiological
+hydrolytic conditions does not degrade into BPA, but bis-DMA
+does. BPA is released from resin composites made of bis-GMA
+or related monomers over time as a result of the aforementioned
+impurities and from bis-DMA materials, also as a result of degradation. However, the total release is very low and several orders of
+magnitude below the presently accepted toxicological limit value
+for systemic exposure of 4 μg/kg bw.
+In vitro studies by Schweikl et al. (2006) showed that monomers such as HEMA or TEGDMA are genotoxic and mutagenic.
+These effects could be related to an intracellular increase of ROS,
+which occurred after GSH depletion resulting from monomer
+detoxification. As a result of a functioning p-53 protein, DNA
+damage was either repaired or the cells were transferred to apoptosis. Thus no tumor formation has been reported as a result of
+resin composites.
+As discussed before, nanoparticles are generated during grinding, polishing, or removal of resin composites restorations, but
+the quantity is so small that no risk can be assumed for the dental
+personnel and the patients. Nonetheless, the FDI issued recommendations in 2018 for dental personnel to further reduce the
+risk. They should use ample water spray during procedures whenever possible, wear a surgical mask, and sculpt restorations to neardesired form before light curing, thus reducing dust generation.
+
+Local Reactions
+Pulp Reactions
+
+Postoperative discomfort/sensitivity or pain shortly after the placement of resin composite restorations has often been attributed to
+fluid movement in the dentinal tubules but not to toxicity, even
+though resins before polymerization are known to be cytotoxic
+in vitro and leachable components traverse dentin. However, no
+toxic reaction of the dental pulp is observed histologically if the
+remaining dentin thickness is well above 0.5 mm. For deep cavity
+preparations, the observations are inconsistent, with some reporting no pulp reaction, mainly in animal experiments, and others
+reporting such reactions.
+In a direct pulp capping situation, pulpal inflammation with or
+without a dentin bridge (reparative dentin) has been described in
+patients. Interestingly, some studies using monkey models showed
+that resin materials did not cause an inflammation, and dentin
+bridging occurred. On the other hand, Bergenholtz, in 2000,
+reported an association of pulpal inflammation under resin composite restorations with the presence of bacteria at the cavity floor.
+The clinical consequences are that in flat or medium cavities, the
+meticulous use of adhesive technique is most important in order
+to avoid any bacteria at the cavity floor, and there is no risk of
+chemical pulp damage by the resin materials. Incorporating an
+antibacterial monomer in the adhesive resin has been reported.
+However, in deep cavities with the potential for pulp exposure, a
+base (e.g., a tricalcium silicate cement) should be applied at the
+cavity floor close to the pulp.
+The use of high-irradiance light-curing units (LCUs) may also
+lead to pulp damage in deep cavities. LCUs with no more than
+
+CHAPTER 17
+
+2000 mW/cm² and exposure times of up to 20 sec are generally
+used in dental practice. If LCUs with >2000 mW/cm² even with
+shorter exposure times are recommended, the manufacturer must
+provide sound scientific evidence of no tissue damage.
+Gingival Reactions
+
+Gingivitis close to resin-based composite fillings is mainly related
+to the property of resin materials facilitating biofilm formation.
+The acidic monomers in adhesives may cause a chemical burn on
+the gingiva, which heals within a few days. Denture stomatitis
+may appear as small reddish areas (Figure 17-10, A) on the mucosa
+covered by an acrylic-based appliance. Undercuring results in an
+increased release of cytotoxic monomers, with possible toxic effects
+on the adjacent gingiva in deep approximal cavities. An LCU with
+a very high irradiance may lead to local burns of the lips and the
+tongue, and a rubber dam provides no protection.
+
+Allergic Reactions
+Nearly 2% of dental personnel have been described to be allergic to
+resin-based adhesives/composites because of frequent exposure to
+nonpolymerized materials. The allergenicity of methacrylate-based
+materials such as HEMA or TEGDMA is well documented, and
+the use of gloves is not effective in preventing contact because most
+monomers diffuse easily through gloves, especially when diluted
+with organic solvents, as in many dental adhesives. One study
+showed that the best substance for screening allergies to methacrylate-based products is HEMA, which confirmed 96.7% of the dental patients with a suspected methacrylate allergy and 100% of the
+dental personnel with clinical symptoms of a methacrylate allergy.
+The allergic reactions occur primarily as contact dermatitis,
+with the resins acting as haptens via delayed hypersensitivity (type
+IV) mechanisms. In rare cases, anaphylactic responses have been
+reported, with asthmatic symptoms, severe urticaria, and skin
+rashes and swellings on the entire body, followed by the formation
+of blisters on the child’s face, ears, and lips. In rare cases, allergic rhinitis or other reactions of the respiratory tract have been described.
+Cross-reactivity between different monomers has been observed.
+
+Dental Alloys
+As discussed in Chapter 9, Alloy Classification by Principal Elements, dental alloys usually contain multiple elements and are
+commonly described by their major components. The microstructure of alloys may be classified as single phase (solid solution) or
+multiple phases depending on the difference in the atomic structure between elements (Chapter 2, Equilibrium-Phase Diagrams).
+The composition and the phase structure significantly influence the
+release of substances in the oral environment. This section will discuss the release mechanism and biological effects of alloys and the
+allergy reactions of some common elements used in dental alloys.
+
+Biocompatibility
+
+373
+
+Normally, dental alloys can release sufficient metal ions to cause
+adverse effects in some cases but not enough to alter the esthetic
+appearance or cause failure of the prostheses.
+Several statements can be made about the release of elements
+from dental casting alloys. First, multiphase structures often
+increase the elemental release from alloys. Second, certain elements have an inherently higher tendency to be released from
+dental alloys, regardless of alloy composition. In other words, the
+release of metal ions from the alloys is not necessarily proportional
+to the nominal alloy composition. Third, microscopic particles
+can be abraded from metallic restorations during wear processes
+that accelerate the corrosion processes in vivo because of the loss
+of the passivation layer. Fourth, certain environmental conditions
+around the alloy, such as a decline in pH under a biofilm, will
+affect the release of elements. For in vitro studies, the chemical
+composition and characteristics of the cell-culture medium, pH,
+ion composition, and serum are significant variables that dictate
+the environment. For in vivo conditions, the biological factors
+that may contribute to alloy corrosion include the biofilm, organic
+acids, types of enzymes produced by oral microorganisms or those
+present in food, and phagocytotic cells such as human neutrophils. There are also interaction factors between alloys and the
+patient, such as the consumption frequency of acidic foods and
+beverages and the composition of saliva.
+On the basis of these studies, the release of metal ions cannot
+be clearly predicted from the nobility or the overall composition
+of cast alloys. Each product must be evaluated individually for its
+corrosion behavior and the release of metal ions in specific corrosive environments.
+
+Systemic Reactions
+Genotoxic effects have been reported for beryllium and gallium salts. Alteration of DNA repair processes and carcinogenic
+effects have been reported for Cd2+, Ni2+, and Co2+. There is some
+evidence suggesting that nickel, cobalt, and chromium tend to
+increase cancer risk in humans. Beryllium is a documented carcinogen. Although the release of beryllium from alloys containing
+beryllium and of Ni2+ and Co2+ from respective alloys has been
+documented intraorally and in vitro, there are no studies showing
+that these dental alloys cause cancer in patients.
+Inhaling metallic dusts from grinding or polishing berylliumcontaining alloys, or fumes such as those encountered in casting
+beryllium-containing alloys, can cause berylliosis in individuals
+with a hypersensitivity to beryllium. The occupational data indicate that beryllium may increase the risk of lung cancer and other
+tumors in humans, especially for those working at beryllium-processing facilities. Thus dental lab technicians would presumably
+be at the highest risk of adverse effects from exposure to beryllium
+dust and vapors. The use of personal protection equipment (PPE)
+is necessary when metallic dusts in the dental laboratory arise during handling.
+
+CRITICAL QUESTION
+How does the corrosion of metals contribute to their biocompatibility?
+
+Metal Ions Released From Alloys
+Dental casting alloys are made corrosion resistant through the use
+of noble metals (e.g., high-noble and noble alloys) or the use of
+chromium and titanium to form a protective passivation layer on
+base-metal and titanium alloys (Chapter 9, Predominantly BaseMetal Alloys). However, some elements in the alloy lose electrons and become cations as they are released in the oral cavity.
+
+CRITICAL QUESTIONS
+Which risks are associated with the handling of base-metal alloys? Which
+dental personnel are most likely to exhibit adverse effects to base-metal
+alloys?
+
+Local Reactions
+Figure 17-19 shows the concentrations of a series of metal ions
+that, in a cell-culture test, elicited 50% cell death (TC50). The
+graph shows that various metal ions differ markedly in their
+
+374
+
+PA RT V
+
+Assessing Dental Restorations
+
+3500
+3000
+TC50 (M)
+
+2500
+2000
+1500
+1000
+500
+0
+
+5
+
+7
+
+10
+
+11
+
+21
+
+33
+
+Ag Zn Cd Hg Au Pt Co Cu Ni Pd Mn Nb Mo Ga Cr In Sn
+• Figure 17-19 Cytotoxicity of different metal cations, expressed as the concentration that will kill 50% of
+the cells in culture (TC50). Various metal cations elicit a large array of different cytotoxic reactions.
+
+intrinsic (substance-specific) toxicity. In the in vivo situation,
+the amount of released metal ions together with their intrinsic
+toxicity will determine the biological effect. Copper or zinc has
+been added to the metal in metal-ceramic as an oxide former
+(Chapter 10, Requirements of Metal Component), which migrates
+to the surface and oxidizes during preparation of the metal prior to
+ceramic firing. These oxides on the surface release comparatively
+large amounts of copper and zinc if they are not covered with
+ceramic. The consequence would be gingivitis in patients observed
+next to crowns, such as that seen in Figure 17-11. Therefore the
+oxide layer on the alloys that is not covered by the ceramic must
+be removed.
+The toxic potential of a high-gold alloy, two low-gold alloys,
+a high-palladium alloy, two Pd-Ag alloys, one Ni-Cr alloy, two
+Co-Cr alloys, and a 22k-gold alloy was tested by subcutaneous
+implantation in rats. The strongest responses were from the Ni-Cr
+alloy, and the weakest response was from the 22k-gold alloy. The
+high-gold alloy and the high-palladium alloy showed reactions
+similar to that of the 22k-gold alloy. However, the low-gold alloy
+and the Pd-Ag alloys ranked between the base-metal alloy and
+the high-gold alloys. This study and many other studies showed
+that the metallic ions released are responsible for much of the
+interaction behavior of dental alloys. However, no general prediction concerning the corrosion behavior and the biocompatibility
+based on the composition of the alloy alone is possible. However,
+severely cytotoxic alloys generally contain more nickel than those
+of biocompatible products.
+
+Allergic Reactions
+In a 2009 study, 206 patients underwent patch tests with the
+European baseline series because of a suspected contact allergy to
+dental alloys. Twenty-eight patients had positive reactions. The
+majority of positive reactions occurred for gold sodium thiosulfate, palladium chloride, and nickel sulfate, followed by amalgam,
+ammoniated mercury, and cobalt chloride, and then amalgam
+alloys and ammonium tetrachloroplatinate. Only 14 patients had
+a clinically relevant contact allergy on the oral mucosa (7 with oral
+lichen planus and 7 with stomatitis). The conclusions of the study
+were that contact allergies to dental alloys are infrequent.
+Another study revealed that allergies to alloys in some patients
+were manifested not only by lichenoid contact lesions and contact
+
+dermatitis responses but also pustulosis palmaris et plantaris,
+which may occur on the hands, the feet, or the entire body. Patch
+testing of 167 females and 45 males indicated that 148 (69.8%)
+patients had one or more positive reactions toward alloy components. The most common allergens were nickel, palladium,
+chromium, cobalt, and tin. A study of 60 persons documented
+that nickel has the highest allergenic frequency, followed by chromium, cobalt, silver, copper, palladium, platinum, and gold. A
+study suggested that dental patients could even be regarded as a
+risk group for metal allergies.
+
+CRITICAL QUESTION
+What should the clinician be aware of when using nickel-containing alloys?
+
+Nickel Allergy
+
+Nickel is a potent allergenic metal, with an incidence of allergic
+reactions between 10% and 20%. Reactions to nickel are more
+common among women, presumably because of the chronic
+exposure to nickel through jewelry, although the incidence among
+men is increasing. These reactions are probably underreported
+because they are often subtle and can resemble periodontal inflammation (Figure 17-8, B) or the erythema that results from excessive pressure on the palatal mucosa by metal frameworks. Not all
+individuals with nickel allergy will react to intraoral nickel, and
+it is currently impossible to predict which individuals will react.
+Because the frequency of nickel allergy is high, it is possible that
+individuals will become sensitized to nickel after the placement of
+nickel-containing alloys in the mouth.
+The mechanisms of the high allergy frequency to nickel are not
+known, but there is probably a genetic component. In addition,
+the tendency of nickel-containing alloys to release relatively large
+amounts of nickel ions probably contributes to their allergenicity.
+This release is particularly high in acidic conditions, especially for
+Ni-Cr alloys with less than 20 wt% of chromium.
+On the other hand, one study investigated 700 Finnish adolescents, 417 girls and 283 boys from 14 to 18 years of age, of
+which 476 (68%) had a history of orthodontic treatment with
+metallic appliances. The majority (91%) of the girls had pierced
+ears. Orthodontic treatment was equally common (67% to 70%)
+in the boys and the girls. The study consisted of patch testing
+
+CHAPTER 17
+
+with palladium chloride and nickel sulfate, and a patient history
+obtained by a questionnaire and from patient records. The girls
+had a much higher frequency of allergic patch test reactions to
+nickel sulfate. The results suggest that orthodontic treatment does
+not seem to increase the risk for nickel hypersensitivity. Rather,
+the data suggest that treatment with nickel-containing metallic
+orthodontic appliances before sensitization to nickel (ear piercing) may have reduced the frequency of nickel hypersensitivity.
+This has been confirmed by other studies. The results of palladium
+chloride patch test are discussed in Ni-Pd Cross-Reactivity section.
+Palladium Allergy
+
+Metals of the platinum group exhibit a considerable allergenic
+potency. Palladium-based alloys have been associated with
+stomatitis and oral localized lichenoid reactions, and palladium
+allergy seems to occur mainly in patients who have also been
+sensitized to nickel. However, Wataha and Hanks concluded in
+1996 that palladium-containing alloys do not generally pose an
+increased risk to the health of patients because of the limited dissolution rate of palladium from certain palladium alloys. However,
+one should note that the palladium in cast metals may react differently in single-phase compared with multiphase dental alloys,
+which tend to be less corrosion resistant. The corrosion products
+of these multiphase alloys may affect the allergenicity and the
+cytotoxicity of palladium-based alloys differently compared with
+single-phase alloys.
+Ni-Pd Cross-Reactivity
+
+Of the 700 Finnish adolescents discussed earlier in the Nickel
+Allergy section, 44 girls were palladium-chloride-positive, whereas
+only 4 boys had a reaction to palladium chloride. Of the 48 adolescents who tested positive to palladium chloride, 45 also had an
+allergic patch-test reaction to nickel sulfate. The results support
+the concept of cross-reactivity between nickel sulfate and palladium chloride. The co-reactivity of nickel and cobalt has also been
+reported.
+In a 2018 study by Mittermüller et al. involving 500 patients
+(406 females and 94 males) with complaints concerning dental
+materials, 70 patients (14%) showed a verified allergy with clinical
+symptoms and a positive patch test to an intraoral alloy component. Out of the 500 patients, 234 (47%) had positive patch-test
+reactions to at least one of the tested possible allergens, with nickel
+(19.2%) and palladium (12.6%) being the most frequent allergens
+among these patients. Cross-reactivity to Ni and Pd was found in
+39 patients, whereas positive reactions to Ni alone was seen in 57
+patients and to Pd alone in 24 patients.
+Titanium and Titanium Alloys
+
+Studies have revealed that a surface layer of titanium oxide (mostly
+TiO2 with small content of Ti2O3 and TiO) has the ability to coexist with living tissues and organisms. Based on these studies, one
+can conclude that titanium is relatively nontoxic and noninjurious.
+Recently, allergic reactions were claimed to be one of the causes of
+peri-implantitis. Limited clinical evidence shows that this might
+be true for very few cases. However, no standard patch test for
+titanium has yet been established. Another study links titanium
+nanoparticles to nonallergic peri-implantitis, and indeed, a comparatively high amount of such particles has been found around
+titanium implants. Ti nanoparticles are hypothesized to be phagocytized by macrophages that are present in the peri-implant tissues as a result of existing biofilm-induced inflammation. Because
+
+Biocompatibility
+
+375
+
+macrophages cannot metabolize Ti particles, they secrete inflammatory mediators to attract more macrophages, thus enhancing
+the inflammation. However, the scientific evidence for such a scenario is limited.
+Other Metals
+
+Cobalt is another metal that, as a component of dental alloys,
+has been found to elicit allergic reactions in sensitized patients.
+Also, allergies to gold-based dental restorations have been more
+commonly reported. In the presence of gold alloy restorations
+the prevalence of gold sensitivity was significantly increased. The
+patch tests for gold sensitivity of a group of asymptomatic patients
+showed that 24 of 71 (33.8%) patients with dental gold appliances had a positive reaction to gold versus 7 of 65 (10.8%) of the
+patients with nongold appliances.
+Symptoms of Metal Allergic Reactions
+
+A review of 139 published cases of allergic reactions to dental
+metallic restorations showed that 99 patients suffered from local
+irritations in the form of gingivitis and stomatitis. Only 33 of
+139 patients revealed general or remote extraoral reactions. When
+the restorations were removed, 82.7% of the patients recovered
+from the allergic reactions. Analysis of these data demonstrates
+that local allergic reactions to metals may often be underdiagnosed
+as inflammatory reactions. Interestingly, after intraoral application of alloys, both perioral (nickel allergy) and extraoral (cobalt
+allergy) skin reactions have been observed. In other studies, localized lichenoid reactions, swelling, and pain in oral soft tissues and
+lips have been reported. In several patients, gold ions caused an
+allergic contact gingivostomatitis, which was similar in appearance to erosive lichen planus. Many of these patients had a history
+of reactions to gold jewelry.
+Immunotoxicity of Metals
+
+The induction of immune mediators by metallic materials has been
+investigated using lymphocyte cell lines. Expressions of the inflammatory mediator interleukin 2 (IL-2) and the immune effector
+IgG by T and B cells were found after incubation with three copper-based casting alloys. The production of these immune mediators was altered by released cations. LPS-stimulated osteoblast-like
+cells increased the formation of interleukin 1 alpha (IL-1α) and
+TNF-α after the cells were incubated with cobalt, chromium, and
+titanium. This study showed that metal ions disrupted cytokine
+release, osteoblast function, and the synthesis of type I collagen.
+Cytokines can be released from unstimulated and stimulated
+peripheral blood mononuclear cells after incubation with chromium ions. In addition, chromium cations can reduce cell viability, DNA synthesis, secretion of IL-6, and expression of soluble
+IL-2 receptor. These results suggest that chromium may suppress
+the immune system.
+Several metal ions (Ag, Au, Cu, Hg, Ni, Pd, Pt, and Zn) have
+induced the secretion of proteins from macrophages. Subtoxic
+concentrations of a nickel solution also induced an increase of
+IL-1α and TNF-α secretion from unstimulated and LPS-stimulated THP-1 monocytes/macrophages. There is evidence that
+metallic components derived from cast dental prostheses can
+modulate the expression of various immunological factors. An
+increased expression of cytokines after LPS stimulation by various cell types indicates that bacterial toxins and cations released
+by corrosion may collectively cause inflammatory effects related
+to oral mucositis, gingivitis, periodontitis, and alveolar bone
+resorption.
+
+376
+
+PA RT V
+
+Assessing Dental Restorations
+
+Dental Ceramics
+The oxides and related compounds in dental ceramics exhibit low
+dissolution in normal oral fluids and beverages. However, highly
+acidic or basic environments can increase the release rates of certain
+metal and silicon ions. For example, acidulated phosphate fluoride
+(APF) is known to corrode the surfaces of veneering porcelains
+and glaze and stain ceramics. This suggests that APF should not be
+used in patients who have ceramic or metal-ceramic restorations.
+
+Adverse Reactions
+Several investigators have demonstrated that unlike other dental
+materials, most dental ceramics do not induce an adverse effect
+when they contact the oral mucous membrane. Others have
+shown that glazed ceramics, which have been used in implant
+trials, caused very mild inflammatory reactions. These glazed
+ceramics were less irritating than resin composite or gold. One
+can conclude that minor observed irritations may be attributed
+to mechanical irritation (e.g., from roughened surfaces). Dental
+ceramics have successfully been used in patients with lichenoid
+reaction to replace the originally contacting material. Generally,
+polished or glazed dental ceramics accumulate significantly less
+biofilms on their surfaces than most other restorative materials.
+Radioactivity of Dental Ceramics
+Naturally occurring radioactivity has been detected in certain dental ceramics. No adverse effects that are caused by exposure to
+radiation from dental ceramics have been documented in the literature. A study reported that the beta-dose rates from natural radionuclides in feldspathic porcelains and glass ceramics were about
+10 times higher than that of the background, whereas resin composites, alumina-based ceramics, and natural teeth exhibited negligible beta-dose rates. Concentration activities determined from
+gamma-spectrometry ranged from 2.01 to 2.9 Bq/g (becquerel per
+gram) 40K. However, these activities are below the threshold limit
+of 10 Bq/g for 40K. The specific activities of uranium and thorium
+were significantly lower than the levels reported in earlier periods when the addition of uranium to dental porcelain materials
+was used to enhance fluorescence. These results confirmed that
+patients with veneering ceramics and certain glass ceramics are
+subjected to higher dose levels (although well within safety limits)
+compared with the general population.
+
+eye damage. A significant concern regarding the use and possible
+exposure of tissue to low concentrations of HF for dental applications is that the pain or burning sensations may not be experienced
+until several hours after exposure. Because of this delayed effect of
+HF to produce severe tissue damage, possibly without pain, all tissues that have been exposed to HF should receive immediate firstaid care, medical evaluation, and follow-up evaluations even if the
+injury appears insignificant and no pain is experienced.
+
+Inhalation of HF Fume and Ventilation
+Inhaling HF fume can damage the lungs. Delayed effects may not
+be apparent for hours after the initial exposure. The U.S. Occupational Safety and Health Administration (OSHA) has set a limit
+for exposure to individuals for airborne concentrations to an average of 3 ppm HF over an 8-hour workday. To minimize inhalation of HF fume, gels and liquids should be used with adequate
+ventilation (e.g., fume hood).
+Emergency Treatment
+When eyes have been exposed to HF, they should immediately be
+irrigated at an eyewash station for at least 15 minutes with large
+volumes of water while the eyelids are held apart and away from
+the eyeballs. In all cases when the eyes have been exposed to acids,
+immediate medical attention should be sought.
+If small areas of the hand or forearm have been contaminated,
+these areas must be immediately and thoroughly washed. If calcium gluconate gel is readily available, rinsing should be limited to
+5 minutes so that application of the gel can be quickly initiated in
+order to limit the migration of fluorine ions. The calcium gluconate gel should be reapplied to the affected areas every 15 minutes.
+If calcium gluconate gel is not available, the affected areas should
+be rinsed for at least 15 minutes. Contaminated clothing must
+be removed and placed in a hood or plastic bag. Prompt medical
+attention should be sought in all instances of skin exposure to HF.
+Calcium gluconate gel is available as a commercial product and
+is a topical antidote for HF residue on exposed skin. The gel combines with HF to form insoluble calcium fluoride, thereby preventing the extraction of calcium from tissues and bones. Calcium
+gluconate has a limited shelf life and should be refrigerated and
+replaced with a fresh supply after expiration. Disposable gloves
+should be used for applying calcium gluconate gel to the skin.
+
+Glass-Ionomer Cements
+Hydrofluoric Acid
+Etching of the glass phase of dental ceramics with 5% to 9%
+buffered hydrofluoric acid (HF) promotes bonding of resin
+composites to etched ceramics. HF formulated for dental usage
+is significantly more hazardous than other acids used in dental
+labs and in the mouth. Technicians and dentists should be well
+informed of the risks and the methods for dealing with accidental
+HF exposures.
+Several fluorine-containing chemicals used in dentistry—such
+as ammonium fluoride, ammonium bifluoride, and sodium fluoride—may react with acid or water to produce HF. One should
+review the SDSs of all fluoride compounds to learn the safety precautions that are recommended to reduce the risk of HF exposure.
+
+Exposure of Skin, Mucosa, and Eyes
+Concentrated HF (≥50%) is extremely corrosive and destroys skin
+or soft tissues upon contact and causes systemic fluoride poisoning.
+Exposure of the eyes to HF may result in blindness or permanent
+
+Composition and Release of Substances
+GICs (polyalkenoate cements) are acid-based cements that are mixed
+from a powder of finely ground glass (containing, e.g., calcium and
+sodium fluorophosphoaluminosilicate) and a liquid of polyacrylic
+acid (Chapter 7, Glass Ionomer Cement). Resin-modified glass-ionomer cements (RMGIs) are a heterogeneous group of materials that
+also contain water-soluble polymerizable monomers, such as HEMA
+and polyacrylic acid–modified methacrylate, and special catalysts.
+RMGIs polymerize by light activation. Glass ionomers release fluoride mainly after setting as an early burst, then decreasing asymptotically over time. Also, aluminum is liberated, and silver is liberated
+from silver-containing products. RMGIs release substantial amounts
+of monomers and catalysts.
+Adverse Reactions of Conventional Glass-Ionomer Cements
+
+No data have been published indicating any systemic toxic
+reaction after using conventional GICs in dental practice. These
+materials are nongenotoxic and nonmutagenic.
+
+CHAPTER 17
+
+The Council on Dental Materials, Instruments and Equipment
+of the ADA reported in 1984 on severe pain after using GICs as
+luting agents, which made the removal of GIC-cemented restorations necessary. Possible causes include incorrect handling, such as
+pronounced drying of the prepared tooth prior to cementation;
+excessive pressure during cementation; or an insufficient thickness
+of remaining dentin. Since the implementation of the revised protocol, there have been no such reports published.
+Nonset conventional GICs are cytotoxic, whereas set specimens
+are not or are only slightly cytotoxic. This parallels observations
+that these materials did not cause any pulp damage in medium
+or even in deep cavities in human teeth and those from experimental animals when used as restorative materials. Pulp reactions
+were only present when bacteria entered the cavity floor under
+the restoration. However, if placed directly on the exposed pulp,
+conventional GICs elicited severe pulp inflammation. This was
+probably attributable to the fact that conventional GICs do not
+completely set in contact with a wet surface. Therefore these materials should not be used for direct pulp capping. Conventional
+GICs do not cause any gingival or mucosal reaction, and they do
+not elicit allergies.
+
+Adverse Reactions to RMGIs
+As a result of the resin components (hydrophilic monomers), some
+RMGIs were reported to be genotoxic in vitro, although there are
+no reports on tumor formation caused by RMGIs. Some products
+are severely cytotoxic, even after the setting. In medium cavities of
+human teeth and in experimental animals, no pulp reaction was
+observed. In deep cavities, the data are inconsistent and depend
+on the individual product. In a study in human teeth, one RMGI
+showed pulp damage after the application of an RMGI. Therefore
+in deep cavities, a protective liner (e.g., calcium silicate cement)
+should be applied, and RMGIs should not be used for direct pulp
+capping. Recently, another RMGI product was tested in human
+teeth, which did not cause postoperative sensitivity or persistent
+pulp damage when applied as a liner in very deep cavities. This
+heterogeneity in the biocompatibility of different RMGI products
+emphasizes the need for the clinician to be familiar with the current scientific literature. Finally, because of the release of hydrophilic monomers like HEMA or TEGDMA, RMGIs may elicit
+allergic reactions in sensitized persons.
+
+Natural Rubber Latex
+Of particular interest in dentistry is the use of latex gloves and
+latex rubber dams, which expose both patients and dental personnel to this potential allergen.
+
+Composition and Release of Substances
+Natural latex products are made from a milky-white sap harvested
+from a rubber tree grown in tropical regions. Ammonia, which
+is added to the sap as a preservative, hydrolyzes and degrades the
+sap proteins to produce allergens. Adding sulfur in liquid latex
+and then heating transforms latex into an elastic compound by a
+process called vulcanization. The manufacturing process leaches
+the allergens by soaking the rubber products in hot water. The
+leaching water is changed repeatedly to decrease the concentration
+of the allergens, but leaching brings other allergens to the surface
+and, unfortunately, places the highest concentrations near the skin
+of the wearer. The cornstarch used in powdered latex gloves may
+also be the cause of glove allergy, although the allergen in the glove
+powder is usually latex released from the glove into the powder.
+
+Biocompatibility
+
+377
+
+Thus the allergenicity of a given batch of latex will be dependent
+on how the latex was collected, preserved, and processed.
+
+Allergic Reactions
+The clinical symptoms associated with latex are contact dermatitis
+and local urticaria but also general urticaria, rhinoconjunctivitis,
+asthma, Quincke’s edema, and in severe cases, anaphylaxis. Both
+type I and type IV reactions have been reported from contact
+with latex. After a 2016 review including data from the literature,
+the FDA suggested that the average prevalence of latex allergy
+worldwide remains at 9.7% among health care workers, 7.2% for
+susceptible patients, and 4.3% for the general population. Natural
+rubber latex (NRL) is the most noted cause of contact urticaria
+for dental personnel. Dental patients are also a special risk group
+because mucosal contact in sensitized individuals usually produces
+a stronger reaction than skin contact. Dental students showed an
+increasing incidence of type I allergies to latex gloves during the
+course of study.
+Precautionary Measures
+A thorough medical history specifically asking for a possible latex
+allergy is mandatory for any new patient in the office and should
+be documented throughout the course of treatment and followup. In cases of latex allergy, latex-free rubber-dam products and
+nitrile gloves must be used. Dental personnel should try to prevent
+a sensitization against latex by using nonpowdered, low-allergenic
+latex products or using latex-free products such as nitrile gloves.
+If an individual is sensitized, any contact with latex products has
+to be avoided. Again, nitrile gloves may be an alternative to latex
+gloves.
+
+Patient Reports and Complaints of
+Adverse Effects
+As mentioned in the discussion of postmarket surveillance, physicians, dentists, pharmacists, nurses, other health care professionals, and any other member of the public can report suspected
+adverse effects of medication or devices on the FDA MedWatch
+website. The devices also include restorations and implants. The
+number of cases related to dentistry is rather low; it is often a challenge to find the cause for the complaints and isolate the dental
+material that is responsible.
+A national reporting system, the Dental Biomaterials Adverse
+Reaction Unit (DBARU), was established at the University of Bergen in Norway to monitor adverse reactions to dental materials in
+1993. Similar systems were also established in Sweden in 1996,
+which were phased out in 2002, and in the United Kingdom in
+1999. Some findings from the current literature are presented next.
+A study comprising 500 patients claiming their complaints
+were caused by dental materials has been published. Subjective
+complaints reported by 490 patients mainly included burning
+mouth (44%), tooth-/jaw-ache (22%), and dry mouth (20%).
+The main objective intraoral symptoms were tongue anomalies
+(14%), gingivitis adjacent to restorations (12%), redness of the
+palate or the edentulous ridge (7%), oral lichen planus (6%),
+grayish discolorations (5%), lichenoid contact lesions (3%), and
+leukoplakia (2%). Only 46% of the patients showed objective
+symptoms. Patch tests confirmed the complaints or symptoms in
+14% patients, with metals being the most frequent allergens.
+Patients with non-oral-related complaints, such as weakness,
+headache, or intestinal problems, which have also been reported
+
+378
+
+PA RT V
+
+Assessing Dental Restorations
+
+in other studies, are a challenge for the clinician because these
+symptoms are unspecific, and there are many potential causes for
+these symptoms. For the symptoms of burning mouth or taste
+irritation, it should be considered that these are among the most
+common side effects of medical drugs. Dry mouth may also be
+a symptom for a patient’s Sjögren syndrome. Therefore an interdisciplinary approach to the diagnosis and treatment of these
+patients is necessary.
+The age and sex distributions of the studies discussed all
+show that elderly patients and females predominated. A reason
+for this specific age distribution may be the fact that patients in
+this age group are exposed to a large number of dental materials. One may assume that the high portion of females in the
+middle-aged and elderly age groups might be caused by endocrine changes. However, literature reviews show that the role
+of hormones in affecting oral health (e.g., burning mouth) and
+hormone replacement therapy is not yet confirmed. It has also
+been speculated that females are more likely to report adverse
+reactions than males.
+
+change in the composition or processing of a material can cause
+a significant change in the material’s biocompatibility. In case of
+doubt, clinicians should ask the manufacturer for specific information. They also should request written information from the
+lab technicians certifying that the materials used are the ones the
+clinician has prescribed and that all instructions for use of the
+manufacturer have been followed. Generally, caution is advised
+in applying previous biological data and processing principles to
+new situations.
+
+CRITICAL QUESTION
+
+In vitro or animal tests are sometimes difficult to relate to clinical
+applications. However, there are instances when clinicians do not
+have sufficient data from clinical trials to make an informed decision, so they must rely on in vitro or animal tests. Clinicians should
+not simply accept nondescript statements, such as “The material
+has been subjected to biocompatibility tests, and no adverse effects
+were observed,” but should ask for the type of tests used. If clinical
+trial results are available, inquiring if the conditions and duration
+of the test are relevant for the practice is important.
+The quality and relevance of usage test data depend on the fidelity of reproducing the clinical use. If animal or in vitro test results
+are the only ones available, then clinicians should question the
+design of these tests and the methods employed, making sure that
+testing conditions were as relevant as possible, including multiple
+types of tests performed under different clinically relevant conditions. A well-controlled comparison with existing similar types of
+materials is always preferable to an isolated test on one material.
+The known potential or claimed adverse effects of dental materials, such as those summarized in Table 17-1, should be investigated periodically to ensure that patients will be presented with
+accurate information related to the benefits and risks of proposed
+treatments.
+
+What information is required to judge the safety of metallic, resin composite,
+and ceramic products?
+
+Clinical Guidelines for Selecting
+Biocompatible Materials
+Clinicians need to evaluate claims of the biological safety of new
+materials made by the manufacturers. With knowledge of biocompatibility issues, clinicians can make rational judgments about
+biological safety. Several critical steps described here will ensure an
+informed decision.
+
+Define the Intended Use and Indications for
+Restorative Materials
+As discussed previously, the intended use of a material plays a
+crucial role in the material’s biocompatibility. Clinicians should
+inquire when the material is proposed for a new indication and
+if the material has been tested in the proposed use. If the material is used in a new way or new environment, more caution is
+advised. To minimize the risk of litigation resulting from unexpected adverse events, the lab technician and dentist must adhere
+to the instructions for use and use the material as indicated by the
+manufacturers. For other applications, such as off-label use, the
+practitioner is fully liable for any adverse effects that may occur.
+Furthermore, many dental materials are supplied by the manufacturer as a semifinal product, and the dentist finalizes the product
+through other processes, such as light curing a resin composite.
+Correct handling according to the instructions for use is essential
+for acceptable biocompatibility.
+
+Identify the Main Components of the Material
+The principal components of materials are listed in the SDS,
+but this list is not always complete, and elemental concentrations are not included. This is especially relevant for potential
+allergens, where even small amounts in the material may cause
+adverse reactions. Studies have shown repeatedly that a small
+
+CRITICAL QUESTION
+A sales representative introduces a new restorative material in your office
+or at a trade show. What do you need to know from him or her about the
+material’s biocompatibility tests?
+
+Evaluate the Safety and Performance of
+Dental Materials
+
+CRITICAL QUESTION
+Based on the effect of substances eluted from dental materials on the immune
+system, who is responsible for deciding which materials are biologically safe
+for use—the patient, the dentist, the manufacturer, or the FDA?
+
+Risks Versus Benefits of Dental Materials
+The risk of using Ni-Cr alloy for crowns and bridges is the potential of releasing cations as a result of corrosion, especially at low
+pH values. These ions may be distributed in the oral cavity and
+may enter the systemic circulatory system. The benefit of using
+an Ni-Cr alloy over a high-noble alloy is the low cost and higher
+elastic modulus of the Ni-Cr alloy. In the case of bis-GMA–based
+resin, one of the potential adverse effects is the release of BPA.
+However, the quantity of BPA released is extremely small, and the
+sealing of pits and fissures in enamel surfaces is a highly effective
+means for preventing caries lesions or lesion progression in these
+
+CHAPTER 17
+
+TABLE 17-1
+
+Potential and Claimed Adverse Effects
+and Drawbacks of Dental Restorative
+Materials
+
+Restorative Material
+
+Potential Adverse Effects
+
+Dental amalgam
+
+Contact dermatitis or sensitization/allergic
+reactions to metal elements
+Localized lichenoid lesions
+Postoperative sensitivity
+Thermal sensitivity of pulp
+Symptoms of mercury toxicity, especially
+neurotoxicity
+Environmental concerns
+
+Dental adhesives/
+resin composites
+
+Contact dermatitis or sensitization/allergic
+reactions to methacrylates
+Localized lichenoid lesions
+Estrogenic effects of bisphenol A
+Postoperative sensitivity from polymerization
+stresses and marginal gaps
+Pulp damage in deep cavities/pulp exposure
+Cytotoxicity or genotoxic effects
+
+Dental alloys
+
+Contact dermatitis or sensitization/allergic
+reactions to metals, especially nickel,
+cobalt, and beryllium
+Localized lichenoid lesions
+Thermal sensitivity of pulp
+Systemic effects of leached metal ions
+
+Conventional glassionomer cements
+
+Postoperative pain (luting materials)
+Pulp damage when placed on exposed pulp
+
+Resin-modified glassionomer cements
+
+Contact dermatitis or sensitization/allergic
+reaction to methacrylates
+Localized lichenoid lesion
+Postoperative sensitivity from polymerization
+stresses and marginal gaps
+Pulp damage in deep cavities/pulp exposure
+Cytotoxicity or genotoxic effects
+Systemic effects of other free monomers or
+leached substances
+
+Dental ceramic
+
+Respiratory effects from silica dust,
+excessive wear of antagonist tooth
+structure
+Radioactivity
+Toxicity of hydrofluoric acid
+
+sites. Both examples depict the process of comparing the risks and
+benefits of a material.
+
+Anamnesis (Patient’s Account of Medical History)
+Dental practitioners cannot simply follow a “cookbook” approach
+to select restorative materials for their patients. Instead, they must
+use their best clinical judgment based on scientific evidence and
+personal experience with the material and, more importantly,
+statements from patients, their physicians, and their previous dentists to ensure that all possible risks are minimized. For example,
+local and systemic allergic reactions to many alloys have been
+observed, with nickel being the most frequent allergenic element.
+Questioning the patient, parent, or caregiver about existing allergies would quickly eliminate certain alloys from consideration.
+Also, severe renal disease with impaired renal clearing function is
+
+Biocompatibility
+
+379
+
+a contraindication for amalgam use. Information provided by the
+patient should be documented and regularly updated.
+
+Treatment Planning
+There is considerable variability in the treatment-planning process. The benefits and risks stated to patients by their practitioners
+are also likely to vary significantly from practice to practice. Obviously, some of the decisions will be based on accepting greater
+risks for the predicted benefits, whereas others will be based on
+a very conservative philosophy, which suggests that the risks of
+adverse effects should be exceptionally low. In some of these
+cases, when considerable risks exist, no treatment may be the best
+choice. For example, if some patients claim that they are allergic
+to several types of potential allergens, including metals, cosmetics,
+and foodstuffs, extreme caution is indicated to minimize related
+items. However, if the restorative treatment is essential to restore
+occlusion and function, these risks may be accepted, although
+informed consent procedures must still be satisfied before treatment begins. Once the practitioner makes a treatment decision,
+the patient should be informed of the benefits and risks of the
+proposed treatment and of any alternative treatments. Then, for
+medical and legal requirements to be satisfied, the patient must
+give his or her consent for the proposed treatment.
+
+Risk Communication
+Patients may ask the dentist before the treatment if the materials
+selected are safe. From a patient’s viewpoint, safety often means
+that nothing bad will ever happen. However, this is not always
+possible. One may ask the patients about their hobbies or favorite
+sports and then inquire about the potential risks these activities
+may carry. The patients may soon realize that there is always a
+chance for adverse events to happen.
+The clinician can refer to the fact that the probability of
+adverse effects from dental materials is generally low (0.3%). In
+contrast, the rate of adverse reactions toward cosmetic products
+has been reported as 12%. This means that the probability for
+an adverse reaction from contact with dental materials is about
+40 times less than that with cosmetics if generally accepted good
+practice for patient treatment is followed. Finally, the risk should
+be “individualized,” meaning the clinician should explain to the
+patient the specific situation in the patient’s case, such as allergies, cavity sizes, or the situation of the dentition in general.
+This specific and unique expertise enables the clinician to put
+Internet-derived information into clinical perspective for individual patients.
+
+Acknowledgments
+The contributions of Dr. Ken Anusavice and Dr. John Wataha
+to the previous versions of this chapter are greatly appreciated.
+Their conceptual descriptions and images were developed for Figures 17-5, 17-6, 17-7, 17-11, and 17-12. Dr. Yeong-Joon Park
+provided helpful suggestions and several images. The input of Michael E. Adjodha, Dental Devices Branch, Center for Devices and
+Radiological Health, U.S. Food and Drug Administration, is also
+greatly appreciated. Dr. Donald Cohen provided clinical images
+of lichenoid lesions. The artistic suggestions of Dr. Inchan Ko and
+Miss Jihae Ahn are also appreciated.
+
+380
+
+PA RT V
+
+Assessing Dental Restorations
+
+Selected Readings
+Bellinger DC, Trachtenberg F, Barregard L, et al: Neuropsychological and
+renal effects of dental amalgam in children: A randomized clinical
+trial, JAMA 295:1775–1783, 2006.
+Bergenholtz G: Evidence for bacterial causation of adverse pulpal
+responses in resin-based dental restorations, Crit Rev Oral Biol Med
+11:467–480, 2000.
+De Souza Costa CA, Hebling J, Scheffel DLS, et al: Methods to evaluate
+and strategies to improve the biocompatibility of dental materials and
+operative techniques, Dent Mater 30:769–784, 2014.
+DeRouen TA, Martin MD, Leroux BG, et al: Neurobehavioral effects
+of dental amalgam in children: A randomized clinical trial, JAMA
+295:1784–1792, 2006.
+Geurtsen W: Biocompatibility of dental casting alloys, Crit Rev Oral Biol
+Med 13:71–84, 2002.
+
+Mittermüller P, Hiller KA, Schmalz G, et al: Five hundred patients reporting on adverse effects from dental materials: Frequencies, complaints,
+symptoms, allergies, Dent Mater 34:1756–1768, 2018.
+Schmalz G, Arenholt-Bindslev D, editors: Biocompatibility of Dental
+Material. Berlin-Heidelberg, 2009, Springer.
+Schmalz G, Galler KM: Biocompatibility of biomaterials−lessons learned
+and considerations for the design of novel materials, Dent Mater 33:
+382–393, 2017.
+Schweikl H, Spagnuolo G, Schmalz G: Genetic and cellular toxicology of
+dental resin monomers, J Dent Res 85:870–877, 2006.
+Wataha JC: Predicting clinical biological responses to dental materials,
+Dent Mater 28:23–40, 2012.
+Full Selected Readings for this chapter can be found on www.expertconsult
+.com.
+
+Selected Readings (Web Version)
+Aalto-Korte K, Alanko K, Kuuliala O, et al: Methacrylate and acrylate
+allergy in dental personnel, Contact Derm 57:324–330, 2007.
+Ajiboye AS, Mossey PA, IADR Science Information Committee, et al:
+International Association for Dental Research Policy and Position
+Statements on the Safety of Dental Amalgam, J Dent Res, published
+online April 21, 2020.
+Aller AJ: The clinical significance of beryllium, J Trace Elem Electrolytes
+Health Dis 4:1–6, 1990.
+American Dental Association: Reported sensitivity to glass ionomer luting cements. Council on Dental Materials, Instruments, and Equipment, J Am Dent Assoc 109:476, 1984.
+American Dental Association Council on Scientific Affairs: Determination of bisphenol a released from resin-based composite dental restoratives, J Am Dent Assoc 145:763–766, 2014.
+Arenholt-Bindslev D, Breinholt V, Preiss A, et al: Time-related bisphenolA content and estrogenic activity in saliva samples collected in relation
+to placement of fissure sealants, Clin Oral Investig 3:120–125, 1999.
+Arenholt-Bindslev D, Jolanki R, Kanerva L: Diagnosis of side effects of dental materials, with special emphasis on delayed and immediate allergic
+reactions. In Schmalz G, Arenholt-Bindslev D, editors: Biocompatiblity of
+Dental Materials, Berlin Heidelberg, 2009, Springer, pp. 335–366.
+Ashby J, Ishidate M Jr, Stoner GD, et al: Studies on the genotoxicity of
+beryllium sulphate in vitro and in vivo, Mutat Res 240:217–225, 1990.
+Bellinger DC, Trachtenberg F, Barregard L, et al: Neuropsychological and renal effects of dental amalgam in children: A randomized
+clinical trial, JAMA 295:1775–1783, 2006.
+Bergenholtz G: Evidence for bacterial causation of adverse pulpal
+responses in resin-based dental restorations, Crit Rev Oral Biol
+Med 11:467–480, 2000.
+Berglund A: Estimation by a 24-hour study of the daily dose of intra-oral
+mercury vapor inhaled after release from dental amalgam, J Dent Res
+69:1646–1651, 1990.
+Bolewska J, Holmstrup P, Moller-Madsen B, et al: Amalgam associated
+mercury accumulations in normal oral mucosa, oral mucosal lesions
+of lichen planus and contact lesions associated with amalgam, J Oral
+Pathol Med 19:39–42, 1990.
+Bumgardner JD, Lucas LC, Alverson MW Jr, et al: Effects of copperbased dental casting alloys on two lymphocyte cell lines and the secretion of interleukin 2 and IgG, Dent Mater 9:85–90, 1993.
+Clarkson TW, Magos L: The toxicology of mercury and its chemical compounds, Crit Rev Toxicol 36:609–662, 2006.
+De Souza Costa CA, Hebling J, Scheffel DLS, et al: Methods to evaluate and strategies to improve the biocompatibility of dental materials and operative techniques, Dent Mater 30:769–784, 2014.
+DeRouen TA, Martin MD, Leroux BG, et al: Neurobehavioral effects
+of dental amalgam in children: A randomized clinical trial, JAMA
+295:1784–1792, 2006.
+Ditrichova D, Kapralova S, Tichy M, et al: Oral lichenoid lesions and
+allergy to dental materials, Biomed Pap Med Fac Univ Palacky Olomouc
+Czech Repub 151:333–339, 2007.
+Donati ME, Savarino L, Granchi D, et al: The effects of metal corrosion
+debris on immune system cells, Chir Organi Mov 83:387–393, 1998.
+Dye BA, Schober SE, Dillon CF, et al: Urinary mercury concentrations
+associated with dental restorations in adult women aged 16–49 years:
+United States, 1999–2000, Occup Environ Med 62:368–375, 2005.
+Eckhardt A, Harorli T, Limtanyakul J, et al: Inhibition of cytokine and
+surface antigen expression in LPS-stimulated murine macrophages by
+triethylene glycol dimethacrylate, Biomaterials 30:1665–1674, 2009.
+Ehrlich A, Kucenic M, Belsito DV: Role of body piercing in the induction of metal allergies, Am J Contact Dermat 12:151–155, 2001.
+Ekstrand J, Björkman L, Edlund C, et al: Toxicological aspects on the
+release and systemic uptake of mercury from dental amalgam, Eur J
+Oral Sci 106:678–686, 1998.
+Ersev H, Schmalz G, Bayirli G, et al: Cytotoxic and mutagenic potencies
+of various root canal filling materials in eukaryotic and prokaryotic
+cells in vitro, J Endod 25:359–363, 1999.
+
+European Commission: Scientific Committee on Emerging and Newly
+Identified Health Risks (SCENIHR): Opinion on the safety of the
+use of bisphenol A in medical devices. Adopted on February 18, 2015.
+https://ec.europa.eu/health/scientific_committees/emerging/docs/
+scenihr_o_040.pdf.
+European Commission: Scientific Committee on Emerging and Newly
+Identified Health Risks (SCENIHR): The safety of dental amalgam
+and alternative dental restoration materials for patients and users.
+Adopted on April 29, 2015. https://ec.europa.eu/health/scientific_
+committees/emerging/docs/scenihr_o_046.pdf.
+FDI World Dental Federation: Recommended standard practices for
+biological evaluation of dental materials. Federation Dentaire International, Commission of Dental Materials, Instruments, Equipment
+and Therapeutics, Int Dent J 30:140–188, 1980.
+Fujioka-Kobayashi M, Miron RJ, Lussi A, et al: Effect of the degree of
+conversion of resin-based composites on cytotoxicity, cell attachment,
+and gene expression, Dent Mater 35:1173–1193, 2019.
+Galler K, Hiller KA, Ettl T, et al: Selective influence of dentin thickness
+upon cytotoxicity of dentin contacting materials, J Endod 31:396–
+399, 2005.
+Galler KM, Schweikl H, Hiller KA, et al: TEGDMA reduces mineralization in dental pulp cells, J Dent Res 90:257–262, 2011.
+Garhammer P, Schmalz G, Hiller KA, et al: Patients with local adverse
+effects from dental alloys: Frequency, complaints, symptoms, allergy,
+Clin Oral Investig 5:240–249, 2001.
+Gell PGH, Coombs RRA: The classification of allergic reactions underlying disease. In Coombs RRA, Gells PGH, editors: Clinical Aspects of
+Immunology, Oxford, 1963, Blackwell.
+Geurtsen W: Biocompatibility of dental casting alloys, Crit Rev Oral
+Biol Med 13:71–84, 2002.
+Goon AT, Isaksson M, Zimerson E, et al: Contact allergy to (meth)acrylates in the dental series in southern Sweden: Simultaneous positive
+patch test reaction patterns and possible screening allergens, Contact
+Derm 55:219–226, 2006.
+Hallstrom U: Adverse reaction to a fissure sealant: report of case, ASDC J
+Dent Child 60:143–146, 1993.
+Hannig C, Hannig M: The oral cavity—a key system to understand substratum-dependent bioadhesion on solid surfaces in man, Clin Oral
+Investig 13:123–139, 2009.
+Hartwig A: Current aspects in metal genotoxicity, Biometals 8:3–11,
+1995.
+Hayes RB: The carcinogenicity of metals in humans, Cancer Cause Control 8:371–385, 1997.
+He X, Reichl FX, Wang Y, et al: Analysis of titanium and other metals
+in human jawbones with dental implants—a case series study, Dent
+Mater 32:1042–1051, 2016.
+Hebling J, Lessa FC, Nogueira I, et al: Cytotoxicity of resin-based lightcured liners, Am J Dent 22:137–142, 2009.
+Heese A, Peters KP, Stahl J, et al: [Incidence and increase in type I allergies
+to rubber gloves in dental medicine students], Hautarzt 46:15–21, 1995.
+Heil J, Reifferscheid G, Waldmann P, et al: Genotoxicity of dental materials, Mutat Res 368:181–194, 1996.
+Hensten-Pettersen A: Casting alloys: Side-effects, Adv Dent Res 6:38–43,
+1992.
+Hildebrand HF, Veron C, Martin P: [Non-precious metal dental alloys
+and allergy], J Biol Buccale 17:227–243, 1989.
+Hörsted-Bindslev P: Amalgam toxicity-environmental and occupational
+hazards, J Dent 32:359–365, 2004.
+Hosoki M, Bando E, Asaoka K, et al: Assessment of allergic hypersensitivity to dental materials, Biomed Mater Eng 19:53–61, 2009.
+IARC: IARC monographs on the Evaluation of Carcinogenic Risks to
+Human—Beyllium and Beryllium compounds. Lyon, France, 2018,
+International Agency for Research on Cancer.
+Imazato S: Bio-active restorative materials with antibacterial effects: New
+dimension of innovation in restorative dentistry, Dent Mater J 28:11–
+19, 2009.
+Izumi AK: Allergic contact gingivostomatitis due to gold, Arch Dermatol
+Res 272:387–391, 1982.
+380.e1
+
+Jones DW: Exposure or absorption and the crucial question of limits for
+mercury, J Can Dent Assoc 65:42–46, 1999.
+Jonsson F, Sandborgh-Englund G, Johanson G: A compartmental model
+for the kinetics of mercury vapor in humans, Toxicol Appl Pharmacol
+155:161–168, 1999.
+Kanerva L, Rantanen T, Aalto-Korte K, et al: A multicenter study of
+patch test reactions with dental screening series, Am J Contact Dermat
+12:83–87, 2001.
+Kanerva L, Toikkanen J, Jolanki R, et al: Statistical data on occupational
+contact urticaria, Contact Derma 35:229–333, 1996.
+Kansu G, Aydin AK: Evaluation of the biocompatibility of various dental
+alloys: Part I—toxic potentials, Eur J Prosthodont Restor Dent 4:129–
+136, 1996.
+Kansu G, Aydin AK: Evaluation of the biocompatibility of various dental
+alloys: Part 2—allergenical potentials, Eur J Prosthodont Restor Dent
+4:155–161, 1996.
+Karatasli B, Karatasli G, Mete O, et al: Healing of oral lichenoid lesions
+following replacement of dental amalgam restorations with feldspathic ceramic inlay-onlay restorations: clinical results of a follow-up
+period varied from three months up to five years, Biomed Res Int 2018
+(2):1–7, 2018.
+Kerosuo H, Kullaa A, Kerosuo E, et al: Nickel allergy in adolescents in
+relation to orthodontic treatment and piercing of ears, Am J Orthod
+Dentofacial Orthop 109:148–154, 1996.
+Khamaysi Z, Bergman R, Weltfriend S: Positive patch test reactions to
+allergens of the dental series and the relation to the clinical presentations, Contact Derma 55:216–218, 2006.
+Khan MA, Williams RL, Williams DF: Conjoint corrosion and wear in
+titanium alloys, Biomaterials 20:765–772, 1999.
+Kingman A, Albertini T, Brown LJ: Mercury concentrations in urine
+and whole blood associated with amalgam exposure in a US military
+population, J Dent Res 77:461–471, 1998.
+Krifka S, Spagnuolo G, Schmalz G, et al: A review of adaptive mechanisms in cell responses towards oxidative stress caused by dental resin
+monomers, Biomaterials 34:4555–4563, 2013.
+Kristoffersen AE, Alraek T, Stub T, et al: Health complaints attributed
+to dental amalgam: A retrospective survey exploring perceived health
+changes related to amalgam removal. Open Dent J 10:739–751, 2016.
+Kuroda K, Endo G, Okamoto A, et al: Genotoxicity of beryllium, gallium
+and antimony in short-term assays, Mutat Res 264:163–170, 1991.
+Laeijendecker R, Dekker SK, Burger PM, et al: Oral lichen planus and
+allergy to dental amalgam restorations, Arch Dermatol 140:1434–
+1438, 2004.
+Laeijendecker R, van Joost T: Oral manifestations of gold allergy, J Am
+Acad Dermatol 30:205–209, 1994.
+Langworth S, Elinder CG, Akesson A: Mercury exposure from dental
+fillings. I. Mercury concentrations in blood and urine, Swed Dent J
+12:69–70, 1988.
+Langworth S, Kölbeck KG, Akesson A: Mercury exposure from dental
+fillings. II. Release and absorption, Swed Dent J 12:71–72, 1988.
+Loden M, Wessman C: Mascaras may cause irritant contact dermatitis,
+Int J Cosmet Sci 24:281–285, 2002.
+Lygre GB, Gjerdet NR, Gronningsaeter AG, et al: Reporting on adverse
+reactions to dental materials-intraoral observations at a clinical followup, Community Dent Oral Epidemiol 31:200–206, 2003.
+Mackert JR Jr, Berglund A: Mercury exposure from dental amalgam fillings: Absorbed dose and the potential for adverse health effects, Crit
+Rev Oral Biol Med 8:410–436, 1997.
+Marcusson JA: Contact allergies to nickel sulfate, gold sodium thiosulfate
+and palladium chloride in patients claiming side-effects from dental
+alloy components, Contact Derma 34:320–323, 1996.
+Melchart D, Vogt S, Kohler W, et al: Treatment of health complaints
+attributed to amalgam, J Dent Res 87:349–353, 2008.
+Meurman JH, Tarkkila L, Tiitinen A: The menopause and oral health,
+Maturitas 63:56–62, 2009.
+Mittermüller P, Hiller KA, Schmalz G, et al: Five hundred patients
+reporting on adverse effects from dental materials: frequencies,
+complaints, symptoms, allergies, Dent Mater 34:1756–1768, 2018.
+380.e2
+
+Mjor IA, Hensten-Pettersen A, Skogedal O: Biologic evaluation of filling materials. A comparison of results using cell culture techniques,
+implantation tests and pulp studies, Int Dent J 27:124–129, 1977.
+Munksgaard EC: Permeability of protective gloves by HEMA and TEGDMA in the presence of solvents, Acta Odontol Scand 58:57–62,
+2000.
+Munksgaard EC, Hansen EK, Engen T, et al: Self-reported occupational
+dermatological reactions among Danish dentists, Eur J Oral Sci 104:
+396–402, 1996.
+Murray PE, Hafez AA, Smith AJ, et al: Hierarchy of pulp capping and
+repair activities responsible for dentin bridge formation, Am J Dent
+15:236–243, 2002.
+Nerdrum P, Malt UF, Hoglend P, et al: A 7-year prospective quasiexperimental study of the effects of removing dental amalgam in 76
+self-referred patients compared with 146 controls, J Psychosom Res
+57:103–111, 2004.
+Nicolae A, Ames H, Quinonez C: Dental amalgam and urinary mercury concentrations: A descriptive study, BMC Oral Health 13(1):44,
+2013.
+Olea N, Pulgar R, Pérez P, et al: Estrogenicity of resin-based composites
+and sealants used in dentistry, Environ Health Perspect 104:298–305,
+1996.
+Piirila P, Kanerva L, Keskinen H, et al: Occupational respiratory hypersensitivity caused by preparations containing acrylates in dental personnel, Clin Exp Allergy 28:1404–1411, 1998.
+Pongprueksa P, De Munck J, Duca RC, et al: Monomer elution in relation to degree of conversion for different types of composite, J Dent
+43:1448–1455, 2015.
+Putzeys E, Nys S, Cokic SM, et al: Long-term elution of monomers from
+resin-based dental composites, Dent Mater 35:477–485, 2019.
+Raap U, Stiesch M, Reh H, et al: Investigation of contact allergy to dental
+metals in 206 patients, Contact Derma 60:339–343, 2009.
+Rajan TV: The Gell-Coombs classification of hypersensitivity reactions: A
+re-interpretation, Trends Immunol 24:376–379, 2003.
+Ribeiro APD, Sacono NT, Soares DG, et al: Human pulp response to
+conventional and resin-modified glass ionomer cements applied in
+very deep cavities, Clin Oral Investig 24:1739–1748, 2020.
+Rooney JP: The retention time of inorganic mercury in the brain—a systematic review of the evidence, Toxicol Appl Pharmacol 274:425–435,
+2014.
+Schaffran RM, Storrs FJ, Schalock P: Prevalence of gold sensitivity in
+asymptomatic individuals with gold dental restorations, Am J Contact
+Dermatitis 10:201–206, 1999.
+Schmalz G, Arenholt-Bindslev D, editors: Biocompatiblity of Dental
+Materials, Berlin-Heidelberg, 2009, Springer.
+Schmalz G, Galler KM: Biocompatibility of biomaterials—lessons
+learned and considerations for the design of novel materials, Dent
+Mater 33:382–393, 2017.
+Schmalz G, Hickel R, van Landuyt KL, et al: Nanoparticles in dentistry,
+Dent Mater 33:1298–1314, 2017.
+Schmalz G, Hickel R, van Landuyt KL, et al: Scientific update on
+nanoparticles in dentistry, Int Dent J 68:299–305, 2018.
+Schmalz G, Langer H, Schweikl H: Cytotoxicity of dental alloy extracts
+and corresponding metal salt solutions, J Dent Res 77:1772–1778,
+1998.
+Schmalz G, Preiss A, Arenholt-Bindslev D: Bisphenol-A content of
+resin monomers and related degradation products, Clin Oral Investig
+3:114–119, 1999.
+Schmalz G, Schuster U, Thonemann B, et al: Dentin barrier test with
+transfected bovine pulp-derived cells, J Endod 27:96–102, 2001.
+Schmalz G, Thonemann B, Riedel M, et al. Biological and clinical investigations of a glass ionomer base material, Dent Mater 10:304–313,
+1994.
+Schmalz G, Widbiller M, Galler KM: Material tissue interaction—from
+toxicity to tissue regeneration, Oper Dent 41:117–131, 2016.
+Schweikl H, Petzel C, Bolay C, et al: 2-Hydroxyethyl methacrylateinduced apoptosis through the ATM- and p53-dependent intrinsic
+mitochondrial pathway, Biomaterials 35:2890–2904, 2014.
+
+Schweikl H, Spagnuolo G, Schmalz G: Genetic and cellular toxicology of dental resin monomers, J Dent Res 85:870–877, 2006.
+Scott A, Egner W, Gawkrodger DJ, et al: The national survey of adverse
+reactions to dental materials in the UK: A preliminary study by the UK
+Adverse Reactions Reporting Project, Br Dent J 196:471–477, 2004.
+Sicilia A, Cuesta S, Coma G, et al: Titanium allergy in dental implant
+patients: A clinical study on 1500 consecutive patients, Clin Oral
+Implants Res 19:823–835, 2008.
+Sidhu S K, Nicholson JW: A review of glass-ionomer cements for clinical
+dentistry, J Funct Biomater, 2016 16(1-15) 7.
+Soares DG, Basso FG, Scheffel DL, et al: Biocompatibility of a restorative
+resin-modified glass ionomer cement applied in very deep cavities prepared in human teeth, Gen Dent 64:33–40, 2016.
+Spranley TJ, Winkler M, Dagate J, et al: Curing light burns, Gen Dent
+60:e210–e214, 2012.
+Suri V, Suri V: Menopause and oral health, J Midlife Health 5:115–120,
+2014.
+Tarlo SM, Sussman GL, Holness DL: Latex sensitivity in dental students and
+staff: A cross-sectional study, J Allergy Clin Immunol 99:396–401, 1997.
+U.S. Food and Drug Administration: Biological Responses to Metal
+Implants. U.S. Food and Drug Administration, 2019.
+Vamnes JS, Lygre GB, Gronningsaeter AG, et al: Four years of clinical
+experience with an adverse reaction unit for dental biomaterials, Community Dent Oral 32:150–157, 2004.
+Van Landuyt KL, Nawrot T, Geebelen B, et al: How much do resin-based
+dental materials release? A meta-analytical approach, Dent Mater
+27:723–747, 2011.
+Veronese I, Guzzi G, Giussani A, et al: Determination of dose rates from
+natural radionuclides in dental materials, J Environ Radioact 91:15–
+26, 2006.
+
+Wataha JC: Biocompatibility of dental casting alloys: A review, J Prosthet
+Dent 83:223–834, 2000.
+Wataha JC: Predicting clinical biological responses to dental materials, Dent Mater 28:23–40, 2012.
+Wataha JC, Craig RG, Hanks CT: The release of elements of dental
+casting alloys into cell-culture medium, J Dent Res 70:1014–1018,
+1991.
+Wataha JC, Hanks CT: Biological effects of palladium and risk of using
+palladium in dental casting alloys, J Oral Rehabil 23:309–320,
+1996.
+Wataha JC, Hanks CT, Sun Z: In vitro reaction of macrophages to metal
+ions from dental biomaterials, Dent Mater 11:239–245, 1995.
+Wataha JC, Schmalz G: Dental Alloys. In Schmalz G, Anrenholt-Bindslev D, editors: Biocompatibility of Dental Materials. Berlin Heidelberg, 2009, Springer, pp 211–254.
+Widbiller M, Lindner SR, Buchalla W, et al: Three-dimensional culture of
+dental pulp stem cells in direct contact to tricalcium silicate cements,
+Clin Oral Investig 20:237–246, 2016.
+Wrangsjö K, Swartling C, Meding B: Occupational dermatitis in dental
+personnel: Contact dermatitis with special reference to (meth)acrylates in 174 patients, Contact Derma 45:158–163, 2001.
+Wu M, McIntosh J, Liu J: Current prevalence rate of latex allergy: Why it
+remains a problem? J Occup Health 58:138–144, 2016.
+Yang J, Shanbhag A, Lilien J, et al: Human neutrophil response to
+short-term exposure to F-75 cobalt-based alloy, J Biomed Mater Res
+26:1217–1230, 1992.
+Yin L, Yu K, Lin S, et al: Associations of blood mercury, inorganic mercury, methyl mercury and bisphenol A with dental surface restorations
+in the U.S. population, NHANES 2003–2004 and 2010–2012, Ecotoxicol Environ Saf 134(part 1):213–225, 2016.
+
+380.e3
+

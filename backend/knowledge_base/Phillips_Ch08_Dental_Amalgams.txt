@@ -1,0 +1,1805 @@
+8
+
+Dental Amalgams
+OUTLINE
+Amalgam Alloy
+
+Clinical Performance of Amalgam Restorations
+
+Clinical Manipulation of Amalgam for Restorations
+
+Safety of Amalgam Restorations
+
+Properties of Amalgams
+
+KEY TERMS
+Amalgam An alloy containing mercury.
+Amalgamation The process of mixing liquid mercury with one or
+more metals or alloys to form an amalgam.
+Condensation The process of pressing dental amalgam by force to
+remove excess mercury and ensure continuity of the matrix phase.
+Creep The time-dependent strain or deformation that is produced
+by a stress. The creep process can cause an amalgam restoration to extend out of the restoration site, thereby increasing its
+susceptibility to marginal breakdown.
+Delayed expansion The gradual expansion of a zinc-containing
+amalgam over a period of weeks to months. This expansion is
+associated with the development of hydrogen gas, which is
+caused by the incorporation of moisture in the plastic mass during its manipulation in a cavity preparation.
+
+Dental amalgam An alloy that is formed by reacting mercury with
+silver, copper, and tin, and that may also contain palladium, zinc,
+and other elements to improve handling characteristics and
+clinical performance.
+Dental amalgam alloy (alloy for dental amalgam) An alloy of
+silver, copper, tin, and other elements that is processed in the
+form of powder particles or as a compressed pellet.
+Marginal breakdown The gradual fracture of the perimeter or
+margin of a dental amalgam filling, which leads to the formation
+of gaps between the amalgam and the tooth.
+Trituration The mixing of amalgam alloy particles with mercury in a device called a triturator; the term is also used to
+describe the reduction of a solid to fine particles by grinding
+or friction.
+
+When metal particles are mixed with mercury in certain proportion at room temperature, the mixture appears plastic initially. At
+that consistency, the mixture can be adapted to any shape with
+light pressure. Meanwhile, the outer portion of the particle in the
+mixture dissolves into mercury that slowly hardens the mixture.
+When the solubility of the metal in mercury is exceeded, crystals
+of mercury-containing compounds start to precipitate within the
+mercury. The process increases the firmness of the mixture, which
+enables sculpting of the mixture to the desirable anatomical form
+with instruments. The reaction continues at a slower rate as the
+mixture transforms into a solid with sufficient strength to resist
+fracture. The reaction process is called amalgamation, and the
+metallic solid containing mercury is called amalgam.
+
+of spherical particles during the early 1960s. Despite amalgam’s
+long history of success as a restorative material, there have been
+periodic concerns regarding the potential adverse health effects
+arising from exposure to mercury in dental amalgam. Because
+of advances in resin-based composites and adhesive technology in
+dentistry, the use of amalgam has declined substantially. Dental
+amalgam use will be limited in the future and may eventually be
+phased out of the clinician’s armamentarium.
+As with other materials discussed in this book, practical skill
+and sound scientific familiarity with the material are needed for
+making high-quality restorations. Even when no new amalgams
+are being placed in patients, there will still be billions of amalgam
+restorations remaining in patients’ mouths. Many of these restorations will require attention, such as for replacement, repair, or
+refurbishing procedures. In this chapter, amalgam structure, properties, and manipulation characteristics are discussed. However,
+these concepts require an understanding of several key terms commonly used by the dental profession.
+Before these alloys combine with mercury, they are known as
+dental amalgam alloys. They are usually provided as (1) irregularly shaped particles (Figure 8-1, A) produced by milling or lathecutting a cast ingot of the amalgam alloy, (2) as spherical particles
+(Figure 8-1, B) produced by atomizing the liquid alloy in a chamber filled with inert gas, or (3) as a mixture of both lathe-cut and
+
+CRITICAL QUESTION
+After reacting with liquid mercury, how do the original powder particles
+become structural components of the set dental amalgams?
+
+Amalgam Alloy
+The amalgams used today are largely based on the formulation
+published by G. V. Black in 1895. The major modifications to
+that formulation were raising the copper content and the making
+
+153
+
+154
+
+PA RT I I
+
+Direct Restorative Materials
+
+A
+
+B
+
+C
+
+• Figure 8-1 Particle shapes of dental amalgam alloys. A, Conventional lathe-cut alloy (×100). B, Spherical alloy (×500). C, Typical admix high-copper alloy powder showing the lathe-cut silver-tin particles and
+silver-copper spherical particles (×500).
+
+A
+
+B
+
+C
+
+• Figure 8-2 Types of amalgam trituration capsules. A, Reusable capsules with pestle. B, Preproportioned capsule with pestle. C, Preproportioned capsule without pestle.
+
+spherical particles (Figure 8-1, C). The powder may also be compacted in the form of pellets, which are readily crushed to powder
+during trituration, the process of mixing mercury and alloy.
+Originally, the dentist had to dispense alloy powder and mercury
+in a mortar and mix them together with a pestle by hand. Later, the
+components were dispensed in a reusable capsule (Figure 8-2) with
+a pestle and triturated by a power-driven mechanical device called
+a triturator (Figure 8-3). Today, disposable amalgam capsules are
+widely available. Each capsule contains a predetermined amount
+of alloy powder and mercury in a sealed pouch, and the capsule is
+sealed to prevent evaporation of the mercury.
+
+Composition
+Amalgam alloys are classified as either a low-copper (conventional)
+or high-copper alloy (Table 8-1). In both types, the major components of the alloys are silver and tin.
+
+The Silver-Tin System
+Figure 8-4 is an equilibrium-phase diagram of the silver-tin alloy
+system. Conventionally, starting from the left of the phase diagram, each phase is designated in Greek alphabetical order. The
+ratio of silver to tin in Table 8-1 shows that amalgam alloys have a
+narrow range of compositions, falling within the β + γ and the γ
+phases of the diagram.
+
+• Figure 8-3 A programmable triturator.
+TABLE 8-1
+
+Composition of Some Typical Commercial
+Amalgam Alloys
+COMPOSITION (MASS %)
+
+Amalgam
+
+Ag
+
+Sn
+
+Cu
+
+Zn
+
+Low copper (lathe-cut)
+
+70.3
+
+25.9
+
+2.8
+
+0.9
+
+Low copper (spherical)
+
+72.0
+
+25.0
+
+3.0
+
+—
+
+High copper (admix)
+
+69.5
+
+17.7
+
+11.8
+
+1.0
+
+High copper (spherical)
+
+61.0
+
+26.0
+
+13.0
+
+—
+
+CRITICAL QUESTION
+How can zinc be a beneficial additive to alloy for dental amalgam but also a
+component that can potentially cause significant postoperative discomfort to
+the patient?
+
+Low-Copper Alloys
+Silver-tin alloys are quite brittle and difficult to blend uniformly unless a small amount of copper is substituted for silver.
+The chief function of zinc in an amalgam alloy is to act as a
+
+CHAPTER 8
+
+1000
+
++ Liquid
+800
+Liquid
+
+Temperature (°C)
+
++ Liquid
+
+600
+
+Atomized Powder
+The molten amalgam alloy is atomized into fine spherical droplets of
+metal in a chamber of inert gas. If the droplets solidify before hitting
+a surface, the spherical shape is preserved, and these atomized powders are called spherical powders. Like the lathe-cut powders, spherical
+powders are given an annealing heat treatment and surface washing.
+Note in Table 8-1 that alloys for making spheres do not contain zinc
+because there is no oxygen in the chamber to cause oxidation.
+
+480°
+(Ag3Sn)
+
+400
+
+232°
+
++ Liquid
++
+
+221°
+
++
+
+200
+
++
+
+96.5%
+
+26.8%
+0
+Ag
+
+10
+
+20
+
+30 40 50 60 70
+Composition (wt%, tin)
+
+155
+
+Lathe-Cut Powder
+An as-cast ingot is first annealed to retain a uniform phase, and
+then placed in a milling machine or in a lathe to be fragmented by
+a cutting tool or bit. The powders obtained from cutting are acidwashed to produce a more reactive surface. Because the stresses
+induced into the particle during cutting are not uniform and can
+slowly be self-relieved over time, they can cause the performance
+of the amalgam to be inconsistent.
+
+960.5°
+
+724°
+
+Dental Amalgams
+
+80
+
+90
+
+Sn
+
+• Figure 8-4 Equilibrium-phase diagram of silver-tin system.
+
+deoxidizer that reacts with oxygen during melting to minimize
+the oxide formation of other constituents. Alloys without zinc
+are more brittle, and their amalgams tend to be less plastic
+during condensation and carving. The specification of the
+American Dental Association (ADA) for amalgam alloys allows
+some mercury in the alloy powder. The structure of these conventional alloys was dominated by Ag3Sn (γ phase), with some
+Cu3Sn (ε phase).
+
+High-Copper Alloys
+The first high-copper alloy was formulated by mixing one part
+of silver-copper eutectic spherical spheres particles with two parts
+lathe-cut particles of Ag3Sn. This modification raises the copper
+content to 11.8% by weight. This is often called dispersed-phase
+alloy or admixed high-copper alloy. A second type of high-copper
+alloy was made by melting all components of the dispersedphase alloy. This process yields a single composition system. The
+presence of the higher copper content makes cutting the powder
+into particles difficult. Thus they are often provided in a spherical form that is produced by an atomization process. The copper
+content of this group of alloys could be as high as 30% by weight.
+Various amounts of indium or palladium have been included in
+some commercial systems.
+Gallium-Based Alloys
+Gallium, when alloyed with indium or tin, can be a liquid at room
+temperature. It has been used to triturate with alloys for highcopper amalgam as a substitute for mercury.
+
+Powder Configuration
+Dental amalgams are made by mixing alloy powders with mercury. The reaction begins at the particle–mercury interface. Therefore the physical configuration and condition of the particles have
+a significant influence on the setting process.
+
+Particle Size
+The average particle sizes of modern powders range between 15
+and 35 μm. Smaller particles greatly increase the surface area per
+unit volume of the powder. A powder containing tiny particles
+requires a greater amount of mercury to form an acceptable amalgam. The particle-size distribution can affect the character of the
+finished surface. When the amalgam has partially hardened, the
+tooth anatomy is carved in the amalgam with a sharp instrument. During carving, the larger particles may be pulled out of
+the matrix, producing a rough surface. Such a surface is probably
+more susceptible to corrosion than a smooth surface. A smaller
+average particle size tends to produce a more rapid hardening of
+the amalgam, with greater early strength.
+Lathe-Cut Powder Versus Spherical Powder
+Amalgams made from lathe-cut powders or admixed powders
+tend to resist condensation better than amalgams made entirely
+from spherical powders. Because freshly triturated amalgams from
+spherical powders are very plastic, one cannot rely on the pressure
+of condensation to establish the proximal contour for a class II restoration. Spherical alloys require less mercury than typical lathecut alloys because spherical alloy powder has a smaller surface area
+per volume than does the lathe-cut powder. Amalgams with low
+mercury content generally have better mechanical properties.
+
+CRITICAL QUESTION
+Through what mechanism does the addition of 6 wt% or more of copper by
+weight prevent the formation of the undesirable γ2 phase?
+
+Amalgamation
+As discussed earlier, modern dental amalgam alloys are based
+on the intermetallic compound Ag3Sn; therefore the main reaction occurring after trituration with mercury will mainly be that
+between Ag3Sn and mercury. Other elements in the alloy, especially copper, also play a significant role in the final microstructures of set amalgams.
+
+Low-Copper Alloys
+The main reaction products of low-copper alloy are the bodycentered cubic Ag2Hg3 (γ1) phase and the hexagonal Sn7-8Hg (γ2)
+phase (Figure 8-5). Both phases are designated γ because they
+happen to be the third phase of the respective Ag-Hg and Sn-Hg
+
+156
+
+PA RT I I
+
+Direct Restorative Materials
+
+Low-copper alloy
+Ag3Sn + Hg
+
+Symbols and stoichiometry of phases
+Ag2Hg3 + Sn7-8Hg + unreacted Ag3Sn
+
+High-copper admix alloy
+Ag3Sn + Ag-Cu + Hg
+
+Phase Symbols
+
+Ag3Sn
+
+γ
+
+Ag2Hg3 + Sn7-8Hg + unreacted Ag-Cu + unreacted Ag3Sn
+
+γ
+
+Cu6Sn5 + Ag2Hg3 + unreacted Ag-Cu
+Secondary
+solid-state reaction
+High-copper spherical alloy
+[Ag3Sn + Cu3Sn] + Hg
+Ag2Hg3 + Cu6Sn5 + unreacted [Ag3Sn + Cu3Sn]
+
+Composition
+
+1
+
+Ag2Hg3
+
+γ2
+
+Sn7-8Hg
+
+ε
+
+Cu3Sn
+
+η (η')
+
+Cu6Sn5
+
+• Figure 8-5 Reactions of low-copper and high-copper amalgams and symbols of phases involved in the
+setting of dental amalgams.
+
+Ag-Sn
+Alloy
+
+Ag
+Alloy
+
+Sn
+Sn
+
+Ag
+Ag-Sn
+Alloy
+
+Alloy
+
+Mercury
+
+A
+
+B
+
+C
+
+D
+
+• Figure 8-6 Schematic drawings that illustrate the development sequence of the amalgam microstructure when lathe-cut, low-copper, alloy particles are mixed with mercury. A, Dissolution of silver and tin into
+mercury. B, Precipitation of γ1 crystals in the mercury. C, Consumption of the remaining mercury by growth
+of γ1 and γ2 grains. D, The final set amalgam. The dark patches are voids.
+
+systems. Because the solubility of silver in mercury is much lower
+than that of tin, the Ag2Hg3 phase precipitates first and is designated as γ1, whereas the Sn7-8Hg phase precipitates later and is designated as γ2. There is evidence from x-ray diffraction and thermal
+analyses of set amalgam that a δ phase, which is richer in mercury
+than γ2, is present in low-copper alloy instead of γ2. The existence
+of γ2 or δ phases in low-copper amalgams remains an unresolved
+question. For the purpose of this discussion, the Sn-Hg phase is
+designated as γ2.
+The low-copper alloy is usually mixed with mercury in about
+a 1:1 ratio. This amount of mercury is insufficient to consume
+the alloy particles completely; consequently, unreacted particles
+are present in the set amalgam. Thus a typical low-copper amalgam is a composite in which the unreacted particles are distributed
+within the γ1 and γ2 phases. The sequence of amalgamation of the
+silver-tin alloy is shown schematically in Figure 8-6.
+
+The physical properties of the set amalgam depend on the relative percentages of each microstructural phase. The greater the
+number of unreacted Ag-Sn particles retained in the final structure, the stronger the amalgam will be. The γ2 phase is the weakest
+and least stable in a corrosive environment and may suffer corrosion attack, especially in the crevices of the restorations. A reaction
+between Cu3Sn (ε phase) and γ2 also occurs and yields Cu6Sn5
+(η′ phase) to a lesser extent because of the low copper content.
+Figure 8-7 illustrates the features found in a typical microstructure
+of amalgam made from a lathe-cut, low-copper alloy.
+
+CRITICAL QUESTION
+Compared with amalgams made from admixed high-copper alloys, what are
+the benefits and the risks of the amalgams made from high-copper, singlecomposition, spherical particles?
+
+CHAPTER 8
+
+157
+
+Dental Amalgams
+
+ε
+γ
+
+Ag-Cu
+
+η'
+
+γ1
+
+• Figure 8-7 A scanning electron micrograph of a low-copper amalgam
+(×1000). The micrograph features remaining β and γ phases (the large,
+dark areas labeled P), ε phase (small, dark patches labeled E), γ1 phase
+(light background labeled G1), γ2 phase (small grains labeled G2), and
+voids (left-center and right-center areas labeled V).
+
+High-Copper Alloys
+As discussed earlier, high-copper alloy powders are available in a twophase admixed powder and a single-composition, single-phase powder, each with a unique amalgamation process (Figure 8-5).
+Admixed Alloys
+
+When mercury mixes with an admixed alloy powder, the silver in
+the Ag-Cu spheres and the silver and tin from Ag-Sn particles dissolve into the mercury. Although both γ1 and γ2 crystals form, as
+in lathe-cut alloys, the tin in mercury diffuses to the surfaces of the
+Ag-Cu alloy particles and reacts with the copper to form a layer of
+η'-phase crystals on the surface. The η' layer on the surface of Ag-Cu
+alloy particles also contains γ1 crystals because the γ1 and η′ phases
+form simultaneously. In this reaction, the γ2 phase forms along with
+the η' phase, but the γ2 phase later reacts with copper from Ag-Cu
+spheres, yielding additional η' phase (the secondary solid-state reaction in Figure 8-5). The γ2 phase can be eliminated with at least
+12% of copper by weight in the alloy powder. Figure 8-8 illustrates
+the microstructure of an admixed amalgam. As in the low-copper
+amalgams, admixed amalgam is a composite of γ1 because of the
+matrix phase with discrete unreacted alloy particles.
+Single-Composition Alloys
+
+The major components of single-composition particles are usually
+silver, tin, and copper. The copper content of various single-composition alloys ranges from 13% to 30% by weight. Some alloys
+contain a small quantity of indium or palladium. Several phases
+are found in each single-composition alloy particle, including the
+β phase (Ag-Sn), γ phase (Ag3Sn), and ε phase (Cu3Sn). Some
+of the alloys may also contain the η' phase. The particles usually
+
+• Figure 8-8 Scanning electron micrograph of an admixed high-copper
+amalgam. The various phases and reaction layer are labeled. The ε phase
+is part of the lathe-cut particle. The small, very light, drop-shaped areas
+on the particle phase are high in mercury because of the freshly polished
+specimen (×1000).
+
+are spheres, but a formulation with all lathe-cut particles is also
+available.
+When triturated with mercury, silver and tin from the Ag-Sn
+phases dissolve in mercury. Very little copper dissolves in mercury. The γ1 crystals grow, forming a matrix that binds together
+the partially dissolved alloy particles. The η' crystals are found
+as meshes of rod-like crystals at the surfaces of alloy particles
+dispersed in the matrix. In most single-composition amalgams,
+little or no γ2 forms (see Figure 8-5). Figure 8-9 shows the microstructure of a typical single-composition amalgam. This structure
+includes unreacted alloy particles, γ1 grains, and η' crystals.
+
+CRITICAL QUESTION
+What steps can be taken by a dentist to extend the survival time of amalgam
+restorations?
+
+Clinical Manipulation of Amalgam for
+Restorations
+A good modern dental amalgam alloy can be manipulated so that the
+restoration lasts, on average, 12 to 15 years. The cavity preparation
+must be designed correctly, and the amalgam must be manipulated
+properly so that no part of the amalgam restoration is placed under
+excessive tensile stress. The manipulation variables discussed in this
+section are the mercury/alloy ratio, trituration, and condensation.
+
+CRITICAL QUESTIONS
+What is the ideal mercury/alloy ratio for an admixed amalgam and a spherical
+particle amalgam? What are the consequences of insufficient and excess
+amounts of mercury for the amalgam restorations?
+
+158
+
+PA RT I I
+
+Direct Restorative Materials
+
+CRITICAL QUESTION
+How should the optimal trituration time be determined for a given dental
+amalgam product?
+
+Mechanical Trituration
+The objective of trituration is to ensure proper amalgamation of
+the mercury and alloy and provide the optimal consistency for
+condensation. The focus of trituration includes the triturator and
+the consistency of the mixture.
+
+• Figure 8-9 A scanning electron micrograph of a high-copper, singlecomposition amalgam (×560). The micrograph features unreacted alloy particles (labeled P), γ1 matrix phase (labeled G1), and η' crystals (labeled H).
+
+Mercury/Alloy Ratio
+The mercury/alloy ratio is the weight of mercury divided by the
+weight of alloy needed for trituration. Sufficient mercury must
+be present in the original mix to provide a coherent and plastic mass after trituration, but the amount must be low enough
+that the mercury content of the restoration is at an acceptable
+level without the need to remove an appreciable amount during condensation. The mercury content of the lathe-cut alloy
+is about 50% by weight, and that for spherical alloys is 42% by
+weight. When a mortar and pestle were used for mixing amalgam, an excess amount of mercury would be needed to achieve a
+smooth and plastic amalgam. Removal of excess mercury would
+be accomplished by squeezing or wringing the mixed amalgam
+in a squeeze cloth prior to insertion of the increments into the
+prepared cavity.
+The most common dispenser is based on volumetric proportioning. Preweighed pellets or tablets are first placed in a capsule
+(Figure 8-2). In mechanical mixing, the capsule serves as a mortar.
+The mercury dispenser should be held vertically to ensure consistent dispensing of mercury. The dispenser should always be at least
+half full when used to ensure that the proper weight of mercury
+is dispensed.
+Disposable capsules containing preproportioned mercury
+and alloy are now widely used. Both components are physically
+separated in the capsule. Some capsule designs require activation before trituration to bring the components together. Other
+designs, called self-activating capsules, bring the alloy and mercury together automatically during the first few oscillations of
+the amalgamator.
+Regardless of the method used, the proper amount of
+mercury and alloy must always be proportioned, or the
+preproportioned capsule must be activated just before the start
+of trituration.
+
+Triturators
+The main mixing mechanism of a triturator is a reciprocating
+arm holding the capsule under a protective hood. The hood is to
+confine mercury that might escape into the room and to prevent
+a capsule from being accidentally ejected from the amalgamator
+during trituration. Older models are usually a single-speed device
+with an automatic timer to set the length of mixing. Later models
+have multiple speed settings. A modern triturator is often microprocessor controlled (Figure 8-3) and contains preset trituration
+programs for several materials. These newer models can also be
+programmed by the operator to include other materials. The capsule serves as a mortar. A cylindrical metal or plastic piston of
+smaller diameter than the capsule is inserted into the capsule, and
+this serves as the pestle. Spherical alloys often do not need a pestle
+(Figure 8-2).
+Alloy manufacturers often provide a list of recommended time
+schedules and speed settings in cycles per minute for their alloys
+and various types of amalgamators. Because of the speed variations
+in amalgamators, the schedule should serve only as a rough guide.
+Dentists and assistants may want to adjust the time required to
+attain a mix of the correct consistency. For a given alloy and mercury/alloy ratio, increased trituration time and/or speed shorten
+the working and setting times.
+A reusable capsule should be clean and free of previously
+mixed, hardened alloy. At the end of each trituration procedure,
+one should quickly remove the pestle from the capsule, replace the
+lid, reinsert the capsule in the amalgamator, turn it on for a second
+or two, and then remove the amalgam. This mulling process generally causes the mix to cohere so that the amalgam can be readily
+removed from the capsule with minimal residue in the capsule.
+Mulling minimizes the need for scraping out partially hardened
+alloy, which usually produces scratches in the capsule.
+Consistency of the Mix
+The proper time of mixing can be determined by observing the
+consistency of the mix. For example, the mix with a somewhat
+grainy and dull appearance (Figure 8-10, A) indicates undertrituration. Not only will the amalgam restoration made from this
+mix be weak, but also the rough surface left after carving of the
+granular amalgam will increase the susceptibility to tarnish. If the
+trituration has produced an amalgam of the general appearance
+shown in Figure 8-10, B, the strength will be optimal, and the
+smooth carved surface will retain surface luster longer after polishing. Because of the friction between particles during trituration,
+such an amalgam mix should be warm (not hot) when the mix is
+removed from the capsule. This will have no effect on the physical
+properties of the amalgam other than to shorten the working time
+somewhat. Overtrituration through a higher speed or a longer
+mixing time results in a softer (mushy) mixture that often sticks
+to the wall of the capsule. Compared with the properly mixed
+
+CHAPTER 8
+
+A
+
+B
+
+Dental Amalgams
+
+159
+
+C
+
+• Figure 8-10 Appearance of freshly triturated amalgam mixture. A, A grainy, undertriturated mixture; a
+restoration made of such a mixture has low strength and poor resistance to corrosion. The mixture may
+appear as a solid mass, but the surface remains without luster, as shown. B, A properly triturated amalgam that appears rounded, with a smooth, shiny surface. C, An overtriturated amalgam mixture, which is
+shinier than that of the properly triturated one, and because of more fluid consistency, the mass appears
+flattened by the force of trituration.
+
+amalgam, the surface of overtriturated amalgam is shinier, the
+shape of the mass is flatter (Figure 8-10, C), and the working time
+is shorter and has a slightly higher setting contraction.
+
+CRITICAL QUESTION
+During the condensation of an amalgam, at what point in time should the
+triturated mixture be discarded and replaced by a new mixture?
+
+Condensation
+The goal of condensation is to compact the alloy into the prepared cavity so that the greatest possible density is attained,
+with sufficient mercury present to ensure continuity of the
+matrix phase between the remaining alloy particles. This results
+from a reduction of excess mercury and porosity within the set
+amalgam.
+After the mix is made, the increments of alloy should be carried to, and inserted in, the prepared cavity by means of instruments such as small forceps or an amalgam carrier designed for
+this purpose. Condensation of the amalgam should then be
+promptly initiated. The field of operation must be kept absolutely
+dry during condensation. Because of the nature of the operation,
+condensation is usually accomplished within four walls and a
+floor. One or more walls may be a thin sheet of stainless steel,
+called a matrix band.
+
+Condensation Procedure
+Condensation is pressing a condenser point on the amalgam mass
+under hand pressure. This procedure is usually started at the center, and then the condenser point is stepped incrementally toward
+the cavity walls. The force requirements depend on the shape of
+the alloy particle.
+After condensation of an increment, the surface should appear
+shiny. This indicates that there is sufficient mercury present at the
+surface to diffuse into the next increment so that the subsequent
+increment added will bond to the preceding one. Removing some
+of the soft or mushy material before adding the next increment is
+desirable. This step is less critical with modern-day amalgams that
+require less mercury for mixing.
+If the cavity is a large one or if for some reason undue
+time is taken to complete condensation, another mix should
+
+be made just before the original one is used up or when plasticity is lost. Condensation of partially set material fractures
+and breaks up the matrix that has already formed. In addition, when the alloy has lost a certain amount of plasticity,
+condensation without producing internal voids and layering
+is difficult. The procedure of condensation is continued until
+the cavity is overfilled.
+
+Condensation Pressure
+The condensation pressure is governed by the area of the condenser face and the force exerted by the operator on the mixture.
+When a given force is applied, the smaller the condenser, the
+greater is the pressure exerted on the amalgam. If the condenser
+point is too large, the operator cannot generate sufficient pressure to condense the amalgam adequately and force the mix into
+retentive areas. A study of 30 practitioners showed that the forces
+applied are in the range of 13.3 to 17.8 N (3 to 4 lb). To ensure
+maximum density and adaptation to the cavity walls, the condensation force should be as great as the alloy will allow, consistent with patient comfort. Many of the spherical alloys offer
+only minimal resistance to the condensation force. Therefore the
+strength properties of spherical amalgam alloys tend to be less
+sensitive to condensation pressure.
+In many instances, condensation becomes a matter of attaining good adaptation. The potential disadvantages of a spherical
+alloy compared with an admixed alloy (lathe-cut and spherical
+particles) are the tendency for overhangs in proximal areas and
+weak proximal contacts. The shape of the condenser points should
+conform to the area under condensation. For example, a round
+condenser point is ineffective adjacent to a corner or angle of a
+prepared cavity; a triangular or square point is indicated in such
+an area. Points of various shapes are available to provide effective
+condensation.
+
+Carving and Finishing
+After the amalgam has been condensed into the prepared cavity,
+it is carved to reproduce the proper tooth anatomy. The objective
+of carving is to simulate the anatomy rather than trying to reproduce extremely fine details. The carving should start only when
+the amalgam is hard enough to resist the carving instrument. A
+scraping or “ringing” sound should be heard when the amalgam
+
+160
+
+PA RT I I
+
+Direct Restorative Materials
+
+A
+
+• Figure 8-11 Final finishing of an amalgam margin with a soft, unribbed
+prophylaxis cup and fine prophylaxis paste. The cup should be used with
+very light pressure to avoid flattening of anatomical contours.
+
+is carved. Softer amalgam may be pulled away from the margins
+by the carving instrument. The matrix band should be removed
+during the final carving procedure. Make sure that excess amalgam has not been forced beyond the matrix gingivally during
+condensation.
+After carving, the surface of the restoration should be smoothed.
+This may be accomplished by burnishing the occlusal surface with
+a ball burnisher and the margins of the restoration with a rigid,
+flat-bladed instrument. Final smoothing can be concluded by rubbing the surface with a moist cotton pellet or by lightly smoothing the surface with a rubber polishing cup and an extremely fine
+polishing or prophylaxis paste (Figure 8-11). Clinical data on the
+performance of restorations support the desirability of burnishing the fast-setting, high-copper systems. Burnishing slow-setting
+alloys can damage the margins of the restoration.
+Regardless of alloy, trituration method, or condensation technique, the carved surface of the restoration appears rough, as
+demonstrated by the dull surface of the restorations shown in
+Figure 8-12, A. The surfaces are covered with scratches, pits, and
+irregularities, which can result in concentration cell corrosion over
+time (Chapter 3, Concentration Cell Corrosion). The smooth surface on the restorations shown in Figure 8-12, B is produced by
+the final finishing procedure. The final finish of the restoration
+should be delayed for at least 24 hours after condensation and
+preferably longer. Further discussion on polishing amalgams can
+be found in Chapter 16, Dental Amalgams.
+
+Properties of Amalgams
+ADA Specification No. 1 (International Organization for Standardization [ISO] 24234) for amalgam alloys lists dimensional
+change, compressive strength, and creep as the measures of amalgam quality. The controlling variables and significance of these
+properties are described later.
+
+CRITICAL QUESTION
+How does the mercury content and condensation method affect the expansion
+or contraction that may occur during the setting of an amalgam restoration?
+
+B
+• Figure 8-12 Effect of amalgam polishing. A, Amalgam restorations as
+they appear after carving. B, The same restorations after final finishing.
+(Courtesy Dr. Saulo Geraldeli.)
+
+Dimensional Stability
+Amalgam contracts or expands as the material sets. Severe contraction can lead to microleakage, plaque accumulation, and secondary caries. Excessive expansion can produce pressure on the pulp
+and postoperative sensitivity. Protrusion of a restoration can also
+result from excessive expansion. ADA Specification No. 1 states
+that the dimensional change of amalgam should be in the range
+of 15 to 20 μm/cm measured at 37 °C between 5 minutes and
+24 hours after the beginning of trituration.
+
+Mechanism of Dimensional Change
+During Setting
+When the alloy and mercury are mixed, contraction results as the
+particles dissolve. Because the final volume of the γ1 phase is less
+than the sum of the silver and liquid mercury volume needed to
+produce the γ1 phase, contraction continues as the γ1 phase keeps
+forming. In time, the γ1 crystals begin impinging against one
+another, causing expansion when there is enough liquid mercury
+making the matrix phase plastic. When the matrix phase becomes
+rigid, further impingement of γ1 crystals cannot force the matrix
+to expand further. The reaction continues with γ1 crystals growing
+into interstices containing mercury.
+This model implies that greater expansion will occur if sufficient
+mercury is present in the mix when the dimensional change begins.
+Therefore mixtures with less mercury in the mix, as for lower mercury/alloy ratios and higher condensation pressures, will exhibit
+less expansion. In addition, accelerated setting and consumption of
+
+CHAPTER 8
+
+6
+
+Dental Amalgams
+
+161
+
+16
+
+4
+
+A
+
+14
+
+0
+
+Dimensional change ( m/cm)
+
+Dimensional change (µm/cm)
+
+2
+
+–2
+
+B
+
+–4
+–6
+–8
+
+Note change
+in scale
+
+–10
+–12
+
+C
+
+–14
+–16
+
+12
+10
+8
+6
+4
+
+–18
+2
+
+–20
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+24
+
+Time (hours)
+
+0
+
+• Figure 8-13 Dimensional change of three amalgam products over a
+24-hour period. A, A high-copper admixed amalgam with 50% mercury
+(Dispersalloy). B, A high-copper, single-composition amalgam with 42.5%
+mercury (Tytin). C, A lathe-cut, low-copper amalgam using a smaller size
+of alloy particles (Fine-Cut).
+
+mercury also exhibit reduced expansion, including longer trituration times and the use of smaller alloy particles.
+Measurements of the dimensional change of many modern
+amalgams reveal a net contraction (Figure 8-13), whereas in
+the past, measurements invariably indicated that an expansion
+occurred. The results conformed the model. Please note that
+older amalgams contained larger alloy particles and were mixed
+at higher mercury/alloy ratios than present-day amalgams. Likewise, hand trituration was used in preparing the specimens for
+earlier studies. Now, high-speed mechanical amalgamators are
+employed.
+
+Effect of Moisture Contamination
+When a zinc-containing, low-copper or high-copper amalgam is
+contaminated by moisture during trituration or condensation,
+a large expansion, such as that shown in Figure 8-14, can take
+place. This expansion usually starts 3 to 5 days after placement
+and may continue for months, reaching values as high as 4 μm/
+mm (0.4%). This type of expansion is known as delayed expansion. This expansion is caused by the hydrogen produced by electrolytic action involving zinc and water. The hydrogen gas collects
+within the restoration, increasing the internal pressure to levels
+high enough to cause the amalgam to creep, thus producing the
+observed expansion. Sources of contamination could include skin
+secretions by touching amalgam with bare hands or saliva from
+poor isolation of the operative field. Contaminants must be incorporated into the bulk of amalgam during trituration or condensation for delayed expansion to occur.
+
+CRITICAL QUESTIONS
+What is the phenomenon of marginal breakdown? What are the steps that
+can be taken to reduce the risk or extent of this process?
+
+0 6
+
+12
+(h)
+
+18
+
+24
+Time
+
+2 3 4 5 6 7 8
+(d)
+
+• Figure 8-14 Delayed expansion of a low-copper conventional amalgam.
+
+TABLE 8-2
+
+Compressive Strength, Creep, and
+Tensile Strength of Low-Copper and
+High-Copper Amalgams
+COMPRESSIVE
+STRENGTH (MPa)
+1 Hour
+
+7 Days
+
+Tensile
+Creep
+Strength at
+(%) 24 Hours (MPa)
+
+145
+
+343
+
+2.0
+
+60
+
+Admix (high copper)
+
+137
+
+431
+
+0.4
+
+48
+
+Single composition
+(high copper)‡
+
+262
+
+510
+
+0.13
+
+64
+
+*
+
+Low copper
+
+†
+
+*
+
+Fine Cut.
+
+†
+
+Dispersalloy.
+
+‡
+
+Tytin.
+
+Strength
+A prime requisite for amalgam restorations is adequate strength to
+resist masticatory forces. In properly designed restorations, bulk
+fracture failures of amalgam restorations are relatively rare. More
+common are defects at the margins of amalgams. There is a difference of opinion on this subject as to whether the marginal defect
+is caused by fracture of the enamel or of the amalgam seen as marginal breakdown. This aspect will be discussed later.
+Traditionally, the strength of dental amalgam has been measured under compressive stress using specimens of dimensions
+comparable to the volume of typical amalgam restorations. When
+strength is measured in this manner, the compressive strength
+of a satisfactory amalgam probably should be at least 310 MPa.
+Table 8-2 shows typical compressive and tensile strengths at 1 hour
+
+162
+
+PA RT I I
+
+Direct Restorative Materials
+
+and 7 days after preparation for a low-copper amalgam and two
+high-copper amalgams.
+The strength of amalgam is more than adequate to withstand
+potential compressive loads. However, the amalgam is much
+weaker in tension than in compression (Table 8-2). Tensile stresses
+can readily occur in amalgam restorations. For example, a compressive pressure on a cusp of a restored tooth introduces complex stresses that result in tensile stresses in the isthmus of the
+restoration. It is important to reemphasize that amalgam cannot
+withstand high tensile or bending stresses. The design of the restoration should include supporting structures whenever there is a
+danger that the restoration will be flexed or pulled in tension. The
+use of a high-copper amalgam will not help because the tensile
+strengths of high-copper amalgams are not significantly different
+from those of the low-copper amalgams.
+
+Effect of Trituration
+The trituration time and the speed of the amalgamator dictate
+the effect of trituration. Either undertrituration or overtrituration
+will decrease the strength for both conventional and high-copper
+amalgams.
+Effect of Mercury Content
+Insufficient mercury between particles yields a dry, granular mix.
+Such a mix results in a rough, pitted surface that promotes corrosion. Increasing the final mercury content increases the volume
+fraction of the matrix phases. A higher mercury content promotes
+the formation of the γ2 phase, even in a high-copper amalgam,
+and a greater incidence and severity of fracture will occur as the
+amalgam restorations age. The effect of the mercury content on
+the compressive strength of amalgam is shown in Figure 8-15.
+Effect of Condensation
+Good condensation techniques express mercury and result in a
+smaller volume fraction of matrix phases. Higher condensation
+pressures are required for the lathe-cut amalgams. In the case
+of the spherical amalgam, lighter pressures produce adequate
+strength, whereas greater condenser pressures just simply punch
+through the amalgam.
+
+Effect of Porosity
+Voids and porosity are factors that may reduce the compressive
+strength of set amalgams. The lack of plasticity of amalgam mixes
+caused by delayed condensation or undertrituration leads to
+porosity in set amalgams. Insufficient condensation pressure on
+lathe-cut alloys results in more porosity.
+Effect of Amalgam Hardening Rate
+Because a patient may be dismissed from the dental chair within
+20 minutes after trituration of the amalgam, a vital question is
+whether the amalgam has gained sufficient strength to prevent
+fracture caused by a prematurely high occlusal force imposed
+by the patient. When the patient is dismissed, the compressive
+strength of the amalgam may be only 6% of the 1-week strength.
+Thus a high percentage of fractures in amalgam restorations likely
+occur within the first few hours after insertion.
+ADA Specification No. 1 stipulates a minimum compressive
+strength of 80 MPa at 1 hour. The 1-hour compressive strength of
+high-copper, single-composition amalgams is exceptionally high
+(Table 8-2). This strength will make fracture less probable if the
+patient accidentally bites on the restoration soon after leaving the
+dental office. In addition, these amalgams may be strong enough
+shortly after placement to permit amalgam buildups to be prepared for crowns and allow earlier impressions of crown preparations to be made. Nonetheless, patients should be warned not to
+subject the restoration to high biting forces for at least 8 hours
+after placement. By that time, a typical amalgam will have reached
+at least 70% of its strength.
+
+Creep
+Creep occurs when a solid material slowly deforms plastically
+under the influence of constant stresses. Recall from the earlier discussion on delayed expansion that this is a form of creep
+caused by the constant pressure from the formation of hydrogen
+gas within moisture-contaminated zinc-containing amalgam. The
+other example of creep is when the protruded segment of amalgam at the margin of the restoration fractures and leaves a ditch
+
+Compressive strength (MPa)
+
+450
+400
+350
+300
+250
+Low Cu
+High Cu admix
+High Cu spherical
+
+200
+150
+100
+35
+
+40
+
+45
+50
+55
+Hg concentration (wt%)
+
+60
+
+• Figure 8-15 Effect of mercury content (percent by weight) on the compressive strength of amalgam prepared with representative low-copper; high-copper admix; and high-copper, single-composition spherical
+alloys.
+
+CHAPTER 8
+
+• Figure 8-16 Two surface amalgam restorations from (left) a low-copper amalgam with severe marginal breakdown and (right) minimal marginal discrepancy of a higher-quality amalgam restoration produced from
+a high-copper admix alloy. Both amalgams were placed at the same
+time. (Adapted from Quality Evaluation of Dental Restorations: Criteria for
+Placement and Replacement, Chicago, 1989, Quintessence.)
+
+Dental Amalgams
+
+163
+
+• Figure 8-17 Microstructure of 7-year-old conventional amalgam alloy
+filling. The various phases are marked. Note extensive porosity, and that
+the γ2 area has been replaced by a Sn-Cl corrosion product (CP). (Courtesy Dr. Gary W. Marshall, Jr. and Dr. Sally J. Marshall.)
+
+around the margin. Figure 8-16 shows the difference in marginal
+breakdown produced with high- and low-creep amalgams. The
+creep of amalgam is determined by placing a cylinder of set amalgam (4 mm in diameter and 6 mm long) under a 36-MPa compressive stress. The specimen is prepared and stored at 37 °C for
+7 days before testing. The change in length between 1 and 4 hours
+as a percentage of the original length is the creep value reported
+in Table 8-2.
+When an amalgam creeps clinically, the γ1 phase is the one
+that deforms plastically. Higher creep rates should be expected
+for amalgam with higher γ1 volume fractions, and vice versa. The
+presence of the γ2 phase increases the creep rate. In addition to the
+absence of the γ2 phase, the very low creep rates in single-composition, high-copper amalgams may be associated with η′-phase rods,
+which act as barriers to deformation of the γ1 phase. Therefore the
+manipulative factors discussed previously that maximize strength
+also minimize creep for any given type of amalgam.
+
+be made to produce a smooth, homogeneous surface on a restoration in order to minimize tarnish and corrosion, regardless of the
+alloy system used.
+Whenever a gold restoration is placed in contact with an amalgam, corrosion of the amalgam can be expected as a result of the
+large differences in electromotive force (EMF) of the two materials
+(Chapter 3, Dissimilar Metals). The corrosion process can liberate
+free mercury, which can contaminate and weaken the gold restoration. Biological effects such as galvanism can also result.
+Concern has been expressed that if high-copper amalgam restorations were placed in the same mouth with existing restorations
+of conventional amalgam, corrosion and failure could be accelerated with conventional amalgam. Clinical observations do not
+indicate accelerated corrosion in such situations. Laboratory models designed to monitor corrosion in adjacent restorations suggest
+that the current-flow paths are such that the electrochemical interaction between restorations is minimal.
+
+CRITICAL QUESTION
+
+Clinical Performance of Amalgam
+Restorations
+
+How can corrosion of an amalgam restoration lead to both positive and
+negative outcomes?
+
+Tarnish and Corrosion Resistance
+Amalgam restorations often tarnish and corrode in the oral environment. A tendency toward tarnish, which is the result of silver sulfide forming on the surface, does not affect or change the
+mechanical properties of the amalgam. Corrosion, on the other
+hand, has a negative effect on the properties. The most common
+corrosion products found with conventional amalgam alloys
+are oxides and chlorides of tin. These are found at the tooth–
+amalgam interface and within the bulk of amalgam restorations
+(Figure 8-17).
+There is indirect evidence that the γ2 phase is implicated in
+both marginal failure and active corrosion in conventional alloys
+but is not likely for the γ2-free high-copper alloys. The η' phase,
+which is less susceptible to corrosion than the γ2 phase, exhibits
+limited corrosion with high-copper amalgams. Every effort should
+
+Amalgam does not adhere to the tooth structure. At best, amalgam affords only a reasonably close adaptation to the walls of the
+prepared cavity. For this reason, cavity varnishes are used to reduce
+the gross leakage that occurs around a new restoration. Dentin
+bonding agents have been used in amalgam restorations to reduce
+microleakage. However, there is no evidence either to claim or
+refute a difference in survival between bonded and nonbonded
+amalgam restorations. Nonetheless, bonded amalgam may allow
+more conservative cavity preparations with reduced mechanical
+retentive features.
+If the amalgam is properly inserted, leakage decreases as the
+restoration ages in the mouth. This is likely caused by corrosion
+products that form at the interface between the tooth and the
+restoration, sealing the interface, thereby preventing leakage. The
+ability to seal against microleakage is shared by both the older,
+low-copper amalgams and the newer, high-copper amalgams.
+Detecting margins that may be open by a few micrometers, either
+
+164
+
+PA RT I I
+
+Direct Restorative Materials
+
+with the eye or with a dental instrument such as an explorer, is
+virtually impossible.
+The ultimate lifetime of an amalgam restoration is determined
+by several factors: (1) the material, (2) the dentist and the assistant,
+and (3) the patient’s environment. Changing dentists reduces the
+lifetime of amalgam and composite restorations by up to 30%.
+The first two parameters are the dominant factors controlling the
+amalgam performance during the early life of the restoration. As
+time proceeds, differences in the dynamics of the oral environment among patients contribute significantly to the variability in
+the deterioration process, particularly marginal ditching. Changes
+in the amalgam structure during clinical use and the survival of
+amalgam restorations of various types are discussed next.
+
+Clinical Significance of Dimensional Change
+There are several causes of excessive expansion of amalgam. One
+is insufficient trituration and condensation; the other is delayed
+expansion brought about by the contamination of the Zn-containing amalgam with moisture during trituration or condensation. When an amalgam restoration expands and becomes wedged
+tightly against the cavity walls, pressure develops in the pulp
+chamber and causes pain. Such pain may be experienced 10 to
+12 days after the amalgam is inserted. If the restoration is not
+removed, a contaminated amalgam continues to expand, and the
+result may be a protruding restoration.
+
+CRITICAL QUESTION
+A patient reports pain on chewing 1 day after an amalgam restoration has
+been placed. What are the most likely causes of this condition, and what are
+the best solutions?
+
+A patient who complains of pain 1 day after an amalgam restoration is placed cannot be suffering the effects of delayed expansion caused by moisture contamination. One should examine the
+surface of the restoration for shiny abrasion marks indicating the
+possibility of hyperocclusion. The pain will disappear soon after
+the occlusion is properly adjusted. Another possibility is the development of cracks in the tooth because of excessive tooth reduction
+and weakened cusps. This situation may require replacement of
+the amalgam and hooding of the weakened cusp or cusps, as is
+done with a cast onlay restoration. There is also the possibility
+that the cracks are minor and do not threaten the integrity of the
+cusps or the vitality of the tooth. In this case, etching of the crack
+walls and bonding of the fissure may provide a sufficient interim
+solution. The last resort is to restore the tooth with an onlay or full
+crown to minimize the risk of tooth fracture.
+
+CRITICAL QUESTIONS
+Which variables affect the marginal breakdown of amalgam restorations?
+Which of these factors are under the control of the dentist?
+
+Marginal Breakdown
+Although the ditching of a margin (Figure 8-18) may not have
+progressed to the point where secondary caries may have developed, the restoration is unsightly, and further deterioration may
+be anticipated. Examination of clinical restorations has associated
+secondary caries with marginal discrepancies that exceed 50 μm.
+Many restorations are replaced as a preventive measure. Studies
+
+• Figure 8-18 A “ditched” amalgam restoration with severe marginal
+breakdown. (Courtesy Dr. Saulo Geraldeli.)
+
+have shown that in a population with good oral hygiene, the incidence of secondary caries is quite low, even in the presence of
+severe marginal deterioration. Thus a more conservative approach,
+such as repair or refurbishing, has been suggested.
+The creep rate has been found to correlate with the marginal
+breakdown of conventional low-copper amalgams; that is, the
+higher the amount of creep, the greater is the degree of marginal
+deterioration. There appears to be little correlation between creep
+and marginal breakdown with alloys having creep values below
+1%. However, when creep values are above this level, restorations
+made from higher-creep alloys generally demonstrate greater marginal breakdown than do restorations of lower-creep alloys.
+The absence of the corrosion-susceptible γ2 phase in the microstructure of high-copper amalgams is assumed to be the principal factor responsible for the superior resistance of these alloys to
+marginal breakdown. If this assumption is correct, the property of
+creep is not an important property for the prediction of marginal
+breakdown in high-copper amalgams. Expansion of the amalgam
+from moisture contamination of a zinc-containing alloy can also
+cause this type of failure.
+Thus several mechanisms, separately or working synergistically,
+may be responsible for marginal breakdown. At this time, the
+exact mechanism of marginal breakdown and these specific properties are not completely understood. However, selecting alloys
+that inherently have low creep and possess excellent resistance to
+corrosion is advisable.
+
+Improper Cavity Preparation or Finishing
+If unsupported enamel is left at the marginal areas of the cavity
+preparation, the tooth structure may fracture over time. Thus the
+ditched amalgam may involve fracture of the adjacent enamel as
+well as the amalgam.
+Improper carving and finishing of the restoration and/or failure to remove a mercury-rich surface layer may leave a thin, weak
+ledge of amalgam extending over the enamel that will eventually
+fracture, leaving a ditched margin (Figure 8-19). Such thin extensions beyond the finish line of the tooth preparation are often difficult to detect and remove. One method is to finish the margins
+lightly with a soft, unribbed prophylactic polishing cup and a fine,
+slightly moist prophylaxis paste. However, the cup should be tilted
+such that the edge rotates from amalgam to tooth (Figure 8-11).
+
+CHAPTER 8
+
+165
+
+Dental Amalgams
+
+Force
+100
+
+Margin
+fracture
+
+Survival rate (%)
+
+80
+
+60
+
+40
+HCZ
+HC
+LCZ
+LC
+
+20
+
+• Figure 8-19 Marginal ditching of an amalgam restoration. If a feather
+edge of the amalgam is left overlapping the enamel at the margin or if a
+mercury-rich surface layer is not properly removed, the marginal extension
+may fracture under masticatory stress.
+
+0
+0
+
+2
+
+4
+
+6
+
+8
+Time (y)
+
+10
+
+12
+
+14
+
+• Figure 8-20 Survival curves for amalgam restorations classified accord-
+
+Survival of Amalgam Restorations
+Although many factors may contribute to the deterioration of
+dental amalgams, as noted in the prior sections, the ultimate test
+is the long-term survival of the well-placed dental amalgam restoration. The longevity of amalgam restorations depends on whether
+they were placed in general practices or in controlled clinical studies. The median survival times for posterior amalgam restorations
+were 7 to 15 years in general practices. Larger, more complex restorations fall within the lower end of this range. Based on controlled
+clinical studies, dentists working under few time constraints for
+placement of restorations in motivated patients projected median
+survival times of 55 to 70 years.
+Figure 8-20 is based on 14 independent controlled clinical
+studies in which the survival of amalgam restorations was rated
+in terms of their content of copper and zinc. Modern high-copper
+amalgams with Zn have the best overall survival of nearly 90%
+after 12 years. High-copper amalgams without Zn performed
+the next best, with survival rates of approximately 80%. The survival curves for these two groups of amalgams could be distinguished only after approximately 6 years, when the better survival
+of the high-copper systems containing a small quantity of Zn
+became apparent. The next group was composed of conventional
+low-copper amalgams with Zn. The worst performance was exhibited by low-copper amalgams that were Zn-free. These systems
+exhibited failures in 50% of the restorations after only 10 years.
+The reasons for the differences seen in this study are not completely clear. However, the combined and perhaps synergistic
+effects of the additional Cu and Zn contents probably offered
+increased corrosion protection to the restorations.
+
+Repaired Amalgam Restorations
+When part of an amalgam restoration fails, as from marginal fracture, this restoration can occasionally be repaired by condensing a
+new mix of amalgam directly on the remaining part of the existing restoration. The important factor related to the quality of the
+amalgam repair is the interfacial bond between the new and the
+existing amalgam. Surface treatment of the existing amalgam is a
+major factor in achieving a high-quality bond, as in tooth bonding (Chapter 6, Cleanness of the Bonding Surfaces). The surface
+of an old amalgam to be bonded should be roughened to remove
+
+ing to copper and zinc content. Both copper and zinc appear to provide
+protection to restorations. Thus in these clinical trials, many more highcopper restorations containing zinc survived than low-copper restorations
+without zinc. HC, high-copper amalgam without zinc; HCZ, high-copper
+amalgam with zinc; LC, low-copper amalgam without zinc; and LCZ, lowcopper amalgam with zinc. (Adapted from Letzel H, et al: The influence of
+amalgam alloy on the survival of amalgam restorations: A secondary analysis of multiple controlled clinical trials. J Dent Res 76:1787–1798, 1997.)
+
+corrosion and saliva contaminants and free of loose debris. When
+a freshly triturated amalgam is condensed directly onto the roughened surface of an existing amalgam, the flexural strength of the
+repaired structure can reach 50% of that of unrepaired amalgam.
+The repair should be attempted only if the area involved is one
+that will not be subjected to high stresses or one in which the
+two restoration parts are adequately supported and retained. Rubbing mercury on the repair site before condensing new amalgam
+or increasing the mercury content in the new amalgam can further improve the repair strength. Both approaches use mercury
+as a bonding agent but are discouraged because they increase the
+patient’s exposure to mercury.
+Making a slot on the existing amalgam to establish mechanical
+interlocking between the two materials also improves the quality
+of the repair joint if the slot can impede the crack growth. Some
+resin-based bonding agents appear to be superior when mechanical roughening of the surface could not be performed. The reaction between the unreacted amalgam alloy in the old amalgam and
+the mercury in the new amalgam is responsible for the bonding
+that occurs with repaired restorations. The use of a dentin bonding agent facilitates mostly mechanical retention to the amalgam
+surface but deprives the benefit of chemical bonding through mercury at the repaired interface.
+Another repair option for areas that exhibit minor marginal
+breakdown—gaps that are 250 μm or less in width—is to etch the
+enamel adjacent to the restoration and, after rinsing and drying
+the marginal gap area, seal the gap with a dentin bonding adhesive. There is evidence from a 10-year study that bonded and sealed
+composite restorations placed directly over frank cavitated lesions
+extending into dentin arrested the clinical progress of these lesions
+for the duration of the study. Both sealed composite and conservative amalgam restorations exhibited superior clinical performance
+and longevity compared with unsealed amalgam restorations. This
+
+166
+
+PA RT I I
+
+Direct Restorative Materials
+
+repair option is promising but needs more clinical evidence to
+prove that this technique can prevent secondary caries.
+The clinical diagnosis of secondary (recurrent) caries is the
+main reason for replacing amalgam restorations; fracture is the second most common reason for the failure of amalgam restorations.
+When secondary caries is diagnosed, replacement of the restoration often follows. An alternative treatment is to remove part of
+the restoration to the full depth at the site of the defect along with
+the infected tissue. Provided the main part of the restoration is
+satisfactory, the part of the restoration that was removed can then
+be filled with new amalgam or restored with resin-based composite. The repair of an existing restoration is now considered a viable
+and cost-effective alternative to complete replacement, as stated in
+numerous publications of clinical studies. However, there are no
+published randomized controlled trials that are reported according
+to the Consolidated Standards of Reporting Trials (CONSORT)
+statement per a Cochrane review of 2014. Clinicians should base
+their decisions on clinical experience and individual circumstances
+in conjunction with patients’ preferences, where appropriate,
+when deciding whether to repair or replace the restoration.
+
+CRITICAL QUESTION
+A patient is concerned about the safety of amalgam restorations after hearing
+a news report on the toxicity of mercury. What quantifiable information can
+you provide to assure him that the levels of mercury vapor released from
+amalgam restorations are well below the known threshold levels for mercury
+toxicity?
+
+Safety of Amalgam Restorations
+The amalgam restoration is possible only because of the unique
+characteristics of mercury. Mercury is also the element that so
+markedly influences the basic properties necessary to clinical services. The safety issue of using mercury in the oral environment
+had been raised as early as when amalgams were introduced in
+North America in 1833. Some aspects of the current controversy and the future of the amalgam are discussed in this section.
+Additional information on the biocompatibility of mercury and
+amalgam is given in Chapter 17, Dental Amalgam, on the biological effects of dental materials. To understand the possible
+side effects of dental amalgam, the differences between allergy
+and toxicity must be discussed.
+
+Allergy
+Typically, allergic responses represent an antigen–antibody reaction marked by itching, rashes, sneezing, and difficulty in breathing, with swelling or other symptoms. Contact dermatitis, which
+is a clinical sign of Coombs’ type IV hypersensitivity reactions,
+represents the most likely pathological side effect of dental amalgam. When such a reaction has been documented by an allergist,
+an alternative material, such as a resin composite or ceramic material, must be used. However, none of these materials has yet been
+proven to be safer, in all respects, than dental amalgam.
+
+Toxicity
+Toxicity is the dose-related potential of a material to cause cell or
+tissue death. Some believe that mercury toxicity from dental restorations is the cause of certain undiagnosed illnesses, and that a real
+
+hazard may exist for the dentist or dental assistant when mercury
+vapors are inhaled during mixing, placement, and removal. Most
+of the affected individuals documented in reports of mercury toxicity and allergic reactions attributable to dental amalgam were
+dentists or assistants (nurses) in a dental clinic. Few such cases
+have been reported during the past several decades, presumably
+because of improvements in encapsulation technology, capsule
+design, scrap storage methods, the elimination of carpets and other
+mercury-retention sites around dental offices, and the decreased
+use of amalgam. The matter has again come to the forefront with
+recent concerns about mercury pollution of the environment.
+The patient’s encounter with mercury vapor during insertion
+of the restoration is brief, and the total amount of mercury vapor
+released during occluding on amalgam restorations is far below
+the “no effect” level. Undoubtedly, small amounts of mercury
+are released during mastication. However, toxic reactions in the
+patient from these traces of mercury penetrating the tooth or sensitization from mercury salts dissolving from the surface of the
+amalgam are extremely rare.
+
+Mercury Hygiene in Dental Offices
+The potential hazards of mercury in dental offices can be greatly
+reduced by attention to a few precautionary measures. The operatory should be well ventilated. All excess mercury—including waste,
+disposable capsules, and amalgam removed during condensation—
+should be collected and stored in well-sealed containers. Debris
+of amalgam from cutting and grinding can be trapped by installing amalgam particle separators in the dental wastewater stream.
+The U.S. Environmental Protection Agency (EPA) required most
+dental offices nationwide to install amalgam particle separators by
+July 14, 2020. Proper disposal through reputable dental vendors is
+mandatory to prevent environment pollution. Amalgam scrap and
+materials contaminated with mercury or amalgam should not be
+incinerated or subjected to heat sterilization. If mercury is spilled,
+this must be cleaned up as soon as possible. Ordinary vacuum
+cleaners merely disperse the mercury further through the exhaust
+system. Mercury-suppressant powders are helpful but should be
+considered as temporary measures. If mercury encounters the skin,
+the skin should be washed with soap and water.
+As noted earlier, the capsules, both reusable and single-use, that
+use a mechanical amalgamator should have a tightly fitting cap to
+avoid mercury leakage. When amalgam is being ground, a water
+spray and suction should be used. Eye protection, a disposable mask,
+and gloves are now standard requirements for dental practices.
+The use of an ultrasonic amalgam condenser is not recommended. A spray of small mercury droplets has been observed surrounding the condenser tip during condensation. More detailed
+recommendations can be obtained by consulting the most recent
+reports of the ADA’s Council on Scientific Affairs.
+An important part of a program for handling toxic materials is
+periodic monitoring of actual exposure levels. Current recommendations suggest that this procedure be conducted annually. Several techniques are available. Instruments can be used that yield
+a time-weighted average for mercury exposure to air samples in
+the operatory. Film badges are also available that can be worn by
+office personnel in a manner like radiation exposure badges. Biological determinations can be performed on office staff to measure
+mercury levels in blood or urine. The risk from mercury exposure
+to dental personnel cannot be ignored, but close adherence to recommended hygiene procedures will help ensure a safe working
+environment.
+
+CHAPTER 8
+
+Regulation of Amalgam Use by Governments
+Currently, several countries are phasing out the use of dental amalgam because of environmental concerns. An important aspect of
+all these actions is the conclusion that, from a medical point of
+view, there is no clinical evidence to suggest that amalgam is causing illness in the general population.
+Denmark published draft orders in 1989 proposing to discontinue the sale of all mercury-containing products, including dental amalgam, by 1999. In 1992, the Swedish parliament approved
+a general plan to phase out mercury from all sources, including
+amalgam in children’s temporary teeth. The Swedish national
+health system stopped reimbursing patients for amalgam restorations in 1999. This decision greatly reduced the use of amalgam
+before a blanket ban on mercury took effect on June 1, 2009. In
+2008, Norway announced a general ban on the use of mercury in
+products, which includes dental amalgam, with a 3-year phaseout period. Sweden and Denmark announced similar bans in the
+same year.
+In 1996, Health Canada recommended that the use of amalgam should be avoided in the primary teeth of children, pregnant
+women, and patients with renal impairment. In addition, clinicians should use safe handling practices with mercury and provide information to patients on the benefits and risks of amalgam
+treatment. Austria, Germany, and Japan have similar restrictions
+on the use of dental amalgams. In Japan, the demand for mercury
+to be used in amalgam decreased from 5200 kg in 1970 to 100 kg
+in 2006. The annual emission of mercury into the air from amalgam in 2005 was estimated at about 3 kg. In 2009, the U.S.
+Food and Drug Administration (FDA) issued a final rule (FDA2008-N-0163) classifying dental amalgam as a class II device. The
+FDA classification of all medical devices is discussed in detail in
+the risk classes of Chapter 17, Legal Regulations and Risk Classes.
+
+Selected Readings
+Anglen J, Gruninger SE, Chou NH, et al: Occupational mercury exposure in association with prevalence of multiple sclerosis and tremor
+among US dentists, J Am Dent Assoc, 146:659–668, 2015.
+Occupational Hg exposure in U.S. dentists decreased over time and
+now is approaching that of the general population.
+Agnihotry A, Fedorowicz Z, Nasser M: Adhesively bonded versus nonbonded amalgam restorations for dental caries, Cochrane Database Syst
+Rev, (Issue 3), 2016.
+This review only found one underreported trial. They concluded that
+there was no evidence to either claim or refute a difference in survival
+between bonded and non-bonded amalgam restorations.
+Bengtsson UG, Hylander LD: Increased mercury emissions from modern
+dental amalgams, Biometals, 30:277–283, 2017.
+High-copper amalgams have been developed with focus on mechanical strength and corrosion resistance, but have been sub-optimized in
+other aspects, resulting in increased instability and higher emission of
+mercury vapor.
+Fédération Dentaire Internationale: Technical Report 33: Safety of dental
+amalgam, Int Dent J, 39:217, 1989.
+This authoritative organization reviewed the literature on mercury
+toxicity and concluded that there is no documented scientific evidence to show adverse effects from mercury in amalgam restorations
+except in rare cases of mercury hypersensitivity.
+Letzel H, van't Hoff MA, Marshall GW, et al: The influence of amalgam
+alloy on the survival of amalgam restorations: A secondary analysis of
+multiple controlled clinical trials, J Dent Res, 76:1787–1798, 1997.
+
+Dental Amalgams
+
+167
+
+Although the policy of dental amalgam use is being revised
+in several countries, a global discussion on limiting the use of
+mercury products led by the United Nations Environmental Programme (UNEP) has adopted the conclusions from the Minamata
+Convention on Mercury that opened for signature at the Diplomatic Conference in Kumamoto, Japan, on October 10, 2013.
+There are 127 parties to the treaty as of January 2021. The treaty
+is a multilateral environmental agreement that addresses specific
+human activities that are contributing to widespread mercury pollution. The provision of the treaty related to dental amalgam is
+that the measures each party takes to phase down the use of dental
+amalgam shall allow for the party’s domestic circumstances and
+relevant international guidance and shall include two or more of
+the measures listed in the document. They include setting national
+objectives of reducing caries and minimizing the use of amalgam,
+discouraging the use of amalgam through education and insurance policies, restricting use to encapsulated forms of amalgam
+if needed, promoting the use and research of cost-effective and
+clinically effective mercury-free alternatives, and promoting the
+use of best environmental practices in dental facilities to reduce
+releases of mercury and mercury compounds to water and land.
+Essentially, the convention calls for a phase-down approach to
+dental amalgam through greater emphasis on prevention, research
+into new dental materials, and best management practice. Current
+information on the Minamata Convention on Mercury can be
+found at http://www.mercuryconvention.org.
+
+Acknowledgments
+The author wishes to acknowledge Dr. G. W. Marshall, Jr., and
+Dr. S. J. Marshall for their previous contribution to the amalgam
+section of this chapter.
+
+An analysis of multiple clinical trials demonstrated the synergistic
+effects of copper and zinc content on the survival of amalgam restorations.
+Mahler DB, Van Eysden J: Dynamic creep of dental amalgam, J Dent Res,
+48:501–508, 1969.
+The first suggestion that creep may be a major factor in marginal
+breakdown of amalgam restorations. Although modern alloys have
+low creep values, the test is a useful screening tool in selecting commercial alloys.
+Mertz-Fairhurst EJ, Curtis JW Jr, Ergle JW, et al: Ultraconservative and
+cariostatic sealed restorations: Results at year 10, J Am Dent Assoc,
+130:1751–1757, 1999.
+Mjör IA, Gordan VV: Failure, repair, refurbishing and longevity of restorations, Oper Dent, 27:528−534, 2002.
+This article advocates removing part of the restoration to the full
+depth to make a firm diagnosis regarding the extent of the lesion and
+the affected area that can be repaired or refurbished.
+Sharif MO, Merry A, et al: Replacement versus repair of defective restorations in adults: amalgam, Cochrane Database Syst Rev, (Issue 2), 2014.
+There are no published randomized controlled trials relevant to this
+review question. Repair of amalgam restorations is often more conservative of the tooth structure than replacement.
+Swartz ML, Phillips RW: In vitro studies on the marginal leakage of
+restorative materials, J Am Dent Assoc, 62:141–151, 1961.
+One of numerous studies demonstrating the reduction in microleakage
+as the amalgam restoration ages that is unique to restorative materials.
+Full Selected Readings for this chapter can be found on www.expertconsult.com.
+
+Selected Readings (Web Version)
+Agnihotry A, Fedorowicz Z, Nasser M: Adhesively bonded versus nonbonded amalgam restorations for dental caries, Cochrane Database Syst
+Rev, (Issue 3), 2016.
+This review only found one underreported trial. They concluded that
+there was no evidence to either claim or refute a difference in survival
+between bonded and non-bonded amalgam restorations.
+Anglen J, Gruninger SE, Chou NH, et al: Occupational mercury exposure in association with prevalence of multiple sclerosis and tremor
+among US dentists, J Am Dent Assoc, 146:659–668e1, 2015.
+Occupational Hg exposure in US dentists decreased over time and
+now is approaching that of the general population.
+Anusavice KJ: Quality Evaluation of Dental Restorations: Criteria for Placement and Replacement, Chicago: Quintessence, 1989.
+Six chapters of the book written by various experts deal with clinical
+studies, methods of evaluation, and differences in diagnosis related to
+dental amalgam restorations. Evidence supporting a more conservative approach to replacement of the “ditched” amalgam restoration
+is presented.
+Barbakow F, Gaberthuel T, Lutz F, et al: Maintenance of amalgam restorations, Quintessence Int, 19:861–870, 1988.
+A systematic procedure for recontouring, finishing, and polishing
+existing amalgam restorations is illustrated, along with proper selection of instruments.
+Bauer JG: A study of procedures for burnishing amalgam restorations,
+J Prosthet Dent, 57:669–673, 1987.
+This report describes the combined factors of time from end of trituration, burnishing force, and number of burnishing strokes on margins,
+surface characteristics, and porosity for a high-copper admixed amalgam. Early times and minimal strokes gave the best results.
+Bengtsson UG, Hylander LD: Increased mercury emissions from modern
+dental amalgams, Biometals, 30:277–283, 2017.
+High-copper amalgams have been developed with focus on mechanical strength and corrosion resistance, but have been sub-optimized in
+other aspects, resulting in increased instability and higher emission of
+mercury vapor.
+Bogacki RE, Hunt RJ, del Aguila M, et al: Survival analysis of posterior
+restorations using an insurance claims database, Oper Dent, 27:488–
+492, 2002.
+This study found that composite restorations did not last as long as
+amalgam restorations based on insurance claim data collected between
+1993 and 2000. The study also found changing dentists reduced the
+longevity of restorations by 30%.
+Brian HC, Lam LO, Jagannathan N, et al: A systematic review of amalgam bonded restorations: In vitro and clinical findings, J Contemp
+Dent Pract, 19:1013–1024, 2018.
+Bonded amalgam restorations reduce the need for mechanical retention and adverse effects of microleakage, there is lack of consistent
+evidence across all outcome domains to advocate the benefit of bonding of all amalgam restorations.
+Brownawell AM, Berent S, Brent RL, et al: The potential adverse health
+effects of dental amalgam, Toxicol Rev, 24:1–10, 2005.
+According to these authors, there is no convincing evidence pointing
+to any adverse health effects attributable to dental amalgam restorations besides hypersensitivity in some individuals.
+Browning WD, Johnson WW, Gregory PN: Clinical performance
+of bonded amalgam restorations at 42 months, J Am Dent Assoc,
+131:607–611, 2000.
+There were no differences in the clinical performance of amalgams
+with bonding agent or copal varnish.
+Dodes JE: The amalgam controversy. An evidence-based analysis, J Am
+Dent Assoc, 132:348–356, 2001.
+Authoritative studies consistently have found that amalgam restorations are safe and effective. This review of the literature further supports this conclusion.
+Duke ES, Cochran MA, Moore BK, et al: Laboratory profiles of 30 highcopper amalgam alloys, J Am Dent Assoc, 105:636–640, 1982.
+
+The laboratory profiles identify the alloy systems and reflect the performance of the alloy. A classification for various types is presented.
+Eames WB: Preparation and condensation of amalgam with a low mercury/alloy ratio, J Am Dent Assoc, 58:78–83, 1959.
+This technique revolutionized the procedure in constructing an amalgam restoration by use of minimal amounts of mercury in the original
+mix.
+Fairhurst CW, Ryge G: X-ray diffraction investigation of the Sn-Hg phase
+in dental amalgam editor. In Mueller WM, editor: Advances in X-Ray
+Analysis, Vol. 5, New York, 1962, Plenum Press.
+These investigators determined the of the Sn-Hg phase in dental amalgam to have hexagonal unit cell.
+Fédération Dentaire Internationale: Technical Report 33: Safety of dental
+amalgam, Int Dent J, 39:217, 1989.
+This authoritative organization reviewed the literature on mercury
+toxicity and concluded that there is no documented scientific evidence to show adverse effects from mercury in amalgam restorations
+except in rare cases of mercury hypersensitivity.
+Ferracane JL, Mafiana P, Cooper C, et al: Time-dependent dissolution of amalgams into saline solution, J Dent Res, 66:1331–1335,
+1987.
+This study indicates that the rate of dissolution of ions from amalgams
+into saline is low once the amalgam has set, probably inhibited by
+formation of a surface film.
+Gale EN, Osborne JW, Winchell PG: Fracture at the margins of amalgam
+as predicted by creep, zinc content, and gamma-2 content, J Dent Res,
+61:678–680, 1982.
+The data suggest that equations based upon in vitro data to predict
+marginal breakdown for alloys might not be predictive for non-γ2
+alloys.
+Innes DBK, Youdelis WV: Dispersion strengthened amalgams, Can Dent
+Assoc J, 29:587–593, 1963.
+This research introduced the admix alloys.
+Klausner LH, Green TG, Charbeneau GT: Placement and replacement
+of amalgam restorations. A challenge for the profession, Oper Dent,
+12:105–112, 1987.
+A national survey assessed factors underlying the placement and
+replacement of amalgam restorations. The reactions to questions such
+as expected length of service and reasons for failure are interesting, and
+a challenge to the profession is identified.
+Letzel H, van’t Hoff MA, Marshall GW, et al: The influence of amalgam
+alloy on the survival of amalgam restorations: A secondary analysis of multiple controlled clinical trials, J Dent Res, 76:1787–1798,
+1997.
+An analysis of multiple clinical trials demonstrated the synergistic
+effects of copper and zinc content on the survival of amalgam restorations.
+Letzel H, van’t Hof MA, Vrijhoef MMA, et al: A controlled clinical study
+of amalgam restorations: Survival, failures, and causes of failure, Dent
+Mater, 5:115–121, 1989.
+Bulk fracture or fracture at the marginal ridge was reported as the
+leading mode of failure. It is suggested that further improvements in
+mechanical properties and corrosion resistance are needed.
+Letzel H, Vrijhoef MMA: The influence of polishing on the marginal
+integrity of amalgam restorations, J Oral Rehabil, 11:89–94, 1984.
+The effect of polishing on the marginal integrity of amalgam restorations continues to be a matter of some controversy, particularly with
+high-copper alloys. This study questions the necessity for polishing, at
+least in respect to marginal defects.
+Lloyd CH, Adamson M: The fracture toughness of amalgam, J Oral
+Rehab, 12:59–68, 1985.
+Admixed high-copper products have higher fracture toughness than
+those of a single-component powder, attributed to differences in
+microstructures.
+Mahler DB, Adey JD: Microprobe analysis of three high-copper amalgams, J Dent Res, 63:921–925, 1984.
+The composition and structure of three high-copper amalgams before
+and after their reaction were studied.
+168.e1
+
+Mahler DB, Adey JD, Marek M: Creep and corrosion of amalgam, J Dent
+Res, 61:33–35, 1982.
+Corrosion was directly related to the amount of γ2 phase present,
+while creep was either high or low, depending on the absence or presence of γ2.
+Mahler DB, Adey JD, Van Eysden J: Quantitative microprobe analysis of
+amalgam, J Dent Res, 54:218–226, 1975.
+The presence of tin in the Ag-Hg phase [γ1] was confirmed, and Cu3Sn
+was found in the original alloy particles. In the dispersant amalgam,
+little Sn-Hg phase [γ2] was found and the reaction phase Cu6Sn5 was
+identified.
+Mahler DB, Pham BV, Adey JD: Corrosion sealing of amalgam restorations in vitro, Oper Dent, 34:312–320, 2009.
+This in vitro study shows that gap sealing was influenced by the size
+of the initial gap as well as corrosion resistance of the amalgam, and
+zinc in the amalgam alloy resulted in the formation of zinc corrosion
+products in the gap. The latter might explain the reported reduction
+in marginal fracture of zinc-containing amalgams.
+Mahler DB, Terkla LG, Van Eysden J, et al: Marginal fracture versus
+mechanical properties of amalgam, J Dent Res, 49:1452–1457, 1970.
+Two independent studies showed clinical superiority for the admixed
+alloy developed by Innes and Youdelis. These publications are classic,
+as they opened the vista of the high-copper alloy.
+Mahler DB, Van Eysden J: Dynamic creep of dental amalgam, J Dent Res,
+48:501–508, 1969.
+The first suggestion that creep may be a major factor in marginal breakdown of amalgam restorations. Although modern alloys have low creep
+values, the test is a useful screening tool in selecting commercial alloys.
+Marshall GW Jr, Marshall SJ, Letzel H, et al: Microstructures of Curich amalgam restorations with moderate clinical deterioration, Dent
+Mater, 3:135–143, 1987.
+The large variations in porosity and corrosion products in clinically
+retrieved restorations are described. It also demonstrates a zinc-rich
+layer and other tin layers that form at the tooth-amalgam interface.
+May KN, Wilder AD, Leinfelder KF: Burnished amalgam restorations:
+A two-year clinical evaluation, J Prosthet Dent, 49:193–197, 1983.
+Clinical behavior of amalgam restorations found that precarved burnishing improved the marginal integrity of lathe-cut alloys. Coupled
+with postcarved burnishing, it was suggested as a viable substitute for
+conventional polishing.
+Mertz-Fairhurst EJ, Curtis JW Jr, Ergle JW, et al: Ultraconservative and
+cariostatic sealed restorations: Results at year 10, J Am Dent Assoc,
+130:1751–1757, 1999.
+Mitchell RJ, Koike M, Okabe T: Posterior amalgam restorations usage,
+regulation, and longevity, Dent Clin North Am, 51:573–589, 2007.
+Long-term studies have shown that under optimal conditions, posterior restorations of amalgam and resin composite last longer than
+reported previously, and that amalgam restorations outlast composite
+restorations. In general practice settings, posterior amalgam and composite restorations both have lower longevities.
+Mitchell RJ, Okabe T: Setting reactions in dental amalgam. Part 1. Phases
+and microstructures between one hour and one week, Crit Rev Biol
+Med, 7:12−22, 1996.
+Two recent reviews of setting reactions are offered, covering microstructures of various amalgam types and their properties as related to
+clinical performance.
+Mjör IA: The safe and effective use of dental amalgam, Int Dent J,
+37:147–151, 1987.
+Many pertinent matters related to the amalgam restoration are discussed in this review, including mercury toxicity, longevity of the restoration, common causes for failure, and certain properties that relate
+to performance.
+Mjör IA, Gordan VV: Failure, repair, refurbishing and longevity of restorations, Oper Dent, 27:528−534, 2002.
+This article advocates removing part of the restoration to the full
+depth to make a firm diagnosis regarding the extent of the lesion and
+the affected area that can be repaired or refurbished.
+
+168.e2
+
+Okabe T, Mitchell RJ, Butts MB, et al: A study of high-copper amalgams.
+III. SEM observations of amalgamation of high-copper powders,
+J Dent Res, 57:975–982, 1978.
+Third of a series of three publications defining the phases that occur
+in the setting reaction of the alloy and mercury and as influenced by
+parameters, such as composition and particle configuration.
+Opdam NJ, Bronkhorst EM, Loomans BA, et al: 12-year survival of
+composite vs. amalgam restorations, J Dent Res, 89:1063–1067,
+2010.
+This retrospective study shows that large composite restorations had
+a higher survival in the combined population and in the low-risk
+group, and three-surface amalgams exhibited better survival in highrisk patients.
+Rogers KD: Status of scrap (recyclable) dental amalgams as environmental health hazards or toxic substances, J Am Dent Assoc, 119:159–166,
+1989.
+A review presenting available evidence to show amalgam scrap is not
+a toxic substance or environmental health hazard; it also covers portions of the literature that indicate intraoral amalgams do not present
+an adverse health hazard.
+Sharif MO, Merry A, et al: Replacement versus repair of defective restorations in adults: amalgam, Cochrane Database Syst Rev, (Issue 2),
+2014.
+There are no published randomized controlled trials relevant to this
+review question. Repair of amalgam restorations is often more conservative of the tooth structure than replacement.
+Shen C, Speigel J, Mjör IA: Repair strength of dental amalgams, Oper
+Dent, 31:122–126, 2006.
+This study shows the need of condensing directly on the old amalgam
+to establish the bond between new and old amalgams.
+Staninec M, Eakle WS, Silverstein S, et al: Bonded amalgam sealants:
+two-year clinical results, J Am Dent Assoc, 129:323–329, 1998.
+This study shows there is no difference in two-year retention between
+bonded amalgams as pit and fissure sealants without mechanical preparation and resin-based pit and fissure sealants.
+Soderholm KJ: An x-ray diffractometric investigation of the Sn-Hg binary
+system within the 0-40% Hg interval, J Dent Res, 66:712–715, 1987.
+This study shows the presence of in the range of Sn-Hg used in dental
+amalgam.
+Soncini JA, Maserejian NN, Trachtenberg F, et al: The longevity of amalgam versus compomer/composite restorations in posterior primary
+and permanent teeth: findings From the New England Children’s
+Amalgam Trial, J Am Dent Assoc, 138:763–772, 2007.
+Compomer/composite restorations on posterior tooth surfaces in
+children may require replacement or repair at higher rates than amalgam restorations, even within five years of placement.
+Sutow EJ, Jones DW, Hall GC: Correlation of dental amalgam crevice
+corrosion with clinical ratings, J Dent Res, 68:82–88, 1989.
+Marginal breakdown and the corrosion behavior of γ2 and γ2-free
+amalgams were studied in vitro. The methodology is of interest.
+Swartz ML, Phillips RW: In vitro studies on the marginal leakage of
+restorative materials, J Am Dent Assoc, 62:141–151, 1961.
+One of numerous studies demonstrating the reduction in microleakage as the amalgam restoration ages that is unique to restorative
+materials.
+Vrihjoef MMA, Vermeersch AG, Spanauf AJ: Dental Amalgam, Chicago,
+1980, Quintessence.
+A comprehensive treatment of the various factors involved in the
+design of amalgam alloys, their properties, and the parameters that
+influence clinical behavior. The lifetime of an amalgam is determined
+by the material, the dentist and assistant, and the patient.
+Walker RS, Wade AG, Iazzetti G, et al: Galvanic interaction between gold
+and amalgam: Effect of zinc, time and surface treatments, J Am Dent
+Assoc, 134:1463–1467, 2003.
+Galvanic interaction between cast gold and amalgam is reduced over
+time and surface treatments but is increased considerably when the
+amalgam contains zinc.
+
+Part III
+
+Indirect Restorative Materials
+9 Metals, 171
+10 Ceramic-Based Materials, 202
+11 Prosthetic Polymers and Resins, 233
+12 Dental Implants, 253
+
+169
+
