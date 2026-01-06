@@ -1,0 +1,105 @@
+# QUICK REFERENCE - What Goes Where
+
+## 📂 GitHub Repository Structure
+
+```
+your-repo-name/
+│
+├── backend/                    ← Backend API files
+│   ├── app.py                 ← SMART backend (copy entire file)
+│   ├── requirements.txt       ← Python dependencies (copy entire file)
+│   ├── instructions.txt       ← Chatbot behavior (copy entire file)
+│   │
+│   └── knowledge_base/        ← YOUR COURSE MATERIALS GO HERE
+│       ├── [DELETE] README-DELETE-ME.txt
+│       ├── [ADD] Your_Syllabus.txt
+│       ├── [ADD] Lecture_01.txt
+│       ├── [ADD] Lecture_02.md
+│       ├── [ADD] Phillips_Ch01_Overview_Dental_Materials.txt
+│       ├── [ADD] Phillips_Ch02_Structure_Matter.txt
+│       └── [ADD] ... (up to Ch20)
+│
+└── docs/                       ← Frontend website files
+    └── index.html             ← Beautiful interface (copy entire file)
+```
+
+---
+
+## ⚡ 3-STEP UPLOAD PROCESS
+
+### STEP 1: Upload Backend (4 files)
+In GitHub, create these files:
+1. `backend/app.py` (paste from package)
+2. `backend/requirements.txt` (paste from package)
+3. `backend/instructions.txt` (paste from package)
+4. Delete `backend/knowledge_base/README-DELETE-ME.txt`
+
+### STEP 2: Upload Your Materials
+In `backend/knowledge_base/`, add:
+1. Your syllabus (.txt file)
+2. Your lecture notes (.txt or .md files)
+3. Phillips chapters (if you have them - 20 files)
+
+### STEP 3: Upload Frontend
+1. Create `docs/index.html` (paste from package)
+2. Verify API_URL matches your Vercel URL
+
+---
+
+## 🎯 Vercel Settings
+
+**When deploying:**
+- Root Directory: `backend` ← CRITICAL!
+- Environment Variable: `ANTHROPIC_API_KEY` = your-key-here
+
+---
+
+## 📱 GitHub Pages Settings
+
+**In repo Settings → Pages:**
+- Source: Deploy from branch
+- Branch: `main`
+- Folder: `/docs` ← CRITICAL!
+
+---
+
+## ✅ Final URLs
+
+**Your students use:**
+`https://yourusername.github.io/reponame/`
+
+**Backend runs at:**
+`https://yourproject.vercel.app`
+
+---
+
+## 🚨 Common Mistakes
+
+❌ Root directory not set to `backend` in Vercel
+❌ GitHub Pages folder not set to `/docs`
+❌ API_URL in index.html doesn't match Vercel URL
+❌ Forgot to add ANTHROPIC_API_KEY environment variable
+❌ Uploaded files but didn't commit them
+
+✅ Follow the checklist in README.txt!
+
+---
+
+## 💡 File Size Limits
+
+To avoid rate limits:
+- Syllabus: < 50 KB
+- Each lecture: < 100 KB  
+- Phillips chapters: 50-175 KB each (already optimized)
+- Don't upload one giant 2 MB file!
+
+---
+
+## 📞 If Students Get Errors
+
+1. Check status indicator (green = working)
+2. Verify Vercel backend is deployed
+3. Check API key has credits
+4. Look at Vercel deployment logs
+
+That's it! Follow README.txt for detailed instructions.
