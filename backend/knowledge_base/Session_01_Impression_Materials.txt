@@ -1,0 +1,635 @@
+================================================================================
+DENTAL COLLEGE OF GEORGIA AT AUGUSTA UNIVERSITY
+DHYG 3150 - DENTAL HYGIENE
+SESSION 1: IMPRESSION MATERIALS
+================================================================================
+
+Instructor: Rafael Rocha Pacheco, D.D.S., M.Sc., Ph.D.
+Associate Professor, Department of Restorative Sciences
+The Dental College of Georgia at Augusta University
+1430 John Wesley Gilbert Drive, GC 4334
+Augusta, GA 30912 | +1 (706) 721-8315 | RAPACHECO@augusta.edu
+
+================================================================================
+TABLE OF CONTENTS
+================================================================================
+
+PART A: IMPRESSION MATERIALS OVERVIEW (HANDOUTS)
+1. Definition
+   1.1. Undercuts
+   1.2. Terms associated with impression manipulation
+   1.3. What will the model be used for?
+   1.4. Accuracy
+   1.5. Setting reactions
+2. Classification
+   2.1. Elastic (flexible)
+   2.2. Inelastic (rigid)
+3. Analog vs Digital
+4. Viscoelasticity
+5. Colloid
+6. Alginate
+   6.1. Composition
+   6.2. Thixotropic
+   6.3. Gel
+   6.4. Gelation
+   6.5. Setting reaction
+   6.6. Setting time
+   6.7. Working time
+   6.8. Factors that affect setting reaction
+   6.9. Syneresis
+   6.10. Imbibition
+   6.11. Clinical tips after the material has set
+   6.12. Uses and limitations
+   6.13. Disinfection
+
+PART B: SUPPLEMENTARY INFORMATION - SYNTHETIC ELASTOMERS
+10. Synthetic Elastomers
+11. Polyvinyl Siloxane Silicone (PVS) - Addition Silicones
+12. Polyether Impression Material
+
+================================================================================
+PART A: IMPRESSION MATERIALS OVERVIEW
+================================================================================
+
+1. DEFINITION
+
+Impression materials are used in the process of reproducing oral structures of a 
+patient's mouth in a stone model so that we can:
+
+- Either study them in greater detail when the patient is not present
+- So that we can make a restoration directly on the model which will then be 
+  placed into the patient's mouth
+
+They create a NEGATIVE image of the patient's oral structures.
+
+1.1. UNDERCUTS
+
+In order for an impression to be withdrawn from the mouth it must be able to flex 
+and distort; otherwise, it would be locked into areas from which it cannot be pulled 
+out. These areas where the material becomes locked in are called "undercuts."
+
+The undercut refers to the blackened area along the gingival margin of the tooth 
+crown. If the material could not deform, then the impression would be locked in 
+mechanically.
+
+These undercut areas must COMPRESS during withdrawal of the impression, and then 
+RETURN to their original positions in order to have an impression with dimensions 
+that match that of the mouth (low distortion). Thus, we need for most impression 
+materials to have a degree of flexibility.
+
+1.2. TERMS ASSOCIATED WITH IMPRESSION MANIPULATION
+
+1.2.1. Proportioning of components: powder/liquid OR dispensing amounts of pastes
+1.2.2. Mixing time and method: time to sufficiently mix components into homogeneous mass
+1.2.3. Working time: time to place mixed material in tray and place in the mouth
+1.2.4. Setting time: time the material needs to stay in mouth before removal
+1.2.5. Method of removal from the mouth: quickly (snap) OR slowly
+1.2.6. Method of disinfection: immersion OR spray only
+1.2.7. Time to pour: immediately OR delayed
+1.2.8. Time to remove from set stone model: soon OR can wait
+
+1.3. WHAT WILL THE MODEL BE USED FOR?
+
+Impression materials are selected based on intended use:
+
+1.3.1. Study models
+1.3.2. Create INDIRECT restorations (ones not made directly in the patient's mouth)
+1.3.3. Crowns and bridges
+1.3.4. Full and partial dentures
+1.3.5. Framework for dental implants
+1.3.6. Sport bite guards
+1.3.7. Bleaching trays
+1.3.8. Bite splints
+1.3.9. Orthodontic cases
+
+1.4. ACCURACY
+
+Dental impression materials can be used for general cases that do not require high 
+accuracy and/or highly accurate cases when restorative items will be made directly 
+on the model.
+
+1.4.1. Factors that can affect accuracy
+
+1.4.1.1. Type of setting reaction
+   1.4.1.1.1. Continued chemical reaction after removal from mouth (shrinkage)
+   1.4.1.1.2. Change in temperature affects size of impression and thus the model
+1.4.1.2. Volatile components/byproducts (evaporate and alter impression dimensions)
+1.4.1.3. Continued setting after removal from mouth
+1.4.1.4. Loss or gain of water when waiting to be poured or being disinfected
+
+1.5. SETTING REACTIONS
+
+1.5.1. IRREVERSIBLE: Set by chemical reaction in the mouth
+1.5.2. REVERSIBLE: Set by cooling in the mouth
+
+================================================================================
+
+2. CLASSIFICATION
+
+2.1. ELASTIC (FLEXIBLE)
+
+Will spring back to shape after removal from the mouth
+
+2.1.1. Hydrocolloids (natural components)
+   2.1.1.1. Alginate
+   2.1.1.2. Agar
+
+2.1.2. Synthetic elastomeric materials (man-made components)
+   2.1.2.1. Polysulfide
+   2.1.2.2. Condensation silicone
+   2.1.2.3. Addition silicone (PVS) (polyvinyl siloxane)
+   2.1.2.4. Polyether
+
+2.2. INELASTIC (RIGID)
+
+Will not spring back to shape after removal from the mouth
+
+2.2.1. Soften and set with temperature change (cooling) in the mouth
+   2.2.1.1. Impression compound
+   2.2.1.2. Wax
+
+2.2.2. Set by a non-reversible chemical reaction
+   2.2.2.1. ZOE (zinc oxide and eugenol)
+   2.2.2.2. Gypsum type I (plaster)
+
+================================================================================
+
+3. ANALOG VS DIGITAL
+
+Digital technology is a new, advanced technology for obtaining intraoral impression 
+information. Digital impressions can be obtained directly within the patient's mouth 
+(thus, no physical impression material is needed).
+
+3.1. Using an intraoral digital scanner instead of a physical impression 
+     (chairside scanning)
+
+OR
+
+3.2. The analog impression material or model can be scanned
+   3.2.1. A bench top scanner can be used to scan an analog impression to obtain 
+          a digital impression
+   3.2.2. A bench top scanner can be used to scan a stone model to obtain a 
+          digital impression
+
+NOTE: This lecture focuses on physical (analog) impressions, not digital records 
+of intraoral structures.
+
+================================================================================
+
+4. VISCOELASTICITY
+
+Viscoelasticity is the property of a material to behave differently depending on 
+how fast stress is applied.
+
+4.1. VISCO: Relates to fluid-like nature (viscosity)
+     - If stress is applied, the material does not rebound, but totally changes shape
+
+4.2. ELASTICITY: Relates to solid-like behavior
+     - If stress is applied, the material immediately rebounds back to its original 
+       shape; it has ELASTIC qualities
+
+ANALOGY: Think about how wet sand differs if you slowly wiggle your feet in it, 
+and how differently it reacts if you hit it as hard and as fast as you can. When 
+applying a slow rate of stress (such as wiggling your feet), the sand becomes fluid 
+like and you slowly sink. However, on the same sand, if you walk briskly over it 
+(using a high rate of stress application), the same sand acts like a solid.
+
+4.3. HOW DO THESE PROPERTIES RELATE TO IMPRESSION MATERIALS?
+
+4.3.1. When cured (set), impression materials exhibit viscoelastic properties.
+
+EXAMPLE 1 - ALGINATE (Weak material):
+Set alginate impression material is a non-rigid, material is weak, and can easily 
+tear when removing it from the mouth. However, if you remove the impression from the 
+mouth using a fast, SNAPPING MOTION (apply a high rate of stress), you will 
+artificially make the material behave much more like an elastic solid, than a viscous 
+fluid. Once it is removed, that material goes back to become weak and prone to 
+tearing. Thus, the change in properties is only temporary but has allowed you to 
+remove it from the mouth without tearing.
+
+EXAMPLE 2 - SYNTHETIC ELASTOMERS (Strong material):
+Now, consider an impression material that is already very strong and tear-resistant 
+when it sets, not weak like alginate. If you were to remove it quickly, you would 
+increase its tear strength, but you might just increase it to the point where you 
+are capable of extracting teeth as well! So, remember the properties of a 
+viscoelastic material. If you remove this more solid-like type of set material from 
+the mouth using a SLOW, TEASING FORCE, you will temporarily change the properties 
+of the material to be more fluid like, and the impression will flow a little bit 
+while it distorts during removal from the mouth. After removal, the material will 
+rebound (recover) its original position. After recovery, you can pour in the stone 
+to obtain an accurate model.
+
+The types of impression materials that behave like this are called the SYNTHETIC 
+ELASTOMERS (addition silicone (PVS) and polyether).
+
+================================================================================
+
+5. COLLOID
+
+A colloid is a solid, liquid, or gaseous substance made up of large molecules or 
+masses of smaller molecules that remain in suspension in a surrounding continuous 
+medium or different matter.
+
+================================================================================
+
+6. ALGINATE
+
+Alginate is an irreversible hydrocolloid, extracted from certain brown seaweeds.
+
+6.1. COMPOSITION
+
+Alginate composition by percentage:
+- 56% Sodium or Potassium Alginate: reacts and holds everything together
+- 18% Diatomaceous Earth: unreactive filler, gives body/substance to mixed mass
+- 14% Calcium Sulfate (CaSO4): provides calcium ions to react with alginate
+- 10% Potassium Sulfate (K2SO4): counteracts inhibiting effect of hydrocolloid on stone
+- 2% Trisodium Phosphate (Na3PO4): acts as inhibitor, provides working time
+
+6.2. THIXOTROPIC
+
+Thixotropic is the property of gels and other fluids to become less viscous and 
+flow when subjected to steady shear forces through being shaken, stirred, squeezed, 
+patted, or vibrated. When the shear force is decreased to zero, the viscosity 
+increases to the original value.
+
+6.3. GEL
+
+A gel is a network of fibrils forming a weak, slightly elastic brush-heap structure 
+of hydrocolloid.
+
+6.4. GELATION
+
+Gelation is the process of transforming a hydrocolloid from a sol to a gel.
+
+Chemical reaction:
+Na2n·Alginate + nCaSO4 (WATER) --> nNa2SO4 + Can(Alginate)2
+
+Breaking this down:
+[1] water + gypsum (Ca++) 
+[2] Ca++ + Na3PO4 --> Ca3(PO4)2 (Trisodium Phosphate provides working time)
+[3] Ca++ + alginate --> set material
+
+6.5. SETTING REACTION
+
+A specific amount of powder is mixed with a controlled volume of water, usually by 
+hand in a rubber mixing bowl. The mixed material is removed from the bowl, placed 
+into a perforated, stock impression tray, put into the mouth and seated to place and 
+held securely until set. Once the material has hardened, it is removed with a 
+SNAPPING MOTION from the anterior tray location.
+
+6.6. SETTING TIME
+
+The elapsed time from the start of mixing to the time at which the setting reaction 
+essentially stops, as measured by reaching a desired hardness or consistency.
+
+6.7. WORKING TIME
+
+Elapsed time from the start of mixing to the time at which the consistency of a 
+material is no longer suitable for its intended use or a rapid rise in viscosity 
+occurs.
+
+6.8. FACTORS THAT AFFECT SETTING REACTION
+
+6.8.1. Type of material (rate of setting):
+   - Type 1: fast setting
+   - Type 2: normal setting
+
+6.8.2. Temperature: affects solubility of calcium
+   - WARM WATER SPEEDS UP: causes calcium from gypsum to go into solution faster
+   - COLD WATER SLOWS DOWN: takes much longer for calcium from gypsum to go into 
+     solution
+
+6.9. SYNERESIS
+
+Syneresis is the expression of fluid onto the surface of gel structures.
+
+6.10. IMBIBITION
+
+Imbibition is the displacement of one fluid by another immiscible fluid in a 
+hydrocolloid. It refers to the uptake by agar or alginate when immersed in water 
+onto the surface of gel structures.
+
+IMPORTANT: Keep alginate mold at 100% humidity
+
+6.11. CLINICAL TIPS AFTER THE MATERIAL HAS SET
+
+6.11.1. WHEN / HOW TO REMOVE FROM THE MOUTH?
+
+After the material first feels hard to fingernail indentation, add 2 minutes.
+Remove from the mouth QUICKLY, (with a snapping motion) to lessen distortion 
+(deformation) and increase tear strength (remember viscoelasticity).
+
+6.11.2. WHEN POUR UP?
+
+IMMEDIATELY
+
+This is critical because of chances of water loss or gain (syneresis or imbibition). 
+Remember, the major component in set material is water!
+
+6.11.3. WHEN REMOVE IMPRESSION FROM SET STONE?
+
+Remove just after the stone has cooled down.
+
+If you leave the set alginate against the stone for a long time it will dry out the 
+model, making it weak. This ruins the stone surface and may break teeth off when you 
+separate them.
+
+6.12. USES AND LIMITATIONS
+
+Alginate hydrocolloid is a relatively inaccurate material:
+
+LIMITATIONS:
+- Tear strength is low, limits its use to supragingival areas
+- Dimensional accuracy and surface detail reproducibility of alginate hydrocolloids 
+  are very low, compared to the synthetic elastomers
+
+APPROPRIATE USES:
+- Study models, articulating models (opposing casts to a harder cast made from a 
+  more accurate impression material and harder stone)
+- Bleaching Trays
+- Sports protective mouth guard
+
+6.13. DISINFECTION
+
+SPRAY with a diluted solution of sodium hypochlorite (0.5% in OPTIM® 1).
+Leave in plastic bag for 1 minute.
+
+IMPORTANT: Straight Clorox® liquid bleach is already 5-12% solution! So, if you 
+use this, you must dilute 10-fold at least (read the bottle).
+
+PROCEDURE:
+1. OVER THE SINK: rinse impression of debris, and have an instructor check it
+2. If OK, spray with OPTIM® 1
+3. Wrap in moist paper towel and place in baggie for 1 minute on the tray (this 
+   time will be both anti-viral and bactericidal)
+4. Remove, rinse again liberally
+5. Wrap in clean wet towel
+6. Store in zip-lock bag until ready for pouring in stone
+
+NEVER PUT THE IMPRESSION IN THE SINK!
+
+Surface Disinfectant Contact Time (in seconds):
+OPTIM® 1 (0.5% Accelerated Hydrogen Peroxide)
+- Mycobacteria TB: 60
+- Non-enveloped Viruses (Adeno, Polio, Noro, Rota): 30
+- Enveloped Viruses (RSV, HIV, HBV, HCV, Influenza A): 30
+- Bacteria (MRSA, VRE, E. coli): 60
+- Fungicidal PSA: 30
+
+================================================================================
+BEHAVIORAL OBJECTIVES - PART A
+================================================================================
+
+The following behavioral objectives should be achieved upon completion of this unit:
+
+X  1. State six areas where dental impressions are used.
+X  2. State 4 items affecting impression accuracy.
+   3. List two types of setting reactions for impression materials.
+X  4. State 2 classifications of impression materials based on their ability to 
+      spring back to shape after removal from the mouth.
+X  5. Name impression materials under each of the 2 above (BO 4) classifications.
+X  6. State eight terms associated with manipulation of impression materials and 
+      the definition or categories within each step.
+   7. Define the term "undercut" and state the clinical implications of this area 
+      with respect to removal of the impression and its final accuracy.
+   8. Define the term "viscoelasticity" and state the characteristics of an 
+      impression material that require it to be removed with a snapping motion or 
+      with a slow, teasing motion, and why.
+   9. Define the term "colloid".
+  10. List the components, their functions and relative quantities in alginate 
+      hydrocolloid.
+  11. State the setting mechanism of alginate hydrocolloid and the role of each 
+      component.
+  12. State how the working and setting time of alginate hydrocolloid is controlled 
+      in a clinical situation and the mechanisms underlying this control.
+  13. Define the terms "syneresis and imbibition" and indicate which type of 
+      impression material is susceptible to these.
+  14. State how hydrocolloid impression materials should be removed from the mouth 
+      and why, when they should be poured, and when they should be removed from the 
+      set stone model.
+  15. State the proper method for disinfection of hydrocolloids.
+
+================================================================================
+PART B: SUPPLEMENTARY INFORMATION - SYNTHETIC ELASTOMERS
+================================================================================
+
+Reference Material: Chapter 8, pages 111-128
+Instructor: Dr. Frederick Allen Rueggeberg
+
+IMPORTANT NOTE: Study the following material on your own - still responsible for 
+Quiz and Midterm Behavioral Objectives
+
+================================================================================
+
+10. SYNTHETIC ELASTOMERS
+
+A. GENERAL USE OF SYNTHETIC ELASTOMERIC MATERIALS
+
+All impression materials in this category will:
+- Mix TWO paste materials
+- Set by an irreversible chemical reaction
+
+All are used to obtain high accuracy impressions for indirect restorations 
+(ones made outside of the mouth in a dental laboratory and then cemented in place).
+
+The synthetic elastomers differ from the other elastomeric materials (the alginate 
+hydrocolloids) in that they contain only components that are man-made. They do not 
+exist in nature, unlike the polysaccharides (sugars, agar) extracted from sea weed 
+plants (kelp) found in the hydrocolloids.
+
+ISSUE - VOIDS IN IMPRESSIONS AND MODELS:
+
+- Voids from trapped air: Result of trapped air from impression not wetting oral 
+  tissues; often seen with hydrophobic, synthetic elastomeric impression materials, 
+  but still possible with hydrophilic impression materials
+
+- Voids in stone model from stone not wetting the impression surface: Often seen 
+  with hydrophobic, synthetic elastomeric impression materials, but still possible 
+  with hydrophilic impression materials
+
+B. ISSUES SEEN WITH HYDROPHOBIC IMPRESSION MATERIALS
+
+a) Intraorally: Hard to get the unset material to cover tooth and gums
+b) In lab: Difficult to pour stone without having bubbles on the surface of the model
+
+SOLUTION: Spraying impression with "soap" (de-bubblizer) to allow wetting for 
+pouring stone without formation of bubbles in the stone surface.
+
+The synthetic elastomers are used when highly accurate dimensional reproduction of 
+oral tissues is required, as well as high levels of surface details.
+
+C. CAPTURING SUB-GINGIVAL PREPARATION MARGINS IN THE IMPRESSION
+
+Often, the prepared marginal area of crowns and veneers is placed into the gingival 
+sulcus (lower than the free gingival margin that appears visually), so that the 
+junction of the restoration and the tooth will not be visible. 
+
+Because of this preparation location, the impression material must:
+- Be placed into this very thin sulcular area
+- Set
+- Be able to withstand the forces of withdrawal of the impression without tearing 
+  or distorting
+
+This aspect separates use of the alginate (which is weak and easily tears) from the 
+synthetic elastomeric products, which are strong and tear-resistant. 
+
+Therefore: Alginates are NOT used to capture sub-gingival margins, but the synthetic 
+elastomers (addition silicone (polyvinyl siloxanes (PVS)) and polyethers) ARE used.
+
+TECHNIQUE FOR OBTAINING SUB-GINGIVAL IMPRESSIONS:
+
+1. Impression cord placed into the gingival sulcus to push the tissue away and make 
+   space
+2. Cord is then removed
+3. Impression material is then quickly injected into the space created by the cord
+4. Material flows into the gingival sulcus area to capture the margin
+
+================================================================================
+
+11. POLYVINYL SILOXANE SILICONE (PVS) - ADDITION SILICONES
+
+Also known as:
+- Polyvinyl siloxane (PVS)
+- Vinyl Polysiloxane (VPS)
+
+DEVELOPMENT: Developed to overcome the problems with releasing a by-product during 
+the setting reaction of the first generation of products developed in this category 
+(the condensation silicones).
+
+The addition silicones are one of the most popular impression materials used today.
+
+A. SETTING REACTION
+
+Pre-polymer (Paste 1, base) + Pre-polymer (Paste 2, catalyst, plus platinum) 
+--> cured material (+ H2 sometimes)
+
+Pastes are delivered in separated barrels, put into a gun, forced through a mixing 
+tube, and delivered to the tray.
+
+B. PUTTY / WASH IMPRESSION TECHNIQUE FOR PVS MATERIALS
+
+ADVANTAGES OF THIS TECHNIQUE:
+- Eliminates need for a custom tray, which is expensive to make
+- A custom tray is one fabricated in the dental office that is specific only for 
+  that patient, not a stock impression tray
+
+HOW THE TECHNIQUE IS PERFORMED:
+
+1. Stock, disposable impression tray is selected (small, medium, large; narrow, 
+   regular, wide arch)
+2. Putty material is hand-mixed and placed into tray
+3. Teeth covered with a sheet of plastic film (creates a spacer)
+4. Stock tray with putty placed over covered teeth and allowed to set
+5. Tray removed and set aside
+6. Tooth prepared
+7. A "wash" material of the PVS (very low viscosity - more water-like) is then 
+   injected over prepared teeth
+8. The cured putty impression is placed back in the mouth, over top of the wash 
+   material just injected
+9. The wash material sets and sticks to the set putty
+10. After the wash material sets, the impression is removed, providing very accurate 
+    impression with fine details
+
+NOTE: In multi-color systems, the putty material is typically seen as one color 
+(e.g., green) and the wash material is a different color (e.g., red).
+
+PRECAUTION WITH SOME ADDITION REACTION SILICONE MATERIALS:
+
+If you use gloves, be aware that sulfur in latex gloves inhibits the setting 
+reaction of impression material. To overcome this problem:
+- Over-glove a latex with plastic food-handler gloves, OR
+- Use nitrile gloves
+
+C. ADVANTAGES
+
+- Shrinkage on curing: 0.16% (this is a VERY LOW number!)
+- Best dimensional accuracy
+- Best dimensional stability
+- Can re-pour impression multiple times without worry of distortion
+- Can ship set impression off to a dental lab for them to pour without worry of 
+  dimensional changes occurring
+
+D. DISADVANTAGES
+
+- Naturally hydrophobic: Hydrophobic materials will have difficulty flowing over 
+  moist mucosa and teeth when placing (leading to not capturing all the mouth 
+  details) and also present a surface that is very difficult for pouring unset 
+  stone into, without trapping air bubbles in the final product.
+
+  HOWEVER... newer products add detergents to help make them more hydrophilic
+
+- May need to wait until pouring the model because of the release of hydrogen gas 
+  from the impression prior to pouring in stone
+
+NOTE: Voids can be left in the stone model from trapped hydrogen gas produced 
+during the setting of some PVS impression products.
+
+E. USES
+
+- Wherever high accuracy and high surface detail reproduction are needed
+- Teeth prepared for crowns and bridges, inlays and onlays, ceramic veneers
+- Edentulous ridge impressions for dentures
+
+F. DISINFECTION
+
+Immersion in 0.5% hydrogen peroxide (OPTIM1) for 1-5 minutes. Do NOT exceed 
+manufacturer's recommended time.
+
+WHY THIS IS IMPORTANT: The "soap" (surfactant) used to help pour up a stone model 
+without including bubbles will dissolve out into the disinfecting solution, 
+rendering the impression material more difficult to pour without getting bubbles.
+
+================================================================================
+
+12. POLYETHER IMPRESSION MATERIAL
+
+An ether is a material that has a bond formation like this: 
+carbon -- oxygen -- carbon (-C-O-C-)
+
+A. SETTING REACTION
+
+Pre-polymers (Paste 1) + Activator (Paste 2) --> set material
+
+NOTE: The activator may be a skin sensitizer
+
+Available in:
+- Separate paste tubes to hand-mix, OR
+- Large bags mixed in machine
+
+B. CHARACTERISTICS
+
+1. WORKING AND SETTING TIMES ARE SHORT
+
+   Clinical implications:
+   - Good for persons who gag
+   - Not good for multiple preparations
+
+2. SHRINKAGE ON CURING: 0.22%
+
+3. TEAR STRENGTH: LOW
+
+   Implications: Do not use where preparations are subgingival
+
+4. NATURALLY HYDROPHILIC (WATER LOVING)
+
+   Advantages:
+   - Easy to get impressions in mouth (flows over oral tissues well)
+   - Easy to pour without bubbles
+   - Need to spray disinfect (not immerse); treat like a hydrocolloid
+
+5. AFTER MATERIAL HAS SET, IT IS VERY STIFF
+
+   Implications:
+   - Difficult to remove from the mouth quickly; thus use a slow, teasing force
+   - Do not want to use in full arch impressions
+
+================================================================================
+
+END OF SESSION 1: IMPRESSION MATERIALS
+================================================================================
+
+This comprehensive document covers all material from both the handout and 
+supplementary elastomer information provided by the Dental College of Georgia 
+at Augusta University.
+
+Last updated: January 2026
