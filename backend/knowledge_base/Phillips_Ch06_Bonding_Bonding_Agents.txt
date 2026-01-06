@@ -1,0 +1,1748 @@
+6
+
+Bonding and Bonding Agents
+OUTLINE
+Historical Background
+
+Dentin-Bonding Agents
+
+Mechanisms of Adhesion
+
+Luting Agents
+
+Acid-Etch Technique
+
+Applications in Orthodontic, Endodontic, and Preventive Dentistry
+
+Process and Procedural Factors
+
+KEY TERMS
+Acid-etching/acid-etch technique The process of cleaning
+and roughening a solid surface by exposing it to an acid and
+thoroughly rinsing the residue to promote micromechanical
+bonding of an adhesive to the surface.
+Adhesion A molecular or atomic attraction between two contacting
+surfaces promoted by the interfacial force of attraction between
+the molecules or atoms of two different materials. Adhesion may
+occur as chemical adhesion (formation of covalent bonds, hydrogen
+bonds, or polar bonds via van der Waals attraction), mechanical
+adhesion (structural interlocking), or a combination of both types.
+Cement/cementing Substance that hardens from a viscous state
+to a solid union between two surfaces. For dental applications,
+cements act as a base, liner, restorative filling material, or adhesive to bond devices and prostheses to tooth structure or to
+each other. See also Luting agent.
+Contact angle Angle of intersection between a liquid and a surface
+of a solid that is measured from the solid surface through the liquid
+to the liquid–vapor tangent line originating at the terminus of the
+liquid–solid interface; used as a measure of wettability, whereby
+absolutely no wetting occurs at a contact angle of 180 degrees and
+complete wetting occurs at an angle of 0 degrees.
+Dentin-bonding agent A thin layer of resin between conditioned
+dentin and the resin matrix of a resin-based composite restorative material.
+
+Dentin conditioner An acidic agent that dissolves the inorganic
+structure in dentin, resulting in a collagen mesh that allows
+infiltration of an adhesive resin.
+Hybrid layer An intermediate layer of resin, collagen, and dentin
+that is produced by acid-etching of dentin and infiltration of
+resin into the conditioned dentin.
+Luting agent A viscous, cement-like material that also fills a gap
+between the bonded materials. It originally referred to nonadhesive agents only but now also includes adhesive agents.
+Microleakage The flow of oral fluid and bacteria into the microscopic gap between a prepared tooth surface and a restorative material.
+Obturation In endodontic dentistry, filling of a root canal completely and densely with a nonirritating hermetic sealing agent
+to prevent leakage.
+Primer A hydrophilic, low-viscosity resin that promotes bonding
+to a moist substrate, such as dentin.
+Resin tag Extension of resin that has penetrated into etched
+enamel or dentin. Resin tags form micromechanical interlocks
+analogous to screw threads.
+Smear layer Poorly adherent layer of ground dentin produced by
+cutting a dentin surface; also, a tenacious deposit of microscopic debris that covers enamel and dentin surfaces that have been
+prepared for a restoration.
+
+Bonding and adhesion comprise a complex set of physical, chemical, and mechanical mechanisms that allow the attachment and binding of one substance to another. A dental bonding system performs
+three essential functions: (1) provides resistance to separation of an
+adherend substrate (i.e., enamel, dentin, metal, composite, ceramic)
+from a restorative or cementing material; (2) distributes stress along
+bonded interfaces; and (3) seals the interface via adhesive bonding
+between dentin and/or enamel and the bonded material, thus increasing resistance to microleakage and decreasing the risk for postoperative sensitivity, marginal staining, and secondary caries. The science of
+adhesion has been covered in Chapter 2, Adhesion and Bonding. In
+this chapter, only those principles needed to understand dental bonding are discussed.
+
+Historical Background
+In 1949, Oskar Hagger, at the De Trey division of Amalgamated
+Dental, developed the first dental adhesive for dentin, Sevritron
+Cavity Seal. This system comprised glycerophosphoric acid
+dimethacrylate, which should have made it a self-etching adhesive
+for both enamel and dentin by the discussion later. However, this
+product had very limited clinical durability because of the large
+interfacial stresses caused by the high polymerization shrinkage
+stress and high thermal expansion of the unfilled methacrylatebased resins used at the time.
+Later, Michael Buonocore investigated the use of strong acids and
+discovered that phosphoric acid provides superior enamel etching,
+115
+
+116
+
+PA RT I I
+
+Direct Restorative Materials
+
+Nonbonded
+composites
+
+1960
+
+Acid-etching and
+enamel bonding
+
+1970
+
+Dentin-bonded
+composites
+
+1980
+
+3-Step , 2-step, 1-step
+Dentin bonding systems
+
+1990
+
+Current
+time
+
+2000
+
+Buonocore Bowen introduces
+Fusayama pioneers Nakabayashi describes Kanka introduces
+reports acid- NPG-GMA as the
+total-etch of dentin resin infiltration of
+technique of wet
+etching of
+1st-generation dentin and enamel
+dentin bonding
+dentin collagen to
+enamel
+bonding agent
+form a “hybrid” layer
+
+2010
+
+2020
+
+Self-etching and
+self-adhesive bonding
+systems developed
+
+• Figure 6-1 Major turning points and events in dental bonding technologies.
+
+and it is still in use today. As shown in Figure 6-1, Buonocore’s
+discovery of acid-etching led to the ability to produce clean, highenergy, roughened enamel surfaces capable of establishing a durable
+micromechanical retentive interface with resin-based cements and
+restorative materials, which launched the current era of adhesive dentistry. This led to burgeoning growth in the development of adhesive
+materials and bonding techniques, as summarized in Figure 6-1 and
+discussed in detail in several later sections of this chapter.
+
+CRITICAL QUESTION
+Is good wetting of tooth structure by a dental adhesive adequate for longterm adhesive bonding of a restorative material?
+
+Mechanisms of Adhesion
+A means of true adhesion bonding (i.e., through chemical attraction
+and/or micromechanical interlocking) has been sought for decades
+and has recently been realized. For true adhesion of restorative
+materials to tooth structure, three conditions must be satisfied:
+1. Sound tooth structure must be conserved
+2. Optimal retention must be achieved
+3. Microleakage must be prevented
+Dental hard tissues and their environment are complex. However, the fundamental mechanism of adhesion to tooth structure
+can be regarded as an exchange by which mineral tooth material (hydroxyapatite) is replaced by synthetic resins. This process
+involves two steps: (1) removing hydroxyapatite to create micropores and (2) infiltration of resin monomers into the micropores
+and subsequent polymerization. As a result, resin tags form that
+micromechanically interlock (or interpenetrate) with the hard tissue. There may also be chemical interactions with the tooth substrate if monomers having acidic or chelating functional groups
+are present. In general, the following factors can play major or
+minor roles in achieving adhesive bonds:
+1. Surface energy and wetting
+2. Interpenetration (formation of a hybrid zone)
+3. Micromechanical interlocking
+4. Chemical bonding
+Wetting is the essential first step for the success of all adhesion
+mechanisms. An adhesive cannot form micromechanical interlocks, chemical bonds, or interpenetrating networks with a surface
+unless it can form intimate contact with the surface, spread over it,
+displace air pockets, and penetrate by capillary attraction into any
+microscopic and submicroscopic irregularities. These conditions
+are, by definition, achieved if the adhesive wets the surface.
+As explained in Chapter 2, Contact Angle of Wetting, the wettability of a liquid on a solid can be characterized by the contact
+
+angle that forms between a liquid and solid, as measured within
+the liquid. Categories of wettability include “absolutely no wetting”
+(contact angle of 180 degrees), “mostly nonwetting” (>90 degrees),
+“mostly wetting” (<90 degrees), and absolute wetting (0 degrees).
+See Figure 2-40 for a schematic illustration of wetting situations.
+Wetting is essential for intraoral adhesion but is not sufficient
+to ensure durable bonding. To achieve strong bonding through
+the micromechanical interlocking mechanism, wetting monomers
+must intimately adapt to enamel and fill enamel surface irregularities and/or infiltrate into a demineralized collagen network in
+dentin. Some acid monomers with a phosphate (e.g., phenyl-P)
+or carboxyl group (e.g., 4-MET) have the additional potential of
+forming chemical bonds with calcium in the residual tooth tissue.
+Specific monomers with these types of functional groups will be
+discussed later.
+Generally, wettability can be enhanced by increasing the
+surface energy of the substrates (e.g., dentin, enamel, and
+synthetic materials such as ceramics). Because a clean, microroughened tooth surface has higher surface energy than unprepared tooth surfaces, organic adhesives are inherently able to
+wet and spread over such a surface unless a low-surface-tension
+material contaminates the surface before the adhesive can be
+applied. The acid-etch technique, by which contaminants
+are removed and microporosities are created, is widely used to
+generate high-energy tooth surfaces and promote wetting by
+adhesive monomers.
+
+Acid-Etch Technique
+Whenever both enamel and dentin tissues are mechanically cut,
+especially with a rotary instrument, a layer of loosely held debris
+and organic film known as a smear layer is left on their surfaces
+and prevents strong bonding. Different quantities and qualities of
+smear layer are produced by various cutting and instrumentation
+techniques, which play an important role in both restorative and
+endodontic treatments, as explained further in Chapter 7, Clinical
+Manipulation. In dentin, the smear layer becomes burnished into
+the underlying dentinal tubules and lowers dentin permeability,
+which is a protective effect. However, it is also a very weakly cohesive material and thus detaches easily, consequently interfering
+with strong bonding. Thus various cleaning or treatment agents
+and procedures must be employed to remove the smear layer and
+expose the intact substrate for bonding. As explained in greater
+detail in the discussion that follows, acid-etching is used to remove
+the smear layer from both enamel and dentin. Alternatively, in
+dentin, the smear layer can be left partially in place and modified
+such that adhesive resins penetrate through it and bond to the
+intact dentin structures below.
+
+CHAPTER 6
+
+Bonding and Bonding Agents
+
+117
+
+• Figure 6-2 Surface of etched enamel in which the centers of enamel
+rods have been preferentially dissolved by phosphoric acid. (Courtesy
+K-J Söderholm.)
+
+• Figure 6-3 Scanning electron microscopy image of tags formed by the
+
+Enamel Etching
+The first meaningful demonstration of intraoral adhesion was
+reported by Michael Buonocore (Figure 6-1). He etched enamel
+surfaces with various acids, placed an acrylic restorative material
+on the micromechanically roughened surfaces, and found a substantial increase in the resin–enamel-bond strength (~20 MPa).
+One of the surface-conditioning agents he used, phosphoric acid,
+is still the most widely used etchant for bonding to both enamel
+and dentin. Depending on the concentration, phosphoric acid
+removes the smear layer and about 10 microns of enamel to expose
+prisms of enamel rods and create a honeycomb-like, high-energy
+retentive surface (Figure 6-2). The higher surface energy ensures
+that resin monomers will readily wet the surface, infiltrate into
+the micropores, and polymerize to form resin tags (Figure 6-3).
+The pattern of etching enamel may vary from selective dissolution of either the enamel rod centers (type I etching), as shown in
+Figure 6-2, or the peripheral areas (type II etching), as indicated
+by the resin tags in Figure 6-3. In either case, the resin tags are
+about 6 μm in diameter and 10 to 20 μm in length.
+Prior to the introduction of enamel acid-etching and the use of
+enamel-bonding agents, restorative materials were placed directly
+on the smear layer of the prepared tooth. It is evident that the apparent bond strength measured would be the cohesive strength of the
+smear layer to the tooth structure. As a result, debonding and leakage of oral fluids within the microscopic space between prepared
+teeth and restorative materials was an ongoing problem. Stronger
+and longer-lasting bonds result if the smear layer is removed because
+resins can then directly bond to the intact hard tissue.
+
+Dentin Etching
+As illustrated in Figure 6-1, dentin etching did not gain wide acceptance until Fusayama introduced the total-etch concept in 1979.
+For this method, both dentin and enamel are etched simultaneously,
+typically using 37% phosphoric acid. His study demonstrated that
+not only was retention substantially increased, but also pulp damage
+did not occur, as had been generally assumed. A subsequent study
+by Nakabayashi et al. revealed that hydrophilic resins can infiltrate
+
+penetration of resin into etched areas of enamel. The resin was applied to
+the etched enamel, and enamel was then dissolved by acid to reveal the
+tags (×5000). (Courtesy K-J Söderholm.)
+
+the surface layer of acid-demineralized collagen fibers produced in
+etched dentin and form a layer of resin-infiltrated dentin with high
+cohesive strength. Such a hybrid layer structure forms very strong
+resin bonds through the development of an interpenetrating network of polymer and dentinal collagen, together with numerous
+micromechanical interlocks at the resin–hybrid layer interface. By
+the early 1990s, dentin etching had gained worldwide acceptance.
+Because the total-etch technique usually involves etching with an
+acid followed by rinsing to remove the acid, this technique is also
+known as the etch-and-rinse technique.
+Dentin etching is more technique sensitive than enamel etching because of the complexity of the dentin structure. Dentin
+consists of 50 vol% (volume percentage) of calcium phosphate
+mineral (hydroxyapatite), 30 vol% of organic material (mainly
+type I collagen), and 20 vol% fluid. Acid-etching removes
+hydroxyapatite almost completely from several microns of sound
+dentin, exposing a microporous network of collagen suspended
+in water. Whereas etched enamel must be completely dry to form
+a strong bond with hydrophobic adhesive resins, etched dentin
+must be moist to form a hybrid layer. The amount of water left
+in etched dentin is critical. If insufficient water is present, the
+collagen network will collapse and produce a relatively impermeable layer that prevents resin infiltration and subsequent hybridization. If too much water remains, resin infiltration cannot fully
+replace the water in the collagen network and, consequently, sets
+the condition for later leakage into those locations. Therefore a
+priming step is required to maintain a hydrated collagen network while removing excess water (see details in the following
+sections).
+
+Process and Procedural Factors
+Several aspects of the total-etch, etch-and-rinse, and related techniques
+are critical to the success or failure of bonding systems, as discussed next.
+
+118
+
+PA RT I I
+
+Direct Restorative Materials
+
+Etching Time
+
+Dentin-Bonding Agents
+
+The optimal application time for the etchant may vary somewhat,
+depending on previous exposure of the tooth surface to fluoride
+and other factors. For example, a permanent tooth with high fluoride content may require a longer etching time, as do primary
+teeth. In the latter, increased surface conditioning time is needed
+to enhance the etching pattern on primary tooth enamel that is
+more aprismatic than permanent tooth enamel. Currently, the
+etching time for most etching gels is approximately 15 seconds.
+The advantage of such short etching times is that they yield
+acceptable bond strength in most instances while conserving
+enamel and reducing treatment time.
+
+Dental-bonding agents are designed to provide a sufficiently
+strong interface between restorative composites and tooth structure to withstand mechanical forces and shrinkage stress. The success of adhesives is dependent on two types of bonding:
+1. Micromechanical interlocking, chemical bonding of the
+bonding agent with enamel and dentin, or both
+2. Copolymerization of the bonding resin with the resin matrix
+of composite materials
+Until the total-etch technique was adopted, bonding agents
+were used only to enhance the wetting and adaptation of resin
+to conditioned enamel surfaces. These bonding agents are made
+by combining various dimethacrylates used in resin composites
+(e.g., bis-GMA) with diluting monomers (e.g., triethylene glycol
+dimethacrylate [TEGDMA]; Figure 6-4) to control viscosity and
+to enhance wetting. These agents have little or no potential for
+chemical bonding, but they improve micromechanical bonding
+by optimal formation of resins tags within the etched enamel.
+Because enamel can be kept fairly dry, these rather hydrophobic
+resins perform well as long as they are restricted to enamel. They
+are generally called enamel-bonding agents.
+Since the inception of the total-etch concept, in which both
+dentin and enamel are etched simultaneously, enamel-bonding
+agents have been replaced by the same systems that are used on
+dentin. The benefit is the ability to simultaneously bond resin
+to both enamel and dentin, leading to substantial improvements
+in bond strength. Numerous chemistries have been investigated,
+developed, and marketed in the search for adhesive systems that
+can produce strong, permanent bonds to dentin. Therefore the
+focus of discussion is on dentin-bonding agents.
+As discussed in the section on adhesion in Chapter 2, Bonding
+to Tooth Structure, and in an earlier section of this chapter, a successful dentin-bonding system must meet several requirements:
+1. Adequate removal or dissolution of the smear layer from
+enamel and dentin
+2. Maintenance or reconstitution of the dentin collagen matrix
+3. Good wetting and efficient monomer penetration into the
+collagen matrix
+4. Polymerization within the collagen mesh to form a hybrid
+layer
+5. Copolymerization with the resin composite matrix
+
+Rinsing and Drying Stage
+Once the tooth is etched, the acid should be rinsed away thoroughly with a stream of water for about 20 seconds, and the
+water must be removed. When enamel alone is etched and is to
+be bonded with a hydrophobic resin (e.g., bisphenol-A glycidyl
+dimethacrylate [bis-GMA]–based resin; see Chapter 5, Composition and Function), it must be dried completely with warm air
+until it takes on a white, frosted appearance. Dentin, in contrast,
+cannot withstand such aggressive drying, which would cause
+bond failure because of the formation of impermeable, collapsed
+collagen fibers. In the total-etch technique, a dentin-bonding
+agent and primer must be used that are compatible with both
+moist dentin and moist enamel.
+
+Cleanness of the Bonding Surfaces
+To form a sound mechanical bond, etched surfaces must be kept
+free of contamination and sufficiently dry until the resin is placed.
+Although etching raises the surface energy, contamination can
+readily reduce the energy level of the etched surface. Reducing the
+surface energy, in turn, makes it more difficult to wet the surface
+with a bonding resin that may have too high of a surface tension
+to wet the contaminated surface. Thus even momentary contact
+with saliva or blood can prevent effective resin-tag formation and
+severely reduce bond strength. Another potential contaminant is
+oil that is released from the air compressor and transported along
+the air lines to the air–water syringe. If contamination occurs, the
+contaminant should be removed, and the surface should be etched
+again for 10 seconds.
+
+Other Factors
+The acid-etch technique was not widely used in the years immediately following its introduction (Figure 6-1). The principal reason was the inferior properties of the unfilled acrylic restorative
+materials used at that time. With those resins, high polymerization shrinkage (>6 vol%) and coefficients of thermal expansion
+in excess of 100 ppm/°C generated interfacial stresses sufficient
+to rupture the bond to etched enamel. After highly filled resinbased composites were marketed beginning in the mid-1960s, the
+acid-etch technique was “rediscovered.” Therefore, the choice of
+restorative materials also plays an important factor in the success
+of bonding.
+
+CRITICAL QUESTION
+What types of bond formation result from the use of dentin-bonding agents?
+
+Composition of Dentin-Bonding Agents
+Irrespective of the number of components (see Table 6-1), a typical
+dentin-bonding system includes etchants, primers, solvents, resin
+monomers, initiators and inhibitors, reinforcing fillers, and sometimes other functional ingredients such as antimicrobial agents.
+
+Etchants
+Enamel and dentin etchants are strong acids (pH = 1 to 2) used
+to remove smear layers and to dissolve the mineral phase so as to
+form micromechanical interlocking. A number of acidic agents
+have been used to produce the required microporosity. However,
+phosphoric acid, typically at 37%, produces consistent etching
+patterns while not damaging the pulp. Phosphoric acid concentrations greater than 50% result in the deposition of monocalcium
+phosphate monohydrate on the etched surface, which inhibits further dissolution. The etchant is usually supplied as an aqueous gel
+to allow precise placement over a specific area. Brushes are used to
+place the acidic gel, or the acid may be supplied in a disposable
+
+Bonding and Bonding Agents
+
+CHAPTER 6
+
+Monomers with surface active and/or adhesive functional groups
+HEMA
+H2C
+
+CH3
+
+C
+
+O CH2
+
+CO
+
+CH2
+
+OH
+
+HEMA-phosphate
+H2C
+
+CH3
+
+C
+
+OH
+
+CO
+
+O CH2
+
+CH2
+
+P
+
+O
+
+OH
+
+O
+Phenyl-P
+H2C
+
+CH3
+
+C
+
+OH
+
+CO
+
+O CH2
+
+CH2
+
+O
+
+O
+
+10-MDP
+H2 C
+
+O
+
+P
+
+CH3
+
+C
+
+OH
+
+CO
+
+O CH2
+
+CH2
+
+CH2
+
+CH2
+
+CH2
+
+CH2
+
+CH2
+
+CH2
+
+CH2
+
+CH2
+
+O
+
+P
+
+OH
+
+O
+
+4-MET
+H 2C
+
+C
+
+CH3
+CO
+
+O CH2
+
+CH2
+
+O
+
+CO
+
+COOH
+COOH
+
+4-META
+H2C
+
+CH3
+
+C
+
+O
+
+CO
+
+O CH2
+
+CH2
+
+O CO
+
+C
+C
+
+MAC-10
+H2C
+
+O
+
+CH3
+
+C
+
+O
+
+O CH2
+
+CO
+
+CH2
+
+CH2
+
+CH2
+
+CH
+
+CH2
+
+N
+
+CH2
+
+CH2
+
+CH2
+
+CH2
+
+CH2
+
+CH2 CH
+
+COOH
+COOH
+
+Methacrylamide
+H2 C
+
+C
+
+CH3
+CO
+
+NH2
+
+NPG-GMA
+H2C
+
+C
+
+CH3
+CO
+
+O CH2
+
+CH2 COOH
+
+OH
+
+CH3
+Monomers with crosslinking and copolymerizing functions
+Bis-GMA
+H2C
+
+C
+
+CH3
+CO
+
+CH3
+
+CH3
+O CH2
+
+CH
+
+CH2
+
+O
+
+O CH2
+
+C
+
+CH2 O OC
+
+C
+
+CH2
+
+OH
+
+CH3
+
+OH
+
+CH
+
+UDMA
+H2 C
+
+C
+
+CH3
+CO
+
+O CH2 CH2 O CO NH CH2
+
+CH
+
+CH3
+
+CH3
+
+CH3
+CH2
+
+C
+
+CH2 CH2 NH
+
+CO O
+
+CH2
+
+CH2
+
+CH3
+TEGDMA
+H2 C
+
+C
+
+CH3
+
+CH3
+CO
+
+O CH2 CH2 O
+
+CH2
+
+CH2
+
+O
+
+CH2 CH2
+
+O
+
+OC
+
+C
+
+CH2
+
+• Figure 6-4 Structures of representative monomers used in enamel- and dentin-bonding agents.
+
+O
+
+OC
+
+C
+
+CH2
+
+119
+
+120
+
+PA RT I I
+
+TABLE 6-1
+
+Direct Restorative Materials
+
+Classification of Dental Bonding Systems and Representative Examples of Commercial Products
+Currently Available for Clinical Use
+ETCH AND RINSE
+
+SELF-ETCH
+
+Three Step (4th generation)
+
+Two Step (5th generation)
+
+Two Step (6th generation)
+
+One Step (7th generation)
+
+1. Etch
+Apply for 15 s, rinse 15 s, gently airdry, while keeping dentin moist.
+
+1. Etch
+Apply for 15 s, rinse 15 s, gently airdry while keeping dentin moist.
+
+1. Etch and prime
+One application without rinsing, gently
+air-dry.
+
+1. Etch, prime, and bond
+Apply 1–5 layers without rinsing,
+gently air-dry, light-cure.
+
+2. Prime
+Apply 1–5 layers, gently air-dry.
+
+2. Prime and bond
+Apply 1–5 layers, gently air-dry,
+light-cure.
+
+2. Bond
+Apply one layer, gently air-dry, light-cure.
+
+3. Bond
+Apply one layer, gently air-dry, light-cure.
+
+REPRESENTATIVE PRODUCTS CURRENTLY MARKETED FOR CLINICAL USE
+Adper Scotchbond Multi-Purpose
+(3M ESPE)
+Syntac (Ivoclar Vivadent)
+DenTASTIC All-Purpose (Pulpdent)
+GLUMA Solid Bond (Heraeus Kulzer)
+Optibond FL (Kerr)
+
+DenTASTIC UNO (Pulpdent)
+ExciTE F VivaPen
+(Ivoclar Vivadent)
+iBond Total Etch (Heraeus Kulzer)
+One-Step and also One-step Plus
+(Bisco)
+Prime & Bond NT (Dentsply)
+
+Adper Prompt (3M ESPE)
+AdheSE (Ivoclar Vivadent)
+All-Bond SE (Bisco)
+Clearfil SE Protect Bond (Kuraray)
+Nano-Bond (Pentron)
+One-Step Plus with/ Tyrian SPE (Bisco)
+Peak SE with Universal Bond (Ultradent)
+
+AdheSE Universal (Ivoclar Vivadent)
+Adper Easy Bond Self Etch (3M ESPE)
+Adper Prompt L-Pop (3M ESPE)
+Clearfil S3 Bond (Kuraray)
+Futurabond DC (VOCO)
+G-Bond (GC), and XENO V (Dentsply)
+i-Bond Self Etch (Heraeus Kulzer)
+
+syringe from which it can be expressed onto enamel and dentin.
+During placement, it is important to be aware of the risk of air
+bubbles being introduced at the interface because the regions with
+air pockets will not be etched.
+
+Primers
+Dentin etching is highly technique sensitive because the demineralized collagen network readily collapses when dried. Therefore
+priming is necessary to maintain an expanded collagen network
+while removing residual water to allow for the infiltration of the
+hydrophobic adhesive monomer. Primers are solutions containing
+hydrophilic (water-loving) monomers dissolved in a solvent, such
+as acetone, ethanol, or water. Such monomers exhibit hydrophilic
+properties through phosphate, phosphonate, carboxylic acid, alcohol, or ester functional groups (Figure 6-4). For example, 2-hydroxylethyl methacrylate (HEMA) is a widely used primer monomer
+because of its high hydrophilicity (resulting from its −OH group)
+and solvent-like nature.
+It was believed that dentin bonding could be achieved by forming chemical bonds between a primer and either the inorganic or
+the organic components of dentin, in particular, the Ca2+ within
+the hydroxyapatite mineral phases of dentin. Phosphate and carboxylic groups form chelation bonds with Ca2+ and, therefore, are
+expected to form such bonds during dentin priming, as has been
+found with carboxylate-based cements (Chapter 7, Glass-Ionomer
+Cement) and as illustrated in Figure 6-5, along with a bonding
+mechanism by amino-carboxylate functional groups. On the same
+molecule, there should be a polymerizable functional group, such
+as methacrylate, that can react with the resin adhesive and thereby
+form a chemical bond between the adhesive and dentin. This
+approach appeared in Hagger’s dentin-bonding system, which
+was glycerophosphoric acid dimethacrylate with a typical M–R–X
+structure (Figure 6-6, A).
+The design of such dentin-bonding agents is based on the successful model of silane coupling agents, as used to bond the inorganic
+filler to the matrix resin in composites (see Figure 5-4), to bond porcelain laminate veneers through resin cements to acid-etched enamel,
+
+Phosphate-based bonding agent
+
+Amino-carboxylate-based bonding agent
+(NPG-GMA)
+
+Carboxylate-based bonding agent
+(PAA)
+
+• Figure 6-5 Chemical bonding mechanisms to hard tooth tissues
+through calcium salt formation with monomers having adhesive functional
+groups. (Courtesy K-J Söderholm.)
+
+CHAPTER 6
+
+CH3
+O
+OH
+
+O
+H2C
+
+CH3
+
+P
+
+C
+O
+
+OH
+
+O
+
+O
+
+C
+
+H2C
+
+O
+
+A
+
+M
+
+R
+
+X
+
+CH3
+O
+H2C
+
+CH3
+
+O
+H2
+C
+
+C
+
+CH3
+
+Si
+C
+H2
+
+C
+H2
+
+O
+O
+
+CH3
+
+O
+
+B
+
+M
+
+R
+
+X
+
+• Figure 6-6 M–R–X structures of dentin-bonding agents. A, Glycerophosphoric acid dimethacrylate. The chemical adhesion or bonding mechanism of phosphoric acid is shown in Figure 6-5. B, γ-Methacryloxypropyl
+trimethoxysilane. The surface interaction or bonding mechanism of the
+silane is shown in Figure 5-4.
+
+and to repair fractured porcelain with composites (Chapter 10,
+Bonding of Resin to Dental Ceramics). Figure 6-6, B shows
+a silane coupling agent presented as an M–R–X structure. X
+represents a group capable of chemically reacting with siliceous
+materials such as glass and silicate filler particles in composites,
+porcelain crowns and veneers, and/or the calcium ions (Ca2+)
+in dental hard tissues. R is a spacer group that provides flexibility and mobility, and thus enhanced reactivity, for the M
+group after the X group has been immobilized by reaction at
+a surface. M represents an unsaturated methacrylate group or
+groups capable of copolymerizing with the other monomers of
+a resin cement or composite and thereby forming a chemical
+bond between the adhesive and dentin. Several compounds that
+are believed to possess these properties are shown in Figure 6-4:
+NPG-GMA (a condensation product of N-phenyl glycine and
+glycidyl methacrylate and the first-generation dentin-bonding
+agent), polymerizable phosphates (e.g., 2-[methacryloyloxyethyl]
+phenyl hydrogen phosphate [phenyl-P] and 10-methacryloyloxydecyl dihydrogen phosphate [10-MDP]), and carboxylate compounds (e.g., 4-methacryloyloxyethyl trimellitic
+acid [4-MET], 11-methacryloyloxy-1,1′-undecanedicarboxylic
+acid [MAC-10], and 4-methacryloyloxyethyl trimellitic anhydride [4-META]). A number of phosphonic acid acrylates
+and bis(acrylamide), which are resistant to water degradation (hydrolysis), form a more durable, longer-lasting bond
+(e.g., AdheSE Primer; see Table 6-1). Also in this category are
+poly(alkenoic) acids as used in carboxylate and glass-ionomer
+cements, which are discussed later in this chapter and in more
+detail in Chapter 7, Glass-Ionomer Cement.
+Primer mixtures have a wide pH range because of the acidity
+of various functional monomers incorporated to promote bonding to the tooth structure. The rank of functional groups in their
+acidity is as follows: sulfonic acid > phosphonic > phosphoric >
+
+Bonding and Bonding Agents
+
+121
+
+carboxylic > alcohol. If the concentration of acidic monomers is
+increased in a HEMA base, a primer formulation may reach a pH
+(e.g., 1–2) low enough to remove smear layers and etch underlying
+dentin. If a primer has the ability to both etch and prime, it is categorized as a self-etching primer. For this purpose, acidic monomers
+are frequently used to formulate self-etching primers. Representatives of these are shown in Figure 6-4: HEMA-phosphate, phenyl-P,
+10-MDP, 4-MET, 4-META, and MAC-10.
+In spite of theoretical evidence that chemical bonding to tooth
+structure is possible, no convincing experimental evidence has yet
+been validated to prove that significant chemical bonding occurs
+between dentin adhesives and tooth structure under intraoral conditions. Rather, the adhesive functional groups facilitate surface
+cleaning and etching and the development of micromechanical
+interlocking and monomer penetration of dentin to form a hybrid
+layer of molecular entanglements between collagen and polymer,
+as described previously.
+
+Solvents
+Solvents also play important roles in priming systems. The most
+commonly used solvents are water, ethanol, and acetone. In addition to enhancing the wetting of hydrophilic dentin, each solvent
+is chosen to make a specific contribution to improve bond adhesion. Water can ionize acidic monomers as well as re-expand the
+collapsed collagen network and make a hybrid layer possible. Ethanol and acetone have better miscibility with relatively hydrophobic monomers, and their “water-chasing” ability facilitates water
+removal. Removing solvent before proceeding to the next step is
+critical for a durable bond.
+Adhesives
+For dentin bonding, the primary purpose of adhesives is to fill the
+interfibrillar space of the collagen network, creating a hybrid layer
+with resin tags to provide micromechanical retention upon polymerization and serve as an intermediary bonding to the restorative
+materials made of hydrophobic resins. This function is similar to
+the role of enamel-bonding agents as an intermediate layer between
+the etched enamel and the resin-based restorative material. Likewise, the adhesive layers of a dentin-bonding system should also
+prevent fluid leakage along the restorative material’s margin.
+It is evident that adhesives need to be hydrophobic so that oral
+fluids will be repelled and not permeate through the intermediate
+layer. At the same time, adhesives require a certain hydrophilicity
+to diffuse into the hydrophilic primer-wetted dentin. To achieve
+these two conflicting requirements, adhesive resins are typically
+composed mainly of hydrophobic dimethacrylates, such as bisGMA, TEGDMA, and urethane dimethacrylate (UDMA), and a
+small amount of a hydrophilic monomer such as HEMA. Monomers with phosphonic acid and methacrylamide functional groups
+could be added to improve resistance to hydrolytic degradation
+of the adhesives; however, the focus has mostly been on improving hydrolytic degradation of the one-step self-etching adhesives,
+which are discussed later.
+Initiators
+Similar initiator systems are used in both adhesives and restorative
+composites (Chapter 5, Classification by Curing Method). Polymerization can be initiated either through a photoinitiator system
+consisting of a photosensitizer (e.g., camphorquinone) and a coinitiator (e.g., tertiary amine), a self-cure system that includes a
+chemical initiator (e.g., benzoyl peroxide), or a dual-cure initiator
+system.
+
+122
+
+PA RT I I
+
+Direct Restorative Materials
+
+Etch and rinse adhesives
+
+Three-step
+(4th-generation)
+
+Self-etch adhesives
+
+Two-step
+(6th-generation)
+Conditioner
+
+Primer
+
+Self-etching primer
+
+Adhesive resin
+
+Two-step
+(5th-generation)
+
+or
+
+One-step
+(7th-generation)
+Conditioner
+
+Combined primeradhesive resin
+
+Adhesive resin
+
+Self-etching primer/
+adhesive
+two components
+
+Self-etching adhesive
+one component
+
+• Figure 6-7 Classification of current adhesive systems according to van Meerbeek et al. (2003).
+(Adapted from Cardoso MV, et al: Current aspects on bonding effectiveness and stability in adhesive
+dentistry, Aust Dent J 56[S1]:31–44, 2011.)
+
+Filler Particles
+Nanometer-sized silica particles have been added to some adhesives to reinforce the adhesive and thereby produce higher bond
+strengths. However, the strengthening effect of the fillers in
+adhesives is uncertain because it is not clear whether these fillers
+can actually penetrate into the demineralized collagen networks
+because the interfibrillar space of the collagen networks is within
+the range of 20 nanometers (nm), whereas the nano-sized reinforcing filler particles are in the 40-nm range. The other reason for
+the addition of fillers is to effectively modify adhesive viscosity to
+a thicker, pastier consistency. When such an adhesive is applied to
+an etched dental surface, it yields a thicker bonding layer that can
+promote increased bond strength by preventing oxygen inhibition. Moreover, a thick adhesive layer can reduce shrinkage stress
+because it is more compliant, which relieves shrinkage-induced
+stresses, compared with restorative composites (Chapter 5, Function of Fillers).
+Other Ingredients
+Additional ingredients are used with dentin-bonding agents for a
+variety of specific purposes. Examples include the following: glutaraldehyde (Probond, Dentsply, York, PA) is added as a desensitizer. The monomers 12-methacryloyloxydodecylpyridinium
+bromide (MDPB; Clearfil Protect Bond, Kuraray America, New
+York, NY) and paraben (Adper Prompt L-Pop, 3M ESPE, St.
+Paul, MN) are used as antimicrobials. Fluoride (Prime & Bond
+NT, Dentsply, York, PA) is added to prevent secondary caries.
+Benzalkonium chloride (e.g., Etch 37, Bisco, Schaumburg, IL)
+and chlorhexidine (e.g., Peak LC Bond Resin, Ultradent Products,
+South Jordon, UT) are used to prevent collagen degradation. In
+laboratory studies, both benzalkonium chloride and chlorhexidine
+have been shown to prevent protease enzymes (matrix metalloprotease enzymes or proteins [MMPs]) from being activated and
+subsequently denaturing the hybrid-layer collagen. Unfortunately,
+however, clinical studies have failed to show improved dentinbond durability after treatment with these agents.
+
+CRITICAL QUESTION
+Why are dentin-bond-strength values so variable?
+
+Properties of Bonding Agents
+Bonding systems are often characterized by their bond strength
+to the intended substrates, the ability to provide a sealed tooth/
+restoration interface, and resistance to hydrolytic degradation.
+Hydrophilic monomers are incorporated into the system to
+improve bonding to the moist tooth structures.
+
+Measurement of Bond Strength
+Evaluation of the efficacy of dentin adhesives is generally based on
+the bond strength as determined by loading bonded test specimens
+in shear or in tension until fracture occurs. Such tests offer only
+indirect evidence of how the adhesive is likely to perform in vivo.
+Data published on bond strength for a given material often vary
+widely, with high standard deviations. This wide variance is better
+described by the coefficient of variation (standard deviation/mean)
+and is attributed to the inherent variations at the dentin surface,
+such as water content, the presence or absence of a smear layer,
+dentin permeability, orientation of the tubules relative to the surface, and differences in the in vitro test design and stress distribution adjacent to the interface. Although there is no agreement on
+the minimum strength necessary to provide successful bonding,
+20 MPa or higher has been proposed as a reasonable goal.
+Current dentin-bonding agents can have bond strengths high
+enough to shift the site of clinical failure from the interface to within
+the dentin adjacent to the restoration or, in some cases, within the
+restoration adjacent to the interface. Thus it is clear that the inherent
+bond strength is no longer the limitation in the effectiveness of bonded
+restorations. The limiting factor now appears to be, at least for large
+restorations, induced stresses generated during curing shrinkage within
+the resin-based composite itself. Several products with reduced interfacial polymerization stress have recently been introduced (Chapter 5,
+Low Shrinkage Composites), and means of further stress reduction are
+currently under investigation and should eventually eliminate this as a
+significant clinical problem.
+Measurement of Microleakage
+The degree of microleakage at the restoration–tooth interface can
+be monitored by the penetration of tracers and staining agents. As
+is true for bond strength testing, there is also a large variation in
+
+CHAPTER 6
+
+leakage data, depending on the measurement technique and the
+manipulation during placement. Often, a good correlation does not
+exist between bond strength and microleakage. However, the newer
+low-stress products appear to be superior in inhibiting interfacial
+leakage between the conditioned tooth structure and adhesive resin.
+
+Aging Effects and Degradation of the Hybrid Layer
+The change of bond strength over time is a useful indication of
+clinical lifetime and can be evaluated by in vitro accelerated aging
+tests. Several investigations have found that the bond strength of
+three-step adhesive systems show little or no decrease in contrast to
+two-step adhesive systems that decrease significantly during a 4- to
+5-year span. Research has also shown that peripheral bonding to
+etched enamel, which seals the resin bond from exposure to water,
+can significantly increase bond durability. Transmission electron
+microscopy (TEM) observations have shown that collagen fibrils
+in the hybrid layer degrade coincidently with decreasing bond
+strength, suggesting that hybrid-layer degradation contributes to
+aging of dentin-bond integrity. As indicated in the earlier subsection on “other” bonding agent ingredients, this is likely caused by
+the activation of MMPs, which denature the hybrid-layer collagen.
+Some in vitro studies offer a degree of predictability for certain clinical situations. For example, a durable dentin bond can
+be expected if enamel bonding is used to seal all cavity margins.
+Another requirement for achieving lasting intraoral bonds is
+hydrolytic stability (resistance to chemical degradation by water).
+Enamel and dentin are hydrated, hydrophilic, and permeable to
+water. Even if an enamel or dentin surface is initially dried before
+applying an adhesive, inadvertent contamination and diffusion
+can easily result in water becoming strongly bound to both the
+hard tissue and the adhesive. Thus for an adhesive monomer to
+wet hard tooth tissue as well as form a durable bond in the moist
+environment of the mouth, it must be both hydrophilic for water
+compatibility and hydrolytically stable to ensure longevity.
+
+CRITICAL QUESTION
+Do bonding agents perform the same in bonding to enamel and dentin?
+
+Classifications by Clinical Steps
+When discussing dentin-bonding agents, it has become customary to describe the generations (first generation, second generation,
+etc.) of bonding agents that have led sequentially from the earliest,
+relatively ineffective materials to the current materials, which provide reliable functional bonds. This organization into generations of
+bonding agents is a somewhat artificial device to mark key advances
+in materials and techniques along a more-or-less continuous developmental pathway. Therefore this chapter uses a more logical and
+straightforward classification for contemporary adhesive systems
+based, rather, on their strategy of adhesion and the number of clinical steps involved. This classification was developed by van Meerbeek
+et al. As shown in Figure 6-7 and Table 6-1, it is based on two general
+approaches to etching, priming, and applying the bonding resin to
+dentin and enamel surfaces and further subdivided into the number
+of steps in the process. Thus the major categories of bonding systems
+are known as etch-and-rinse and self-etch systems, with two subcategories, each according to the number of clinical steps involved.
+
+Etch-and-Rinse Adhesives
+Three Step (Fourth Generation)
+
+The long-established, highly reliable method in this category consists
+of three steps: (1) an acid-etchant application, (2) application of the
+
+Bonding and Bonding Agents
+
+123
+
+primer, and (3) application of the bonding resin. The primer contains
+hydrophilic functional monomers dissolved in an organic solvent
+such as acetone or ethanol, or water. The third step is the application
+of a hydrophobic resin, as mentioned earlier in the chapter.
+Two Step (Fifth Generation)
+
+A simplified method in this category combines the primer and
+adhesive resin into one application. This etch-and-rinse strategy
+is the most effective to achieve efficient and stable bonding to
+enamel. Etching, usually with a 30% to 40% phosphoric gel that
+is rinsed away, promotes the dissolution of enamel rods, creating porosities that are filled by a bonding resin through capillary
+action, and then followed by resin polymerization.
+With dentin, bonding is more difficult and less predictable
+than with enamel because of the organic characteristics of dentin.
+In this case, phosphoric acid treatment exposes a collagen network
+that is nearly devoid of hydroxyapatite. Bonding occurs by diffusion and infiltration of the resin within the collagen mesh, forming
+a hybrid layer. After in situ polymerization, this hybrid layer provides micromechanical retention to the restoration. As explained
+earlier, true chemical-adhesive bonding is unlikely to contribute
+to bond strength because the monomers have only a weak affinity
+for collagen. Further, in the two-step category, hydrophilic and
+ionic monomers are combined, with the result that the bonded
+interface does not develop an all-hydrophobic resin layer, thus
+leaving the bond susceptible to water penetration and subsequent
+degradation, which greatly reduces bond durability.
+
+Self-Etch Adhesives
+Two Step (Sixth Generation)
+
+This approach does not involve a separate etching step. In this
+case, an acidic monomer, which is not rinsed, is used to condition and prime at the same time. There are two types of self-etch
+adhesive: mild and strong. Strong self-etch adhesives have a low
+pH (<1) and have a bonding mechanism that resembles that of the
+etch-and-rinse adhesives. Mild self-etch adhesives (pH = 2) only
+partially dissolve the dentin surface, so a substantial amount of
+hydroxyapatite remains available within the hybrid layer. Specific
+carboxyl or phosphate groups of functional monomers can then
+chemically interact with this residual hydroxyapatite. Because this
+layer has some mineral content, the bond to dentin is better than
+that of etch-and-rinse adhesives. However, this interfacial zone
+can be more prone to hydrolytic degradation because the structure is more hydrophilic and thus subject to water intrusion. The
+dentin-bond durability of mild self-etch primer systems seems to
+be adequate.
+One Step (Seventh Generation)
+
+The simplified method in this category combines a dentin conditioner, primer, and bonding resin into a single step. Most onestep or “all-in-one” systems are delivered by a bottle, vial, or
+single-unit dose applicator, which is formulated as a single component. However, Adper Prompt L-Pop (Table 6-1) is a variation
+on this theme, in which two liquid components are packaged
+in separate “blister” compartments in a single dispenser. Bursting one blister causes the two components to blend and form
+a single component, which is then applied immediately using a
+brush that forms the handle of the blister pack. This version of
+one-step, two-component, self-etching primer–adhesive is illustrated in Figure 6-7.
+One-step self-etch adhesives are an attractive approach for clinicians because of the reduced and less complex number of clinical
+steps required compared with multistep etch-and-rinse adhesives.
+
+124
+
+PA RT I I
+
+Direct Restorative Materials
+
+There is no need for rinsing or drying of the tooth structure
+because of the lack of an etch step. Because of this, numerous selfetch adhesive bonding agents have been introduced that expand
+this category for use with total-etch procedures (Adper Easy
+Bond Self-Etch; Table 6-1). These recently developed products
+have shown durability and versatility for use in an array of clinical applications. New phosphonic acid ether acrylates and crosslinking bis(acrylamide)s facilitate the preparation of self-etching
+enamel–dentin adhesives with improved storage stability.
+Products in the one-step, self-etch category have undergone limited clinical experience but are showing comparable performance
+and durability to two-step self-etch and etch-and-rinse products.
+These four categories are described in Table 6-1, which also
+provides typical application instructions and examples of representative commercial products for each category. Over the last several
+years, the availability of one-step products has been increasing,
+and they are replacing earlier versions in the three-step and twostep categories.
+
+CRITICAL QUESTION
+Can a single luting agent be used for cementation of indirect restorations in
+all clinical scenarios?
+
+Luting Agents
+For many years, retention of indirect restorations could only be
+attained by the use of favorable tooth preparations and by micromechanical interlocking into irregularities present on the surface
+of the restoration and the tooth, without adhesive bonding, as
+discussed in this chapter. This type of material is known as a luting agent. The most notable materials in this category are zinc
+phosphate and zinc oxide–eugenol (ZOE) cements (Chapter 7,
+Zinc Oxide-Based Cements). These lack adhesion and chemical bond formation with tooth structure and, thus, exhibit low
+bond strength to dentin. The introduction of adhesive bonding
+to enamel and dentin completely changed the procedure of affixing indirect restorations. A number of adhesive bonding materials are available for bonding prostheses, including polycarboxylate
+cements, glass-ionomer cements, resin-modified glass-ionomer
+(RMGI) cements, and resin cements, which are described in more
+detail in this section and in Chapter 7, Combination Cements.
+Traditionally, the terms luting and cementing refer to the use of
+nonadhesive materials for retaining prostheses, whereas bonding
+refers to the use of adhesive bonding materials. The distinction
+has faded in the literature; the use of adhesive bonding medium is
+also called luting. This section will concentrate on their bonding
+mechanism and recent developments in adhesive bonding agents.
+Resin cements are low-viscosity resin-based composites that can
+bond to various substrates, including tooth structure, resin composites, metal alloys, porcelain, and other ceramics. For cementation
+of indirect restorations, where most of the tooth structure is dentin, resin cements have shown better mechanical properties compared with others, such as zinc phosphate cement. Resin cements
+can follow the application of dentin-bonding agents, or not, when
+bonding to tooth structure. The former can be considered either as
+an etch-and-rinse adhesive resin cement or as a self-etch adhesive
+resin cement, according to its bonding-agent system. The latter is
+a self-adhesive resin cement. In vitro studies have reported better
+enamel-bonding performance for non–self-adhesive resin cements
+compared with self-adhesive cements. Self-adhesive resin cements
+
+do not show significant infiltration into dentin, but apparently
+some type of chemical interaction occurs between the calcium
+in hydroxyapatite and the cement monomer functional groups.
+For cementation of all-ceramic restorations, resin cement is the
+material of choice. Preparation of an all-ceramic restoration can
+include, but is not limited to, sandblasting, application of hydrofluoric acid for etching, silanization, or application of a ceramic
+primer to improve bond strength. Bonding to ceramic substrates
+is discussed in Chapter 10, Bonding of Resin to Dental Ceramics.
+
+CRITICAL QUESTION
+Why are glass-ionomer cements also used as restorative material for class V
+erosion lesions?
+
+When an acid-soluble calcium alumino-fluorosilicate glass powder is mixed with an aqueous solution of polyacrylic acid or analogous polyacid (also known as ionomers), Ca2+ and Al3+ ions released
+from the powder react with the carboxylic acid (−COOH) of polyacids and crosslink polyacid to form a solid. The solid is known as
+GIC and can be used to make restorations. The surface of a freshly
+mixed GIC should appear wet and rich in carboxylic acids. These
+carboxylic groups will interact strongly with surface Ca2+ ions in
+enamel or dentin, resulting in chemical adhesion to tooth structure
+as the GIC sets. This chemical adhesion may also be beneficial in
+terms of resistance to hydrolytic degradation. This behavior qualifies GIC as a self-adhesive cementing medium and restoration.
+A short treatment with polyacrylic acid can clean the tooth surface
+and remove the smear layer, exposing collagen fibrils to a depth of
+about 0.5 to 1 micron, which improves the micromechanical bonding
+of the GIC to dentin surfaces. Most of the current GICs have been
+modified with polymerizable acrylate monomers and are referred to
+as RMGIs. They contain a light-curable acrylic resin that provides for
+rapid polymerization at and near the surface, and they bond using the
+same bonding mechanisms as nonresin glass ionomers.
+Clinical longevity depends not just on bond strength but also
+on dislodging forces. Composite restoratives undergo significant polymerization shrinkage (Chapter 5, Cure Shrinkage and
+Managing Shrinkage Stress), which creates stresses adjacent to
+the resin–dentin interface that can rupture dentinal bonds in all
+but the smallest restorations. Because glass ionomers generate low
+stresses on setting, they are well retained even in areas such as class
+V sites, where occlusal forces induce relatively little stress. They
+also have been used with somewhat limited success as pit and fissure sealants. However, because of the high stresses induced by
+intraoral forces in occlusal areas, a greater degree of dislodgment
+and fracture of the GIC sealants occurs in these sites. GICs are
+described in some detail in Chapter 7, Glass-Ionomer Cement.
+
+CRITICAL QUESTION
+Why are self-adhesive cements currently not used to bond orthodontic
+brackets?
+
+Applications in Orthodontic, Endodontic,
+and Preventive Dentistry
+The procedures of acid-etching and adhesive bonding that provide
+a strong, durable bond between resin and tooth structure have
+also been the basis for dental procedures as diverse as orthodontic
+bracket bonding, endodontic sealers, amalgam bonding, and pit
+
+CHAPTER 6
+
+and fissure sealants. Additional applications in the bonding of prostheses, porcelain laminate veneer bonding, and adhesive cements,
+including glass-ionomer restorative materials, will also be discussed
+in greater detail throughout the book but with particular emphasis
+in the chapters on composites, cements, amalgams, and ceramics.
+
+Bonding Resins for Orthodontic Brackets
+Orthodontic treatment with fixed appliances involves brackets and
+bands. Bands are flat metal bands that encircle teeth and are usually
+used on molars. Brackets are welded to bands or bonded to enamel
+and hold the wires that apply forces for tooth alignment. The
+development of bonding has contributed to a decrease in banding,
+even in posterior teeth. Various luting agents have been used in
+orthodontics, such as polycarboxylate cement, GIC, and RMGI
+cements. Contemporary bonding to enamel involves the following:
+1. Prophylaxis of bonding surface
+2. Etching with phosphoric acid gel or aqueous solutions
+3. Rinsing with water
+4. Drying with air
+5. Application of sealant or primer
+6. Bonding of brackets with resin cement
+7. Light-curing the dual-cured or light-cured cement
+Manufacturers do not recommend self-adhesive cements as luting agents for orthodontic fixed appliances. Self-adhesive cements
+have lower bond strengths to intact enamel in comparison with
+conventional orthodontic resin cements that require etching
+with phosphoric acid. However, self-etching systems have shown
+acceptable results for the bonding of orthodontic brackets.
+In orthodontic treatment, bonding involves mainly enamel.
+Increasingly, adults are undergoing tooth alignment. This population has more amalgam restorations, porcelain-fused-to-metal
+(PFM) crowns, and all-ceramic crowns. Therefore bonding of
+brackets to those surfaces also plays an important role in orthodontic treatment. It is important that the bonding of brackets
+be reliable because replacing loose brackets is time-consuming
+and costly.
+Several types of surface treatments can be used with restorative
+materials to increase bond strength. For example, roughening with
+a diamond bur and sandblasting enhance bonding, especially in
+the case of metals. These treatments create surface irregularities and
+increased surface area. This promotes micromechanical retention
+and chemical adhesion in the case of resins, such as those containing
+4-META, 10-MDP, and others, as shown in Figure 6-4. The bond
+strength of brackets bonded to amalgam (see following discussion) is
+lower than that to etched enamel. In addition to forming a reliable
+bond, the ability of a resin to reduce or prevent demineralization
+(“white spot” caries) in the difficult-to-clean areas around orthodontic brackets and bands and to reduce damage to enamel during treatment are also important properties in this clinical scenario.
+
+CRITICAL QUESTION
+What are the materials and techniques needed to overcome the root canal
+system environment and create a hermetic seal with endodontic obturation
+systems?
+
+Endodontic Sealers
+Endodontic sealers are used in conjunction with a solid or semisolid
+core material to fill voids and seal root canals during obturation.
+These sealers, sometimes called cements, should fill and promote
+
+Bonding and Bonding Agents
+
+125
+
+a close seal between the core and the dentinal walls of the canal,
+preventing or minimizing leakage, entombing residual microorganisms, and preferably filling inaccessible areas of the root canal
+system. Sealer selection may influence the outcome of endodontic
+treatment. Historically, gutta-percha (a natural, malleable rubber
+related to latex) has been and continues to be used as the solid core
+material in combination with ZOE or calcium hydroxide cement,
+or an epoxy-based sealer. GIC and resin-modified GIC are also
+used as root canal sealers. These can chemically bond to root canal
+dentin but not to gutta-percha. There has been a surge of development in endodontic obturation materials to produce, via adhesive
+mechanisms, a sequence of bonded interfaces from dentin to sealer
+to the core obturation material and from the coronal to apical
+aspects of the canal space, including anastomoses, canal fins, culde-sacs, and isthmuses. These new developments will be discussed
+in Chapter 7, Endodontic Sealers.
+The configuration of the root canal presents an unfavorable “C-factor” for these resin-based materials. C-factors can be
+extremely high, over 1000, for the canal configuration. Thus a
+resin endodontic sealer is subjected to severe polymerization
+shrinkage stresses during setting, which may cause debonding
+and gap formation along the periphery of the root canal obturation and adhesive interfaces. Gaps can form between the sealer
+and dentin wall or in between the solid core material (e.g., guttapercha) and the sealer. Therefore root canal obturation inherently
+requires a number of different materials and involves multiple
+interfaces, thereby creating a greater challenge than most other
+applications of adhesive dentistry.
+In a long, narrow space such as the root canal, the application of self-etching adhesives or any other bonding system
+becomes challenging and might not be uniform throughout the
+entire interface. Therefore, if resin infiltration into demineralized dentin and hybrid formation is not adequate to prevent
+movement of fluids inward through dentin, over time, the
+bond will be compromised, and the seal will fail. In addition,
+in bonding systems that contain volatile solvents, evaporation
+might be hindered. The canal anatomy is not only problematic
+to adhesive root canal obturation but also for the bonding of
+prefabricated posts.
+A further problem is that some irrigating solutions (e.g.,
+sodium hypochlorite, NaOCl) and intracanal medicaments can
+also have adverse effects on root canal dentin collagen and, consequently, on the longevity of endodontic bonding. In vitro studies
+have reported that NaOCl has deleterious effects on dentin collagen and is both concentration and time dependent. Destruction of the collagen matrix in mineralized tissues results in a less
+tough, more brittle substrate that might precipitate fatigue crack
+propagation during cyclic stresses. This might increase the susceptibility of the root-treated teeth to posttreatment crown or
+root fracture.
+The results of a 2001 in vitro study indicate that root
+canals treated with 5% NaOCl have significantly lower bond
+strengths of C&B Metabond cement (Parkell, Inc., Edgewood, NY) to dentin. However, it is important to note that
+the effects of endodontic irrigation on the bonding of resin
+cement to radicular dentin are dependent on the dentinbonding system used.
+
+CRITICAL QUESTION
+How does amalgam bonding to dentin differ from composite bonding to
+dentin?
+
+126
+
+PA RT I I
+
+Direct Restorative Materials
+
+Sealed fissure
+
+• Figure 6-8 Schematic of a tooth cross section, illustrating penetration
+of a sealant into an occlusal fissure.
+
+Amalgam Bonding
+Mechanical retention and resistance forms continue to be used
+for amalgam restorations (Chapter 8, Clinical Performance of
+Amalgam Restorations). However, adhesive bonding methods for
+retaining and sealing amalgam restorations with dentin bonding
+to reduce microleakage and increase fracture resistance have also
+been investigated. Bonding agents employing M–R–X-type adhesive monomers such as 4-META (Parkell Inc., Edgewood, NY;
+Figure 6-4) have achieved some degree of success, but the mechanism for bonding amalgam to resin is predominantly mechanical. It is established during condensation of the amalgam into the
+viscous chemical-curing resin adhesive layer, producing macromechanical interlocking after polymerization. Thicker adhesive layers or interfaces have been shown to promote greater retention
+under certain conditions. For example, Amalgambond Plus with
+4-META contains polymethylmethacrylate and forms a thick,
+viscous layer. Studies have shown that amalgam adhesive bond
+strength ranges from 6 to 15 MPa.
+
+CRITICAL QUESTION
+Can sealants prevent secondary caries progression when placed over
+underlying carious enamel or dentin?
+
+Pit and Fissure Sealants
+Various materials and techniques have been advocated for preventing caries in the susceptible pit and fissure areas of posterior
+teeth. The most widely used sealant techniques make use of resin
+systems that can penetrate into the pits and fissures and seal
+them against oral bacteria and acid demineralization. A cross
+section of a tooth with a pit and fissure sealant is shown schematically in Figure 6-8.
+Several types of resins, both filled and unfilled, have been
+employed as pit and fissure sealants. The commercially available
+products have been based on either the UDMA or bis-GMA
+monomers (Figure 6-4) that may be polymerized by either the
+
+Selected Readings
+Bedran-Russo A, Leme-Kraus AA, Vidal CMP, et al: An overview of dental adhesive systems and the dynamic tooth–adhesive interface, Dent
+Clin N Am 61:713–731, 2017.
+
+amine-benzoyl peroxide chemical activation–initiation system or
+by light activation, as discussed in Chapter 5, Classification by
+Curing Method. The unfilled resins are available as colorless or
+tinted transparent materials. The filled resins are translucent and
+available either as tooth-colored or white materials.
+The success of the sealant technique is highly dependent on
+obtaining and maintaining an intimate adaptation of the sealant
+to the tooth surface. Therefore the sealants must be of relatively
+low viscosity so that they will wet the tooth, flow, and penetrate
+the pits and fissures. To enhance wetting and mechanical retention of the sealant, the tooth surface is first conditioned by acidetching, rinsed, and dried thoroughly, as described previously. The
+physical properties of the sealants are closer to those of unfilled
+direct resins than to those of resin-based composites.
+The reduction in occlusal caries resulting from the careful use
+of pit and fissure sealants has been impressive. Consequently, the
+American Dental Association, the American Academy of Pediatric Dentistry, the American Society of Dentistry for Children,
+and the American Association of Public Health Dentistry have all
+endorsed the use of sealants as an effective therapy. Clinical studies have shown that the failure frequency of sealants is approximately 5% per year after a single application. In an early report,
+after 10 years, 78% of first permanent molars were free of caries
+after a single application of sealant, compared with only 31% of
+caries-free teeth in the unsealed matched pairs. Mertz-Fairhurst
+et al. found even more dramatic results in a study of sealed class
+I composite restorations where carious dentin was not removed.
+They showed that the lesions did not progress over a period of
+10 years, as long as the sealants remained intact. Clinical trials in
+which sealants were intentionally placed in pits and fissures having caries have shown that as long as a sealant is well retained, no
+caries progression occurs.
+If doubt exists about whether the pit or fissure is free from caries
+or not, it is still justified to place a sealant. If a dentist feels uncomfortable about sealing a potentially carious lesion and believes that
+a visual inspection of the potential lesion is required, another conservative approach can be taken that consists of minimal cavity
+preparation and the placement of an enamel–dentin bonded composite restoration combined with a sealant application. With such
+an approach, most of the occlusal surface is sealed. This restoration
+is called a preventive-resin restoration (PRR). The PRR treatment has
+exhibited a success rate of 75% after 9 years, a remarkably high success rate compared with traditional amalgam treatment.
+
+Acknowledgment
+The authors wish to acknowledge Dr. Barry K. Norling, now deceased, for his contributions to the earlier editions of this chapter
+and Dr. Danna Mota Moreira, Faculty of Dentistry, Unichristus,
+Fortaleza, Brazil, for reviewing and adding important sections to
+this chapter.
+
+Betancourt DE, Baldion PA, Castellanos JE. Resin-dentin bonding interface: Mechanisms of degradation and strategies for stabilization of the
+hybrid layer, Int J Biomater 2019: 1–11, 2019.
+Buonocore MG: The Use of Adhesives in Dentistry, Springfield, IL, 1975,
+Charles C Thomas.
+
+CHAPTER 6
+
+In this book, Buonocore, the developer of the acid-etch technique,
+identified potential problems associated with the use of adhesives in
+dentistry that are still germane to current systems, for example, dentin
+bonding agents.
+De Munck J, van Landuyt KL, Peumans M, et al: A critical review of the
+durability of adhesion to tooth tissue: Methods and results, J Dent Res
+84:118–132, 2005.
+This review examines the fundamental processes that cause the adhesion of biomaterials to enamel and dentin to degrade over time. This
+paper critically appraises methodologies that focus on chemical degradation patterns of hydrolysis and elution of interface components,
+as well as mechanically oriented test setups, such as those designed for
+fatigue and fracture toughness measurements.
+Moreira DM, Almeida JFA, Ferraz CCR, et al: Structural analysis of
+bovine root dentin after use of different endodontics auxiliary chemical substances, J Endod 35:1023–1027, 2009.
+Moretto SG, Russo EMA, Carvalho RCR, et al: MV. 3-year clinical effectiveness of one-step adhesives in non-carious cervical lesions, J Dent
+41:675–682, 2013.
+
+Bonding and Bonding Agents
+
+127
+
+Pashley DH, Tay FR, Carvalho RM, et al: From dry bonding to waterwet bonding to ethanol-wet bonding, Am J Dent 20:7–20, 2007.
+A review of the interactions between dentin matrix and solvated resins
+using a macromodel of the hybrid layer.
+Peutzfeldt A, Sahafi A, Flury S: Bonding of restorative materials to dentin
+with various luting agents, Oper Dent 36:266–273, 2011.
+Simonsen RJ, Neal RJ: A review of the clinical application and performance of pit and fissure sealants, Aust Dent J 56(Suppl 1):45–58, 2011.
+This paper focuses on the clinical aspects of pit and fissure sealant
+application and the most recent publications that support an evidence-based clinical application technique.
+van Meerbeek B, Yoshihara K, Yoshida Y, et al: State of the art of self-etch
+adhesives, Dent Mater 27:17–28, 2011.
+An overview of the types of adhesive systems and application strategies
+in use as of 2011.
+Full Selected Readings for this chapter can be found on www.expertconsult.com.
+
+Selected Readings (Web Version)
+Useful Websites
+Adept Institute: http://adeptinstitute.com/members/000_source/membership
+/list.php?view=3&title=Bonding+%28Direct+Resin%29.
+Air Force Dental: https://www.airforcemedicine.af.mil/DECS/.
+The Biomaterials Network: http://biomat.net/site2/tag/biomaterials/.
+Clinical guidelines for photocuring restorative resins: http://www.faqs
+.org/abstracts/Health/Clinical-guidelines-for-photocuring-restorative
+-resins-Assessing-the-effect-of-extraneous-light-on-p.html.
+Dental Compare: http://www.dentalcompare.com/.
+Literature Citations
+Asmussen E, Munksgaard EC: Bonding of restorative resins to dentine:
+Status of dentine adhesives and impact on cavity design and filling
+techniques, Int Dent J 38:97–104, 1988.
+The chemistry of dentin bonding agents is described, and bond
+strength data are presented. Also, factors involved in clinical usage
+that influence retention are cited.
+Bedran-Russo A, Leme-Kraus AA, Vidal CMP, et al: An overview of
+dental adhesive systems and the dynamic tooth–adhesive interface, Dent Clin N Am 61:713–731, 2017.
+Betancourt DE, Baldion PA, Castellanos JE: Resin-dentin bonding interface: Mechanisms of degradation and strategies for stabilization of the hybrid layer, Int J Biomater 2019:1–11, 2019.
+doi:10.1155/2019/5268342.
+Bowen RL, Eichmiller FC, Marjenhoff WA, et al: Adhesive bonding of
+composites, J Am Coll Dent 56:10–13, 1989.
+This article discusses the merits of several of the popular dentin and
+enamel bonding systems, noting differences in chemical components
+and instructions for use.
+Buonocore MG: A simple method of increasing the adhesion of acrylic
+filling materials to enamel surfaces, J Dent Res 34:849–853, 1955.
+In this paper, published approximately 50 y ago, Buonocore
+suggested that etching enamel would improve mechanical bonding of an unfilled resin (composites were nonexistent at that time).
+The technique is now an essential step in the use of all modern
+composites.
+Buonocore MG: The Use of Adhesives in Dentistry, Springfield, IL
+1975, Charles C Thomas.
+In this book, Buonocore, the developer of the acid-etch technique,
+identified potential problems associated with the use of adhesives in
+dentistry that are still germane to current systems, for example, dentin
+bonding agents.
+Cardoso MV, de Almeida Neves A, Mine A, et al: Current aspects on
+bonding effectiveness and stability in adhesive dentistry, Aust Dent J
+56(Suppl 1):31–44, 2011.
+De Munck J, van Landuyt KL, Peumans M, et al: A critical review of
+the durability of adhesion to tooth tissue: Methods and results,
+J Dent Res 84:118–132, 2005.
+This review examines the fundamental processes that cause the adhesion of biomaterials to enamel and dentin to degrade over time. This
+paper critically appraises methodologies that focus on chemical degradation patterns of hydrolysis and elution of interface components,
+as well as mechanically oriented test setups, such as those designed for
+fatigue and fracture toughness measurements.
+Douglas WH: Clinical status of dentine bonding agents, J Dent 17:209–
+215, 1989.
+An excellent review of the evolution of earlier dentin bonding
+agents, the problems associated with adhesion, and the clinical
+criteria involved in phenomena, such as microleakage and tooth
+strengthening.
+Fusayama T, Nakamura M, Kurosaki M, et al: Nonpressure adhesion of a
+new adhesive restorative resin, J Dent Res 58:1364–1370, 1979.
+A breakthrough in dentin bonding was demonstrated when acid etching of dentin was reported to increase retention of restorations but
+with no increase in pulpal trauma.
+
+Giannini M, Makishi P, Ayres APA, et al: Self-etch adhesive systems:
+A literature review, Braz Dent J 26:3–10, 2015. doi:10.1590/01036440201302442 .
+Glantz P: On wettability and adhesiveness, Odont Rev 20(Suppl 17):5–
+124, 1969.
+The first in a series of publications by this author suggesting that the
+use of topical fluorides provides an additional mechanism involved in
+reduction of dental caries, that is, lowering of the surface energy of tooth
+structure, thereby reducing plaque accumulation over a given interval.
+Li G-H, Niu L-N, Zhang W, et al: Ability of new obturation materials
+to improve the seal of the root canal system – A review, Acta Biomater
+10:1050–1063, 2014. doi:10.1016/j.actbio.2013.11.015.
+Hayashi M, Takahashi Y, Hirai M, et al: Effect of endodontic irrigation on bonding of resin cement to radicular dentin, Eur J Oral Sci
+113:70–76, 2005.
+Houpt M, Fuks A, Eidelman E: The preventive resin (composite resin/
+sealant) restoration: Nine-year results, Quintessence Int 25:155–159,
+1994.
+Nine-year data presented to show the efficiency of using preventive
+resin restorations (PRRs) to treat pits and fissures with carious lesions.
+Ikemura K, Endo T: A review of our development of dental adhesives—
+Effects of radical polymerization initiators and adhesive monomers on
+adhesion, Dent Mater J 29:109–121, 2010.
+The authors present a thorough review of their development of monomers for self-etching and self-adhesive bonding systems, the role of
+initiators, and chemical structure–property relationships.
+Imazato S: Antibacterial properties of resin composites and dentin bonding systems, Dent Mater 19:449–457, 2003.
+This paper reviews the research conducted on the evaluation of antibacterial properties of commercial composites and adhesive systems,
+in addition to the discussion of many attempts to achieve antibacterial
+composites or adhesives.
+Liu Y, Tjäderhane L, Breschi L, et al: Limitations in bonding to dentin
+and experimental strategies to prevent bond degradation, J Dent Res
+90:953–968, 2011.
+Marshall SJ, Bayne SC, Baier R, et al: A review of adhesion science, Dent
+Mater 26:11–16, 2010.
+Mertz-Fairhurst EJ. Current status of sealant retention and caries prevention, J Dent Edu 48:18–26, 1984.
+Ten-year data presented to show a substantial reduction in caries following the placement of sealant compared with untreated control
+surfaces.
+Mertz-Fairhurst EJ, Curtis JW, Ergle JW, et al: Ultraconservative and
+cariostatic sealed restorations: Results at year 10, J Am Dent Assoc
+129:55–66, 1998.
+A classic 10-y study that demonstrates the efficacy of sealed composites in preventing caries progression even when the carious dentin was
+not removed.
+Moreira DM, Almeida JFA, Ferraz CCR, et al: Structural analysis of
+bovine root dentin after use of different endodontics auxiliary
+chemical substances, J Endod 35:1023–1027, 2009.
+Moretto SG, Russo EMA, Carvalho RCR, et al: MV. 3-year clinical
+effectiveness of one-step adhesives in non-carious cervical lesions,
+J Dent 41:675–682, 2013. doi:10.1016/j.jdent.2013.05.016.
+Nakabayashi N, Kojima K, Masuhara E: Sealants consensus development
+conference statement on dental sealants and the prevention of tooth
+decay, J Am Dent Assoc 108:233–236, 1984.
+Recommendations are made from a consensus conference on the state
+of the art of sealant therapy. The data presented were strongly supportive of sealant use.
+Neeraj M, Kundabala M, Shashirashmi A: Strategies to overcome polymerization shrinkage − Materials and techniques. A review, Dental Update
+37:115–125, 2010. doi:10.12968/denu.2010.37.2.115.
+Overton JD, Vance RI: Effect of adhesive volume on the bond strength of
+bonded complex amalgam restorations, Am J Dent 18:320–322, 2005.
+Pashley DH, Carvalho RM, Sano H, et al: The microtensile bond test: A
+review, J Adhes Dent 1:299–309, 1999.
+
+127.e1
+
+A review of the microtensile bond test, which permits true interfacial
+bond strength measurement in bonded systems where shear bond tests
+yield cohesive dentin failure.
+Pashley DH, Tay FR, Carvalho RM, et al: From dry bonding to waterwet bonding to ethanol-wet bonding, Am J Dent 20:7–20, 2007.
+A review of the interactions between dentin matrix and solvated resins
+using a macromodel of the hybrid layer.
+Pedro PC, Souza AMF, Aranha JH, et al: In vitro cytotoxicity and in
+vivo biocompatibility of contemporary resin-modified glass-ionomer
+cements, Dent Mater 22:838–844, 2006.
+Perdigão J: Dentin bonding—variables related to the clinical situation
+and the substrate treatment, Dent Mater 26:24–37, 2010.
+Peutzfeldt A, Sahafi A, Flury S: Bonding of restorative materials to
+dentin with various luting agents, Oper Dent 36:266–273, 2011.
+Phillips RW, Ryge G (editors): Proceedings on Adhesive Restorative Dental
+Materials, Spencer, IN, 1961, Owen Litho Service.
+These historical transactions resulted from the first workshop on the
+problems of, and potential solutions to, the development of adhesive dental materials. The recommendations for critically important
+areas of research provided impetus for subsequent investigations in
+this area.
+Powers JM, O’Keefe KL: Update on seventh-generation bonding agents,
+Inside Dentistry 5:52–56, 2009.
+Schwartz RS, Fransman R: Adhesive dentistry and endodontics: Materials, clinical strategies and procedures for restoration of access cavities:
+A review, J Endod 31:151–165, 2005.
+Simonsen RJ, Neal RJ: A review of the clinical application and performance of pit and fissure sealants, Aust Dent J 56(Suppl 1):45–58, 2011.
+This paper focuses on the clinical aspects of pit and fissure sealant
+application and the most recent publications that support an evidence-based clinical application technique.
+
+127.e2
+
+van Landuyt KL, Peumans M, De Munck J, et al: Three-year clinical performance of a HEMA-free one-step self-etch adhesive in non-carious
+cervical lesions, Eur J Oral Sci 119:511–516, 2011.
+van Landuyt KL, Snauwaert J, De Munck J, et al: Systematic review of
+the chemical composition of contemporary dental adhesives, Biomaterials 28:3757–3785, 2007.
+This article systematically reviews the ingredients commonly used in
+current dental adhesives as well as the properties of these ingredients.
+It also includes an extensive table with the chemical formulation of
+contemporary dental adhesives.
+van Meerbeek B, Peumans M, Poitevin A, et al: Relationship between
+bond-strength tests and clinical outcomes, Dent Mater 26(2):100–121,
+2010.
+van Meerbeek B, Yoshihara K, Yoshida Y, et al: State of the art of selfetch adhesives, Dent Mater 27:17–28, 2011.
+An overview of the types of adhesive systems and application strategies
+in use as of 2011.
+Vaught RL: Mechanical versus chemical retention for restoring complex
+restorations: What is the evidence? J Dent Educ 71:1356–1362, 2007.
+Zhang K, Kim YK, Cadenaro M, et al: Effects of different exposure times
+and concentrations of sodium hypochlorite/ethylenediaminetetraacetic acid on the structural integrity of mineralized dentin, J Endod
+36:105–109, 2010.
+Zisman WA: Influence of constitution on adhesion, Ind Eng Chem
+55:18–38, 1963.
+A pioneer in surface phenomena discusses parameters that influence
+wetting and the use of contact angles to screen the potential wetting of
+adhesives to selected adherends.
+

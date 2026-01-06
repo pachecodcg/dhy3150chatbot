@@ -1,0 +1,897 @@
+19
+
+Clinical Research on Restorations
+OUTLINE
+What Is Evidence-Based Dentistry?
+
+Clinical Analysis of Survival and Acceptability
+
+Level of Evidence in Evidence-Based Dentistry
+
+KEY TERMS
+Case-control studies Type of study that examines two groups
+at a point in time, usually groups with and without disease or
+intervention, and makes inferences from these.
+Evidence-based dentistry An approach to oral health care that
+requires the judicious integration of systematic assessments of
+clinically relevant scientific evidence, relating to the patient’s
+oral and medical condition and history, with the dentist’s clinical
+expertise and the patient’s treatment needs and preferences.
+
+One of the most difficult areas in dental materials research is the
+ability to predict their clinical performance through in vitro testing methodologies. The oral environment is almost impossible to
+simulate in a laboratory setting because of the many variables that
+need to be introduced, such as occlusal forces, the pH of the surrounding environment, diet, the buffering capacity of saliva, and
+muscle and soft tissue cleansing action. As such, most in vitro
+testing methodologies evaluate how a material responds to a specific testing condition, and the experimental data are used to differentiate between materials. The true test for a restorative dental
+material is clinical performance, which includes longevity and
+predictability of use. In recent years, there has been a push from
+the medical community to implement evidence-based dentistry in
+dental education and practice.
+
+What Is Evidence-Based Dentistry?
+Evidence-based dentistry (EBD) is defined as an approach to
+oral health care that requires the judicious integration of systematic assessments of clinically relevant scientific evidence, relating
+to the patient’s oral and medical condition and history, with the
+dentist’s clinical expertise and the patient’s treatment needs and
+preferences. The types of evidence were ranked, with laboratory
+or standardized testing as being the lowest tier of evidence, followed by in vivo observations in the form of clinical studies and
+case studies. The highest form of evidence is the controlled, randomized clinical trial, where clinical interventions are allocated
+by chance and evaluated based on performance. The randomization eliminates the effect of multiple patient variables, which can
+skew results.
+390
+
+Fractography The study of fractured surfaces of materials.
+Prospective analysis study Type of study that plans interventions, examines the results of these interventions over a period
+of time, and makes conclusions.
+Randomized controlled clinical trial A prospective study that
+randomizes participants and employs a control group.
+Retrospective study Type of study that examines past occurrences and interventions and deducts results and conclusions.
+
+CRITICAL QUESTION
+Why are clinical trials essential in testing the performance of dental
+biomaterials?
+
+Level of Evidence in Evidence-Based
+Dentistry
+Among the available hierarchy of evidence, position statements
+from professional boards, supported by systematic reviews and
+meta-analyses of randomized controlled clinical trials (RCTs),
+contribute to the highest level of evidence, followed by RCTs and
+cohort studies. These are followed by case-control studies, crossover studies, cross-sectional studies, case studies, and case reports.
+Finally, there are animal research and in vitro laboratory testing.
+At each level of evidence, there is a body of knowledge, but not all
+levels are equally useful for making patient care decisions. As we
+progress up the pyramid (see Figure 18-1), the number of studies
+and, correspondingly, the amount of available literature decreases
+while at the same time, their relevance to answering clinical questions increases. From a dental material point of view, we will discuss the evidence in three categories: in vitro testing, observational
+studies, and randomized control clinical studies.
+
+In Vitro Testing
+In Chapter 18, the role and relevance of in vitro testing methodologies were discussed. Although necessary, these standardized
+tests often evaluate a limited number of variables in one test condition and are not representative of the true oral environment.
+
+CHAPTER 19
+
+Clinical Research on Restorations
+
+391
+
+• Figure 19-1 Scanning electron microscopy of ceramic surfaces before and after 27-day immersion in
+buffer solutions. A, Baseline (no immersion). B, pH 2 buffer only. C, pH 7 buffer only. D, pH 10 buffer only.
+E, Three cycles of 9-day cycling of pH 2, 7, and 10 sequence (3-day immersion per buffer). F, Three cycles
+of 9-day cycling of pH 10, 2, and 7 sequence (3-day immersion per buffer). (From Esquivel-Upshaw JF,
+Ren F, Hsu SM, et al: Novel testing for corrosion of glass-ceramics for dental applications, J Dent Res
+97:296–302, 2018. doi:10.1177/0022034517732283. Epub 2017 Sep 18. PubMed PMID: 28922616;
+PubMed Central PMCID: PMC5833181, with permission.)
+
+The International Organization for Standardization (ISO) is an
+independent, nongovernmental international organization that
+develops specifications for products and services to ensure quality, safety, and efficiency. The ISO/Technical Committee 106 (TC
+106) was specifically designed to develop standards for dental
+materials testing. Unfortunately, dental manufacturers’ adherence
+to ISO standards is desirable but not required. Additionally, most
+of these in vitro tests cannot be correlated with what occurs in the
+oral environment. For example, the ISO 14569 for wear of enamel
+and a dental material is measured using a pin-on-disk system. The
+setup is that one material is in the form of a disk or a pin and
+the opposing material (preferably enamel) is on the other end.
+Both materials are rotating in a circular motion on a flat plane.
+The reality is that teeth are not flat, and the temporomandibular
+joint functions on an arch and then a slide to produce a complex
+movement along cuspal inclines and fossae. So, the wear of a dental material as measured by these standards cannot reasonably be
+correlated with clinical performance.
+Another example is the test for the chemical durability of
+ceramic materials (ISO 6872:2015), which is conducted by
+immersing the ceramic in a pH 2.4 buffer solution at 80 °C for
+16 hours. This scenario does not represent the oral environment
+in that the diet of each individual exposes the material to a myriad of pH changes. In addition, the buffering capacity of saliva
+continually strives to neutralize this environment to pH 7.4, so
+there is a constant fluctuation of pH in the oral cavity. A recent
+in vitro study introduced the concept of pH cycling, where glassceramic disks were exposed to a sequence of pH 2, 7, and 10
+buffer solutions over a period of 27 days at 80 °C. The effects of
+immersion in buffer solutions on the surface of ceramic specimens are shown in Figure 19-1. This study demonstrated that
+the surface degradation and material loss was significantly greater
+
+during the pH-cycling testing methodology than the constant
+immersion currently being employed as a standard test. The study
+proposes that two dissolution mechanisms work synergistically
+when the pH is cycled. In an acidic solution, an ionic exchange
+mechanism occurs where the network modifiers (Al, Ca, K, Zn)
+are exchanged for the ions in solution. This leaves a weakened
+corrosive layer on the surface. In a basic solution, a total dissolution process occurs where the Si-O bonds are cleaved, and
+the surface layer is corroded. In a constant-immersion environment, a steady state is reached where no further corrosion occurs.
+However, in a pH-cycled environment, alternating between acid
+and base, the basic solution will attack not only the Si-O bonds
+but also the corroded layer produced by immersion in an acidic
+environment. Thus there is a constant dissolution process that is
+corroding the surface of ceramic. Although the pH cycling test
+represents extremes in the oral environment, this method suggests that the current standard of constant immersion could be
+underestimating the potential for surface degradation of materials in the mouth. Therefore in vitro testing is ranked as the lowest
+form of evidence by EBD standards.
+
+CRITICAL QUESTION
+What is the best type of clinical study and why?
+
+Observational Studies
+In vivo observations are the second tier of dental evidence as classified by EBD. These types of studies include retrospective studies,
+prospective studies, case-control studies, and cohort studies. The
+dental literature is replete with observational studies that examine
+the performance of dental materials over time.
+
+392
+
+PA RT V
+
+Assessing Dental Restorations
+
+Retrospective Studies
+Retrospective studies look back in time for applied interventions and
+examine the outcome in the present time. For example, a retrospective
+analysis can be performed on the longevity of the types of post and
+core materials by performing a chart review, categorizing the types of
+materials used, and evaluating the duration these post and cores were
+in service intraorally. The advantages of these studies are that data are
+readily available to be analyzed, and they are relatively inexpensive to
+execute. The disadvantages include no standardization of placement of
+these materials because there are multiple operators involved, records
+may be incomplete, and the presence of multiple variables is very difficult to ascertain. Statistically, there is a higher chance of error with
+these types of studies, resulting from confounding variables and bias.
+Case-Control Studies
+Case-control studies are also observational studies and are generally retrospective. These studies have an outcome status and an
+exposure status that are not determined by the investigator. This
+type of study will generally examine two groups, one with and one
+without the outcome, to determine whether there is an exposure
+and try to infer causation. An example of this could be the neurological effects of dental amalgam where investigators identify
+groups with an outcome (neurological defects) and an exposure
+status (presence of amalgam in their mouths) and try to find an
+association. As with retrospective studies, these are relatively inexpensive, although they provide less evidence for causation.
+Prospective Studies
+Prospective studies can be observational or controlled and randomized, and they are planned longitudinal experiments—for
+example, a study comparing the wear of enamel against metalceramic crowns and all-ceramic crowns. These two groups (or
+cohorts) can be followed over a specified duration of time to
+determine which material is more wear-friendly to enamel. These
+studies are more expensive because they have to be planned, and
+participants must be followed for long periods of time.
+
+Randomized Controlled Clinical Trials
+RCTs are considered the gold standard of evidence-based sciences.
+These studies randomize the allocation of participants into groups
+to minimize bias and confounding variables and are controlled,
+meaning there is the presence of a control group where participants receive no treatment or the current standard of treatment.
+These studies are prospective and longitudinal, which is one of
+the reasons they are not very common because they are expensive
+and logistically very difficult to conduct. An example of an RCT
+is comparing the survival of metal-ceramic crowns and ceramicceramic crowns in three-unit fixed dental prosthesis. The metalceramic material serves as the control or the standard of care. The
+objective is to determine whether there are advantages to the new
+material over the old material and whether these outweigh the
+disadvantages.
+
+CRITICAL QUESTION
+What are the factors that would limit interventions applied in a clinical study?
+
+Clinical Analysis of Survival and Acceptability
+As mentioned earlier, the best form of evidence is clinical performance studies, either as observational studies or randomized and
+controlled interventional studies. Because human experiments are
+
+well controlled and regulated by ethical boards, intervention has
+to fall within a reasonable benefit-to-risk ratio. In other words, the
+risks for conducting the study should not outweigh the benefits,
+and no harm should be promoted in the experiment. For this reason, clinical studies are limited to mostly observation of occurrences. For example, a crack cannot purposely be introduced into
+a ceramic crown and cemented onto a patient’s mouth to enable
+observation of the phenomena of progression of slow crack growth
+in vivo. Similarly, a biopsy of a healthy peri-implant site cannot
+be performed for the sole purpose of being able to compare bacterial flora to a diseased peri-implant site. This section will describe
+several in vivo measurements that are currently being employed
+to assess the clinical performance of dental materials. First is a
+description of how restorations are being assessed after periodic
+performance intraorally. Second are two methods of measuring
+and quantifying wear in vivo. Third is a forensic assessment of
+clinical fractures through fractographic analysis.
+
+CRITICAL QUESTION
+What is the rationale for calibrating evaluators in a clinical study, and why is
+there a need for dual evaluation?
+
+Clinical Assessment of Restorations
+Perhaps the oldest and most important clinical assessment tool
+is the rating scale published by Cvar and Ryge in 1971 in the
+U.S. Public Health Service Guidelines (USPHS; Box 19-1). The
+original parameters used for evaluating dental restorations were
+color match, marginal discoloration, marginal integrity, anatomical form, and the presence of dental caries. The parameters were
+graded alfa (A), bravo (B), and charlie (C). These rankings were
+created to differentiate restorations that were within the range of
+excellent, acceptable, needing future replacement to prevent damage, and needing immediate replacement. The key to the success
+of this grading scale is the systematic calibration of the reviewers to ensure that (1) the evaluators are familiar with the grading
+scale, (2) they possess the visual discrimination for assessment,
+and (3) they maintain consistency in grading longitudinal studies. Another requirement is the implementation of dual evaluators
+and a process by which they can resolve differences in grading. The
+original study noted that the accuracy of a trained and calibrated
+evaluator is about 85%. The inclusion of a second trained and
+calibrated evaluator increases the accuracy of the rating to 98%.
+One aspect of this study that was never really implemented is the
+universal collection of photographs and study models to enable
+calibration across clinical studies. With time, modified versions
+of the clinical assessment tool have come to include additional
+parameters, such as occlusion, postoperative sensitivity, fracture,
+retention, and others, depending on the needs of the study and
+the restoration being evaluated. Perhaps the biggest obstacle to
+clinical studies is cost, which largely explains why most studies
+have no controls and only one evaluator.
+In 2007, the Fédération Dentaire International (FDI) released
+its own version of the clinical assessment of restorations. The FDI
+subdivided the different parameters according to esthetic, functional, and biological groups (Box 19-2) for a total of 16 parameters in all. The grading scale was expanded to include clinically
+excellent, clinically good, clinically satisfactory, clinically unsatisfactory, and clinically poor. To facilitate calibration between
+multiple sites, the FDI also posted an online calibration guide,
+but this, of course, is no replacement for the hands-on clinical
+
+CHAPTER 19
+
+• BOX 19.1
+
+Original Cvar and Ryge Criteria Used to
+Evaluate Restorations
+
+• BOX 19.2
+
+Color Match
+Oscar (O)
+
+Anterior restoration, invisible without a
+mirror
+
+Alfa (A)
+
+Posterior restoration, matching the adjacent
+tooth in color, shade, and translucency
+
+Bravo (B)
+
+Posterior restoration; the mismatch in
+color, shade, and translucency between the
+restoration and the adjacent tooth within
+normal range
+
+Charlie (C)
+
+Posterior restoration; the mismatch in
+color, shade, and translucency between the
+restoration and the adjacent tooth outside
+normal range
+
+Cavo-Surface Marginal Discoloration
+Alfa (A)
+
+No discoloration anywhere on the margin
+between the restoration and the tooth
+
+Bravo (B)
+
+Discoloration present but does not penetrate
+along the margin toward the pulp
+
+Charlie (C)
+
+Discoloration present and penetrates along
+the margin toward the pulp
+
+Anatomical Form
+Alfa (A)
+
+Restoration continuous with existing
+anatomical form
+
+Bravo (B)
+
+Restoration undercontoured, i.e.,
+discontinuous with existing anatomical form
+but dentin/base not exposed
+
+Charlie (C)
+
+Restoration undercontoured, i.e.,
+discontinuous with existing anatomical form
+and dentin/base exposed
+
+Marginal Adaption
+Alfa (A)
+
+No visible evidence of a crevice along the
+margin into which an explorer penetrates
+
+Bravo (B)
+
+Visible evidence of a crevice along the
+margin into which an explorer penetrates
+but dentin/base not exposed
+
+Charlie (C)
+
+Visible crevice along the margin with
+exposed dentin/base; the restoration is not
+mobile, fractured, or missing in part of the
+tooth
+
+Delta (D)
+
+Restoration mobile, fractured, or missing in
+part of the tooth
+
+Caries
+Alfa (A)
+
+Caries absent along the restoration margin
+
+Bravo (B)
+
+Caries present along the restoration margin
+
+calibration that occurs. As with the USPHS scale, investigators are
+able to tailor the criteria based on their studies and needs.
+
+CRITICAL QUESTION
+What qualities of wear are desirable in a dental material?
+
+Clinical Research on Restorations
+
+393
+
+Fédération Dentaire International (FDI)
+Revised Criteria for Evaluating Clinical
+Restorations
+
+Esthetic Criteria
+Surface luster
+Staining: (a) surface and (b) margin
+Color match and translucency
+Esthetic anatomical form
+
+Functional Criteria
+Fracture of material and retention
+Marginal adaptation
+Occlusal contour and wear
+Approximal anatomical form: (a) contact point and (b) contour
+Radiographic examination, where applicable
+Patient’s view
+
+Biological Criteria
+Postoperative sensitivity and tooth vitality
+Recurrence of caries, erosion, abfraction
+Tooth integrity
+Periodontal response
+Adjacent mucosa
+Oral and general health
+For all three groups, the following gradings are used for evaluation:
+Clinically excellent/very good
+Clinically good
+Clinically sufficient/satisfactory
+Clinically unsatisfactory
+Clinically poor
+
+Wear Analysis
+One of the most important criteria for dental materials is durability and compatibility with opposing structures. These two parameters are clearly measured through wear analysis, in that these
+materials must be durable enough to withstand occlusal forces
+by not wearing away and at the same time exhibiting comparable
+wear of opposing enamel. Wear of restorative material surfaces
+can cause damage to the opposing structures. A worn surface
+usually translates into a roughened surface, which can encourage
+plaque accumulation, caries formation, and wear of the opposing tooth surface. Consequently, worn surfaces can result in a
+decrease in the occlusal vertical dimension, which could then
+lead to occlusal trauma, periodontal disease, and temporomandibular joint dysfunction. As mentioned earlier, the standard test
+for wear is not representative of occlusal function. Several wear
+machines or chewing simulators were developed that introduced
+varying load, vertical and horizontal movement, and thermocycling. However, none of these chewing simulators was found to
+correlate well with clinical scenarios. Therefore the best measure
+is to determine the wear of enamel and dental materials in a clinical setting. There are two ways to quantify clinical wear: indirect
+and direct.
+
+Indirect Method
+The indirect method is the most commonly used method for measuring clinical wear. The method is indirect because replicas are
+made using an elastomeric impression of the area of interest (dental material and/or opposing tooth enamel), and stone models
+are made where the measurements are conducted. The measuring
+
+394
+
+PA RT V
+
+Assessing Dental Restorations
+
+devices are diverse and can include laser scanners, micro-computed tomography (micro-CT), or surface profilometers.
+A laser scanner produces a three-dimensional (3-D) image
+through the movement of an object (in this case, a tooth replica)
+under the projection of a laser beam. The reflection of the crosssection profile of the object is detected by sensors, which produces an
+image consisting of “point clouds.” Each point represents x-, y-, and
+z-coordinates on the scanned surface. Each profile can then be combined and transformed into high-resolution images through advanced software that allows for comparison and measurement. The edge
+effect is an error or artifact that is produced when the laser beam hits a
+sharp edge or the bottom of a groove, producing overshot reflections.
+Laser beam measurements are also affected by surface reflections of
+the material being scanned, so stone or elastomeric impression materials are used as replicates to minimize these reflections.
+Laser scanners can either have red or blue laser beams. Higherwavelength beams (red beams) have lower resolution, more diffraction, and less intensity compared with the blue laser beams.
+Depending on the nature of the material being scanned, the laser
+can penetrate through the material to cause a diffusion on the surface, which can result in a loss of focus on the surface being measured and sends inaccurate readings back to the detector, which in
+turn leads to invalid measurements.
+When measuring the clinical wear of a dental material, a baseline
+impression and a replica model of the teeth involved in the measurement are first made. Depending on the study protocol, an impression and replica are once again produced during the designated
+follow-up time, either in months or years. The wear that occurred
+between baseline and the period of interest are measured using specialized scanners with software that can superimpose images by using
+known landmarks and calculating volume loss and maximum wear
+
+depth. Figure 19-2 demonstrates teeth-opposing ceramic crowns
+that were monitored for 10 months. Baseline and period replicas
+are shown on the left, with yellow arrows pointing to areas that are
+worn. A laser scanner device was used to superimpose the two replicas. The image on the right demonstrates red areas that highlight
+the areas on the teeth where wear occurred. The maximum wear or
+the maximum-wear depth value is perhaps more important than
+calculating the volume loss of a material. Volumetric wear can occur
+over a large surface area and therefore not be detrimental to the
+integrity of the tooth or the restoration if the depth is shallow and
+remains superficial. However, maximum wear indicates maximum
+depth, which can prove to be more damaging. For example, when
+calculating the wear of enamel, if volume loss is large but occurs
+over a wide area, the wear can be limited to enamel. However, if
+the maximum wear refers to depth and the value is large, then there
+is a possibility of wear through the dentin. There are several laser
+scanners available on the market that are used for quantifying wear.
+Unfortunately, the validity of these measurements is rarely verified
+with calibrated instruments such as micro-CT or a profilometer. As
+mentioned earlier, there are errors that can be produced from the
+laser-scanning process. Figure 19-3 demonstrates the discrepancies
+between a laser scanner and surface profilometer in measuring the
+depth profile of indentations produced by different-grit diamond
+burs on a ceramic surface to simulate wear. This in vitro study evaluated the validity of a red laser scanner in measuring depth and
+volume against a surface profilometer, in addition to the effect of
+bur grit on these measurements. Gross over- and underestimations
+of depth and volume wear measurements were observed with the
+laser scanner compared with the surface profilometer. These errors
+probably resulted from a combination of the edge effect mentioned
+previously, the nature of the material being scanned, and the high
+
+• Figure 19-2 Wear areas (yellow arrows) on teeth noted after 10 months of service on teeth opposing an
+all-ceramic fixed dental prosthesis. Comparison software on the far right reveals red areas indicating where
+wear occurred. (From Esquivel-Upshaw JF, Young H, Jones J, et al: In vivo wear of enamel by a lithiadisilicate core ceramic used for posterior FPDs: First-year result, Int J Prosthodont 19:391–396, 2006.)
+
+CHAPTER 19
+
+395
+
+Smooth
+
+0
+Depth (μm)
+
+Clinical Research on Restorations
+
+-65
+-130
+-195
+Medium
+
+Depth (μm)
+
+0
+-65
+-130
+-195
+
+Rough
+
+Depth (μm)
+
+0
+-65
+-130
+-195
+0
+
+1000
+Distance (μm)
+
+2000
+
+• Figure 19-3 Depth-profile comparison between laser scanner (red)
+and profilometer (blue) indicating major differences in depth and width of
+indentations caused by different-grit diamond burs. Edge effect, artifact,
+and surface reflectance could be partially responsible for the inaccuracies. (From Hsu SM, Ren F, Abdulhameed N, et al: Comprehensive analysis of laserscanner validity used for measurement of wear, J Oral Rehabil
+46:503–510, 2019.)
+wavelength of the beams. Nonetheless, although laser scanners are
+a convenient tool for measuring clinical wear, the users have to be
+judicious in determining the accuracy and the validity of the wear
+measurements.
+Micro-CT can also be used to measure clinical wear using the
+indirect method. Micro-CT uses x-rays to see through an object
+slice by slice. These two-dimensional (2-D) images are then rendered through a software program to produce a 3-D model of the
+object or analyzed in cross-sections. For the purpose of wear analysis,
+wear can be quantified through analysis of the replicas. Figure 19-4
+demonstrates the mesial and occlusal views of a dentoform tooth
+that has been placed in a chewing simulator to receive random wear
+at multiple sites. The micro-CT was used to scan the tooth before
+and after wear occurred, and the results are shown in Figure 19-4,
+where the colored areas refer to the areas of wear, which are quantified according to the grid shown on the side.
+Surface profilometry can also be used for quantitative wear
+evaluation using the indirect technique. The contact profilometer
+has a stylus that traverses the surface of the object being measured,
+whereas the noncontact profilometer uses a laser beam or white
+light to probe the surface. The contact stylus is usually a metal
+or diamond ranging from 2 to 20 μm in diameter loaded with a
+contact load of few millinewtons while contacting the surface. The
+scan can provide a map of the surface topography. Although this
+method is considered precise for depth profilometry, the process is
+time consuming. For this type of measuring device to be effective,
+
+• Figure 19-4 Three-dimensional reconstructed image from micro-CT
+scan of a dentoform tooth demonstrating wear. A, Mesial (or distal) aspect.
+B, Occlusal surface. The color bar to the side reflects wear depth in millimeters. (From Esquivel-Upshaw JF, Hsu SM, Bohórquez A, et al: Novel
+methodology for measuring intraoral wear in enamel and dental restorative
+materials, Clin Exp Dent Res 8:1–9, 2020, doi:10.1002/cre2.322. PubMed
+PMID: 32955159; with permission.)
+
+reference points need to be placed on the teeth of interest to orient
+the user to the exact area being measured.
+
+Direct Method
+With the advent of digital impressions, this method uses the
+technology of intraoral scanning to allow quantitative wear
+measurement. The teeth to be measured are scanned at baseline
+and then again at periods of interest. These scans are then compared using comparison software that essentially superimposes
+both images and identifies the differences in depth and volume
+between the two. The process of intraoral scanning is technique
+sensitive. Some intraoral scanners use a powder spray of zinc
+oxide to minimize the reflection of enamel during the scanning
+process. The area being scanned has to be completely isolated so
+
+396
+
+PA RT V
+
+Assessing Dental Restorations
+
+• Figure 19-5 Direct method of wear measurement using intraoral scanner. A, A ceramic crown on mandibular left first molar. B, Opposing left maxillary quadrant. C, The result of superimposing baseline and
+1-year scan to quantify the wear that occurred on the ceramic crown (pointer) by the comparison software
+using the adjacent second molar as the enamel control. The color bar to the side reflects wear depth on
+the ceramic restoration and the enamel control in millimeters. D, The result of opposing maxillary first molar. (From Esquivel-Upshaw JF, Hsu SM, Bohórquez A, et al: Novel methodology for measuring intraoral
+wear in enamel and dental restorative materials, Clin Exp Dent Res 8:1–9, 2020. doi:10.1002/cre2.322.
+PubMed PMID: 32955159; with permission.)
+
+that saliva does not mix with the powder. The powdery sludge
+can become thick and cause an error in the scanning process.
+There is also the steep learning curve associated with operating
+the software. The scanned images have to be adeptly cropped
+to minimize noise in the superimposition. Figure 19-5 is an
+example of the direct method. Figure 19-5, A & B depict clinical
+images of two opposing quadrants, with the crown on the mandibular left molar being the area of interest and the opposing
+tooth on the maxillary. These teeth were scanned at baseline and
+then again at 6 months, and the images (Figure 19-5, C & D)
+demonstrate the amount of wear (color grid in millimeters) during this period of time. Although this is perhaps the most convenient and expedient method for quantifying wear, the technical
+sensitivity and the errors that could be associated with scanners
+have to be considered.
+
+CRITICAL QUESTION
+What forensic information can we ascertain from fractographic analyses?
+
+Critical Observation and Fractographic Analysis
+A fractured restoration can fall under the modified version of the
+USPHS under functional criteria. However, fracture surfaces often
+reveal information about how and why the fracture occurred. That
+is why the critical observation and analysis of fractures deserves a
+separate section in this chapter.
+
+Characteristics of Fracture Surface
+Fractography is the study of the fracture surfaces of materials.
+Through characteristics visible on the surface of these fractures,
+the origin of the fracture, the load and orientation of the fracture, and the progression of the failure can be determined for
+the particular material. There have been significant advances in
+the application of fractography to the understanding of fracture
+mechanics. Several works have identified the key parameters
+that are important to the understanding of why fractures occur.
+When a material fractures in a brittle manner, the fracture surface
+records the event in such a way that many important features are
+made clear. A schematic diagram of a typical crack in glass or
+ceramic is depicted in Figure 19-6. Some very prominent features
+of these cracks are the origin, mirror, mist, and hackle. These features, when visible by magnification, can usually give an indication as to the propagation direction of the fracture. The presence
+of any residual stresses can be determined from the fractured area
+and the stress at which fractures occur, which can be measured
+from the crack size.
+Almost all mechanically induced cracks can be idealized as a
+semielliptical, sharp crack with depth, a, and width, 2b (Figure 19-6).
+Recall the discussion of the Griffith energy approach to fracture and
+the following equation (Chapter 4, Fracture Toughness):
+K lc  Y  f c  2 E c ,
+
+(1)
+
+CHAPTER 19
+
+Clinical Research on Restorations
+
+397
+
+Crack path Porcelain
+Interaction
+zone
+Metal
+
+• Figure 19-6 Schematic diagram of crack in a brittle material with the
+critical flaw size and the different features that can enable calculation of
+stress and the direction of fracture.
+
+where KIc is the critical stress intensity factor (fracture toughness),
+Y is a geometrical factor that accounts for the shape of the fractureinitiating crack, E is the elastic (Young’s) modulus, c is the radius of
+an equivalent semicircular or semielliptical crack (c = ab ), and γc
+is the critical fracture energy (i.e., all the energy involved in fracture, including the creation of new surfaces). The small semiellipse
+in Figure 19-6 represents the initial flaw size, and the large semiellipse is the critical flaw size that leads to fracture. Because the value
+of KIc can be obtained from testing standardized specimens, the level
+of stress causing the fracture can be calculated by the measurement
+of equivalent semielliptical crack, c. For further information on the
+process involved with fractographic analysis, the reader is referred
+to the fractographic books and articles mentioned at the end of this
+chapter.
+Clinical fractures of metal-ceramic restorations, although rare,
+still occur, especially when a new alloy or veneering porcelain is
+being used or when a new technology has been adopted. As is
+generally true for all dental materials, there is a learning curve
+associated with the initial use of new products. Although there is
+an infinite number of fracture paths that may occur, three types
+are of particular importance in diagnosing the cause of fracture.
+Figure 19-7 shows the fracture paths that have occurred primarily at three sites in a metal-ceramic crown: (1) along the interfacial region between opaque porcelain (P) and the bonding zone
+(I) between porcelain and the metal substrate (top), (2) within
+the bonding zone (center), and (3) between the metal and the
+bonding zone (bottom). For conventional metal-ceramic crowns
+made from cast copings, the bonding zone is synonymous with
+the metal oxide layer.
+
+Characterization of Fracture Surface
+To characterize the principal site of fracture, a low-magnification
+examination of the fracture surface may be sufficient in a few
+cases. However, a magnification of 3 to 100 times is more often
+required because minute microstructural details such as pores
+may reveal wake-hackle patterns that clearly show the direction
+of crack propagation in these areas. Fractographers seek important
+crack features, such as hackle, twist hackle, wake hackle, arrest
+lines, and compression curl, to lead them toward the critical flaw
+or source of crack initiation and the possibility of identifying one
+or more mechanisms of failure.
+Each of the three principal fracture paths in Figure 19-7 is
+indicative of excessive tensile stress, a material defect, or a processing factor. The location and appearance of a fracture sur-
+
+• Figure 19-7 Cross-sectional illustration of three principal types of interfacial zone fracture in a metal-ceramic crown.
+
+face are major factors used to determine the cause of fracture.
+For fractures that are confined to the occlusal surface of posterior crowns, a cone-crack type of fracture (apex of the cone
+at the fracture surface and the base of the cone extending into
+the veneer) suggests that localized loading at small contact areas
+may be the cause. Fractures that occur in the proximal occlusal
+area of the crowns may be caused by inadequate support of the
+veneer by the core framework material. Fractures that occur well
+away from the sites of loading may be caused by thermal incompatibility stresses. The procedures for obtaining evidence from
+fractured all-ceramic restorations are the same as those used for
+metal-ceramic restorations.
+When fractures occur, making a vinyl polysiloxane impression
+of the fracture site as soon as possible is useful for future fractographic analysis. All information on the crown or bridge should
+be recorded, including the visual appearance of the fracture site. A
+photograph is also very helpful in analyzing the potential cause of
+fracture. The impression allows a replica of the fracture surface to
+be made from epoxy resin. The replica allows fractographic observations of the fracture surface to be made, and these models can
+then be examined by a fractography expert under low magnification using optical microscopy and stereomicroscopy, followed by
+scanning electron microscopy (SEM). The location of the critical
+flaw indicates the origin of the fracture. Fracture surface markings observed on the replica assist the expert in determining the
+origin and confirming the suspected cause of fracture. Shown in
+Figure 19-8, A is a residual section of a fractured Procera AllCeram
+alumina-based crown with a glass-phase veneer that fractured after
+4 years of clinical service. The cause of fracture can be assessed by
+visual inspection, characterization of principal fracture features,
+detailed examination of optical microscopy and stereomicroscopy
+images, and if necessary, SEM images. The stereomicroscopic
+analyses of the retrieved fractured segment revealed the fracture
+paths that are shown in Figure 19-8, B. They include crack initiation (areas 1 and 3), crack propagation (areas 2 and 4), and
+completion of fracture (area 5). Area 3 illustrates the initiation of
+a cone crack that could have led to cone-type fracture discussed
+earlier but did not propagate far enough to cause the bulk fracture. This fracture analysis illustrates incidental surface damage in
+
+398
+
+PA RT V
+
+Assessing Dental Restorations
+
+• Figure 19-9 Inspection for cracks using fiberoptic transillumination
+prior to cementation is important in improving the predictability of ceramic
+crowns.
+
+• Figure 19-8 Analysis of a fractured restoration. A, Fractured Procera
+AllCeram premolar crown. B, Sketch of key findings after stereomicroscopic analyses of the retrieved fractured segment. The initiating crack
+occurred at the mesial margin (area 1) and propagated upward approximately 2 mm before crown fracture occurred in areas 2 and 4, terminating
+in the compression curl area 5. Area 3 represents contact damage within
+the occlusal veneering ceramic that does not extend into the alumina core
+ceramic. C, Confirmation of the finding by scanning electron microscope
+image. (From Scherrer SS, Quinn GD, Quinn JB: Fractographic failure
+analysis of a Procera® AllCeram crown, Dent Mater 24:1107–1113, 2008.)
+
+an area where crack propagation was localized only in the veneer
+ceramic. Figure 19-8, C is the confirmation of five fracture surface
+features in the sketch by the SEM image. This forensic analysis of
+how the fracture progressed was made possible by the different
+landmarks that are prominent on fractured brittle surfaces.
+
+The fractographic procedures described previously are based on
+the assumption that the prosthesis was free of cracks during tryin and during cementation. However, dentists are not typically
+trained to inspect prostheses received from the lab using fiberoptic transillumination. Examination under such lighting can
+reveal surface and subsurface cracks that may exist in the ceramic
+and metal-ceramic prostheses either before or after try-in for fit.
+Figure 19-9 shows a laboratory technician who is using a fiberoptic light source to inspect a ceramic prosthesis for cracks that may
+be hidden from typical fluorescent or incandescent light sources.
+Many factors are associated with the fracture of all-ceramic
+prostheses. These factors fall into one of eight categories: (1)
+inherent surface defects, (2) processing defects, (3) loading (bite
+force and load orientation), (4) design, (5) material properties, (6)
+residual stress, (7) procedural errors, and (8) diet. Within these
+categories, the following variables may contribute to crack initiation, crack propagation, chipping, and bulk fracture: surface
+treatment, excessive loading during try-in, bruxing loads, loading location, load distribution, load magnitude, transient cooling
+stresses, residual cooling stresses, inadequate tooth preparation,
+improper core framework design, inadequate crown thickness,
+inadequate core thickness, improper connector size, quality of
+the cement layer, bond quality of ceramic veneer to core ceramic,
+voids in the cement layer or at the cement/ceramic interface,
+and the elastic moduli of component and supporting substrate
+materials. To reduce the risk for ceramic fracture, sufficient tooth
+reduction, sufficient thickness of the ceramic, adequate prosthesis
+design, distributed vertical loading, and meticulous attention to
+the recommended manufacturers’ procedures are required.
+
+Classification of Ceramic Restoration Fractures
+Grading fractures of ceramic restorations has been recommended
+and is based loosely on the original USPHS criteria for grading
+restorations. Heinzte and Rousson introduced the classification in
+2010, with Class 1 being minor, no intervention required; Class
+2, repair was needed; and Class 3, replacement was required.
+Figures 19-10 to 19-12 illustrate three clinical scenarios of what
+these classes look like clinically. Figure 19-10, A shows a veneered
+zirconia crown with a class 1 lingual fracture. The fracture was small
+enough that even the patient did not know there was anything
+
+CHAPTER 19
+
+Clinical Research on Restorations
+
+399
+
+• Figure 19-10 Class 1 fracture. A, Minor fracture on the lingual side of a ceramic-ceramic crown; no
+intervention required. B, Scanning electron microscope identifies the fracture origin (arrow) on the occlusal
+surface and propagated gingivally, as shown by multiple arrest lines (arrow). (From Esquivel-Upshaw JF,
+Mecholsky JJ Jr, Clark AE, et al: Factors influencing the survival of implant-supported ceramic-ceramic
+prostheses: A randomized, controlled clinical trial, J Dent X3:100017, 2020; with permission.)
+
+• Figure 19-11 Class 2 fracture. A, Fracture at distal edge (arrow) of a veneered zirconia; repair needed.
+B, Fractographic analysis identifies the critical flaw on the occlusal surface of the restoration. (From
+Esquivel-Upshaw JF, Mecholsky JJ Jr, Clark AE, et al: Factors influencing the survival of implant-supported ceramic-ceramic prostheses: A randomized, controlled clinical trial, J Dent X3:100017, 2020, with
+permission.)
+
+wrong. SEM analysis (Figure 19-10, B) reveals the origin of the
+fracture to be on the occlusal surface of the crown. Figure 19-11,
+A is a class 2 fracture of a veneered zirconia crown on the distal
+edge. Although the indication is to have this repaired because the
+fractured surface is substantial, these repairs made with composite
+resin and a silanating agent usually fail within a couple of years.
+Fractographic analysis (Figure 19-11, B) revealed that the fracture also originated from the occlusal surface of the prosthesis.
+Figure 19-12, A & B is a class 3 fracture, also of a veneered zirconia crown. The fracture went through the veneer and fractured the
+core substructure. However, fractographic analysis (Figure 19-12,
+C-E) revealed that the fracture originated from the occlusal surface
+and propagated through a series of multiple fractures.
+
+In summary, the performance of dental materials is best determined through clinical trials and observations because there are
+no in vitro tests that mimic the oral environment. However,
+there are limits to what can be measured intraorally, and interventions have to be ethical. The contributing factors to failure
+are very difficult to ascertain without performing a systematic
+forensic analysis (such as in fractography). The biggest drawback
+is that these clinical tests, if done properly, are expensive and
+very time consuming. By the time the results are released for
+a poorly performing material, the manufacturers might have
+already moved on to the promotion of another discovery. Thus
+the feedback that should be gleaned to improve the next generation of materials is lost.
+
+400
+
+PA RT V
+
+Assessing Dental Restorations
+
+• Figure 19-12 Class 3 fracture. A, Occlusal view of a fractured veneered zirconia; needs replacement.
+B, Mesial-facial view showing fracture through the zirconia core. C–E, Series of fractographic analysis
+demonstrates multiple fractures that propagated from one on the occlusal surface. Circles indicate the
+area expanded in the succeeding images. (From Esquivel-Upshaw JF, Clark AE, Shuster J, et al: Factors
+influencing the survival of implant-supported ceramic-ceramic prostheses: A randomized, controlled clinical trial, J Dent X3:100017, 2020, with permission.)
+
+Selected Readings
+Cvar JF, Ryge G: Reprint of criteria for the clinical evaluation of dental
+restorative materials, 1971, Clin Oral Invest 9:215–232, 2005.
+Esquivel JF, Kim MJ, Abdulhameed N, et al: Randomized clinical study
+of wear of enamel antagonists against polished monolithic zirconia
+crowns, J Dent 68:19–27, 2018.
+Esquivel-Upshaw JF, Clark AE, Shuster J, et al: Randomized clinical trial
+of implant-supported ceramic-ceramic and metal-ceramic fixed dental prostheses: Preliminary results, J Prosthodont 23:73–82, 2014.
+Esquivel-Upshaw JF, Ren F, Hsu SM, et al: Novel testing for corrosion of
+glass-ceramics for dental applications, J Dent Res 97:296–302, 2018.
+Esquivel-Upshaw JF, Rose WF, Barrett AA, et al: In vivo wear of core
+ceramic, veneers, and enamel antagonists at three years, Dent Mater
+28:615–621, 2012.
+
+Esquivel-Upshaw JF, Rose WF, Oliveira ER, et al: Randomized, controlled clinical trial of bilayer-ceramic and metal-ceramic crown performance, J Prosthodont 22:166–173, 2013.
+Freiman SW, Mecholsky JJ: The Fracture of Brittle Materials: Testing and
+Analysis, Hoboken, NJ, 2012, John Wiley & Sons Inc.
+Hickel R, Peschke A, Tyas M, et al: FDI World Dental Federation clinical criteria for the evaluation of direct and indirect restorations.
+Update and clinical examples, J Adhes Dent 12:259–272, 2010.
+McMurphy TB, Harris CA, Griggs JA: Accuracy and precision of fractal
+dimension measured on model surfaces, Dent Mater 30:302–307, 2014.
+Mehl A, Gloger W, Kunzelmann K-H, et al: A new optical 3-D device for
+the detection of wear, J Dent Res 76:1799–1807, 1997.
+Full Selected Readings for this chapter can be found on www.expertconsult
+.com.
+
+Selected Readings (Web Version)
+Cvar JF, Ryge G: Reprint of criteria for the clinical evaluation of dental
+restorative materials, 1971, Clin Oral Invest 9:215–232, 2005.
+Ekfeldt A, Fransson B, Soderlund B, et al: Wear resistance of some prosthodontic materials in vivo, Acta Odontol Scand 51:99–107, 1993.
+Esquivel JF, Kim MJ, Abdulhameed N, et al: Randomized clinical study
+of wear of enamel antagonists against polished monolithic zirconia
+crowns, J Dent 68:19–27, 2018.
+Esquivel-Upshaw JF, Clark AE, Shuster J, et al: Randomized clinical trial
+of implant-supported ceramic-ceramic and metal-ceramic fixed dental
+prostheses: Preliminary results, J Prosthodont 23:73–82, 2014.
+Esquivel-Upshaw JF, Dieng F, Clark AE, et al: Surface degradation of
+dental ceramics as a function of environment pH. J Dent Res 92:467–
+471, 2013.
+Esquivel-Upshaw JF, Ren F, Hsu SM, et al: Novel testing for corrosion of
+glass-ceramic for dental applications, J Dent Res 97:296–302, 2018.
+Esquivel-Upshaw JF, Rose WF, Barrett AA, et al: In vivo wear of core
+ceramic, veneers, and enamel antagonists at three years, Dent Mater
+28:615–621, 2012.
+Esquivel-Upshaw JF, Rose WF, Oliveira ER, et al: Randomized, controlled clinical trial of bilayer-ceramic and metal-ceramic crown performance, J Prosthodont 22:166–173, 2013.
+Folwaczny M, Mehl A, Kunzelmann KH, et al: Determination of changes
+on tooth-colored cervical restorations in vivo using a three-dimensional laser scanning device, Eur J Oral Sci 108:233–238, 2000.
+Freiman SW, Mecholsky JJ: The Fracture of Brittle Materials: Testing and
+Analysis, Hoboken, NJ, 2012, John Wiley & Sons Inc.
+
+Heintze SD, Cavalleri A, Forjanic M, et al: A comparison of three different methods for the quantification of the in vitro wear of dental
+materials, Dent Mater 22:1051–1062, 2006.
+Hickel R, Peschke A, Tyas M, et al: FDI World Dental Federation—
+clinical criteria for the evaluation of direct and indirect restorations.
+Update and clinical examples, J Adhes Dent 12:259–272, 2010.
+Hsu SM, Ren F, Abdulhameed N, et al: Comprehensive analysis of
+laserscanner validity used for measurement of wear, J Oral Rehabil
+46:503–510, 2019.
+International Organization for Standardization: Dental Materials – Guidance on Testing of Wear – Part 2: Wear by Two- and/or Three Body Contact (ISO 14569-2:2001), Geneva, Switzerland, 2001.
+Lambrechts P, Braem M, Vuylsteke-Wauters M, et al: Quantitative in vivo
+wear of human enamel, J Dent Res 68:1752–1754, 1989.
+McMurphy TB, Harris CA, Griggs JA: Accuracy and precision of fractal dimension measured on model surfaces, Dent Mater 30:302–307,
+2014.
+Mehl A, Gloger W, Kunzelmann K-H, et al: A new optical 3-D device for
+the detection of wear, J Dent Res 76:1799–1807, 1997.
+Passos VF, Melo MAS, Vasconcellos AA, et al: Comparison of methods
+for quantifying dental wear caused by erosion and abrasion, Microsc
+Res Techniq 76:178–183, 2013.
+Rodriguez JM, Bartlett DW: A comparison of two-dimensional and
+three-dimensional measurements of wear in a laboratory investigation, Dent Mater 26:e221–e225, 2010.
+Whitehead SA, Shearer AC, Watts DC, et al: Comparison of two stylus methods for measuring surface texture, Dent Mater 15:79–86,
+1999.
+
+388.e1
+

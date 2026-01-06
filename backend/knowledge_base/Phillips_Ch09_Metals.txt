@@ -1,0 +1,4882 @@
+9
+
+Metals
+OUTLINE
+Desirable Properties of Dental Alloys
+
+Alternative Technologies for Fabricating Prostheses
+
+Functional Mechanical Properties of Alloys
+
+Joining of Dental Alloys
+
+Classification of Dental Casting Alloys
+
+Wrought Alloys and Plastic Deformation of Metals
+
+Alloys for All-Metal Prostheses
+
+Effects of Annealing Wrought Alloys
+
+Alloys for Metal-Ceramic Prostheses
+
+Types of Wrought Alloys
+
+Alloys for Removable Partial Dentures
+
+KEY TERMS
+Age hardening Process of hardening certain alloys by controlled heating and cooling, which usually is associated with a phase change.
+Annealing The process of controlled heating and cooling that is
+designed to produce desired properties in a metal. Typically, the
+annealing process is intended to soften metals, increase their
+ductility, stabilize shape, and increase machinability.
+Antiflux A substance such as graphite that prevents the flow of
+molten solder on areas coated by the substance.
+Base metal A metal that readily oxidizes or corrodes. Important
+base metals for dental alloys are nickel, cobalt, iron, titanium,
+and chromium.
+Cold welding The metal-joining process by metallic bonding that
+does not rely on heating to achieve fusion but the pressure
+applied to the interface between parts to be joined; no liquid
+phase is produced within the interface joint.
+CP Ti Commercially pure titanium, which consists of 99 wt% or
+higher-purity titanium, with oxygen, carbon, nitrogen, and
+hydrogen dissolved interstitially.
+Dislocation An imperfection in the crystalline arrangement of atoms consisting of an extra partial plane of atoms (edge dislocation), a spiral distortion of normally parallel atom planes (screw
+dislocation), or a combination of the two types.
+Flux Compound applied to metal surfaces that dissolves or prevents
+the formation of oxides and other undesirable substances that
+may reduce the quality or strength of a soldered or brazed area.
+Grain growth The increase in the mean crystal size of a polycrystalline metal produced by a heat-treatment process.
+Grain refinement The process of reducing the crystal (grain) size
+in a solid metal through the action of specific alloying elements
+or compounds; the process increases the yield strength of metals.
+Lost wax technique Process in which a wax pattern, prepared in
+the shape of missing tooth structure, is embedded in a casting
+investment and burned out to produce a mold cavity into which
+molten metal is cast.
+Noble metal Gold and platinum group metals (platinum, palladium, rhodium, ruthenium, iridium, and osmium), which
+
+are highly resistant to oxidation and dissolution in inorganic
+acids.
+Precipitation hardening The process of strengthening and
+hardening a metal by precipitating a phase or constituent from
+a saturated solid solution.
+Recovery A stage of heat treatment that results in the partial
+restoration of properties of a work-hardened metal without a
+change in the grain structure.
+Recrystallization The process of forming new stress-free crystals
+in a work-hardened metal through a controlled heat-treatment
+process.
+Soldering Process of building up a localized area of a metal prosthesis with a molten filler metal or joining two or more metal components by heating them to a temperature below their solidus temperature and filling the gap between them using a molten metal
+with a lower liquidus temperature. If the melting temperature of
+the solder is greater than 450 °C, the process is called brazing.
+Springback The amount of elastic strain that a metal can recover
+when loaded to and unloaded from its yield strength; an important property of orthodontic wires.
+Strain hardening The increase in strength and hardness and
+decrease in ductility of a metal that is caused by permanent
+deformation below its recrystallization temperature; also called
+work hardening or cold working.
+Superelasticity The ability of certain nickel-titanium alloys to
+undergo extensive elastic deformation resulting from a stressassisted phase transformation, with the reverse transformation
+occurring on unloading; sometimes called pseudoelasticity.
+Welding Process of fusing two or more metal parts through the
+application of heat, pressure, or both, with and without a filler
+metal, to produce a localized union across an interface between
+the workpieces.
+Working range The maximum amount of elastic strain that an
+orthodontic wire can sustain before it permanently deforms.
+Wrought alloy A metal that has been permanently deformed to
+alter the shape of the structure and certain mechanical properties, such as strength, hardness, and ductility.
+
+171
+
+172
+
+PA RT I I I
+
+Indirect Restorative Materials
+
+In his 1907 U.S. Patent 865823, Taggart described a method of
+making gold inlays using the lost wax technique. The lost wax
+method of making metal objects involves pouring a molten metal
+into a mold that has been created with a wax pattern (Chapter 14,
+Wax Pattern and Sprue Design). The process led to making custom
+precision casts for the restoration of missing tooth structure, such
+as onlays, crowns, multiple-unit fixed dental prostheses (FDPs),
+and frameworks for removable partial dentures (RPDs). Since the
+early 1980s, the numbers of dental alloys, along with new alloy
+systems, have increased dramatically as a result of the market-price
+increase of noble metals, the performance of the same function
+at a lower cost, the need for increasingly specialized physical and
+mechanical properties, and the awareness of the importance of
+biological properties.
+Objects of any design, intricate or simple, can be produced by
+using the lost wax technique as long as a wax pattern can be made
+and invested, and alloys can be melted, or by using alternative
+processing techniques such as computer-aided design/computeraided manufacturing (CAD-CAM) milling and three-dimensional
+(3-D) printing. On the other hand, many ancillary dental materials and instruments are fabricated from initially cast alloys that
+have been subsequently rolled to form sheets or rods, drawn into
+wire or tubing, or forged into a finished shape. Rolling, drawing,
+and forging are major processes of permanently deforming metals.
+Whenever a cast pure metal or alloy is permanently deformed to
+an intended shape in any manner, it is considered a wrought alloy.
+This permanent deformation alters the microstructure, and the alloy
+exhibits properties that are different from those it had in the as-cast
+state. The most significant change is the increase of yield strength
+with a reduction in ductility. The applications of wrought alloys in
+dentistry include orthodontic wires, clasps for RPDs, root canal files
+and reamers, preformed crowns in pediatric dentistry, and surgical
+instruments. Most metal-based restorations and prostheses are cast
+and not wrought.
+In the construction of dental appliances, there is often a need to
+join metal parts, cast or wrought, together using high heat. When
+wrought alloys are involved in such joining, the strength and fracture resistance of the wrought alloy will be compromised if the
+metal is exposed to the temperature range at which the wrought
+structure is diminished or lost. Such weakening can occur during
+the metal-joining process for stainless-steel orthodontic appliances.
+The ability to work with dental alloys and associated wrought
+alloys is dependent on a knowledge of these materials. The goal
+of this chapter is for the reader to become familiar with various types of casting alloys and associated wrought alloys. We
+will discuss the desirable properties and the relevant mechanical
+properties of dental alloys first. For casting alloys, the focus is
+the alloy classification and clinical applications of the alloys. For
+wrought alloys, the focus is the process of permanent deformation and its effect on the properties for their specific applications
+in dentistry. Several types of wrought alloys used in dentistry are
+described. The description of joining metals is like that for bonding presented in Chapter 6; the emphasis is on the principles and
+procedures of the process.
+As previously done in Chapter 2, Metals, the terms metal and
+alloy are frequently used interchangeably.
+
+Desirable Properties of Dental Alloys
+Depending on the primary purpose of the prosthesis, the choice
+of casting alloy is made by the dentist in collaboration with a
+qualified dental laboratory technician or technologist. From the
+
+standpoint of patient safety and the risk of medico-legal issues, it
+is highly important to understand the following clinically important requirements and properties of dental casting alloys:
+1. Biocompatibility—The alloy must tolerate oral fluids and not
+release any harmful products into the oral environment that
+might cause a toxic or allergic reaction. Biocompatibility will
+be covered in Chapter 17.
+2. Tarnish and Corrosion Resistance—Corrosion is the physical deterioration of a material in the oral environment, and
+tarnish is a thin film that is adherent to the metal surface
+(Chapter 3, Tarnish and Corrosion). Both phenomena affect
+the durability and appearance of the prostheses.
+3. Thermal Properties—The melting range of the casting alloys
+must be low enough to form smooth surfaces with the mold
+wall of the casting investment (Chapter 14, Investment Materials). For metal-ceramic prostheses, the alloys must have closely
+matching thermal expansion coefficients to be compatible with
+the given porcelains, and they must tolerate high processing
+temperatures without deforming via a creep process.
+4. Strength Requirements—The alloy must have sufficient strength
+for the intended application. For example, alloys for bridgework
+require higher strength than alloys for single crowns.
+5. Fabrication—The molten alloy should flow freely into the
+investment mold, without any appreciable interaction with the
+investment material, and wet the mold to form a surface free of
+porosity. It should be possible to cut, grind, finish, and polish
+the alloy to obtain a prosthesis with a satisfactory surface finish.
+6. Porcelain Bonding—The alloy must be able to form a thin
+adherent oxide that enables chemical bonding to ceramic
+veneering materials.
+7. Economic Considerations—The cost of metals used for single-unit prostheses or as frameworks for FDPs or RPDs is a
+function of the metal density, fluctuations in metal prices,
+and the cost per unit mass.
+
+Functional Mechanical Properties of Alloys
+Mechanical properties are the measured responses of materials in
+the form of stress and strain under an applied force or distribution of forces. The relevant functional characteristics of casting
+and wrought alloys are described next.
+
+CRITICAL QUESTIONS
+What are two clinical disadvantages of cast metals that have lower elastic
+moduli? Why does a long-span bridge require alloys of high elastic modulus?
+
+Elastic Modulus
+One characteristic of a material with a high elastic modulus is its
+rigidity or stiffness. For a dental prosthesis, rigidity is equivalent to
+the resistance to flexure (bending). When a long-span FDP flexes
+during occluding of the pontic, the mesiodistal bending moment
+exerted on the abutment teeth can act as a dislodging force, lifting the mesial and distal aspects of the prosthesis. Furthermore,
+a flexing bridge can induce lateral forces on the abutment teeth,
+resulting in the loosening of these teeth. For a metal-ceramic
+prosthesis, the overlying brittle porcelain will fail catastrophically
+when the metal substructure flexes beyond the flexural limit of
+the ceramic. The elastic modulus is also important for the major
+connectors of an RPD, which must have enough rigidity to prevent flexure during the placement and function of the prosthesis.
+
+CHAPTER 9
+
+Resistance to flexure also allows the clasps of an RPD to fit into
+areas of minimal undercuts and still provide adequate retention.
+
+CRITICAL QUESTION
+Why is it that a cast prosthesis that is subjected to tensile stress above the
+alloy yield strength will not necessarily fracture?
+
+Yield Strength (Proof Stress)
+Recall the discussion in Chapter 4, Stress-Strain Properties that
+yield strength, elastic limit, and proportional limit, by definition,
+are different properties, but all three terms have been used to reflect
+the capacity of a cast prosthesis to withstand mechanical stresses
+without permanent deformation. Ideally, dental alloys should have
+a high yield strength so that a large amount of stress must be applied
+before a permanent change in dimensions occurs. For an orthodontic appliance, it relates to the maximum force the wire can deliver.
+Generally, alloys with tensile yield strengths above 300 MPa function satisfactorily in the mouth.
+
+CRITICAL QUESTION
+How does the alloy ductility increase the fracture resistance of a margin of a
+cast metal crown or a clasp arm on an RPD?
+
+Ductility (Percent Elongation)
+Ductility represents the amount of permanent deformation under
+tensile stress that an alloy can undergo before it fractures. If the
+force applied is in a compressive mode, the property is called
+malleability. A reasonable amount of ductility and malleability is
+essential if a prosthesis requires adjustment to be functional, such
+as the bending of RPD clasps and the burnishing of crown margins. As discussed earlier, one needs to apply stress greater than
+the yield strength of the material to cause permanent deformation
+on a metal surface. Therefore, high ductility allows one to achieve
+more permanent deformation without fracture but does not indicate if burnishing or adjusting the prosthesis would be easier or
+more difficult in terms of the stress required.
+
+CRITICAL QUESTION
+
+Metals
+
+173
+
+the prosthesis. Eventually, a crack propagates to a critical size,
+and sudden fracture occurs. Common engineering expressions of
+fatigue fracture resistance are fatigue strength and endurance limit
+(Figure 4.15). Fatigue strength (SNf) is defined as the stress at which
+failure occurs after a specific number of fatigue cycles. Endurance
+limit is the maximum stress that can be maintained without failure
+over an infinite number of cycles. Some alloys do not have a welldefined endurance limit.
+
+Classification of Dental Casting Alloys
+In 1932, the dental materials group at the National Bureau of Standards (now National Institute of Standards and Technology) classified dental gold alloys being used then by Vickers hardness number
+(VHN): type I (soft, VHN 50 to 90), type II (medium, VHN 90
+to 120), type III (hard, VHN 120 to 150), and type IV (extra hard,
+VHN 150 and above). Since then, the number of alloy compositions
+and applications has increased vastly. They are now classified according to composition, intended usage, or mechanical properties.
+
+Alloy Classification by Noble Metal Content
+In 1984, the American Dental Association (ADA) proposed a simple
+classification for dental casting alloys based on the content of noble
+metals. Three categories were described: high noble (HN), noble
+(N), and predominantly base metal (PB). Subsequently, a fourth
+group of titanium and titanium alloys was added because of the
+unique characteristics of titanium. This classification is presented in
+Table 9-1. Noble metals comprise a group of seven metals that are
+resistant to corrosion and tarnish in the mouth. In order of increasing melting temperature, they include gold, palladium, platinum,
+rhodium, ruthenium, iridium, and osmium. These noble metals and
+silver are sometimes called precious metals, referring to their high economic value, but the term precious is not synonymous with noble.
+Silver is reactive in the oral cavity and is not a noble metal.
+Based on this classification, the IdentAlloy program was
+established by manufacturers to provide documentation of certified alloys. Under this program, each alloy has a certificate
+(Figure 9-1) that lists its manufacturer, alloy name, composition,
+and ADA classification. Some insurance companies use it as well
+to determine the cost of crown and bridge treatment. Keep in
+mind that this system certifies only the composition of alloys.
+
+Why is a harder metal more resistant to wear than a softer metal?
+
+Hardness
+Clinically, hardness reflects the resistance of the restoration to
+scratching and abrasion by the opposing tooth or restoration
+and the ability to maintain the smoothness of the prosthesis in
+the oral environment. However, a harder restoration surface can
+cause excessive wear of softer opposing dentition or restorations.
+In addition, harder surfaces are more difficult to cut, grind, finish,
+and polish because higher stress is required for each procedure.
+
+Fatigue Resistance
+Fatigue failure can occur when a material is subjected to repeated
+loading and unloading below its elastic limit. Most fractures of
+prostheses and restorations develop progressively over many stress
+cycles of loading and unloading. When the load is above a certain threshold, crack propagation is initiated from flaws within
+
+TABLE 9-1
+
+Alloy Classification by Noble-Metal
+Content—American Dental Association
+(2003)
+
+Alloy Type
+
+Total Noble-Metal Content
+
+High noble (HN)
+
+Must contain ≥40% Au and ≥60% by weight
+of noble-metal elements*
+
+Noble (N)
+
+Must contain ≥25% by weight of noble-metal
+elements
+
+Predominantly base
+metal (PB)
+
+Contains <25% by weight of noble-metal
+elements
+
+Titanium and titanium
+alloys
+
+Titanium ≥85% by weight
+
+*
+
+Noble-metal elements include Au, Pd, Pt, Rh, Ru, Ir, and Os.
+
+174
+
+PA RT I I I
+
+Indirect Restorative Materials
+
+• Figure 9-1 Examples of IdentAlloy certificate.
+
+Alloy Classification by Mechanical Properties
+The historic ADA Specification No. 5, which originally had composition ranges for the component elements in the four types of gold
+casting alloys, evolved to stipulating mechanical property requirements for yield strength, percentage elongation, and Vickers hardness. The relevant current standard is International Organization
+for Standardization (ISO) 22674:2016, which classifies metallic
+materials for fixed and removable restorations and appliances into
+six types according to yield strength and elongation, regardless of
+noble metal contents (Table 9-2).
+
+TABLE 9-2
+
+Type
+
+Classification of Metallic Materials for
+Dental Applications—ISO 22674 (2016)
+
+Yield Strength Elongation
+(MPa)
+(%)
+Examples of Applications
+
+0*
+
+—
+
+—
+
+Single-tooth fixed
+restorations—for example,
+small veneered one-surface
+inlays, veneered crowns
+
+1
+
+80
+
+18
+
+Single-tooth fixed restorations,
+veneered or nonveneered
+one-surface inlays, veneered
+crowns
+
+Alloys may be classified based on the principal or most abundant element (e.g., a palladium-based alloy), or they may be
+named based on the two or three most important elements (e.g.,
+Pd-Ag, Co-Cr, or Ni-Cr-Be alloys). The components are listed
+in decreasing order of weight percent. An exception to this rule
+is the identification of elements that substantially affect the
+properties of the alloy. For example, Ni-Cr-Mo-Be alloys are
+often designated as Ni-Cr-Be alloys because of the contributions
+of beryllium to the control of castability and surface oxidation
+at high temperatures and the relative health-hazard potential
+of beryllium compared with other metals. Castability refers to
+the ease of making quality castings. Excellent websites to view
+the wide range of dental alloy compositions include Argen at
+https://argen.com/.
+
+2
+
+180
+
+10
+
+Single-tooth fixed restorations—
+for example, crowns or inlays
+without restriction on the
+number of surfaces
+
+3
+
+270
+
+5
+
+Multiple-unit fixed restorations—
+for example, bridges
+
+4
+
+360
+
+2
+
+Appliances with thin cross
+sections that are subjected
+to very high forces—for
+example, RPDs, clasps, thin
+veneered crowns, widespan bridges or bridges with
+small cross sections, bars,
+attachments, implant-retained
+superstructures
+
+Alloy Classification by Dental Applications
+
+5
+
+500
+
+2
+
+Thin RPDs, parts with tin cross
+sections, clasps
+
+Alloy Classification by Principal Elements
+
+There are three categories of dental casting alloys designated by
+application: all-metal fixed prostheses, metal-ceramic prostheses,
+and RPDs. Each type of alloy classified by noble metal content
+(Table 9-1) is available in all three categories. One may use highnoble and noble alloys intended for metal-ceramic prostheses to
+fabricate all-metal prostheses. However, alloys for all-metal restorations, which can deform or melt during porcelain-firing, should
+not be used to make metal-ceramic restorations.
+Base-metal and titanium alloys, on the other hand, are often
+marketed for both all-metal and metal-ceramic prostheses because
+of their oxide formation at room temperature. In this chapter,
+dental alloys are discussed by their applications.
+
+ISO, International Organization for Standardization; RPD, removable partial
+denture.
+*
+
+Metallic materials for metal-ceramic crowns produced by electroforming or sintering belong
+to type 0.
+
+Alloys for All-Metal Prostheses
+These alloys are discussed in three main categories: noble (includes
+high-noble), predominantly base-metal, and titanium and titanium alloys.
+
+CHAPTER 9
+
+175
+
+gold-based RPD is now rare). The alloys for bridge and RPD
+framework constructions must be sufficiently rigid to resist
+flexure, possess high yield strength to prevent permanent distortion, and be ductile enough for adjustment if the clasp of a
+framework has been distorted or needs adjustment.
+Various elements have been incorporated into gold alloys to
+produce alloys with suitable properties. For example, platinum
+and palladium increase the hardness and elastic modulus of gold
+and raise the melting temperature of the alloy. A higher melting
+temperature is beneficial when components are to be joined by
+soldering. Copper in a sufficient quantity relative to the gold content renders the alloy heat-treatable (Chapter 2, Gold-Copper System) but can alter the color of the alloy. Silver forms solid solutions
+with gold and palladium and is effective in neutralizing the reddish color of copper in gold-copper alloys. Palladium has a good
+range of solubility with gold, silver, and copper, resulting in good
+mechanical properties and improvement of tarnish and corrosion
+
+High-Noble and Noble Alloys
+The compositions of selected high-noble and noble alloys are
+given in Table 9-3. Their physical and mechanical properties
+are shown in Table 9-4. Gold and palladium are the two major
+elements that make up the nobility of noble and high-noble alloys;
+these alloys are discussed in two categories: Au-based alloys and
+Pd-based alloys.
+
+Gold-Based Alloys
+Referring to Table 9-2, type 1 alloys are designed for inlays
+that are not subjected to substantial mastication forces. Type 2
+alloys having greater mechanical properties than type 1 are used
+for one-surface inlays. Type 3 alloys are used for constructing
+crowns, bridge abutments, and inlays, which are subjected to
+great stress during mastication. Type 4 alloys are used in highstress areas such as bridges and RPD frameworks (although the
+
+TABLE 9-3
+
+Metals
+
+Typical Compositions of High-Noble and Noble Alloys for All-Metal Prostheses
+ELEMENTAL COMPOSITION (PERCENT BY WEIGHT)
+
+Alloy Type
+
+Color
+
+Au
+
+Pd
+
+Ag
+
+Cu
+
+Pt
+
+In
+
+Balance*
+
+1
+
+Yellow
+
+83
+
+0.5
+
+10
+
+6
+
+—
+
+—
+
+Zn; Ir
+
+2
+
+Yellow
+Yellow
+
+82
+77
+
+—
+1
+
+—
+13
+
+—
+8.5
+
+18
+—
+
+—
+—
+
+Ir
+Zn; Ir
+
+3
+
+Yellow
+Yellow
+Yellow
+White
+
+74.5
+50
+2
+—
+
+3.5
+4
+34.9
+25
+
+11
+35
+30
+71.5
+
+10.5
+10
+—
+—
+
+—
+—
+—
+—
+
+—
+—
+30
+2.5
+
+Zn; Ir
+Zn; Ir
+Zn:3; Ir
+Zn; Ru
+
+4
+
+Yellow
+Yellow
+Pale yellow
+White
+
+60
+50
+20
+4
+
+4
+3
+20
+30.3
+
+20.5
+26
+36
+45.7
+
+15
+11.5
+—
+18.5
+
+—
+—
+—
+—
+
+—
+3
+18
+—
+
+Zn; Ir
+Zn:1; Ir
+Zn:6; Ir
+Zn:1.5; Ir
+
+*
+
+Elements without a value are less than 1% by weight.
+
+TABLE 9-4
+
+Physical and Mechanical Properties of Some Modern High-Noble and Noble Alloys for All-Metal
+Prostheses
+Density (g/cm3)
+
+Yield Strength
+(MPa; soft/hard)
+
+Hardness
+(VHN; soft/hard)
+
+Elastic Modulus
+(GPa)
+
+Elongation
+(%; soft/hard)
+
+High noble
+
+16.6
+
+126
+
+85
+
+70
+
+51
+
+2
+
+High noble
+High noble
+
+19.2
+15.4
+
+146
+221
+
+95
+120
+
+50
+109
+
+23
+54
+
+3
+
+High noble
+Noble
+Noble
+Noble
+
+15.5
+13.2
+10.5
+10.5
+
+207/276
+309/648
+297
+248/310
+
+121/182
+138/225
+180
+145/155
+
+76
+104
+51
+55
+
+39/19
+28/15
+5–6
+10/8
+
+4
+
+High noble
+Noble
+Noble
+Noble
+
+14.5
+13.2
+11.3
+10.6
+
+350/607
+428/683
+420/530
+460/700
+
+165/235
+180/255
+165/220
+195/265
+
+88
+86
+103
+116
+
+35/4
+28/16
+10/2
+10/3
+
+Alloy Type
+
+ADA Classification
+
+1
+
+ADA, American Dental Association; VHN, Vickers hardness number.
+
+176
+
+PA RT I I I
+
+Indirect Restorative Materials
+
+resistance. Zinc acts as an oxygen scavenger during the melting
+and casting of noble and high-noble alloys.
+
+CRITICAL QUESTIONS
+What effects can the cooling rate of a heat-treated type 3 gold-copper alloy
+have on its hardness and ductility?
+What happens within gold-copper alloys that are subjected to a prescribed
+heating–cooling cycle?
+
+The underlying principles for heat treatment of these alloys have
+been discussed in Chapter 2, Gold-Copper System. Briefly, the
+casting is placed in a furnace at 700 °C for 10 minutes, and then
+quenched in water to retain a disordered solid-solution phase with
+reduced yield strength and hardness but increased ductility. The
+process is called a solution heat treatment. The same casting is placed
+in a furnace with the temperature set between 200 and 450 °C for
+15 to 30 minutes before quenching in water. The treatment produces
+regions of ordered solid-solution phase with increased yield strength
+and hardness but a reduction of elongation (Table 9-4). The process
+is called age hardening.
+The softening heat treatment is indicated for prostheses that are
+ground or reshaped (permanent deformation) to a different form,
+either in or out of the mouth, to restore their ductility. Because the
+proportional limit is increased during age hardening, a considerable increase in the modulus of resilience can be expected. The
+hardening heat treatment is indicated for metallic RPDs, saddles,
+FDPs, and other similar structures where rigidity of the prosthesis
+is needed. For small structures, such as inlays, a hardening treatment is not usually required.
+
+CRITICAL QUESTION
+What characteristics of palladium make it a natural choice of element to
+replace gold for dental alloys?
+
+Silver-Palladium Alloys
+Silver-palladium alloys are often white and predominantly silver in composition and must contain at least 25% palladium to
+provide tarnish and corrosion resistance of the alloy. They may
+also contain copper and a small amount of gold to increase the
+ductility and improve the castability of the alloy for dental applications. Ag-Pd alloys can produce acceptable castings when close
+attention is paid to precise control of the casting and mold temperatures. Casting temperatures are in the range of those for yellow gold alloys. The copper-free Ag-Pd alloys may have physical
+properties similar to those of a type 3 gold alloy. With 15% or
+more copper, the alloy may have properties more like those of a
+type 4 gold alloy.
+Indium and palladium at a 1:1 atomic ratio form a gold-color
+intermetallic compound. When the content of indium in a Pd-Ag
+alloy is 18% to 30% by weight, the alloy achieves a gold-like color.
+The colored phase of the Pd-In binary alloy system is hard and
+brittle and is not a strengthener. Iridium or ruthenium is added
+in small quantities to high-noble and noble alloy compositions
+for grain refinement because smaller grains improve the yield
+strength (Chapter 2, Grain Refinement and Grain Size).
+
+CRITICAL QUESTION
+What is the role of chromium in predominantly base-metal alloys? How does
+beryllium improve the properties of nickel-based alloys?
+
+Predominantly Base-Metal Alloys
+Currently, there are two main groups of base-metal dental alloys:
+nickel-chromium (Ni-Cr) and cobalt-chromium (Co-Cr). The
+Ni-Cr alloys can be further divided into those with and without
+beryllium, which improves castability and promotes the formation of a stable metal oxide for porcelain bonding. The majority of
+Ni-Cr alloys are used for small castings such as crowns and FDPs,
+and Co-Cr alloys are primarily used for casting RPDs for which a
+high elastic modulus and yield strength are needed. Table 9-5 lists
+the compositions and properties of selected base-metal alloys for
+all-metal and metal-ceramic applications.
+Chromium, a critical element of base-metal alloys, oxidizes
+rapidly on the surface of the alloy to form a thin layer of chromium oxide, which prevents the diffusion of oxygen into the
+underlying metal and the corrosion process. Chromium in the
+bulk alloy also provides strengthening by solid-solution hardening. Molybdenum increases corrosion resistance and strength and
+decreases the thermal expansion coefficient of base-metal alloys.
+Higher thermal expansion is beneficial for porcelain bonding and
+minimizes the risk of porcelain cracking or fracture. Some minor
+elements are incorporated to improve manipulation and mechanical properties. For example, beryllium lowers the fusion temperature of the alloys, which improves castability, and refines grain
+size, which increases strength. Manganese and silicon also improve
+the castability of the alloys. Carbon forms carbides with other elements in the alloy, increasing the hardness and yield strength with
+a reduction in ductility. The aluminum in Ni-Cr alloys forms a
+nickel-aluminum compound, Ni3Al, which increases both the
+yield strength and the tensile strength. Nitrogen, which is incorporated in the alloy during casting in ambient air, also improves
+the overall qualities of the casting.
+The manipulation and mechanical properties of base-metal
+alloys are described in more detail in the following section on
+alloys for metal-ceramic prostheses and in the subsequent section
+on RPDs because base metals are used to a lesser extent for allmetal prostheses.
+
+Titanium and Titanium Alloys
+Titanium has a high melting point (1668 °C) and a high rate
+of oxidation above 900 °C. It requires a special casting machine
+with high-temperature melting capability in a nonoxidizing
+chamber. For example, an argon arc with a nonconsumable
+tungsten electrode or high-frequency induction is used for melting titanium alloys in crucibles made of copper, magnesia, or
+carbon and in an argon or helium atmosphere. A casting investment consisting of oxides, such as MgO, ZrO2, or Y2O3, which
+are more stable than titanium oxide, is used to ensure acceptable
+castability. Centrifugal force, casting-pressure difference, and gas
+pressure have been used to force the molten-metal flow into the
+mold. Titanium can react with the investment material during
+casting and forms a very hard surface layer called α-case, with a
+thickness up to 150 μm. The VHN of cast commercially pure
+titanium increases from a bulk value of nearly 200 to approximately 650 at a depth of 25 μm below the surface. Special instruments are required in the dental laboratory for finishing and
+adjusting titanium castings.
+Titanium derives its corrosion protection from a thin passivating oxide film (about 10 nm thick), which forms spontaneously
+with the surrounding oxygen. Titanium is considered the most
+biocompatible metal used for dental restorations and prostheses.
+
+CHAPTER 9
+
+TABLE 9-5
+
+177
+
+Metals
+
+Typical Compositions and Mechanical Properties of Base-Metal Alloys for Crown, FDP, and Metal-Ceramic
+Applications
+COMPOSITION (PERCENT WT)
+
+MECHANICAL PROPERTIES
+Yield Strength
+(MPa)
+
+Hardness
+(VHN)
+
+Elastic
+Modulus (GPa)
+
+Elongation
+(%)
+
+Fe:1.9; Si:1.7; Ce
+
+340
+
+230
+
+200
+
+13
+
+8
+
+Ga:8; Al; Fe; Si; Mn;
+Zr; Cu
+
+300
+
+177
+
+191
+
+27
+
+23
+
+10
+
+Si:2; Fe:15.5; Ce:0.5
+
+310
+
+220
+
+224
+
+29
+
+x†
+
+14
+
+4.5
+
+Al:2.5; Be:1.6; Ti
+
+784
+
+350
+
+200
+
+9
+
+77
+
+—
+
+14
+
+4.7
+
+Mn; Fe; Si; C
+
+630
+
+370
+
+207
+
+10
+
+Norex (Pentron
+Alloys/Argen)
+
+—
+
+55
+
+25
+
+—
+
+W:10; Ru:5; Al, Nb,
+Y, Zr
+
+621
+
+350
+
+204
+
+7
+
+Heraenium P
+(Heraeus Kulzer)
+
+—
+
+59
+
+25
+
+4
+
+W:10; Si:1; Mn:0.8; N
+
+650
+
+330
+
+200
+
+8
+
+Jelbond Supreme
+(Jelenko Alloys/
+Argen)
+
+—
+
+61
+
+27
+
+6
+
+W:5; Mn; Si; Fe; C
+
+475
+
+365
+
+223
+
+8
+
+Alloy (Supplier)
+
+Ni
+
+Co
+
+Cr
+
+Mo
+
+Balance*
+
+IPS d.Sign 15
+(Ivoclar)
+
+58.7
+
+1
+
+25
+
+12.1
+
+Rexalloy (Pentron
+Alloys/Argen)
+
+67
+
+—
+
+14
+
+Heraenium S
+(Heraeus Kulzer)
+
+62.9
+
+—
+
+NPX-III (CMP
+Industries)
+
+76.5
+
+Argeloy Bond
+(Argen)
+
+FDP, fixed dental prothesis; VHN, Vickers hardness number.
+*
+
+Elements without a value are less than 1% by weight.
+
+†
+
+x indicates trace amount.
+
+TABLE 9-6
+
+Tensile Properties and Impurity Limits for Unalloyed (CP) Titanium (ASTM F67)*
+PHYSICAL PROPERTIES (MINIMUM)
+
+IMPURITY LIMITS (max), PERCENT BY WEIGHT
+
+Tensile Strength
+(MPa)
+
+Yield Strength
+(MPa)
+
+Hardness
+(VHN)
+
+Elongation
+(%)
+
+N
+
+C
+
+H
+
+Fe
+
+O
+
+Grade 1
+
+240
+
+170
+
+126
+
+24
+
+0.03
+
+0.08
+
+0.015
+
+0.20
+
+0.18
+
+Grade 2
+
+340
+
+280
+
+178
+
+20
+
+0.03
+
+0.08
+
+0.015
+
+0.30
+
+0.25
+
+Grade 3
+
+450
+
+380
+
+221
+
+18
+
+0.05
+
+0.08
+
+0.015
+
+0.30
+
+0.35
+
+Grade 4
+
+550
+
+480
+
+263
+
+15
+
+0.05
+
+0.08
+
+0.015
+
+0.50
+
+0.40
+
+Designation
+
+ASTM, American Society for Testing Materials; VHN, Vickers hardness number.
+*
+
+Elastic modulus is approximately 110 GPa for each type.
+
+Commercially Pure Titanium
+According to the American Society for Testing and Materials (ASTM) Standard F67, there are four unalloyed grades of
+commercially pure titanium (CP Ti) based on the concentration of impurities (Table 9-6). The elastic modulus of CP Ti
+is comparable to that of tooth enamel and noble alloys, but it
+is lower than that of other base-metal alloys (Table 9-5). CP Ti is
+often selected for its excellent corrosion resistance, especially in
+applications for which high strength is not required. The major
+strengthening element is oxygen. Increasing the oxygen content
+of CP Ti increases not only the flexural strength but also the
+fatigue strength.
+
+CRITICAL QUESTIONS
+Why is a Ti-Al-V alloy with high strength not always preferred to the
+commercially pure titanium metal for dental prostheses? How do alloying
+elements affect the properties of titanium dental alloys?
+
+Titanium Alloys
+CP Ti undergoes an allotropic (polymorphic) transformation from
+a hexagonal close-packed crystal structure (α phase) at 882 °C to a
+more ductile body-centered crystal structure (β phase). By incorporating a combination of α- and β-phase stabilizers, four possible types of titanium alloys can be produced: α, near-α, α-β, and
+
+178
+
+PA RT I I I
+
+TABLE 9-7
+
+Alloy
+
+Indirect Restorative Materials
+
+Properties of Two α-β Titanium Alloys
+for Dental Prostheses
+Elastic
+Modulus Yield Strength Hardness
+(GPa)
+(MPa)
+(VHN)
+
+CRITICAL QUESTION
+How do alloys for all-metal prostheses differ from those required for metalceramic prostheses?
+
+Elongation
+(%)
+
+Ti-6Al-4V
+
+117
+
+860
+
+320
+
+10–15
+
+Ti-6Al-7Nb
+
+105
+
+795
+
+330
+
+10
+
+VHN, Vickers hardness number.
+
+β. Alpha-phase stabilizers, such as aluminum, carbon, nitrogen,
+and gallium, raise the temperature for transforming α to β phase
+on heating. Beta-phase stabilizers, such as molybdenum, cobalt,
+nickel, niobium, copper, palladium, tantalum, and vanadium,
+lower the temperature for transforming β to α phase on cooling.
+Alpha alloys will form no β phase on cooling. Near-alpha alloys will
+form a limited amount of β phase on cooling. Alpha-beta alloys are
+metastable, which makes them heat-treatable and will contain both
+phases at room temperature. Thermal treatment dictates the relative amount of α and β phases and mechanical properties. Beta
+alloys contain sufficient beta stabilizers to retain the β phase on
+cooling; they can be solution-treated and aged to improve strength.
+The most widely used titanium alloy in dentistry and for general engineering applications is Ti-6Al-4V, which is an α-β alloy.
+Although this alloy has greater strength than CP Ti, it is not as
+attractive for dentistry and biomedical applications because of some
+concerns about health hazards from the slow release of aluminum
+and vanadium. Vanadium in high doses is highly toxic, and aluminum has been reported to cause potential neurological disorders.
+Niobium has not been associated with any known toxic or adverse
+reactions in the body and belongs to the same group as vanadium
+in the periodic table. Replacing vanadium in Ti-6Al-4V with the
+same atomic percentage of niobium yields Ti-6Al-7Nb. Both alloys
+are considered to be acceptable for biomedical applications. The
+mechanical properties of the two alloys are similar (Table 9-7), and
+their corrosion resistance is similar to that of CP Ti. Their elastic
+moduli are similar to those of type 4 alloys, and yield strengths
+range from those of type 2 to type 5 metallic materials, as described
+in ISO 22674 (Table 9-2).
+
+CRITICAL QUESTION
+Why does the manipulation of titanium alloys differ so much from that for
+Co-Cr and Ni-Cr alloys?
+
+Manipulation of Titanium Alloys
+The surface of titanium castings after divestment must be ground
+and polished to remove surface porosity and the α case for optimal functionality of the final prosthesis. The machinability of titanium and its alloys is generally considered poor because of several
+inherent properties of titanium, such as high chemical reactivity,
+relatively low thermal conductivity, high strength at high temperature, and low modulus of elasticity.
+To eliminate the effect of oxygen during the fabrication of titanium prostheses, CAD-CAM has been used to produce titaniumbased fixed prosthesis frameworks.
+
+Alloys for Metal-Ceramic Prostheses
+The chief objections to the use of dental porcelain as a restorative material are its low tensile strength and shear strength
+(Chapter 10, Mechanical Properties). A method of minimizing this disadvantage is to bond the porcelain directly to a cast
+alloy substructure made to fit the prepared tooth. The process
+requires building on the metal substrate a tooth form with
+ceramic powder held together by a binder and subjecting the
+entire assembly to a heating process called sintering. Sintering
+densifies the packed ceramic particles to a solid firmly bonded
+to the metal substrate. This system is referred to as the porcelainfused-to-metal (PFM) design. The preferred descriptive term for
+this composite system is metal-ceramic, and the metal is called
+metal-ceramic alloy. In this section, the requirements of metals,
+some representative alloy systems, and issues associated with
+these alloys are discussed.
+
+Requirements of Alloys for Metal-Ceramic
+Applications
+The alloys discussed in this section share at least three common
+features: (1) the potential to bond to dental porcelain, (2) solidus
+temperature sufficiently high to resist softening during sintering,
+and (3) coefficients of thermal contraction compatible with those
+of dental porcelain.
+
+Porcelain Bonding to Metals
+Porcelain bonding to metal substrate requires adherent oxides
+on the surface. The addition of a small quantity of an appropriate base metal to noble and high-noble alloys promotes oxide
+formation on the surface. For base-metal alloys, some oxides
+may be poorly adherent to the metal substructure, which can
+result in porcelain delaminating from the metal substrate. However, the bond strengths for porcelain bonded to base-metal
+alloys as determined in vitro have not generally been shown
+to be superior or inferior to those of noble-metal alloys. Furthermore, clinical studies have not demonstrated a significant
+difference in the failure incidence between metal-ceramic restorations made from base-metal alloys and those fabricated from
+high-noble or noble-metal alloys. To produce the optimal metal
+oxide characteristics, the manufacturer’s instructions must be
+followed precisely.
+Solidus Temperature
+When an alloy is heated close to its solidus temperature, it
+becomes susceptible to deformation under its own mass, which
+is known as creep. The degree of creep increases with the size of
+the prosthesis and the number of firings required for the porcelain. In the older literature, this creep process is referred to as the
+sag of the ceramic alloy (Figure 9-2). All metal-ceramic alloys
+should have a solidus temperature that is substantially higher
+than the sintering temperature of the porcelain to minimize
+creep deformation.
+
+CHAPTER 9
+
+Prepared teeth
+
+What are the benefits and drawbacks of the different types of alloys used for
+metal-ceramic prostheses?
+
+High-Noble and Noble Alloys
+
+As-cast metal
+framework
+
+Table 9-8 shows some typical high-noble and noble metal–ceramic
+alloys. The physical and mechanical properties of representative
+alloys are given in Table 9-9.
+
+Distortion after metal
+oxidation cycle
+
+Additional distortion
+after porcelain firing
+
+SAG
+
+179
+
+CRITICAL QUESTION
+
+Line of
+draw
+
+SAG
+
+Metals
+
+Open
+margin
+Porcelain
+veneer
+Open
+margin
+
+• Figure 9-2 Sag deformation in a fixed dental prosthesis (FDP) framework.
+
+CRITICAL QUESTIONS
+How can differences in thermal contraction between a metal and its
+veneering ceramic affect the resistance to cracking or fracture of the veneer?
+Why must a metal for metal-ceramic prostheses have its thermal contraction
+coefficient slightly higher than that of its veneering ceramic?
+
+Thermal Compatibility of Metal-Ceramic Systems
+The thermal expansion and contraction values of base-metal alloys
+are generally similar to those of noble-metal alloys. When a metalceramic prosthesis is cooled from the porcelain sintering temperature,
+the metal and its veneering ceramic contract at different rates. Meanwhile, the chemical bond between the metal and the porcelain prevents
+the two components from separating; this condition forces the two
+components to adjust their respective dimensions during the cooling
+cycle. Thus the component that contracts more will be stretched by
+the adjacent component, which contracts less; together, the material
+that contracts less will be compressed by the other component. Such
+changes in dimension result in stresses that act on each of the two
+components. The instantaneous stress at a given temperature during
+the cooling cycle is termed transient stress, and the stress distribution,
+which exists at room temperature, is called the residual stress. When
+the prosthesis is cooled, the tensile stress that develops in the porcelain
+is of concern. If the transient tensile stresses that develop within porcelain during cooling are insufficient to cause immediate cracking of
+the porcelain or delayed cracking after cooling to room temperature,
+the combination of a metal-porcelain system is considered thermally
+compatible. In fact, a slight thermal contraction mismatch, with a
+coefficient of thermal contraction of about 0.5 × 10–6/°C higher for
+the metal, is preferred because the mismatch induces residual compressive stress in the porcelain along the bonded interface, which is
+protective in nature. This mechanism will be discussed in Chapter 10,
+Coefficient of Thermal Expansion Mismatch.
+
+Gold-Platinum-Palladium Alloys
+Gold-platinum-palladium alloys produced the first successful
+metal-ceramic restorations. Platinum raises the melting temperature. Rhenium (Re) is a grain refiner that increases hardness. Iron
+forms an oxide on the surface for porcelain bonding and increases
+the proportional limit and strength of the alloy by an FePt3 precipitate. These alloys have adequate elastic modulus, strength,
+hardness, and elongation but are low in sag resistance. They are
+mostly used for making crowns and three-unit FDPs. Their use
+has decreased over time because more economical alloys have been
+developed with substantially better mechanical properties.
+Gold-Palladium-Silver Alloys
+Gold-palladium-silver alloys are economical alternatives to the
+Au-Pt-Pd or Au-Pd-Pt alloys. Their excellent tarnish and corrosion resistance and relative freedom from technique sensitivity
+have contributed to their long-term success. The higher palladium concentration above those of the Au-Pt-Pd alloys raises the
+melting ranges and improves resistance to creep deformation at
+elevated temperatures.
+Gold-Palladium Alloys
+These silver-free alloys are white in color and have a lower thermal contraction coefficient than that of either the Au-Pd-Ag or
+Pd-Ag alloys. When used with compatible low-expansion or lowcontraction porcelains, Au-Pd alloys are considered nearly ideal
+compared with other noble-metal alloys because these alloys contain no silver, and their surface oxide is virtually indiscernible.
+Thus the esthetic quality of metal-ceramic prostheses made with
+Au-Pd alloys is comparable to that obtained with Au-Pt-Pd alloys.
+The sag resistance of these alloys is somewhat better than that of
+Au-Pt-Pd alloys.
+Palladium-Gold Alloys
+The physical properties of palladium-gold alloys are generally
+similar to those of the Au-Pd alloys, and potential thermal contraction concerns for these alloys seem to have been resolved by
+changes in the porcelain composition. Few data are available on
+their laboratory and clinical performance.
+Palladium-Gold-Silver Alloys
+Palladium-gold-silver alloys are similar to the Au-Pd-Ag alloys in
+their potential for porcelain discoloration. They have a range of
+thermal contraction coefficients, which increase with an increase
+in silver content.
+Palladium-Silver Alloys
+This alloy type was the first gold-free noble alloy for metal-ceramic
+restorations. The replacement of gold by palladium raises the melting range but lowers the thermal expansion coefficient of the alloy.
+Silver, on the other hand, lowers the melting range but increases
+
+180
+
+PA RT I I I
+
+TABLE 9-8
+
+Indirect Restorative Materials
+
+Compositions of Representative High-Noble (HN) and Noble (N) Alloys for Metal-Ceramic Prostheses
+PRINCIPAL ELEMENTS (WEIGHT PERCENT)
+
+Alloy Type
+Au-Pd-Pt/HN
+Au-Pt-Pd/HN
+Au-Pt-Ag/HN
+
+Typical Products (Supplier)
+
+Au
+
+Pt
+
+Pd
+
+Ag
+
+Cu
+
+Ga
+
+Balance*
+
+SMG-3 (Dentsply Ceramco)†
+
+81
+
+6
+
+11
+
+—*
+
+—
+
+—
+
+Re; Sn; Fe
+
+86
+
+10
+
+2
+
+—
+
+—
+
+—
+
+In:2
+
+74
+
+9
+
+—
+
+9
+
+4.4
+
+—
+
+Zn; In; Ir
+
+Argedent 75 (Argen)
+
+75
+
+—
+
+12
+
+10
+
+—
+
+—
+
+In:1; Sn:1; Ir
+
+Aspire (Dentsply Ceramco)
+
+52
+
+—
+
+26
+
+17
+
+—
+
+—
+
+Zn; In; Sn; Re
+
+Herabond (Heraeus-Kulzer)
+
+52
+
+—
+
+27
+
+18
+
+0.2
+
+—
+
+Sn:2.7; In; Ir; Re
+
+Olympia (Argen)
+
+52
+
+—
+
+38
+
+—
+
+—
+
+1.5
+
+In:8.5; Ru
+
+Lodestar (Ivoclar Vivadent)
+
+52
+
+—
+
+39
+
+—
+
+—
+
+1.5
+
+In:8.5; Re; Ru
+
+Argedent 65SF (Argen)
+
+65
+
+—
+
+26
+
+—
+
+—
+
+—
+
+In:8.7
+
+Argedent 35SF (Argen)
+
+35
+
+—
+
+57
+
+—
+
+—
+
+4.8
+
+Sn:3; Zn; Ru
+
+Argelite 52+ (Argen)
+
+15
+
+—
+
+52.2
+
+21.5
+
+—
+
+1
+
+In:6; Sn:4
+
+Argelite 75+6 (Argen)
+
+6
+
+—
+
+75
+
+6.5
+
+—
+
+—
+
+In:6; Ga:6
+
+Albabond A (Heraeus-Kulzer)
+
+—
+
+—
+
+57
+
+33
+
+—
+
+—
+
+Sn:6.8; In:3.4; Zn;
+Ir; Ru
+
+W-1 (Ivoclar Vivadent)
+
+—
+
+—
+
+53
+
+38
+
+—
+
+—
+
+Sn:8.5; In; Ru; Li
+
+Spartan Plus (Ivoclar Vivadent)
+
+2
+
+—
+
+78.8
+
+—
+
+10
+
+9
+
+Ir; Ge; Li
+
+Argebond 80 (Argen)
+
+—
+
+—
+
+80
+
+5
+
+—
+
+6.3
+
+In:6.5; Sn; Zn:1
+
+Argelite 85 (Argen)
+
+2
+
+—
+
+85
+
+1.2
+
+—
+
+10
+
+In:1.2; Ru
+
+†
+
+Argedent Y86 (Argen)
+
+†
+
+Degunorm (Dentsply Ceramco)
+†
+
+Au-Pd-Ag/HN
+
+Au-Pd/HN
+
+Pd-Au/N
+Pd-Au-Ag/N
+
+Pd-Ag/N
+Pd-Cu-Ga/N
+Pd-Ga/N
+*
+
+Elements without value are less than 1% by weight.
+
+†
+
+Yellow-color alloy.
+
+TABLE 9-9
+
+Physical and Mechanical Properties of Some High-Noble and Noble Metal–Ceramic Alloys in Table 9-8
+
+Alloy Type
+
+Product Name
+
+Density (g/cm3)
+
+Yield Strength
+(MPa; Soft/Hard)
+
+Hardness
+(VHN; Soft/Hard)
+
+Elastic Modulus
+(GPa)
+
+Elongation
+(Soft/Hard) (%)
+
+Au-Pt-Ag
+
+Argedent Y86
+
+18.4
+
+405/469
+
+160/195
+
+76
+
+12/9
+
+Au-Pd-Ag
+
+Herabond
+
+14.5
+
+520/600
+
+220/260
+
+134
+
+12/8
+
+Au-Pd
+
+Olympia
+
+14.4
+
+550
+
+250
+
+124
+
+30
+
+Pd-Au
+
+Argedent 35SF
+
+13.9
+
+510/572
+
+245/245
+
+124
+
+25/20
+
+Pd-Au-Ag
+
+Argelite 75+6
+
+11.4
+
+565/600
+
+250/265
+
+111
+
+32/30
+
+Pd-Ag
+
+Albabond A
+
+11.4
+
+460/540
+
+205/235
+
+122
+
+26/18
+
+Pd-Cu-Ga
+
+Spartan Plus
+
+11.0
+
+740
+
+310
+
+140
+
+10
+
+Pd-Ga
+
+Argebond 80
+
+11.2
+
+585/630
+
+230/245
+
+130
+
+35/28
+
+VHN, Vickers hardness number.
+
+the thermal expansion coefficient. A proper balance of the two elements maintains a reasonably low casting temperature and a compatible thermal expansion coefficient. The thermal compatibility
+of these alloys is generally good except with certain low-expansion
+porcelains. The addition of tin and indium promotes oxide formation for porcelain bonding and yields precipitates for improving
+mechanical properties.
+
+Adherence to porcelain is considered acceptable for most of
+the Pd-Ag alloys. However, Mackert et al. reported that one of
+these alloy products formed an internal oxide rather than the preferred external oxide. Instead, Pd-Ag nodules developed on the
+surface (Figure 9-3) facilitate the retention of porcelain mechanically. This condition has not apparently produced clinical bond
+failures to warrant concern, and other Pd-Ag ceramic alloys have
+
+CHAPTER 9
+
+Metals
+
+181
+
+asked to provide precise instructions to ensure sound metal-ceramic
+bonding.
+
+CRITICAL QUESTION
+
+Tin oxide
+and/or
+indium oxide
+
+Pd-Ag
+nodules
+
+What are the benefits and drawbacks of using a base-metal casting alloy
+versus a noble-metal casting alloy for a metal-ceramic restoration?
+
+Predominantly Base-Metal Alloys
+Porcelain
+
+Pd-Ag alloy
+
+1 m
+4 m
+
+• Figure 9-3 Internal oxide formation and creep-induced nodule formation in a Pd-Ag alloy for metal-ceramic restorations.
+
+not been studied to determine whether they have similar oxidation behavior.
+Because of their high silver content compared with that of
+gold-based alloys, the potential silver discoloration effect is most
+severe for these alloys. One should proceed with caution when
+light shades (higher values) of ceramic are desired.
+
+Palladium-Copper-Gallium Alloys
+Compositional differences for the Pd-Cu-Ga alloys result in a
+wide range of mechanical properties: yield strengths ranging from
+520 MPa to over 1200 MPa, percent elongation ranging from 7%
+to 30%, and VHN ranging from approximately 265 to over 400.
+Careful composition control by manufacturers has resulted in
+Pd-Cu-Ga alloys with VHNs of substantially less than 300.
+The dark brown or black oxide formed during oxidation and subsequent porcelain sintering cycles makes it difficult for a technician to
+mask the color. Sometimes a thicker opaque porcelain layer is required
+to avoid excessive darkness (i.e., low value) with certain porcelains. An
+increase in oxide-layer thickness occurs during the initial oxidation
+step for these alloys. To reduce the discoloration effect, the surface can
+be sandblasted prior to the application of opaque porcelain.
+Palladium-Gallium Alloys
+The Pd-Ga alloys also have relatively dark oxides, which are somewhat lighter than those on the Pd-Cu-Ga alloys. Pd-Ga alloys generally tend to have relatively low thermal expansion coefficients,
+making the alloys more compatible with lower-expansion porcelains. The silver content is generally low and is not sufficient to
+cause significant porcelain “greening.”
+The effects of several dental laboratory variables (recasting old
+alloy, alternative oxidation cycle, stripping and rebonding of porcelain) on porcelain adherence were investigated for one Pd-Ga
+alloy, three Pd-Cu-Ga alloys, and one Au-Pd alloy. One finding was
+that remelting two and three times degraded porcelain adherence
+to the Pd-Ga alloy and one Pd-Cu-Ga alloy. Stripping of the original porcelain did not cause a significant decrease in adherence of
+the subsequently applied porcelain. An alternate oxidation procedure from the one recommended by the manufacturer significantly
+affected porcelain adherence to one Pd-Cu-Ga alloy and the Au-Pd
+alloy. Therefore where there is doubt, the manufacturer should be
+
+Compared with other alloys for metal-ceramic prostheses, the
+base-metal alloys (other than titanium and titanium alloys) generally are harder and stiffer (higher elastic modulus) (Tables 9-4 and
+9-5); this enables the coping to be 0.1 to 0.2 mm thick without
+risking significant deformation under mastication stress or sagging
+of the metal framework at the porcelain-firing temperature. The
+higher melting temperatures make these alloys more difficult to
+cast than the high-noble and noble alloys.
+
+Manipulation of Base-Metal Alloys
+Laboratory technicians fabricating base-metal copings for metalceramic prostheses will face the following technical issues: casting
+condition, castability, finishing, and controlling oxide layers. The
+fusion temperatures of Ni-Cr and Co-Cr alloys are in the range of
+1150 to 1500 °C; an acetylene-oxygen flame or an electrical induction heating source is required for melting these alloys. The mold
+should be made of either phosphate- or silicate-bonded investment material, which maintains its surface integrity at the casting
+temperature of base-metal alloys. The density of a base-metal alloy
+is about half that of a gold-based alloy. The lower density reduces
+the force of gravity for bulky maxillary appliances on the supporting teeth but also reduces the thrust generated by the casting unit
+to force the molten base-metal alloy to fill the mold. The use of
+a vent and a larger sprue size than that used for gold-based alloys
+may be needed (Chapter 14, Wax Pattern and Sprue Design).
+The castability of Co-Cr alloys is in the same range as that
+of Ni-Cr alloys without beryllium. Some noble and high-noble
+alloys were found to exhibit lower castability than Co-Cr alloys.
+In contrast, a study of the marginal accuracy of a high-noble alloy,
+four noble alloys, and a Ni-Cr-Be alloy revealed that for all alloys,
+marginal completeness was adequate, and marginal openings were
+considerably less than 50 μm. Some researchers claim that all
+alloys will theoretically produce complete castings under optimal
+burnout, melting, and casting conditions.
+In general, the high hardness and high strength of these basemetal alloys contribute to certain difficulties of adjusting prostheses. After casting, it is useful to sandblast the prosthesis to remove
+investment materials and excessive oxides. Grinding and polishing
+of fixed restorations to achieve proper occlusion will occasionally
+require more time at chairside. The removal of defective restorations
+may also require more time. The potential hazard of dust generated
+from the procedure is a concern and is discussed with the biological
+hazards of base-metal alloys (Chapter 17, Dental Alloys).
+The solidification shrinkages of base-metal alloys are greater
+than those of gold-based alloys, which represents a challenge for
+technicians to obtain acceptable-fitting base-metal castings. Using
+type V die stone for dies and enhancing the expansion of the
+investment mold during the setting of the investment are the most
+common practices to improve the fit of prostheses (Chapter 14,
+Control of Shrinkage Compensation).
+The thickness of the oxide layer and the wetting of the oxide
+layer by porcelain are important factors in establishing the bonding
+
+182
+
+PA RT I I I
+
+Indirect Restorative Materials
+
+of porcelain to the metal substrate. For the laboratory technician
+to produce optimal metal-oxide characteristics, the manufacturer’s
+instructions must be followed precisely. However, some instructions
+are relatively imprecise. For example, some alloys require a “light”
+sandblasting of the oxide layer formed during the initial oxidation
+step. The particle size of aluminum oxide abrasive is generally recommended, but neither the quality of abrasive nor the sandblasting
+pressure is usually specified. Contamination of the oxide layer with
+lower-purity abrasives could degrade the integrity of the interface
+between the metal oxide and the opaque porcelain. The ability of
+a laboratory technician to discriminate light from moderate sandblasting to reduce the thickness of these surface oxides is one example of the technique sensitivity of base-metal alloys.
+
+Titanium-Based Alloys
+As previously discussed, titanium undergoes a phase transformation at 882 °C and exhibits a high rate of oxidation above
+900 °C. Therefore a low-fusing ceramic with a sintering temperature below 800 °C should be used to minimize oxidation
+and prevent any phase transformation during sintering. The high
+melting temperatures of CP Ti and titanium alloys makes them
+highly resistant to sag deformation at porcelain-sintering temperatures, and the accompanying relatively low thermal expansion coefficient demands special low-expansion dental porcelains
+for bonding to titanium. Because of the α-case formation, caustic NaOH-based solutions or silicon nitride coatings have been
+employed to improve the bond between cast CP Ti and dental
+porcelain.
+In general, in vitro bonding tests show that metal-ceramics
+fabricated from noble and base-metal alloys exhibit higher bond
+strengths than those of low-fusing porcelain to titanium. However, a small number of studies show that the bond strengths are
+not statistically significantly different between the two groups.
+Differences in porcelain composition often require different firing temperatures, which may result in bond-strength changes.
+However, there is no difference in porcelain bond strength
+between CP Ti and titanium alloys. Studies also show that surface
+treatment of CP Ti and titanium alloy before porcelain application can improve the bond strength. The treatments include silica
+deposition by magnetron sputtering; deposition of an intermediate metallic layer by silver plating; use of an admixture of titanium particles and porcelain as a bonding agent; incorporation
+of an intermediate ceramic layer; nitridation of the titanium surface; and surface roughening by a caustic bath, hydrochloric acid,
+or sandblasting. Although multiple firing has no effect on bond
+strength, firing in an argon atmosphere, which reduces oxide formation, improves the bond strength. It is believed that controlling the thickness and adherence of the oxide is the key to higher
+bond strength.
+Properties of high-noble and base-metal alloys (including CP
+Ti) for metal-ceramic prostheses are listed in Table 9-10.
+
+Mechanical Properties
+The elastic modulus of base-metal alloys is twice as much or greater
+than those for noble-metal alloys. This property allows the technician to reduce the cross-sectional area of cast interproximal connectors. The rigidity of the prosthesis is proportional to the elastic
+modulus and the connector width (buccal-lingual dimension) but
+is proportional to the cube of the connector thickness (occlusalgingival dimension). The cubic relationship with the connector
+thickness means that when an alloy with an elastic modulus that
+is twice as high is used, the connector thickness can be reduced
+by 20.6%, while maintaining the same rigidity of the prosthesis.
+Using similar reasoning, a reduction of the coping thickness from
+0.3 to 0.1 mm may increase the risk of porcelain fracture because
+of the increased coping flexibility. However, a finite-element analysis of stresses induced in anterior metal-ceramic crowns under
+intraoral forces indicates that a reduction of base-metal coping
+thickness (in veneered areas) from 0.3 to 0.1 mm exhibits only a
+slight effect on porcelain stresses.
+It is a common practice to design the occlusal surface of
+metal-ceramic prostheses to be made from cast metal to avoid
+excessive wear of the opposing natural dentition. Compared
+with the same prostheses made of high-noble or noble alloys, the
+hardness of the base-metal alloys makes the occlusal adjustment
+slightly more difficult to perform, and the resulting roughness
+can cause greater wear of the opposing tooth enamel. Repair of
+crowns with fractured porcelain veneers, which may be simply
+performed on noble-metal substrates using pin-retained facings
+or metal-ceramic onlays, is more difficult to accomplish when
+the failed restoration has a framework cast with a nickel- or
+cobalt-based alloy.
+
+CRITICAL QUESTION
+Which factors must be considered by the dental laboratory and dentist for the
+preparation and adjustment of RPD frameworks that are cast from base-metal
+alloys?
+
+TABLE 9-10 Comparative Properties of High-Noble Alloys and Base-Metal Alloys for Metal-Ceramic Prostheses
+
+Property
+
+High-Noble Alloy
+
+Co-Cr
+
+Biocompatibility
+
+Excellent
+
+Excellent
+
+3
+
+CP Ti
+
+Fair
+
+Excellent
+
+8.7 g/cm
+
+4.5 g/cm3
+
+145–220 GPa
+
+207 GPa
+
+103 GPa
+
+Poor to excellent
+
+Excellent
+
+Excellent
+
+Good
+
+Technique sensitivity
+
+Minimal
+
+Moderately high
+
+Moderately high
+
+Extremely high
+
+Bond to porcelain
+
+Excellent
+
+Fair
+
+Good to excellent
+
+Fair
+
+Metal cost
+
+High
+
+Low
+
+Low
+
+Low*
+
+Density
+
+14 g/cm
+
+7.5 g/cm
+
+Elastic modulus (stiffness)
+
+90 GPa
+
+Sag resistance
+
+*
+
+3
+
+Ni-Cr-Be
+
+3
+
+The dental laboratory costs for fabricating metal-ceramic prostheses are high for CP Ti, and few dental laboratories have the capability of producing Ti prostheses.
+
+CHAPTER 9
+
+TABLE 9-11
+
+Metals
+
+183
+
+Compositions and Mechanical Properties of Selected Base-Metal Alloys for Removable Partial Dentures*
+ELEMENTAL COMPOSITION (WEIGHT PERCENT)
+
+Alloy Name
+(Supplier)
+
+MECHANICAL PROPERTIES
+
+Ni
+
+Co
+
+Cr
+
+Mo
+
+Balance*
+
+Yield Strength
+(MPa)
+
+Hardness
+(VHN)
+
+Elastic Modulus
+(GPa)
+
+Elongation
+(%)
+
+Nobilstar (CMP
+Industries)
+
+—
+
+65
+
+27.5
+
+5.5
+
+Si; Fe; Mn; C
+
+640
+
+430
+
+193
+
+9
+
+Vitallium
+(Dentsply)
+
+—
+
+63.1
+
+28.5
+
+6
+
+Mn; Si; C; N
+
+600
+
+410
+
+200
+
+9
+
+JD (Jelenko
+Alloys/Argen)
+
+—
+
+63
+
+28.5
+
+6
+
+Si; C; Mn; Fe; W
+
+620
+
+290
+
+207
+
+5
+
+Heraenium EH
+(Heraeus Kulzer)
+
+—
+
+63.5
+
+28
+
+6.5
+
+Si:1; Mn; C; N
+
+620
+
+310
+
+228
+
+7
+
+Suprachrome+
+(Argen)
+
+—
+
+63
+
+30
+
+5
+
+Mn; Si; C; N
+
+745
+
+390
+
+200
+
+13
+
+Supercast
+(Pentron Alloys/
+Argen)
+
+—
+
+64
+
+30
+
+4
+
+Mn; Si; C; N
+
+655
+
+340
+
+228
+
+3.5
+
+Ticonium 100
+(CMP Industries)
+
+71.6
+
+x†
+
+16
+
+5
+
+Al: 2.9; Mn: 3.7
+Be: 0.8; Ti
+
+790
+
+360
+
+186
+
+7
+
+VHN, Vickers hardness number.
+*
+
+Elements without value are less than 1% by weight.
+
+†
+
+x indicates trace amount.
+
+Alloys for Removable Partial Dentures
+RPDs have four major metal components: connectors, rests,
+clasps, and mesh bases. Except for clasps, each component should
+be rigid and resist permanent deformation, which suggests a material of high elastic modulus and yield strength. Table 9-11 lists the
+compositions and mechanical properties of selected base-metal
+alloys for RPDs. The density of these alloys ranges from 7.6 to
+8.3 g/cm3. For clasps, the material must be resistant to permanent deformation, flexible to engage undercuts, and possess sufficient ductility to facilitate adjustment without fracture. Ideally,
+the clasps should be made of gold-based type 4 alloy because of its
+lower elastic modulus, good ductility, and adequate yield strength
+(Table 9-4), and then soldered (discussed later) to the remaining
+framework made of a base-metal alloy. This arrangement, however, inevitably promotes corrosion at the soldered (brazed) joint
+(Chapter 3, Dissimilar Metals). Although gold-based clasps can
+be embedded in the denture base resin to avoid corrosion at the
+solder joint, in practice, RPDs are cast in one piece using the same
+alloy. The effect of the high elastic modulus of the base-metal
+alloy on the flexure and retention of the clasps can be adequately
+addressed by reducing the clasp thickness. The situation is similar
+to that discussed for FDPs.
+
+Predominantly Base-Metal Alloys
+Cobalt-chromium-molybdenum alloy has been the primary
+metal for RPD prostheses. Cobalt increases the elastic modulus
+and strength. Inclusion of greater than 30% chromium by weight
+makes the alloy difficult to cast and forms the brittle σ phase.
+Molybdenum and manganese improve the corrosion resistance of
+the alloy. Carbide formation provides a high yield strength and
+
+hardness in the alloy but lowers ductility. Particular concerns are
+the higher hardness of some alloys, which can cause in vivo wear of
+the enamel; the need for special finishing in the dental laboratory;
+and the tendency of these alloys to undergo rapid work hardening.
+Co-Cr alloy clasps are reported to be too retentive initially and
+to slowly lose this retention because of permanent deformation
+from repeated seating and removal of the appliance, which correspond to cyclic fatigue conditions. Caution is needed by the dental laboratory technician or the clinician in adjusting clasps on the
+cast framework to avoid fracture, even for RPD alloys that exhibit
+higher values of percent elongation.
+Because of the high melting temperatures, these base-metal
+alloys are induction-melted and cast using phosphate- or silicatebonded investments, as recommended by the manufacturer, to
+compensate for their high casting shrinkage and to minimize the
+potential for casting defects.
+
+CRITICAL QUESTION
+Because titanium alloy has an elastic modulus comparable to that of gold,
+how can the stiffness of an RPD made from this titanium alloy be increased
+to the same level of stiffness as a cobalt-chromium RPD?
+
+Titanium-Based Alloys
+CP Ti and titanium alloys have occasionally been used to make
+RPD frameworks because of the excellent biocompatibility, outstanding corrosion resistance, and good mechanical properties.
+Because of the low elastic modulus, compared with that of basemetal alloys, the rigidity of the connector is often improved by
+increasing the thickness or changing the design. Increasing the
+rigidity also reduces debonding between the resin base and the
+
+184
+
+PA RT I I I
+
+Indirect Restorative Materials
+
+metal framework. In addition, the lower yield strength and higher
+percent elongation of CP Ti suggest that cast clasps may be easily
+adjusted.
+Laboratory casting of titanium remains a challenge because
+internal porosity within the clasp assemblies can lead to clasp fracture. The reaction layer on the surface must be removed chemically with hydrofluorosilicic acid or mechanically by sandblasting
+and rotary instruments.
+The strong binding and high electrostatic character of the titanium surface oxide may result in higher plaque adherence to titanium frameworks compared with other base-metal frameworks. A
+clinical survey of RPDs revealed gradual discoloration of titanium
+alloy frameworks, whereas those made with CP Ti and other basemetal alloys did not discolor. It was hypothesized that aluminum
+segregates from the titanium alloy (Ti-6Al-4V) during casting
+and corrodes during service; further research is needed to verify
+this hypothesis. An in vitro study has also revealed that exposing
+titanium alloys to alkaline denture cleansers (pH greater than 11)
+causes discoloration. Laser welding of titanium has facilitated the
+repair of titanium frameworks because of the low thermal conductivity of titanium and localized heating during laser welding. This
+is also true for the Co-Cr and Ni-Cr alloys.
+
+TABLE 9-12 Linear Solidification Shrinkage of
+
+Casting Alloys
+Alloy Type
+
+Casting Shrinkage (%)
+
+Type 1 (Au-based)
+
+1.56
+
+Type 2 (Au-based)
+
+1.37
+
+Type 3 (Au-based)
+
+1.42
+
+Type 4 (Ni-CR–based)
+
+2.30
+
+Type 4 (Co-Cr–based)
+
+2.30
+
+Technologies are currently available for fabricating metallic prostheses without metal melting and the associated casting
+shrinkage. Except for RPD frameworks, most metal prostheses
+can be made by one or more of the following methods: (1) sintering (or diffusion bonding) of burnished metal foil, (2) CADCAM processing of metal blocks, (3) copy milling of metal blocks,
+and (4) electroforming of metal copings. A fifth method, which
+has become highly popular worldwide, 3-D printing with selective
+laser melting of metal powder, can be used to fabricate most metal
+prostheses, including RPD frameworks.
+
+CRITICAL QUESTION
+What are the merits and concerns of using alternative techniques other than
+casting for fabricating prostheses from dental alloys?
+
+Alternative Technologies for Fabricating
+Prostheses
+Shrinkage of the dental casting alloy in an investment mold occurs
+in three stages: (1) the thermal contraction of the liquid metal
+cooling to its liquidus temperature (Figure 2-17), (2) the phase
+change from the liquid to the solid state (solidus temperature),
+and (3) the thermal contraction of the solid metal from the solidus
+temperature to room temperature (Figure 2-17). The linear solidification shrinkage of an alloy resulting from thermal contraction
+differs from the casting shrinkage for dental alloys because of the
+effect of the investment surrounding the solidifying casting.
+The first-stage contraction is of no consequence to the final
+dimensions of the casting because the molten metal flows freely and
+fills the mold. For the second-stage contraction, the solidification
+starts at the walls of the mold, and the first layer of metal tends to
+adhere to the mold, while the liquid metal continues to be fed from
+the reservoir, which results in no contraction of the casting relative to the investment mold. As the casting cools, it gains sufficient
+strength to contract independently of the mold. Any contraction
+of the casting from this point will affect the fit of the prosthesis.
+Finally, the casting shrinks thermally until it reaches room temperature. Because the thermal contraction coefficient of the metal casting is higher than that of the investment mold, the size of the final
+casting will be smaller than that of the investment mold, which is an
+accurate reproduction of the missing tooth structure. The difference
+in dimensions is called casting shrinkage and normally is compensated for by the setting and thermal expansion of the investment
+used (Chapter 14, Investment Materials). Table 9-12 lists the linear
+solidification shrinkage of various alloys cast as smooth cylinders.
+Because the contraction of the alloy as it cools to room temperature
+dominates the casting shrinkage, the higher-melting alloys tend to
+exhibit greater shrinkage.
+
+Sintering of Burnished Foil
+The most commonly used commercial foil system, Captek (Leach
+& Dillon, North Attleboro, MA), is used for making copings or
+frameworks for metal-ceramic prostheses. The protocol and guidelines for the Captek system are found in an article in the Selected
+Readings section. The main advantage of Captek crowns is their
+very low thickness, which ensures minimal tooth reduction or
+improved esthetics compared with conventional metal-ceramic
+crowns made with cast metal copings. For the construction of a
+multiple-unit FDP, a connector for the two abutment copings is
+waxed and cast with a recommended gold alloy. The copings are
+then joined with the connector using furnace soldering, electrical
+welding, or laser welding before the porcelain application.
+
+CAD-CAM Processing
+The dental application of CAD-CAM became available in the early
+1980s to produce ceramic inlays and crowns during one chairside
+appointment. This technology has been improved and expanded,
+and computer-aided milling or grinding of a metal or a ceramic
+block can be performed accurately by a CAD-CAM process or by
+electrolytic or electrical discharge removal of metal. The CAD-CAM
+technique can be used to prepare prostheses from CP Ti or titanium
+alloy, which do not contain bulk casting defects or the hard α case
+found near the surface of cast titanium prostheses. More about the
+CAD-CAM process is provided in Chapter 15, Prototyping Tools.
+
+Copy Milling
+The copy-milling process is based on the principle of tracing the
+surface of a resin prosthesis pattern, which is then replicated on
+a blank of ceramic, composite, or metal that is ground, cut, or
+milled by a rotating wheel whose motion is controlled by a link
+through the tracing device. The process is similar to that associated
+with cutting a key blank using a tracing of a master key. One commercial system of this type (Celay, Mikrona Technologies, Spreitenbach, Switzerland) has been in use since 1991. The pattern
+
+CHAPTER 9
+
+to be traced is made from a blue-colored, resin-based composite
+(Celay-Tech, ESPE, Seefeld/Oberbayern, Germany).
+
+Electroforming
+A master cast of the prepared tooth (teeth) is prepared and coated
+with a special die spacer to facilitate separation of the duplicating
+material. The dies are duplicated with a gypsum product that has a
+setting expansion of 0.1% to 0.2%. After a conductive silver layer
+is applied to its surface, the die is connected to a plating head, and
+then to a power source and placed in a plating solution. After a
+sufficiently thick layer of gold or other metal is deposited, the gypsum is removed, and the coping is sandblasted. The coping is then
+coated with a bonding agent during the wash bake, and subsequent
+ceramic layers are condensed and sintered in a conventional way.
+As is true for the burnished foil system, a cast pontic is needed
+for joining electroformed copings to construct multiple-unit
+prostheses.
+
+Metals
+
+185
+
+the CAD-CAM milling method, and (4) the direct laser metal
+sintering method. Initial results indicate that the best fit was
+exhibited by group 4, followed by groups 2, 1, and 3. A review
+published in 2020 shows that the total gap of single-crown soft
+milling had the highest accuracy, and for multi-unit FDPs, additive manufactured restorations had the highest accuracy.
+
+CRITICAL QUESTION
+What are the differences between soldering, brazing, and welding?
+
+Joining of Dental Alloys
+
+Manufacturer
+
+Co
+
+Cr
+
+Mo
+
+Si
+
+Mn
+
+Fe
+
+SINT-TECH,
+France1
+
+Balance
+(max. 62.5)
+
+29
+
+5.5
+
+<1
+
+<1
+
+<1
+
+There are three categories of metal-joining operations: soldering,
+brazing, and welding. The soldering and brazing processes for the
+metallic components (also called substrate metals) to be joined
+always employ a filler metal (usually called solder), along with a
+flux and a heat source. Brazing is conducted above 450 °C, and
+soldering is conducted below that temperature. Both processes are
+performed below the solidus temperature of the substrate metal
+or metals; there is no melting at the workpiece surfaces. The term
+soldering is used in this section as a general term to describe both
+processes. Welding may not require a filler metal because the
+metal surfaces to be joined melt and fuse locally. The common
+characteristic of these operations is the achievement of bonding
+between the workpieces and/or the filler metals by a controlled
+heating procedure.
+Metal-joining processes in dentistry have traditionally been
+dominated by the gold-based alloys, and soldering (or brazing)
+using a flame torch has been the main process. With the newer
+nongold alloys, the requirements of the metal-joining process differ among the alloys used. For example, titanium alloys oxidize
+readily at elevated temperatures, and an oxygen-free environment
+and a nonoxygen heating source are needed.
+Spot welding based on electrical resistance has been used to
+weld alloys of low thermal conductivity, such as orthodontic
+appliances. New advances in the technology of heating sources
+have been adapted for orthodontic and other dental applications.
+They include the plasma torch, Nd:YAG laser, and tungsten-inert
+gas (TIG) arc. The advantages of these technologies are that the
+area of heating is small—it can be 0.2 mm with the laser and
+TIG—and the duration of heating can be controlled. When the
+area of heating is very small, the thermal conductivity of the alloy
+can be of concern. High thermal conduction dissipates the thermal energy needed for melting the substrate metal. The very small
+area of heating is advantageous for Co-Cr and titanium alloys,
+which have lower thermal conductivities than gold-based alloys.
+Although the advantages of modern heating sources have
+shifted the operation of metal joining in dental laboratories
+toward welding, gold soldering is a simpler procedure that can be
+conducted in the dental office.
+
+Epson Atmix,
+Japan2
+
+Balance
+(approx. 63.5)
+
+29
+
+6
+
+<1
+
+<1
+
+<1
+
+CRITICAL QUESTION
+
+Three-Dimensional Printing
+The process of 3-D printing is a form of additive manufacturing
+technology where a 3-D object is created by depositing successive layers of material. This technology is now being widely used
+with metal powders to fabricate dental restorations and prostheses. As described in Chapter 15, Additive Manufacturing—
+3D Printing, the metal powder is first spread across the working
+platform. A laser traces the outline of each part being printed,
+and metal powder is fused to the layer below it. As the platform
+is lowered, a new layer of material is spread across the platform,
+and the process is repeated until the printing process is completed. This process is called selective laser melting or direct laser
+metal sintering. For dental applications, the metal powder can be
+titanium, Co-Cr alloy, or a noble metal. The powder compositions for two Co-Cr alloys used for selective laser melting are
+shown in Table 9-13, and it can be seen that these powder compositions are very similar to the compositions of the base-metal
+casting alloys shown in Table 9-11. Additional technologies are
+discussed in Chapter 15, Prototyping Tools.
+Örtorp et al. reported the marginal and internal fit among
+three-unit Co-Cr-based FDPs using four fabrication techniques:
+(1) the traditional lost wax casting method, (2) CAD-CAM milling of a wax pattern followed by the lost wax casting method, (3)
+
+TABLE 9-13
+
+Powder Compositions for Two Co-Cr
+Alloys Used for Selective Laser Melting
+
+Why should the flow of flux be restricted, and what kind of material is used?
+
+1
+
+Al Jabbari YS, Barmpagadaki X, Psarris I, Zinelis S: Microstructural, mechanical, ionic
+release and tarnish resistance characterization of porcelain fused to metal Co-Cr alloys
+manufactured via casting and three different CAD/CAM techniques, J Prosthodont Res.
+63:150–156, 2019.
+2
+
+Takaichi A, Suyalatu, Nakamoto T, et al: Microstructures and mechanical properties of
+Co-29Cr-6Mo alloy fabricated by selective laser melting process for dental applications,
+J Mech Behav Biomed Mater. 21:67–76, 2013.
+
+Soldering Flux
+A metal surface free of any contaminant, such as oxides, is essential for establishing metallic bonds between substrate metals. A
+flux is needed, and it has three primary functions: (1) dissolve
+surface oxides, (2) reduce existing oxides to pure elements, and (3)
+
+186
+
+PA RT I I I
+
+Indirect Restorative Materials
+
+protect the surface from oxidation during soldering. The solder
+chosen must wet the metal substrate to be joined. To prevent the
+flow of molten solder onto adjacent areas, an antiflux, such as
+rouge mixed with chloroform or graphite, can be painted on these
+areas before heating the substrate metals.
+Fluxes for use with noble-metal alloys are generally based on
+boric acid, boric anhydride, and borax. Chromium oxides that
+form on base-metal alloys are more stable, and fluoride-containing
+fluxes are needed to dissolve chromium, nickel, and cobalt oxides.
+Fluxes are also available for different temperature ranges to provide optimal activity.
+The amount of flux used should be minimized because entrapment of flux within the filler metal can cause a weakened joint.
+Residual flux that is covered with porcelain can cause discoloration
+and bubbling of the porcelain. Flux combines with metal oxides
+and forms a glass during the soldering process, and the residue
+should be removed. After the soldering process, sandblasting the
+joint with alumina abrasive particles immediately after removal
+from the soldering investment and boiling in water are needed to
+remove glassy residue resulting from the reaction between the flux
+and oxides.
+
+Filler Metal for Soldering
+The filler metals should have acceptable color, adequate hardness
+and strength, and tarnish and corrosion resistance relative to the
+workpieces. Fillers and substrates do not need to have similar
+compositions, but the filler metals should have (1) a sufficiently
+low flow temperature, (2) the ability to wet the substrate metal,
+and (3) sufficient fluidity at the flow temperature.
+
+Flow Temperature
+When the filler metal melts, wets, and flows on the substrate metal,
+it bonds to this workpiece. The flow temperature of the filler metal
+is usually higher than its liquidus temperature to provide suitable
+viscosity and must be sufficiently lower than the solidus temperature
+of the substrate metal that melting of the substrate does not occur.
+For an alloy substrate that will be veneered with porcelain after soldering, the melting range of the filler metal should be higher than
+the sintering temperature of the porcelain to avoid sag deformation
+of the bridge framework during subsequent porcelain firing.
+Wetting
+Recall the discussion of the role of wetting in Chapter 2, Wetting.
+Wetting of the substrate metal by the molten filler metal is essential
+to produce a metallic bond. Oxides have poor wettability characteristics; therefore molten metal does not spread on the oxide layer
+of substrate metals. That is the reason why iron oxide is used as
+antiflux.
+Fluidity
+Molten filler metals should flow freely into the gap between the
+two substrate metals. When the surface of a metal prosthesis needs
+to be extended, such as for a deficient interproximal contact area,
+a filler metal can be used to build up the area. A filler metal with
+relatively sluggish fluidity then becomes desirable. This type of
+filler usually has a wide melting range, and flow can be controlled
+to well-defined areas.
+
+CRITICAL QUESTION
+How can one best assess if the quality of a solder joint is acceptable or not?
+
+TABLE 9-14 Thermal Characteristics of Fuel-Gas
+
+Combustion
+Flame Temperature (°C)
+
+Heat Content (kcal/m3)
+
+Hydrogen
+
+2,660
+
+2,362
+
+Natural gas
+
+2,680
+
+8,898
+
+Propane
+
+2,850
+
+21,221
+
+Acetylene
+
+3,140
+
+12,884
+
+Fuel
+
+Heat Sources for Soldering
+The most common instrument for the application of heat is a gasair or gas-oxygen torch. All gases shown in Table 9-14 have potential flame temperatures high enough to melt any dental casting
+alloy currently in use. The thermal energy (heat content measured
+in calories per cubic meter of the fuel) from the combustion of
+the fuel must not only raise the temperature of both the substrate
+metal and the filler metal to the soldering temperature but also
+compensate for heat loss to the surroundings. Fuel with a lower
+heat content requires a longer period of heating at the desired temperature and is associated with an increased danger of oxidation
+during the soldering process.
+Of the fuel gases in Table 9-14, the best choice is propane.
+Butane, which is more readily available in some parts of the world,
+has a similar flame temperature and heat content as propane. Both
+propane and butane have the advantage of being relatively pure
+compounds; therefore they are uniform in quality, are virtually
+water-free, and burn cleanly (provided that the torch flame is
+properly adjusted). With acetylene, which should only be used by
+an experienced dental laboratory technician, concerns are localized
+variations in flame temperature and the tendency for decomposition into carbon and hydrogen, with the incorporation of carbon
+in both nickel and palladium solders degrading the mechanical
+properties of the joints.
+Another source of heating is a furnace that heats the assembled
+substrate metals along with flux and solder deposited at the joining site to an appropriate temperature for melting and flow of
+solder. Before the assembled substrate metals are placed into the
+oven, a uniform coating of a paste flux should be applied to the
+surface to be soldered. The advantage of furnace soldering is that
+every component can be heated and cooled uniformly in accordance with a precise schedule that prevents distortion, which
+might occur under localized heating, such as during soldering of
+metal-ceramic bridges.
+
+CRITICAL QUESTIONS
+Which type of torch gas should be used for soldering noble alloys? Why is it
+not possible to use all torch gases?
+
+Technique Considerations for Soldering
+For fixed prostheses, where accurate alignment is needed, investment soldering is used, in which the parts to be joined are first
+indexed and joined by a temporary material, such as acrylic resin
+or sticky wax, and then mounted in a soldering investment, which
+holds the parts together during the soldering procedure. In contrast, freehand soldering is used for assembling orthodontic and
+
+CHAPTER 9
+
+Cold mixing zone
+(unburned gas)
+
+Partial combustion
+zone (oxidizing)
+
+Reducing zone
+
+Metals
+
+187
+
+Oxidizing zone
+(burned gas)
+
+• Figure 9-4 Flame zones in a propane-oxygen torch flame.
+
+some other appliances, in which the parts to be joined are manually held in contact during the soldering procedure. As soon as
+the filler metal has flowed to the desired position, the heating is
+discontinued, and the appliance is cooled.
+The investment soldering technique involves several critical steps: (1) cleaning and preparing the surfaces to be joined,
+(2) assembling the parts to be joined, (3) preparation and fluxing of the gap surfaces between the parts, (4) maintaining the
+proper position of the parts during the procedure, (5) control of
+the proper temperature, and (6) control of the time to ensure adequate flow of solder and complete filling of the solder joint. Many
+of these steps are applicable to freehand soldering.
+Other factors that may influence the result of soldering are discussed next.
+
+Gap Width
+The gap between the parts of the substrate metal to be joined must
+be sufficient to allow solder flow between the workpieces. If the gap
+is too great, the joint strength will be dictated by the strength of the
+filler metal. If the gap is too narrow, flux inclusions and porosity
+caused by incomplete flow of the filler metal may occur and lead
+to decreased strength. Inclusions or porosity can lead to distortion
+if any heating, such as porcelain application, takes place after the
+soldering operation. The ideal gap width is about 0.13 mm.
+Flame
+A torch flame can be divided into four zones, as shown in
+Figure 9-4. The portion of the flame used to heat the soldering
+assembly should be the tip of the reducing zone, in which the
+most efficient burning process occurs and the most heat is generated. An improperly adjusted torch or improperly positioned
+flame can lead to oxidation of the substrate or filler metal and
+result in a poor solder joint. It is also possible to introduce carbon
+into the substrate and filler metal by using the unburned gas portion of the flame. To prevent oxidation, the flame should not be
+removed once it has been applied to the joint area until the soldering process has been completed. The flame provides protection
+from oxidation, especially at the soldering temperature.
+Temperature and Time
+The flame or furnace chamber should provide enough heat to the
+substrate metal to reach the flow temperature of the filler metal.
+Then the substrate metal will be hot enough to melt the filler
+metal as soon as it contacts the area to be joined.
+Temperature and time control the diffusion of atoms across
+the filler–substrate interface. Alloying can take place by diffusion if the temperature remains constant for a sufficiently long
+time. An alloy formed at the interface of the substrate metal
+and filler metal through diffusion can have properties different from those of the filler metal and the substrate metal.
+
+• Figure 9-5 Joining of two different substrate metals with the filler metal
+(in center). Left, Good bonding with no alloying between the filler metal
+and substrate metal. Right, A nodular region of alloying that has occurred
+at the interface between the filler metal and another substrate alloy, which
+is not distinct in this micrograph. (Courtesy Clyde E. Ingersoll.)
+
+Figure 9-5 shows such a soldered joint between two different
+substrate metals. On the left side, the filler–substrate interface
+is represented by a sharply defined plane. On the right side,
+the substrate metal appears to have alloyed with the solder at
+the joint surface adjacent to the nodular area (to the right of the
+solder boundary).
+Therefore the flame should be maintained in place until the
+filler metal has flowed completely into the connection and a short
+time longer to allow the flux or oxide to separate from the fluid
+filler metal.
+
+CRITICAL QUESTION
+What kind of heating source and surrounding environment are needed for
+joining titanium components?
+
+Laser Welding of Commercially Pure Titanium
+As previously noted, CP Ti is a highly reactive metal that oxidizes
+readily in air. At temperatures used for soldering procedures, the
+thickness of the titanium oxide layer increases, and it may spontaneously debond from the parent metal surface at temperatures
+exceeding 850 °C. Thus the quality of the soldered joint is quite
+variable if a traditional torch-soldering or oven-soldering procedure is used.
+
+188
+
+PA RT I I I
+
+Indirect Restorative Materials
+
+Laser welding in an argon atmosphere is a method of choice
+for joining titanium components of dental prostheses because
+the coherent, high-intensity laser light can be focused on a small
+region and melt the substrate without extensive microstructural
+damage to the surrounding areas. An advantage of welding is
+that the joint will be composed of the same pure titanium as the
+substrate components, thereby preserving the excellent biocompatibility potential of CP Ti and avoiding the risk of galvanic corrosion effects within the prosthesis.
+
+CRITICAL QUESTION
+
+1
+
+1
+2
+
+1
+2
+
+1
+2
+
+1
+2
+
+1
+2
+
+1
+2
+
+1
+2
+
+1
+2
+
+2
+
+A
+
+τ1
+
+Why does the ductility of a pure metal depend on its crystal structure?
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+τ1
+
+B
+
+Wrought Alloys and Plastic Deformation of
+Metals
+The term wrought alloys refers to solid cast alloys that have been
+mechanically shaped to specific configurations. The process causes
+alteration of the cast alloy microstructures and results in significant
+changes in the mechanical properties. The most notable changes
+are the increase of the yield strength or proportional limit with a
+reduction of ductility. This segment reviews the crystal structure
+of alloys, describes mechanisms of plastic deformation, and identifies correlations between microstructural features and mechanical
+properties.
+
+τ2
+
+C
+
+1
+
+Theoretical and Observed Shear Strengths of
+Metals
+An atomic model illustrating permanent deformation of a metal
+having a perfect crystalline structure subjected to an applied shear
+stress is shown in Figure 9-6. Notice that the deformation or slip
+process requires the simultaneous displacement of plane 1 atoms
+relative to the plane 2 atoms. Studies have shown that theoretical shear strengths are much higher than those observed from
+mechanical testing of polycrystalline metals. For example, the differences for copper is about 35 times (7.7 GPa vs. 220 MPa), and
+iron is about 44 times (12.8 GPa vs. 290 MPa). The difference can
+be as much as 190 times greater for the ceramic SiC (31.8 GPa vs.
+170 MPa). In contrast to polycrystalline materials, monocrystalline whisker specimens, which are short fibrous single crystals of
+metals or ceramics that achieve near perfect atomic lattice, exhibit
+shear strengths approaching their theoretical values. The key difference between whiskers and polycrystalline specimens of the
+same material is the presence of crystal imperfections at the atomic
+level in the polycrystalline material.
+
+CRITICAL QUESTION
+Why are the observed strengths of metals always lower than the theoretical
+strengths?
+
+Crystal Imperfections
+Recall Figure 2-16, which illustrates an ideal crystallization that
+leads to a polycrystalline structure. In reality, the growth is likely
+to be random and imperfect. When lattice positions have missing
+atoms, displaced atoms, or extra atoms, these sites are called point
+defects. The edge of an extra plane of atoms in the crystal is called
+
+τ2
+
+2
+
+1
+2
+
+1
+2
+
+1
+2
+
+1
+2
+
+1
+2
+
+1
+2
+
+1
+2
+
+1
+2
+
+D
+• Figure 9-6 Slip between adjacent planes of atoms. A, The configuration of planes 1 (a atoms) and 2 (b atoms) when the solid is not
+stressed. B, Application of a shear stress τ1 causes plane 1 to move
+with respect to plane 2. C, Increasing the shear stress to τ2 increases
+the relative lateral displacement of the two planes. This configuration
+corresponds to the state of maximum stored elastic energy. D, The
+two planes have now been displaced by one interatomic distance with
+respect to each other. This configuration will be maintained if the load
+is removed. If the shear stress (τ2) remains, the planes will continue to
+slip past each other.
+
+a line defect. The grain boundaries on the external surface of the
+crystal are considered two-dimensional (2-D) imperfections in the
+crystal.
+
+Point Defects
+Point defects are very localized disruptions in the regularity of a
+lattice (Figure 9-7). A vacancy or vacant atom site in a crystalline
+lattice may occur at a single site in the atomic arrangement. Foreign atoms may be present on the lattice by substituting the lattice
+site atoms and are known as substitutional defects in the crystal
+structure of pure metal. The size of substitutional atom may be
+larger or smaller than that of the normal atom in the lattice. An
+interstitial defect is produced if smaller-size atoms (such as, H, B,
+C, N, O) is present in the interstitial site. The vacancies provide
+the principal mechanism for atomic diffusion in crystalline materials. The mechanical properties of metals are also sensitive to the
+presence of point defects because of their interactions with dislocations discussed in the following section.
+
+CHAPTER 9
+
+Metals
+
+189
+
+x
+
+• Figure 9-7 Point defects. “x” marks vacancy where atom is missing from the lattice. The atomic lattice can be occupied by other atoms of larger radius (green sphere) or smaller radius (blue sphere) than
+the atoms of host lattice, both are known as substitutional defects. Small size atom (dark solid sphere)
+occupying the interstitial space is known as interstitial defect. Note that all point defects distort the surrounding lattice.
+
+Force
+
+Force
+
+Dislocation
+line
+
+Unit step of slip
+Force
+
+A
+
+B
+
+Force
+
+C
+
+• Figure 9-8 Illustration and movement of edge dislocation. A, An edge dislocation in a schematic cubic
+crystal structure. B, The dislocation has moved one interatomic distance along the slip plane under the
+action of the shearing force indicated by the arrows. C, The dislocation has reached the edge of the crystal, and a unit amount of slip has been produced. (Taken from Callister WD, Jr, Rethwisch DG: Materials
+science and engineering: an introduction, 8th ed, Hoboken, NJ, John Wiley & Sons, 2010.)
+
+Line Defects (Dislocations)
+The simplest type of line defect or dislocation, known as an
+edge dislocation, is illustrated in Figure 9-8, A for a simple cubic
+structure. It can be noted that the atomic arrangement is regular
+except for the single vertical plane of atoms that is discontinuous. The edge dislocation (symbolized by ⊥) is located at the
+edge of the partial plane. If the atoms have a helical arrangement around the dislocation line (analogous to spiral ramps in
+a parking garage), such arrangement is called screw dislocation
+(Figure 9-9).
+If a sufficiently large shear stress is applied across the top and
+bottom faces of the crystal containing the edge dislocation shown
+in Figure 9-8, A, the bonds in the row of atoms adjacent to the
+dislocation will be broken, and new bonds with the next row will
+be established, resulting in movement of the dislocation by one
+interatomic distance, as indicated in Figure 9-8, B. Continued
+application of this shear stress causes similar movements of one
+interatomic distance until the dislocation reaches the boundary of
+the crystal (Figure 9-8, C). The plane along which an edge dislocation moves is known as a slip plane. The result of this dislocation
+movement across the crystal is that the atomic planes on one side
+of the slip plane have been displaced one interatomic spacing with
+respect to the atomic planes on the other side of the slip plane. The
+crystallographic direction in which the atomic planes have been
+
+Screw dislocation
+
+• Figure 9-9 Illustration of screw dislocation. A crystal defect characterized by a unit distortion of part of the crystal lattice in a particular direction
+such that the lattice planes perpendicular to that direction form continuous
+helical sheets.
+
+190
+
+PA RT I I I
+
+Indirect Restorative Materials
+
+displaced is termed the slip direction, and the combination of a slip
+plane and a slip direction is termed a slip system. The screw dislocation is more difficult to visualize than the edge dislocation and is
+discussed in textbooks on engineering materials science. Dislocations in metallic materials often have a mixed character, consisting
+of both edge and screw components.
+
+The inherent ability of a metal to deform plastically and exhibit
+ductility increases with the number of slip systems associated
+with the crystal structure. The number of slip systems in common crystal structures is in the decreasing order of face-centered
+cubic (FCC; e.g., gold, silver, copper, nickel), body-centered cubic
+(BCC, e.g., α-iron, chromium), and then hexagonal close-packed
+(e.g., cobalt, zinc).
+Evidently, much less shear stress is required to initiate permanent deformation of the metal crystals that contain edge dislocations (Figure 9-8) because only one row of atomic bonds along the
+slip plane is broken at a time, compared with the perfect crystal,
+where atomic bonds across the entire slip plane (Figure 9-6) must
+be simultaneously broken for shear deformation to occur. The proportional limit for a metal generally corresponds to the onset of
+significant movement of dislocations. The slip lines in Figure 9-10
+correspond to slip planes where large numbers of dislocations have
+exited the metal, causing surface offsets that scatter the light used
+for observation. Thus one can conclude that permanent deformation of a metal is the result of dislocation movement and slip
+between atomic planes.
+
+CRITICAL QUESTION
+What fundamental strengthening mechanisms are available for alloys that are
+not possible for pure metals?
+
+Dislocation Movement in Polycrystalline Alloys
+
+• Figure 9-10 Photomicrograph of cold-worked gold, showing deformed grains and slip lines (the parallel lines within grains) at surface
+offsets where dislocations have exited their slip planes (×100). (Courtesy
+S. D. Tylman.)
+
+A
+
+B
+
+Figures 9-8 and 9-11, A illustrate one dislocation moving in a pure
+metal crystal; it appears that there is little hindrance of a moving
+dislocation along its slip plane. In reality, there are several scenarios in which dislocation movement can be impeded in pure metals
+and alloys. Alloys contain multiple phases, such as solid solutions
+and/or precipitates (Chapter 2, Liquid-to-Solid Transformation of
+Cast Metals), in addition to the numerous dislocations and grain
+
+C
+
+• Figure 9-11 Effect of precipitates on the movement of edge dislocation. The illustrations depict the view
+taken from the top of the three-dimensional (3-D) model shown in Figure 9-8. Each line with right-pointing
+arrows represents a line defect (dislocation) moving toward the right side of the grain. A, A dislocation
+moves without any impediment within a grain; no extra effort is needed, and no strengthening effect occurs. B, The blue and slightly larger sphere represents a solute atom or coherent precipitate that presents
+an obstacle to the movement of the dislocation; bending of the line defect implies that the movement has
+been impeded, and more stress is needed to pass through the obstacle. C, The dark spheres represent
+incoherent precipitates, and the background simulates the rest of the grain. The dislocation cannot pass
+through the incoherent precipitate because it does not share the same lattice with the hosting grain. The
+first dislocation (left) bends as it moves close to the precipitate. The second dislocation (middle) continues
+to bend around the precipitate, while the rest of the dislocation keeps moving toward the right. Finally, the
+dislocation (right) completes its encircling around the precipitate; the rest of the dislocation rejoins and
+moves on through the nonstrengthened area.
+
+CHAPTER 9
+
+boundaries found in pure metals. These crystal structural features
+represent obstacles that may be overcome by an application of
+increased stress to promote dislocation movement.
+For solid-solution alloys, the atomic arrangement near solute
+atoms is locally distorted. The movement of dislocations along
+the slip plane will be impeded by the presence of such solute
+atoms (Figure 9-11, B). Precipitates can be coherent, where the
+atomic bonds are continuous across the interface with the solidsolution matrix, or incoherent, where interatomic bonds are not
+continuous across the interface. Coherent precipitates have the
+same crystal structure as the matrix phase and generate localized
+distortion in the atomic arrangement. Dislocations cannot
+move through incoherent precipitates but instead form loops
+of increasing size around these particles (Figure 9-11, C). Additional stress is needed to move dislocations through distorted
+regions, including coherent precipitates, or around incoherent
+precipitates.
+Metals with a sufficient amount of ductility can be permanently deformed under mechanical stress at temperatures below
+their recrystallization temperatures (including room temperature), as discussed later. This process, also known as cold working,
+can create vast numbers of point defects and dislocations within
+the metals. These dislocations will interact with each other, mutually impeding their movements. Increased stress is required for
+further dislocation movement to continue the permanent deformation process.
+The movement of a dislocation from one grain into another
+grain is unlikely, especially if the adjacent grain is misaligned
+(Figure 9-12). Grain boundaries represent the ends of slip
+planes where dislocations cease to move and accumulate. As
+the grain size decreases, there will be more grain boundary area
+per unit volume to impede dislocation motion. Grain size can
+be controlled by rapid cooling or quenching or by the inclusion of a grain-refining element (Chapter 2, Grain Refinement
+and Grain Size), such as iridium in gold alloys. Cold working
+also alters the shapes of grains substantially (e.g., the grains are
+severely elongated parallel to the wire axis).
+
+Grain boundary
+
+Metals
+
+191
+
+A higher stress, which is reflected in higher values of proportional limit, is needed for dislocations to overcome each impeding
+mechanism to continue moving along the slip plane. Therefore
+these obstacles are considered mechanisms for the strengthening
+of metal alloys that include solid-solution strengthening, precipitation hardening, strain (or work) hardening, and grain-refinement strengthening. The elastic moduli of the wrought alloys
+remain the same as those of their cast counterparts because there
+are no changes in the crystalline structure. If a phase change has
+occurred in the alloy in the process, some change in the elastic
+modulus is expected.
+
+CRITICAL QUESTION
+Why does the clasp of an RPD fracture easily after a patient has bent it back
+and forth repeatedly to relieve discomfort?
+
+Effects of Strengthening Metals
+The ductility of the wrought alloys is decreased with each of the
+strengthening mechanisms just described. The corrosion resistance
+of the wrought alloys is also decreased because the dislocations
+produce localized regions of strain at the atomic level, which have
+higher energy than atomic arrangements in the undeformed metal.
+Corrosion is a process that relieves stored energy (Chapter 3, Stress
+Corrosion), and it can be minimized by stress relief (discussed
+later).
+One can observe from the first row of photomicrographs of
+Figure 9-13 that the thinner the specimen becomes from rolling,
+as designated above each photomicrograph, the flatter or thinner
+the grains appear to be. Although brass is used in this example,
+the same effect would occur with wrought dental alloys. For the
+extreme example of a wire, the grains will be elongated parallel to
+the wire axis and resemble “strands of spaghetti” in a photomicrograph showing a longitudinal section.
+Recall the example we used in the introduction of Chapter 4
+regarding the adjustment of the retentive clasps. We can conclude
+that the crystal deformation generates dislocations, which can be
+moved with finger pressure on the clasp. The movements of the
+dislocations allow us to shape the clasp as needed. The region near
+the missing half-plane of the edge dislocation can be thought of as
+a linear vacancy within the crystal structure. These regions accumulate when there is an edge dislocation pileup at a grain boundary
+and grow to a flaw of critical size. Meanwhile, greater force is needed
+to overcome obstacles within the alloy. Eventually, the force applied
+is high enough to cause crack propagation, and then fracture.
+
+CRITICAL QUESTION
+
+Slip plane
+
+What is the difference between the twinning and dislocation-movement
+mechanisms of plastic deformation?
+
+Grain B
+Grain A
+
+• Figure 9-12 This illustration shows the spatial lattices of two adjacent
+grains. Notice that the lattices are not aligned. There is a dislocation moving toward the grain boundary in grain A. Because of misalignment, the
+dislocation in grain A cannot move into grain B and is trapped at the grain
+boundary. In essence, the grain boundary is an obstacle to dislocation
+movement. Therefore the greater the number of grain boundaries, the
+higher is the yield strength of the material.
+
+Plastic Deformation Without Dislocation
+Movement
+An alternative mode of permanent deformation in metals is twinning. Twinning refers to the atomic arrangement within a crystal
+where a region takes on a special orientation from the adjacent
+crystal; the two different orientations are crystallographically identical, as if they are reflections across a mirror plane. This boundary
+between the original and the new orientation is called a twinning
+plane (Figure 9-14, A). The portion having a lattice orientation
+
+192
+
+PA RT I I I
+
+Indirect Restorative Materials
+
+Original
+annealed metal
+thickness
+0.110"
+No. 9 B.
+& S. GA.
+
+Cold rolled to thickness
+0.100"
+No. 10 B.
+& S. GA.
+
+0.090"
+No. 11 B.
+& S. GA.
+
+0.080"
+No. 12 B.
+& S. GA.
+
+0.070"
+No. 13 B.
+& S. GA.
+
+0.060"
+No. 14 B.
+& S. GA.
+
+Annealed for
+30 minutes
+at 350 C.
+
+Annealed for
+30 minutes
+at 500 C.
+
+Annealed for
+30 minutes
+at 650 C.
+
+Annealed for
+30 minutes
+at 750 C.
+
+Annealed for
+30 minutes
+at 800 C.
+
+• Figure 9-13 Grain size and appearance of brass (copper 66%, zinc 34%) after cold working and annealing. Note that as the degree of cold working increases (to the right in the figure), the grains become more
+distorted. When the recrystallization proceeds, the grain size is inversely proportional to the degree of cold
+working (×40). (Prepared by L. H. DeWald.)
+
+that is different from the original orientation is called a twin.
+Twinning can occur in a metal either during solidification, as
+shown in Figure 9-14, A, or as a result of being stressed to a state
+of permanent deformation (Figure 9-14, B).
+The stress needed to twin a crystal tends to be higher than
+that required for slip (Figure 9-6). Therefore slip is the normal
+permanent deformation mechanism. Twinning is the favored
+mechanism at high strain rates and at low temperatures, rather
+than dislocation movement, in metals having relatively few
+slip systems. One should note that permanent deformation by
+twinning is merely a reorientation of the lattice, and although
+the atoms in the twinned portion have moved, their positions
+relative to each other remain unchanged. On the other hand,
+permanent deformation by slip occurs along individual lattice
+planes for which the positions of atoms relative to each other
+have changed.
+Twinning has significance for the permanent deformation of
+α-titanium alloys, which are highly important for some dental
+
+implants and are gaining interest for cast restorations. In the
+unit cell for α-titanium, the ratio of the lattice parameter (c)
+in the perpendicular direction to the basal plane and the lattice parameter (a) in the basal plane (see Figure 2-9, G), which
+is known as the c/a ratio, is slightly less than the ideal value of
+1.633 for the hexagonal close-packed (HCP) structure, which
+results in additional slip planes and the tendency to undergo
+twinning readily. Twinning is also the mechanism for reversible
+transformation between the austenitic and martensitic structures
+in nickel-titanium orthodontic wires, which has considerable
+clinical significance.
+
+CRITICAL QUESTION
+Why must recrystallization of orthodontic wires be avoided when a stressrelief heat treatment is performed after manipulation to minimize fracture
+during placement?
+
+CHAPTER 9
+
+Original atom position
+
+Metals
+
+193
+
+Atom position after twinning
+
+Twinning
+planes
+
+A
+
+Twinning
+planes
+
+B
+• Figure 9-14 Schematic illustration of twinning in a metal. A, Atomic arrangement at the twinning planes
+in a face-centered cubic metal. The dashed lines show the orientation of the crystal if twinning had not occurred. Note that the atoms on either side of the two twinning planes have a mirror relationship. B, A lattice
+structure before and after plastic deformation of a metal by twinning under tension. Note that the shape
+of the object has changed, but the relative position of the atoms remains unchanged. Also note that the
+atoms on either side of the twinning plane have a mirror relationship. The two colors of spheres provide a
+contrast of neighboring atoms.
+
+Effects of Annealing Wrought Alloys
+The effects associated with permanent deformation (e.g., strain
+hardening, decreased ductility, distorted grains, and increased
+dislocation density) can be reversed by simply heating the metal
+to an appropriate elevated temperature without melting it. This
+process is called annealing, and it takes place in three successive
+stages: recovery, recrystallization, and grain growth. The more
+severe the degree of cold working, the more rapidly the effects can
+be reversed by annealing. Also, the higher the melting point of the
+metal, the higher is the temperature needed for annealing.
+
+Recovery
+Heating increases atom diffusion and the initiation of annealing. As
+Figure 9-15 shows, there is a very slight decrease in tensile strength
+and no change in ductility during the recovery stage, which reduces
+the number of dislocations and relieves the internal strain energy
+resulting from cold working. Orthodontic appliances fabricated by
+bending wires are often subjected to a stress-relief anneal prior to
+their placement. This heat treatment stabilizes the configuration
+of the appliance and allows an accurate determination of the force
+that the appliance can deliver in the mouth. The elimination of
+residual stresses in the appliance also reduces the likelihood of fracture during clinical adjustments. It is essential that this heat treatment be performed in the recovery-temperature range and not at
+higher temperatures where recrystallization occurs.
+
+CRITICAL QUESTION
+Why does the process of recrystallization cause a significant reduction in the
+tensile strength of the alloy?
+
+Recrystallization
+The recrystallization process involves a radical change in the microstructure, as seen in the second and third rows of Figure 9-13.
+The atoms at this stage are rearranged into a lower-energy
+
+configuration. The old, distorted grains disappear as new strainfree grains emerge. After completion of recrystallization, the
+alloy retains microstructures resembling that before cold working
+(upper-left corner of Figure 9-13) and essentially attains its original soft, ductile condition (Figure 9-15). That is the reason why
+recrystallization must be avoided during the stress-relief heat treatment of orthodontic appliances. If a metal is not sufficiently coldworked, recrystallization may not occur during a typical annealing
+process.
+The average grain size of the recrystallized structure depends
+on the degree of cold working; the greater is the number of such
+nuclei. The greater the degree of cold working, the smaller is the
+grain size after recrystallization.
+
+Grain Growth
+The grain size increases when the cold-worked alloy is annealed
+at an elevated temperature (Figure 9-13, row 4 to row 6). This
+increase in grain size is called grain growth, which is a process by
+which the volume of the grain boundary is reduced; large grains
+grow at the expense of small grains. Grain growth does not proceed indefinitely to yield a single crystal; rather, it ceases after a
+relatively coarse grain structure has been produced.
+
+Types of Wrought Alloys
+Wrought alloys are used as wires by orthodontists for correcting
+displacements of teeth from proper occlusion and by prosthodontists and general dentists as clasps for the retention and stabilization of RPDs. Wrought alloys are also made in the form of files
+and reamers for endodontists to clean and shape root canals or as
+prefabricated metal crowns for pedodontic patients.
+Orthodontic wires are formed into various configurations or
+appliances to apply forces to move the teeth to a more desirable
+alignment. From the orthodontic viewpoint, as demonstrated by
+the loading of a cantilever beam (Figure 9-16), the proportional
+limit (or yield strength) reflects the maximal amount of force a
+particular beam design can deliver. The elastic deflection (δ) of
+
+PA RT I I I
+
+Indirect Restorative Materials
+
+Tensile strength
+
+Cold working
+
+Recovery
+
+Recrystallization
+
+Grain growth
+
+Tensile st
+ren
+
+gth
+
+Ductility
+
+194
+
+Ductility
+
+% cold work
+
+Time of annealing
+
+• Figure 9-15 Tensile strength and ductility of a metal as a function of the percentage of cold working
+and annealing time. Tensile strength increases during cold working, and ductility decreases. These properties change only slightly during recovery. During recrystallization, tensile strength decreases, and ductility
+increases rapidly. Only slight changes occur during grain growth. (Adapted from Richman MH: Introduction
+to the Science of Metals, Waltham, MA, 1967, Blaisdell.)
+
+metals selected (i.e., elastic modulus and proportional limit) and
+the dimensions of the beam (i.e., thickness, width, radius, and
+length). Thus, finding the optimal design for an appliance that
+will deliver the low, constant forces, which are biologically desirable for tooth movement, is possible. Practically, the working
+range of a material is considered to be the elastic strain at the yield
+strength (YS) of the wire, which is termed springback and defined
+as YS/E. The mechanical principles described here also apply to
+the design of retentive clasps and root canal files and reamers.
+Wrought alloys used in dentistry, which include stainless steel,
+cobalt-chromium-nickel, nickel-titanium, and beta-titanium, are
+now discussed.
+
+Z
+O
+
+W
+
+IRUDUHFWDQJXODUFURVVVHFWLRQ
+IRUDFLUFXODUFURVVVHFWLRQ
+UUDGLXV
+
+3
+
+CRITICAL QUESTION
+What are the differences in the martensitic structures that form in plain
+carbon steels and austenitic stainless steels?
+
+• Figure 9-16 Bending of a cantilever beam. δ, Deflection; t, thickness; w,
+width; l, length; and E, elastic modulus.
+
+a cantilever beam under a load reflects the extent of tooth displacement that the designed appliance can deliver. The maximum
+elastic deflection is reached when the stress approaches the proportional limit and is called the working range of the beam. An
+obvious benefit of wrought wires is that they have a greater working range than their cast counterparts.
+Physiologically, excessive forces acting on the tooth may cause
+root resorption, and insufficient forces yield no tooth movement.
+A properly designed orthodontic appliance applies appropriate
+amounts of force to the teeth. As the teeth move, the deflection of
+the device decreases. In response to the reduction in elastic deflection of the appliance, the level of force applied to the teeth is gradually reduced below the threshold level. When this happens, the
+appliance must be reactivated to increase the force level to its original value. Reactivation requires partial permanent deformation to
+obtain a suitable configuration for moving the teeth effectively.
+The relationships for rectangular and round wires in Figure 9-16
+show that the elastic deflection (δ) depends on the properties of
+
+Stainless Steel Alloys
+The metallurgy and terminology of stainless steels are closely
+related to the binary iron-carbon system, which yields the primary
+phases of carbon steel. Therefore a brief outline of the carbon
+steels is presented here.
+
+Carbon Steel
+Carbon steels can be described simply as iron-carbon binary alloys
+that contain less than about 2.1% of carbon by weight. At room
+temperature, pure iron has a bcc structure that transforms into
+an FCC structure at 912 °C. The solubility of carbon in BCC
+iron reaches a maximum of 0.02%, and this material is known
+as ferrite. The solid solution of carbon in FCC iron is called austenite, which has a maximal solubility of about 2.1% carbon. All
+carbon-steel compositions have the austenite structure at elevated
+temperatures.
+When a plain carbon steel (only iron and carbon) containing
+0.8% carbon is cooled slowly in the austenitic phase to 723 °C,
+a solid-state eutectoid transformation occurs to yield a microstructural constituent called pearlite, which consists of alternating
+
+CHAPTER 9
+
+fine-scale lamellae of ferrite and iron carbide (Fe3C). The Fe3C
+phase is much harder and more rigid than austenite or ferrite.
+At temperatures below 723 °C, when the carbon content is less
+than 0.8%, the carbon-steel microstructure consists of ferrite and
+pearlite, whereas plain carbon steels containing more than 0.8%
+carbon are much harder alloys, with microstructures consisting of
+iron carbide and pearlite.
+If austenite is cooled very rapidly (quenched), spontaneous
+transformation from the FCC structure to a body-centered tetragonal (BCT) structure results in a new phase called martensite,
+which is very hard, strong, and brittle. The transformation occurs
+by small atomic displacements and does not involve elemental diffusion. The high hardness of martensite allows the grinding of
+a sharp edge, which is retained in extended use. Martensite is a
+metastable phase that transforms to ferrite and iron carbide when
+it is heated to elevated temperatures. This process is called tempering; it reduces the hardness of the alloy but increases its toughness.
+
+Types of Stainless Steels
+When approximately 12% to 30% chromium by weight is added
+to carbon steel, the alloy is commonly known as stainless steel.
+The chromium in base-metal alloys forms a very thin, transparent, adherent layer of Cr2O3, termed a passivating oxide, which
+prevents corrosion of the underlying alloy. If the oxide layer is
+ruptured by mechanical or chemical means, the passivating oxide
+layer eventually forms again in an oxidizing environment, such as
+ambient air.
+Based on the previously described crystal structures formed by
+iron and carbon atoms, there are three major types of stainless steels:
+Ferritic Stainless Steels. These alloys provide good corrosion
+resistance at a low cost. They cannot be hardened by heat treatment or readily work-hardened. Consequently, they have little
+application in dentistry.
+Martensitic Stainless Steels. These alloys can be heat-treated
+in the same manner as plain carbon steels, which results in a
+high yield strength and hardness for use in surgical and cutting
+instruments.
+Austenitic Stainless Steels. The addition of nickel stabilizes the
+austenite phase on cooling of the alloy. The austenitic stainless
+steels are the most corrosion resistant of the three major types.
+Austenitic stainless steel is preferred for dental applications
+because it has the following properties: (1) greater ductility for
+more cold working without fracturing, (2) greater strength from
+cold work, (3) greater ease of welding, (4) ability to overcome
+sensitization, (5) less critical grain growth, and (6) comparative
+ease of reshaping.
+The foregoing three classifications of stainless steels, with
+approximate compositions, are presented in Table 9-15.
+
+CRITICAL QUESTIONS
+How does austenitic stainless steel acquire its corrosion resistance? Can this
+protection be lost during the fabrication and normal use of a stainless-steel
+appliance?
+
+Corrosion Resistance of Austenitic Stainless Steel
+Stainless steel can corrode under the conditions described in
+Chapter 3, Stress Corrosion. For example, severe strain hardening produces highly stressed regions that are anodic to less
+
+Metals
+
+195
+
+TABLE 9-15 Compositions (Weight Percent) of
+
+Three Types of Stainless Steel* Based on
+Crystal Structure of Iron Atoms
+Type of Stainless Steel
+
+Chromium
+
+Nickel
+
+Carbon
+
+Ferritic (BCC)
+
+11.5–27.0
+
+0
+
+0.20 max.
+
+Austenitic (FCC)
+
+16.0–26.0
+
+7.0–22.0
+
+0.25 max.
+
+Martensitic (BCT)
+
+11.5–17.0
+
+0–2.5
+
+0.15–1.20
+
+BCC, Body-centered cubic; BCT, body-centered tetragonal; FCC, face-centered cubic.
+*
+Silicon, phosphorus, sulfur, manganese, tantalum, and niobium may also be present in
+small amounts. The balance is iron.
+
+stressed regions in the presence of saliva. Organic or inorganic
+deposits and any site of surface roughness on a metal may result
+in localized concentration cell corrosion. Therefore a stainless-steel orthodontic appliance should be polished so that it
+remains clean and less susceptible to tarnish or corrosion during use. When a stainless-steel wire or a stainless-steel appliance is abraded or cut with a carbon steel bur or similar steel
+tool, carbon steel debris from these tools becomes embedded in
+the stainless-steel surface, causing dissimilar metal corrosion in
+vivo. Chlorine-containing cleansers should not be used to clean
+removable appliances fabricated from stainless steel.
+When austenitic stainless steel is heated to between approximately 400 °C and 900 °C, chromium carbides precipitate along
+the grain boundaries, causing chromium near the grain boundaries to be depleted below the concentrations necessary for corrosion protection, which also weakens the alloy. This phenomenon
+is called sensitization; the stainless steel has become susceptible to
+intergranular corrosion. The temperature range of sensitization is
+within that used by the orthodontist for soldering and welding. In
+addition, filler materials that are employed for brazed or soldered
+joints in orthodontic appliances can also form galvanic couples
+in vivo.
+The manufacturer can reduce the carbon content of the
+stainless steel to such an extent that carbide precipitation cannot occur or can severely cold work and heat the stainless steel
+within the sensitization temperature range to spread the formation of chromium carbide precipitates within the bulk grains
+instead of only at the grain boundaries. Elements such as titanium and tantalum, which preferentially form carbides, can be
+added to the stainless steel to preserve the level of chromium
+when the metal is exposed to elevated temperatures. This process
+is called stabilization.
+
+Mechanical Properties of Austenitic Stainless Steel
+The approximate values of the mechanical properties of a representative stainless-steel orthodontic wire are listed in Table 9-16.
+Strength and hardness may increase with a decrease in cross-sectional dimensions because of the increased cold working that is
+required for forming smaller wires.
+It is unfortunate that a stainless-steel orthodontic wire can
+become fully annealed (recrystallized) after a few seconds at temperatures from 700 °C to 800 °C because soldering and welding
+of stainless-steel wires are carried out in that temperature range.
+The yield strength of the wire and, thus, the working range
+necessary for a satisfactory orthodontic appliance are greatly
+reduced after such annealing. However, using low-fusing solders
+
+196
+
+PA RT I I I
+
+Indirect Restorative Materials
+
+TABLE 9-16 Representative Mechanical Properties
+
+for Major Orthodontic Wire Types
+Elastic
+Modulus (GPa)
+
+Yield
+Strength (GPa)
+
+Tensile
+Strength (GPa)
+
+Stainless steel
+
+179
+
+1.6
+
+2.1
+
+Co-Cr-Ni
+
+184
+
+1.4
+
+1.7
+
+Ni-Ti
+
+41
+
+0.43
+
+1.5
+
+β-Ti
+
+72
+
+0.93
+
+1.3
+
+Alloy
+
+soldering is to use as little heat for as short a time as possible.
+Other heating techniques include the use of a hydrogen-oxygen
+torch, electric resistance heating, and indirect heating using a
+brass wire intermediary.
+
+CRITICAL QUESTIONS
+Does welding of stainless-steel wires subject them to undesired annealing?
+What can be done to reduce the effect of annealing?
+
+Welding
+
+CRITICAL QUESTION
+
+Flat structures such as bands and brackets are usually joined by
+spot welding, which produces a large electrical current that is
+forced by the electrode to flow through a limited area (spot) on
+the overlapped materials that are to be welded. The interfacial
+resistance of the materials to the current flow produces intense
+localized heating and fusion of the overlapped metals. No solder is
+employed. Ideally, melting is confined to the junction area, and a
+cast-type structure is formed. The grain structure of the surrounding wrought alloy should not be affected, but stress exists at the
+interface of the cast and wrought structures, which would be the
+most likely path of joint failure should fracture occur. The strength
+of the welded joint decreases with an increase in the area of recrystallization of the adjacent wrought structure, and the joint strength
+increases with the area of the weld. The welded joint is susceptible
+to corrosion, primarily because of the loss of passivation caused by
+sensitization and the localized stress at the interface between the
+weld area and the surrounding wrought structure.
+
+Which failure processes in soldered and welded joints in stainless-steel
+orthodontic appliances might be observed clinically?
+
+Cobalt-Chromium-Nickel Alloys
+
+and minimizing the soldering and welding times can minimize
+the softening. Any softening that occurs under such conditions
+can be remedied considerably by contouring and polishing of
+the soldered areas.
+An increase in the elastic properties of a stainless-steel wire
+can be obtained by heating it to temperatures between 400 °C
+and 500 °C for 5 to 120 seconds after cold working. This
+stress-relief heat treatment promotes the recovery annealing
+stage, which removes the residual stresses introduced during
+manipulation of the wire. Thus it stabilizes the shape of the
+appliance. This is important clinically because such residual
+stresses can promote fracture when the appliance is being
+adjusted by the clinician.
+
+Soldering and Welding Stainless Steel
+Stainless-steel components are often joined by silver solders.
+Although such solders corrode in use because they are anodic to
+stainless steel, this is not objectionable in orthodontic appliances.
+These appliances are temporary structures, usually not worn in the
+mouth for more than 6 to 30 months, and frequent inspection by
+the orthodontist is necessary. As discussed earlier, a fluoride-containing flux is used to dissolve the passivating surface film formed
+by chromium.
+Technical Considerations for Soldering
+
+The freehand soldering of stainless steel is not greatly different
+from that of gold soldering, described earlier. A needlelike, nonluminous, gas-air flame may be used to minimize annealing of
+the metal surrounding the joint. The reducing zone of the flame
+should be used. The soldering should be observed in a shadow,
+against a black background, so that the temperature can be judged
+by the color of the workpiece. The color should never exceed a
+dull red.
+Prior to soldering, the parts should be tack-welded for alignment during the soldering procedure. Then flux should be
+applied, and the heavier-gauge part should be heated first. Flux
+must cover all of the areas to be soldered before heat is applied. As
+soon as the flux fuses, the solder alloy should be added, and heating is then continued until the solder flows around and within
+the joint. After the solder has flowed, the work should be immediately removed from the heat source and quenched in water.
+From the preceding discussion on the sensitization of austenitic
+stainless steels, it should be evident that the objective during
+
+Cobalt-chromium-nickel alloys were originally developed for use
+as watch springs (Elgiloy) and first marketed for use in orthodontic appliances during the 1950s. Elgiloy has excellent resistance
+to tarnish and corrosion in the oral environment, and it uses the
+same welding and soldering procedures used for stainless-steel
+wires.
+The manufacturer offers Elgiloy wires in four different tempers:
+soft, ductile, semiresilient, and resilient. The most widely used is
+the soft temper (Blue Elgiloy), which is easily manipulated and
+then heat-treated to achieve increased resilience; other tempers
+are also responsive to heat treatment. The resulting changes in
+mechanical properties are associated with precipitation reactions.
+Clinicians can easily perform heat treatment using an electrical
+resistance welding apparatus and a special paste provided by the
+manufacturer to indicate the optimal period of time.
+Because of their nearly identical values of elastic modulus
+(Table 9-16), the orthodontic force delivery for Blue Elgiloy and
+stainless-steel orthodontic wires is essentially the same. Heat treatment of Blue Elgiloy orthodontic wires was found to increase the
+elastic modulus in tension from a range of 160 to 190 GPa for
+as-received wires to a range of 180 to 210 GPa, along with the
+springback (YS/E) increase from a range of 0.0045 to 0.0065 to a
+range of 0.0054 to 0.0074. Co-Cr-Ni wire products are also available from other manufacturers, but minimal mechanical property
+data have been reported in the literature.
+
+Nickel-Titanium Alloys
+A wrought nickel-titanium orthodontic wire alloy known as
+Nitinol (now Nitinol Classic) was introduced commercially during the 1970s. This wire alloy is noted for its much lower elastic
+
+CHAPTER 9
+
+Mechanical Properties
+The approximate mechanical properties of Nitinol wire are shown
+in Table 9-16. The placement of permanent bends by the clinician
+in Nitinol wires is difficult because of their high resilience. Nitinol has high ductility, and its ability to undergo substantial work
+hardening is evident from the considerably higher tensile strength
+relative to the yield strength. The very low elastic modulus of Nitinol results in very low forces delivered by the appliance compared
+with similarly constructed and activated appliances from stainless
+steel and Co-Cr-Ni alloys, and the springback or elastic range
+available for tooth movement is much greater for Nitinol compared with these two alloys.
+
+d
+
+c
+
+Bending moment
+
+modulus (Table 9-16) and much wider elastic working range compared with the stainless-steel and Co-Cr-Ni wires. The alloy name
+Nitinol originally came from the two elements, nickel (Ni) and
+titanium (Ti), and the Naval Ordnance Laboratory (NOL) where
+these alloys were developed.
+The nickel-titanium alloys used in dentistry are based on the
+equiatomic intermetallic compound NiTi, which contains 55%
+nickel and 45% titanium by weight. Orthodontic wire alloys contain small amounts of other elements, such as copper and chromium. The microstructure consists predominantly of NiTi, but
+other very small precipitates having different compositions are also
+observed. The austenitic NiTi phase has a complex BCC structure,
+and the martensitic NiTi phase has been reported to possess a distorted monoclinic, triclinic, or hexagonal structure. The names
+austenitic and martensitic for these different crystallographic forms
+of NiTi have been taken from the metallurgical terminology for
+carbon steel and stainless steel.
+
+197
+
+Metals
+
+b
+e
+
+f
+
+a
+g
+
+Angular deflection
+• Figure 9-17 Schematic bending movement versus angular deflection
+curve for a nickel-titanium orthodontic wire showing the regions of superelasticity: b-c during loading (activation) and e-f during unloading (deactivation). Such behavior imparts a large working range to the arch wire.
+Region c-d corresponds to permanent deformation during loading, and de corresponds to initial unloading of the permanently deformed arch wire.
+Regions b-c and e-f correspond to the forward and reverse directions,
+respectively, of the stress-induced transformation between the low-stress
+austenitic and high-stress martensitic structures. The final stage of unloading occurs along region f-g.
+
+CRITICAL QUESTION
+What are the clinical advantages of a shape-memory nickel-titanium
+orthodontic wire compared with a stainless-steel orthodontic wire?
+
+Superelasticity and Shape Memory in Nickel-Titanium
+Orthodontic Wires
+Transformation between the austenitic and martensitic forms of
+Nitinol alloys can be induced by both temperature and stress.
+Austenitic NiTi is the high-temperature, low-stress form, and
+martensitic NiTi is the low-temperature, high-stress form. Transformation between these phases occurs by a twinning process,
+which is reversible below the elastic limit and also results in
+changes in volume and electrical resistivity.
+Figure 9-17 presents a highly schematic illustration of the
+stress-strain behavior for a certain type of NiTi wire in bending;
+the bending moment and the angular deflection are equivalent
+to the stress-versus-strain relationship tested in tension. Segment
+a-b corresponds to the initial elastic deformation of the wire,
+followed by segment b-c, where the austenitic structure transforms to the martensitic structure. After the transformation is
+completed at point c (typically at approximately 10% strain),
+further elastic deformation and plastic deformation occur with
+increasing bending moment along segment c-d. During unloading, this sequence of events is reversed, with segment d-e corresponding to loss of elastic strain (angular deflection) in the
+martensitic structure, followed by transformation back to the
+austenitic structure along segment e-f, and finally, loss of elastic
+strain in the austenitic structure along segment f-g, as the bending moment decreases to zero. A small amount of permanent
+angular deflection remains in the wire because of the permanent
+
+deformation induced in segment c-d. This behavior in segments
+b-c and e-f is called superelasticity or pseudoelasticity in engineering materials science. Segment e-f delivers a nearly constant force
+for tooth movement during deactivation (unloading), which
+does not occur with stainless-steel or Co-Cr-Ni wires. When the
+superelastic wire is tested in tension, for which the stress and
+strain are uniform over the cross section, segments b-c and e-f
+are both horizontal (corresponding, respectively, to the stressassisted transformation from austenite to martensite on loading
+and the reverse transformation on unloading). These two regions
+are referred to as the upper superelastic plateau and the lower superelastic plateau, respectively. There has been some question about
+whether the superelastic NiTi wires are activated sufficiently into
+the superelastic region under clinical conditions to take advantage of this property.
+Tooth movement can also be achieved by another property
+of some NiTi wires. The shape of the appliance, such as an orthodontic arch wire, is first established when the alloy is heated at
+a temperature near 480 °C to stabilize the austenitic structure
+(Figure 9-18). When the appliance is cooled to room temperature,
+the alloy converts to the twinned martensitic phase and retains its
+shape. The appliance is then reshaped at room temperature by the
+clinician; the deformed martensitic structure is altered because
+of the stress induced by the deformation. When it is placed into
+brackets bonded to malpositioned teeth, exposure of the wire to
+body temperature will promote the deformed martensitic structure to revert back to the austenitic structure, and the appliance
+regains its shape established near 480 °C, which allows for further
+tooth movement. This phenomenon is called shape memory, which
+
+198
+
+PA RT I I I
+
+Indirect Restorative Materials
+
+Cooling
+
+Deformation
+Twinned martensite
+
+Heating
+
+Austenite
+
+Deformed martensite
+
+• Figure 9-18 Shape-memory process. The austenite crystal is stable at a higher temperature and can
+be plastically deformed to some desired shape without altering its crystalline structure. When austenite is
+cooled to room temperature, it converts to a twinned martensite without undergoing a shape change. When
+the twinned martensite is deformed plastically under a stress, the structure detwins and takes up a new
+shape. Note that the overall shape of the object has changed, but the relative position between atoms did
+not change. Upon heating to body temperature (for orthodontic wire), the deformed martensite (detwinned
+martensite) will revert back to austenite and regain its original shape because there is no change in the relative
+position of the atom arrangement. Heating of twinned martensite will also recover the austenite structure.
+
+is possessed at body temperature by some commercial NiTi wire
+products.
+The temperature at which transformation from the martensitic structure to austenitic structure is completed is called the Af
+(austenite-finish) temperature. This transformation temperature
+can be varied by elemental additions, such as copper and chromium, which are used for the commercial copper Ni-Ti wires
+to achieve different activation temperatures (27, 35, and 40 °C)
+in the oral environment. The Af temperature is a clinically relevant property of an NiTi orthodontic wire, and its measurement
+by differential scanning calorimetry (DSC) is included in ISO
+Standard 15841 (ADA Specification No. 32) on wires for use in
+orthodontics.
+These standards subdivide orthodontic wires into type 1 and
+type 2, which display linear elastic and nonlinear elastic behavior, respectively, during unloading from 50 °C. Stainless steel,
+cobalt-chromium-nickel, and β-titanium wires are type 1; nickeltitanium wires are type 2. Mechanical properties can be measured
+using the tension test or the three-point bending test, where the
+bending force during unloading is measured at 3-, 2-, 1-, and 0.5mm deflections. Whereas type 1 wires can be tested at room temperature, type 2 wires are to be tested at 36 ± 1 °C.
+As noted previously, nickel-titanium orthodontic wires are difficult to reconfigure into clinical shapes, and they must be joined
+by mechanical crimps because the alloy can be neither soldered
+
+nor welded. In addition, nickel-titanium orthodontic wires have
+relatively rough surfaces, which result in high friction between
+arch wires and brackets; this can potentially prolong the time
+needed for clinical treatment.
+
+CRITICAL QUESTIONS
+What are the differences in the three general types of nickel-titanium
+orthodontic wires? Why is the superelasticity property of some NiTi alloys
+advantageous for endodontic applications?
+
+Nickel-Titanium Endodontic Instruments
+The outstanding property of the nickel-titanium alloy that
+resulted in its widespread use for endodontics is its much lower
+elastic modulus compared with the austenitic stainless steel that
+was formerly used for hand instruments. This allows the rotating
+NiTi file, used with an electric motor and reduction contra-angle
+handpiece, to negotiate curved root canals with facility. Although
+the pioneering article by Walia et al. investigated hand files fabricated from nonsuperelastic NiTi wire, subsequent NiTi alloys for
+rotary instruments were designed by manufacturers to have superelastic character with transformable austenite. The superelastic
+property enables the instrument to adapt along a sharply curving
+root canal during instrumentation, and the small increase in stress
+
+CHAPTER 9
+
+developed at the canal wall minimizes the risk for perforation of
+the canal. DSC studies have shown that the enthalpy change (ΔH)
+for transformation between martensite to austenite in rotary NiTi
+instruments is less than that for superelastic orthodontic wires,
+indicating that transformable austenite comprises a smaller proportion of the NiTi microstructure.
+The drawback of the NiTi alloy is that nickel-titanium rotary
+endodontic instruments have generally been fabricated by
+machining the starting wire blanks, in contrast to stainless-steel
+endodontic instruments, for which a special apparatus twists the
+tapered starting wire blank. However, rotary instruments have
+recently been introduced in which the NiTi wire blank is twisted
+(microstructure in the intermediate R-phase condition), rather
+than being machined. The machining process results in substantial permanent deformation (Figure 9-19) at the edges of the cutting flutes and surface flaws that can lead to premature fracture of
+the instrument. It is likely that the NiTi alloy is inherently notch
+sensitive because the coexisting austenitic and martensitic NiTi
+phases have very different crystal structures.
+Recently, new NiTi alloys, beginning with M-wire, have
+been introduced to endodontics, for which special manufacturer
+thermomechanical processing yields a largely martensitic microstructure. Rotary instruments fabricated by special proprietary
+protocols from these new alloys have improved fatigue resistance
+and have become widely used in practice. The novel products
+from one manufacturer are described as having the property of
+controlled memory.
+
+Metals
+
+199
+
+molybdenum stabilizes the BCC β-titanium structure at room
+temperature and yields an alloy of lower elastic modulus and
+higher ductility than those of the HCP α-titanium alloys. This
+means that β-titanium can easily be drawn into wires for orthodontic applications, but careful manufacturing attention to the
+drawing conditions is essential. Among all β-titanium orthodontic wires available, the original commercial alloy had the trade
+name of titanium-molybdenum alloy (TMA). This orthodontic
+alloy composition is very close to that of the engineering Beta
+III titanium alloy.
+
+Mechanical Properties of Beta-Titanium Wires
+The elastic modulus of β-titanium wires is intermediate between
+that for stainless-steel and Elgiloy wires and that for Nitinol wires
+(Table 9-16). The springback (YS/E) for β-titanium wires is much
+greater than that for the stainless-steel and Elgiloy wires and very
+similar to that for the Nitinol wires. The β-titanium wires can be
+highly cold-worked, and because of the BCC structure of the β
+phase, the wires have high formability, which is comparable to
+that of austenitic stainless steel, and can be readily bent into various orthodontic configurations.
+Because of the high reactivity of titanium, careful control of
+the original cast ingot quality, the atmosphere, and other processing parameters during wire drawing is essential. (This is also
+true for manufacturing of the nickel-titanium orthodontic wires.)
+Whereas heat treatments can be performed to alter the mechanical
+properties of β-titanium wires, these wires should not be heattreated by the clinician.
+
+The first commercial β-titanium orthodontic wires had an
+approximate composition (by weight) of 79% titanium, 11%
+molybdenum, 6% zirconium, and 4% tin. The addition of
+
+Welding
+Titanium alloys are highly reactive with oxygen at high temperature. Because of their high melting temperatures and this reactivity, soldering of these alloys with torches is not advisable. To
+prevent the potential reaction of titanium alloys with the oxygen
+in ambient air during the metal-joining process, these procedures
+are often performed in a vacuum or an argon environment. The
+β-titanium wires are the only orthodontic wire alloy type that
+demonstrates true weldability, and clinically satisfactory joints
+can be made by electrical resistance welding. Such joints need not
+
+• Figure 9-19 Photomicrograph of a nickel-titanium rotary endodontic in-
+
+• Figure 9-20 Photomicrograph of a weld joint between two 0.43-by
+
+CRITICAL QUESTION
+What is a potential clinical disadvantage of an orthodontic wire fabricated
+from β-titanium?
+
+Beta-Titanium Alloys
+
+strument, showing permanent deformation at the edges of the flutes (rollover) and other surface defects that resulted from the machining process
+used for fabrication. (Courtesy S. B. Alapati.)
+
+0.63-mm β-titanium orthodontic wires showing minimum distortion of the
+original cold-worked microstructure. (Courtesy T. C. Labenski and A. J.
+Goldberg.)
+
+200
+
+PA RT I I I
+
+Indirect Restorative Materials
+
+TABLE 9-17
+
+Physical Properties of Noble-Metal Wires
+
+Wire Type
+
+Yield Strength Oven-Cooled
+(MPa)
+
+Tensile Strength Oven-Cooled
+(MPa)
+
+Quenched
+
+Oven-Cooled
+
+Fusion Temperature (°C)
+
+Formerly ANSI/ADA Type I
+
+860
+
+930
+
+15
+
+4
+
+960
+
+Formerly ANSI/ADA Type II
+
+690
+
+860
+
+15
+
+2
+
+870
+
+ELONGATION (%)
+
+MINIMUM ELONGATION (%)
+Wire Type
+
+Proportional Limit (MPa)
+
+Quenched
+
+Oven-Cooled
+
+Fusion Temperature (°C)
+
+Platinum-gold-palladium
+
+*
+
+550–1030
+
+860–1240
+
+*
+
+14–15
+
+—
+
+1500–1530
+
+Palladium-silver-copper
+
+†
+
+†
+
+16–24
+
+8–15
+
+1040–1080
+
+690–790
+
+Tensile Strength (MPa)
+
+960–1070
+
+ADA, American Dental Association; ANSI, American National Standards Institute.
+*
+
+Quenched (alloy does not age-harden).
+
+†
+
+Age-hardened.
+
+Data from Dentists Desk Reference: Materials, Instruments and Equipment. Metals and Alloys: Precious Metal Wrought Wire, Chicago, IL, 1981, American Dental Association; Lyman T: Metals Handbook:
+Properties and Selection of Metals, ed 8, Vol 1, Metals Park, OH, 1964, American Society for Metals.
+
+be reinforced with solder, which is necessary for welded joints in
+stainless-steel and Elgiloy wires. A weld made with insufficient
+heat will fail at the interface between the wires, whereas overheating may cause a failure adjacent to the joint. Figure 9-20 is a cross
+section of a properly welded β-titanium joint, showing minimum
+distortion of the original cold-worked structure.
+
+Corrosion Resistance
+Because of a passive TiO2 surface film, which is analogous to the
+Cr2O3 film on stainless-steel and Elgiloy wires, titanium and its
+alloys generally have excellent corrosion resistance and environmental stability. There has been some concern about the biocompatibility of orthodontic wires containing nickel, which may cause
+localized tissue irritation or an allergic reaction in some patients,
+and it should be noted that β-titanium is the only major orthodontic wire alloy that is nickel-free.
+Surface Property
+The surface roughness of the β-titanium wires is much greater
+than that of the stainless-steel and Elgiloy wires. Scanning electron microscopy observations suggest that the surface roughness
+originates from adherence of the titanium in the β-titanium alloys
+to the dies or rollers used in the wire-manufacturing process. Special proprietary lubricants must be used by the manufacturers to
+alleviate this problem. During orthodontic treatment, the rough
+arch-wire surfaces increase sliding friction, and localized cold
+welding of the arch-wire alloy to the metal bracket has also been
+hypothesized.
+Surface treatment of nickel-titanium and β-titanium orthodontic wires with nitrogen ion implantation has been performed
+to decrease adhesion between wires and brackets. One study
+reported significant differences for in vitro tooth movement with
+ion-implanted TMA and nickel-titanium wires, compared with
+their non–ion-implanted counterparts. However, the results of
+a recent clinical study suggest that there were no significant differences for the rate of space closure when ion-implanted TMA,
+conventional TMA (not ion-implanted), and stainless-steel wires
+were used.
+
+Additional Wrought Alloys
+Noble-metal wires are still occasionally employed in the construction of RPD clasps and orthodontic appliances and in retention
+pins for restorations and endodontic posts. The elastic modulus
+of these gold alloy wires is approximately 100 to 120 GPa, which
+is higher than that for titanium-based wrought alloys but considerably lower than those of stainless steel and Co-Cr-Ni wrought
+alloys. Table 9-17 shows the compositions of two types of noblemetal wrought wires and the mechanical properties of two products: platinum-gold-palladium (P-G-P), which contains 40% to
+50% platinum, 25% to 30% gold, and 25% to 30% palladium
+by weight, and palladium-silver-copper (P-S-C), which consists of
+42% to 44% palladium, 38% to 41% silver, 16% to 17% copper,
+and 0% to 1% platinum by weight. The high fusion temperature
+(hence high recrystallization temperature) of P-G-P wire would
+be especially useful for casting an RPD framework to this alloy.
+It is the high fusion temperatures of platinum and palladium that
+raise the fusion temperature of P-G-P wire. P-S-C wires have also
+been considered useful for dental applications because their fusion
+temperatures are higher than those of the gold-based alloy wires.
+Wrought cobalt-chromium alloys for RPD clasps are also
+available. For example, a cobalt-chromium-tungsten-nickel wire
+(Ticonium) has a yield strength of approximately 920 MPa, a
+tensile strength of nearly 1400 MPa, and a percent elongation
+of 19%. This wrought alloy is not heat-treatable and is designed
+for use with the lower-fusing nickel-chromium-beryllium casting
+alloy from the same manufacturer.
+
+Acknowledgments
+The author wishes to acknowledge Dr. Paul Cascone, Dr. Kenneth
+Anusavice, and Dr. A. Jon Goldberg for their previous contributions to this chapter. The author also wants to thank Dr. Danna
+Mota Morena, Faculty of Dentistry, University Center Christus
+(Unichristus), Fortaleza, Brazil, for reviewing and providing valuable information for this chapter.
+
+CHAPTER 9
+
+Selected Readings
+Akova T, Ucar Y, Tukay A, et al: Comparison of the bond strength of
+laser-sintered and cast base metal dental alloys to porcelain, Dent
+Mater, 24:1400–1404, 2008.
+The bond strength to porcelain was not significantly different for cast
+Ni-Cr, cast Co-Cr, and laser-sintered Co-Cr alloys. Compositions of
+the Co-Cr alloys for casting and laser sintering are compared.
+Alapati SB, Brantley WA, Iijima M, et al: Metallurgical characterization
+of a new nickel-titanium wire for rotary endodontic instruments,
+J Endod, 35:1589–1593, 2009.
+TEM, TMDSC, and Micro-XRD analyses of the M-wire for rotary
+endodontic instruments.
+Brantley W, Berzins D, Iijima M, et al: Structure/property relationships
+in orthodontic alloys. In Eliades T, Brantley WA, editors: Orthodontic
+Applications of Biomaterials: A Clinical Guide: 2017, Elsevier.
+This chapter in a recently published book provides a comprehensive
+account of current orthodontic alloys used for wires, brackets, and
+other appliances. Another chapter discusses the use of nickel-titanium
+products in orthodontic practice.
+Brantley WA, Guo W, Clark WAT, et al: Microstructural studies of
+35 °C copper Ni-Ti orthodontic wire and TEM confirmation of
+low-temperature martensite transformation, Dent Mater, 24:204–
+210, 2008.
+TEM examination revealed that the very low-temperature transformation in NiTi wires is twinning in the martensite structure. Optical
+microscope, SEM, and TEM images, along with important electron
+diffraction patterns, were presented.
+Bridgeport DA, Brantley WA, Herman PF: Cobalt-chromium and nickelchromium alloys for removable prosthodontics: Part 1. Mechanical
+properties of as-cast alloys, J Prosthodon, 2:144–150, 1993.
+
+Metals
+
+201
+
+This article presents more recent measurements of the mechanical
+properties of removable partial denture alloys and contains relevant
+SEM photographs of the fracture surfaces.
+Gatto E, Matarese G, Di Bella G, et al: Load-deflection characteristics of
+superelastic and thermal nickel-titanium wires, Eur J Orthod, 35:115–
+123, 2013.
+Three-point bending plots for seven NiTi wires tested in a manner
+similar to the current ISO wire standard. Composition information is
+provided for the different NiTi alloys.
+Papazoglou E, Brantley WA, Johnston WM, et al: Effects of dental laboratory processing variables and in vitro testing medium on the porcelain adherence of high-palladium casting alloys, J Prosthet Dent,
+79:514–519, 1998.
+Setcos JC, Babaei-Mahani A, Silvio LD, et al: The safety of nickel containing dental alloys, Dent Mater, 22:1163–1168, 2006.
+This paper reviews papers published after 1985 in regard to biological
+reactions to nickel in dentistry. It is concluded that nickel-containing dental alloys do not pose a risk to patients or members of the dental team.
+Shen Y, Zhou HM, Zheng YF, et al: Metallurgical characterization of
+controlled memory wire nickel-titanium rotary instruments, J Endod,
+37:1566–1571, 2011.
+SEM examination, XRD analyses, and Vickers hardness measurements were performed for controlled-memory NiTi rotary instruments. The low risk for these instruments fracturing in the root canal
+is noted.
+Shoher I, Whiteman A: Captek—a new capillary casting technology for
+ceramometal restorations, Quintessence Dent Technol, 18:9–20, 1995.
+This paper describes the technology of the Captek system.
+Full Selected Readings for this chapter can be found on www.expertconsult.com.
+
+Selected Readings (Web Version)
+Akova T, Ucar Y, Tukay A, et al: Comparison of the bond strength of laser
+sintered and cast base metal dental alloys to porcelain, Dent Mater,
+24:1400–1404, 2008.
+The bond strength to porcelain was not significantly different for cast
+Ni-Cr, cast Co-Cr, and laser-sintered Co-Cr alloys. Compositions of
+the Co-Cr alloys for casting and laser sintering are compared.
+Al Jabbari YS, Barmpagadaki X, Psarris I, et al: Microstructural, mechanical, ionic release and tarnish resistance characterization of porcelain
+fused to metal Co-Cr alloys manufactured via casting and three different CAD/CAM techniques, J Prosthodont Res, 63:150–156, 2019.
+Co-Cr alloy specimens were prepared by conventional casting, milling,
+selective laser melting, and milling soft metal. While nominal manufacturer compositions were different, no significant difference in composition was found for the tested specimens from the four alloy groups.
+However, the manufacturing procedure significantly affected microstructure, porosity, and mechanical properties of the Co–Cr alloys.
+American Dental Association: Classification system for cast alloys, J Am
+Dent Assoc, 109:766, 1984.
+The ADA established a system for classifying casting alloys as high
+noble, noble, or predominantly base metal.
+Anusavice KJ, Carroll JE: Effect of incompatibility stress on the fit of
+metal-ceramic crowns, J Dent Res, 66:1341–1345, 1987.
+The results of this study suggest that thermal incompatibility stress
+resulting from a mismatch in thermal contraction coefficients may not
+be a significant cause of metal distortion.
+Brantley WA, Cai Z, Carr AB, et al: Metallurgical structures of as-cast and
+heat-treated high-palladium dental alloys, Cells Mater, 3:103–114, 1993.
+This study describes how the microstructures of these alloys develop
+in terms of their compositions and the rapid solidification conditions
+for dental casting.
+Brantley WA, Cai Z, Papazoglou E, et al: X-ray diffraction studies of oxidized high-palladium alloys, Dent Mater, 12:333–341, 1996.
+This study revealed the extremely complex structure of the internal
+oxide layers on the high-palladium dental alloys and the profound
+effect of surface preparation on the oxide phases found in these layers.
+Brantley WA, Wu Q, Mitchell JC, et al: Heat-treatment behavior of highpalladium dental alloys, Cells Mater, 7:161–174, 1997.
+A Pd-Cu-Ga alloy with much lower Vickers hardness is described, along
+with the complex metallurgical behavior of several alloys during heat
+treatments at temperatures within the range for porcelain firing cycles.
+Bridgeport DA, Brantley WA, Herman PF: Cobalt-chromium and nickelchromium alloys for removable prosthodontics: Part 1. Mechanical
+properties of as-cast alloys, J Prosthodon, 2:144–150, 1993.
+This article presents more recent measurements of the mechanical
+properties of removable partial denture alloys and contains relevant
+SEM photographs of the fracture surfaces.
+Cai Z, Bunce N, Nunn ME, et al: Porcelain adherence to dental cast CP titanium: Effects of surface modifications, Biomaterials, 22:979–986, 2001.
+This article explains the need to perform surface modification of cast
+CP titanium to improve porcelain adherence.
+Davis JR, ed. Metals Handbook, Desk Edition, Metals Park, OH, 1992,
+American Society for Metals.
+An excellent reference book for metallurgical terms and the properties
+of pure metals and alloys.
+DeHoff PH, Anusavice KJ: Viscoelastic stress analysis of thermally
+compatible and incompatible metal-ceramic systems, Dent Mater,
+14:237–245, 1998.
+A theoretical and experimental analysis of stress development in
+ceramic veneers resulting from mismatches in the thermal expansion/
+contraction coefficients between metals and ceramic veneers.
+Eggbeer D, Bibb R, Williams R: The computer-aided design and rapid
+prototyping fabrication of removable partial denture frameworks, Proc
+Inst Mech Eng H, 219:195–202, 2005.
+This work demonstrates that CAD/CAM techniques can be used
+for electronic dental cast analysis, preparation, and design of RPD
+frameworks.
+
+Fairhurst CW, Anusavice KJ, Hashinger DT, et al: Thermal expansion of
+dental alloys and porcelains, J Biomed Mat Res, 14:435–446, 1980.
+Fasbinder DJ: Restorative material options for CAD/CAM restorations,
+Compendium, 23:911, 2002.
+Guo WH, Brantley WA, Clark WAT, et al: Transmission electron microscopic investigation of a Pd-Ag-In-Sn dental alloy, Biomaterials,
+24:1705–1712, 2003.
+Microstructural analysis shows the presence of a face-centered tetragonal (fct) precipitate.
+Haag P: Porcelain veneering of titanium. Clinical and technical aspects,
+Swed Dent J, 217(Suppl):17–75, 2011.
+A review article on the processing, laboratory testing, and clinical
+observation of veneered titanium prostheses.
+Han HS, Yang HS, Lim HP, et al: Marginal accuracy and internal fit
+of machine-milled and cast titanium crowns, J Prosthet Dent,
+106(3):191–197, 2011.
+This study shows castings-produced titanium crowns with a better
+marginal fit than the CAD/CAM technique. The knife-edge margin
+exhibited the greatest marginal discrepancy.
+Li D, Brantley WA, Guo W, et al: Fatigue limits and SEM/TEM observations of fracture characteristics for three Pd-Ag dental casting alloys,
+J Mater Sci Mater Med, 18:119–125, 2007.
+This study illustrates the use of the staircase method to determine the
+fatigue limit. Microstructures of the three Pd-Ag alloys obtained with
+the SEM and TEM are shown.
+Mackert JR Jr, Ringle RD, Fairhurst CW: High-temperature behavior of
+a Pd-Ag alloy for porcelain, J Dent Res, 52:1229–1235, 1983.
+The results of this study indicate that internal oxidation and the associated formation of nodules on the surface of a Pd-Ag alloy occur
+rather than external oxidation in spite of the inclusion of oxidizable
+elements in the alloy.
+McLaren EA, Sorensen JA: High-strength alumina crowns and fixed partial dentures generated by copy-milling technology, Quintessence Dent
+Technol, 18:31–38, 1995.
+As an alternative to casting metal or sintering, hot-pressing or CAM of
+ceramics, copy milling can be used as one of four alternative processing methods. This issue of Quint Dent Technol offers explanations of
+copy milling, sintered foil, and electroforming methods.
+Moffa JP, Guckes AD, Okawa MT, et al: An evaluation of nonprecious
+alloys for use with porcelain veneers: Part II. Industrial safety and biocompatibility, J Prosthet Dent, 30:432–441, 1973.
+This article provides quantitative information about the levels of
+beryllium produced during the finishing and polishing of cast base
+metal dental alloys.
+Ohkubo C, Hanatani S, Hosoi T: Present status of titanium removable
+dentures—a review of the literature, J Oral Rehabil, 35:706–714,
+2008.
+This review describes the laboratory conditions needed for fabricating
+titanium frameworks and the status of titanium removable prostheses.
+Okabe T, Ohkubo C, Watanabe I, et al: The present status of dental titanium casting, J Metals, 50:24–29, 1998.
+This review article also provides important references for the historical
+development of casting titanium for dental applications.
+Örtorp A, Jönsson D, Mouhsen A, et al: The fit of cobalt-chromium
+three-unit fixed dental prostheses fabricated with four different
+techniques: A comparative in vitro study, Dent Mater, 27:356–363,
+2011.
+This study examined the effect of four fabrication methods, conventional lost-wax method, milled wax with lost-wax method, CAM milling, and direct laser metal sintering, on the fit of three-unit Co–Cr
+FDPs as a function of the cement film thickness of the marginal and
+internal gaps.
+Papazoglou E, Brantley WA: Porcelain adherence vs force to failure for
+palladium-gallium alloys: A critique of metal-ceramic bond testing,
+Dent Mater, 14:112–119, 1998.
+This article describes the use of two methods to evaluate the metalceramic bond. No correlation was found between these methods for a
+series of Pd-Ga alloys bonded to the same porcelain.
+201.e1
+
+Papazoglou E, Brantley WA, Johnston WM: Evaluation of high-temperature distortion of high-palladium metal-ceramic crowns, J Prosthet
+Dent, 85:133–140, 2001.
+Experiments that simulated the steps in the preparation of single
+metal-ceramic crowns suggest that these alloys pose no clinically significant problems with dimensional changes, provided that appropriate dental laboratory procedures are followed.
+Papazoglou E, Brantley WA, Johnston WM, et al: Effects of dental laboratory processing variables and in vitro testing medium on the porcelain adherence of high-palladium casting alloys, J Prosthet Dent,
+79:514–519, 1998.
+Papazoglou E, Wu Q, Brantley WA, et al: Comparison of mechanical
+properties for equiaxed fine-grained and dendritic high-palladium
+alloys, J Mater Sci Mater Med, 11:601–608, 2000.
+This article provides a detailed explanation of the laboratory measurement of mechanical properties and discusses how simulated porcelain
+firing changes the properties of as-cast Pd-Cu-Ga and Pd-Ga alloys.
+SEM observations of fracture surfaces and microstructures are presented, and the role of casting porosity is reported.
+Rekow D, Thompson VP: Near-surface damage—a persistent problem in
+crowns obtained by computer-aided design and manufacturing, Proc
+Inst Mech Eng H, 219:233–243, 2005.
+The article discusses factors that contribute to surface damage of
+CAD/CAM fabrication of ceramic prostheses.
+Setcos JC, Babaei-Mahani A, Silvio LD, et al: The safety of nickel containing dental alloys, Dent Mater, 22:1163–1168, 2006.
+This paper reviews papers published after 1985 in regard to biological
+reactions to nickel in dentistry. It is concluded that nickel-containing
+dental alloys do not pose a risk to patients or members of the dental
+team.
+Shillingburg HT, Hobo S, Fisher DW: Preparation, design and margin
+distortion in porcelain-fused-to-metal restorations, J Prosthet Dent,
+29:276–284, 1973.
+The results of this study suggested that thermal incompatibility stresses
+were likely to cause margin distortion in metal-ceramic crowns. However, subsequent studies support other potential mechanisms, including the effect of excessive sandblasting time and/or pressure.
+Shoher I, Whiteman A: Captek—a new capillary casting technology for
+ceramometal restorations, Quintessence Dent Technol, 18:9–20, 1995.
+This paper describes the technology of the Captek system.
+Svanborg P, Hjalmarsson L: A systematic review on the accuracy of manufacturing techniques for cobalt chromium fixed dental prostheses,
+Biomater Investig Dent, 7:31–40, 2020.
+Takaichi A, Suyalatu, Nakamoto T, et al: Microstructures and mechanical
+properties of Co-29Cr-6Mo alloy fabricated by selective laser melting
+process for dental applications, J Mech Behav Biomed Mater, 21:67–
+76, 2013.
+An advanced study of the microstructure of Co-Cr alloy specimens
+fabricated by selective laser melting. The anisotropy in mechanical
+properties resulting from different build directions for the tensile test
+specimens was investigated, along with elution of elements into a lactic acid solution.
+Togaya T, Suzuki M, Tsutsumi S, et al: An application of pure titanium to
+the metal porcelain system, Dent Mater J, 2:210–219, 1983.
+This paper highlights the potential of porcelain bonding to CP Ti and
+the importance of matched expansion coefficients of metal and porcelain on the bond strength of the bonded metal-ceramic specimens.
+Vallittu PK, Kokkonen M: Deflection fatigue of cobalt-chromium, titanium, and gold alloy cast denture clasp, J Prosthet Dent, 74:412–419,
+1995.
+The results of this study suggest that significant differences exist in the
+fatigue resistance of removable denture clasps made from different commercial cast metals, which may cause loss of retention and clasp failures.
+van der Lingen E: Aspects of coloured precious metal intermetallic compounds, J S Afr I Min Metall, 114:137–144, 2014.
+A review article that discusses gold, platinum, and palladium colored
+intermetallic compounds from metal physics and crystal structure
+
+201.e2
+
+viewpoints. Excellent references are provided, including a dental alloy
+patent.
+Vreeburg KJ, de Groot K, von Blomberg M, et al: Induction of immunological tolerance by oral administration of nickel and chromium,
+J Dent Res, 63:124–128, 1984.
+This article describes the effects of oral administration of nickel and
+chromium to guinea pigs.
+Wang XC, Laoui T, Bonse J, et al: Direct selective laser sintering of hard
+metal powders: experimental study and simulation, Int J Adv Manuf
+Technol, 19:351–357, 2002.
+The metallurgical processes that occur during selective laser sintering
+of metal powder are described.
+Wettstein F, Sailer I, Roos M, et al: Clinical study of the internal gaps of
+zirconia and metal frameworks for fixed partial dentures, Eur J Oral
+Sci, 116:272–279, 2008.
+The study shows posterior three-unit FPDs incorporating milled
+zirconia frameworks exhibited larger internal gaps than those constructed using conventional metal-ceramic techniques.
+Metal Joining
+Byrne G: Soldering in prosthodontics—an overview, Part I, J Prosthodont,
+20:233–243, 2011.
+Kaylakie WG, Brukl CE: Comparative tensile strengths of nonnoble dental alloy solders, J Prosthet Dent, 53:455–462, 1985.
+Tensile strengths and failure sites of a large number of base metal solders are described. In addition, various soldering technique variables
+are studied, and a radiographic method for evaluating soldered joints
+is described.
+Nuñez-Pantoja JMC, Takahashi JMFK, Nóbilo MAdeA, et al: Radiographic inspection of porosity in Ti-6Al-4V laser-welded joints, Braz
+Oral Res, 25:103–108, 2011.
+Perveen A, Molardi C, Forniani C: Applications of laser welding in
+dentistry: A state-of-the-art review, Micromachines, 2018;9(1-23)
+209.
+Wang RR, Welsch GE: Joining titanium materials with tungsten inert-gas
+welding, laser-welding, and infrared brazing, J Prosthet Dent, 74:521–
+530, 1995.
+Wrought Alloys
+Alapati SB, Brantley WA, Iijima M, et al: Micro-XRD and temperaturemodulated DSC investigation of nickel-titanium rotary endodontic
+instruments, Dent Mater, 25:1221–1229, 2009.
+Alapati SB, Brantley WA, Nusstein JM, et al: Vickers hardness investigation of work-hardening in used NiTi rotary instruments, J Endod,
+32:1191–1193, 2006.
+Two articles from a series of publications by this research group on
+SEM observations of nickel-titanium rotary endodontic instruments.
+Alapati SB, Brantley WA, Iijima M, et al: Metallurgical characterization of a new nickel-titanium wire for rotary endodontic instruments, J Endod, 35:1589–1593, 2009.
+TEM, TMDSC, and Micro-XRD analyses of the M-wire for rotary
+endodontic instruments.
+Alapati SB, Brantley WA, Svec TA, et al: SEM observations of nickeltitanium rotary endodontic instruments that fractured during clinical
+use, J Endod, 31:40–43, 2005.
+Two rotary instrument products containing transformable austenite
+were analyzed in the as-received and clinically used conditions, and
+after heat treatment at temperatures from 400 °C–850 °C.
+Andreasen GF, Morrow RE: Laboratory and clinical analyses of Nitinol
+wire, Am J Orthod, 73:142–151, 1978.
+This classic article describes the laboratory properties and clinical
+uses of the first commercially available nickel-titanium orthodontic
+wire.
+Asgharnia MK, Brantley WA: Complete bending and tensile data for various sizes of the four common orthodontic archwire alloys comparison of bending and tension tests for orthodontic wires, Am J Orthod,
+89:228–236, 1986.
+
+Brantley W, Berzins D, Iijima M, et al: Structure/property relationships
+in orthodontic alloys. In Eliades T, Brantley WA, editors: Orthodontic Applications of Biomaterials: A Clinical Guide, 2017, Elsevier.
+This chapter in a recently published book provides a comprehensive
+account of current orthodontic alloys used for wires, brackets, and
+other appliances. Another chapter discusses the use of nickel-titanium
+products in orthodontic practice.
+Brantley WA: Orthodontic wires. In Brantley WA, Eliades T, editors:
+Orthodontic Wires: Scientific and Clinical Aspects, Stuttgart, Germany,
+2001, Thieme.
+This comprehensive chapter on orthodontic wires in an older book
+contains an extensive discussion of x-ray diffraction and differential
+scanning calorimetric analyses of nickel-titanium wires.
+Brantley WA, Guo W, Clark WAT, et al: Microstructural studies of 35 °C
+copper Ni-Ti orthodontic wire and TEM confirmation of low-temperature martensite transformation, Dent Mater, 24:204–210, 2008.
+TEM examination revealed that the very low-temperature transformation in NiTi wires is twinning in the martensite structure. Optical
+microscope, SEM, and TEM images, along with important electron
+diffraction patterns, were presented.
+Brantley WA, Iijima M, Grentzer TH: Temperature-modulated DSC
+provides new insight about nickel-titanium wire transformations, Am
+J Orthod Dentofac, 124:387–394, 2003.
+The first use of TMDSC to investigate NiTi orthodontic wires. Much
+more information about transformations is obtained compared to
+conventional DSC. Superelastic and shape memory wires were analyzed. A low-temperature martensite transformation of unknown
+character was observed.
+Brantley WA, Luebke NH, Luebke FL, et al: Performance of engine-driven
+rotary endodontic instruments with a superimposed bending deflection: V. Gates Glidden and Peeso drills, J Endod, 20:241–245, 1994.
+A series of articles describing the effects of torsion, bending, and
+bending fatigue on stainless steel rotary instruments. The micrographs
+are of particular interest.
+Brantley WA, Svec TA, Iijima M, et al: Differential scanning calorimetric
+studies of nickel titanium rotary endodontic instruments, J Endod,
+28:567–572, 2002.
+The first extensive use of DSC to investigate NiTi transformations in
+rotary instruments. Differences in transformation characteristics for
+three products were attributed to differences in manufacturer processing.
+Brick RM, Pense AW, Gordon RB: Structure and Properties of Engineering
+Materials, ed 4, New York, 1977, McGraw-Hill.
+An undergraduate engineering textbook that discusses carbon steels,
+stainless steels, titanium alloys, and deformation and strengthening
+mechanisms for metals.
+Bryant ST, Thompson SA, al-Omari MA, et al: Shaping ability of ProFile
+rotary nickel-titanium instruments with ISO sized tips in simulated
+root canals: Part 1 & Part 2, Int Endod J, 31:275–289, 1998.
+This research group has published several articles evaluating the ability
+of a variety of rotary endodontic instruments to shape root canals.
+Burstone CJ: Application of bioengineering to clinical orthodontics. In
+Graber TM, Vanarsdall RL, editors: Orthodontics: Current Principles
+and Techniques, ed 3, St Louis, 2000, Mosby.
+The application of mechanics to clinical orthodontics is described.
+The relationship between alloy properties, wire geometry, and appliance force systems is also explained.
+Burstone CJ, Goldberg AJ: Beta titanium: A new orthodontic alloy, Am J
+Orthod, 77:121–132, 1980.
+This classic article was concurrent with the introduction of the betatitanium orthodontic wires and presents clinical applications, as well
+as a brief review of the other wire alloys.
+Burstone CJ, Goldberg AJ: Maximum forces and deflections from orthodontic appliances, Am J Orthod, 84:95–103, 1983.
+Maximal properties of various orthodontic wire sizes and alloys are
+presented and related to theoretically predicted values, assuming complete elastic behavior.
+
+Dieter GE: Mechanical Metallurgy, ed 3, New York, 1986, McGraw-Hill.
+An undergraduate engineering textbook that contains highly readable
+descriptions of strengthening mechanisms, fracture processes, and the
+mechanical testing of metals.
+Duerig TW, Melton KN, Stöckel D, et al, editors: Engineering Aspects of
+Shape Memory Alloys, London, 1990, Butterworth-Heinemann.
+A highly readable account of the shape memory phenomenon and
+shape memory alloys. A variety of dental and medical applications for
+shape memory alloys are discussed.
+Elnaghy AM, Elsaka SE: Cyclic fatigue resistance of One Curve, 2Shape,
+ProFile Vortex, Vortex Blue, and RaCe nickel-titanium rotary instruments in single and double curvature canals, J Endod, 44:1725–1730,
+2018.
+This recent article compares the results of laboratory fatigue resistance
+for several rotary instrument products and provides leads into the literature for this highly active research area.
+Gatto E, Matarese G, Di Bella G, et al: Load-deflection characteristics
+of superelastic and thermal nickel-titanium wires, Eur J Orthod,
+35:115–123, 2013.
+Three-point bending plots for seven NiTi wires tested in a manner
+similar to the current ISO wire standard. Composition information is
+provided for the different NiTi alloys.
+Iijima M, Brantley WA, Yuasa T, et al: Joining characteristics of
+β-titanium wires with electrical resistance welding, J Biomed Mater
+Res B, 85:378–384, 2008.
+This study shows that welding of β-titanium alloy using electrical resistance in air may not adversely affect clinically important
+mechanical properties. Scanning microscope observations indicated
+that the localized permanent deformation and the formation of an
+undesirable equiaxed grain structure occurred with the use of narrow
+electrodes.
+Iijima M, Muguruma T, Brantley WA, et al: Comparisons of nanoindentation, 3-point bending, and tension tests for orthodontic wires, Am J
+Orthod Dentofac, 140:65–71, 2011.
+Five wires were examined: 1 stainless steel, 1 cobalt-chromium-nickel,
+1 beta-titanium, and 2 nickel-titanium. Differences observed for the
+nanoindentation and conventional mechanical property tests were
+attributed to the differences in the volume of material examined,
+work-hardening levels, and the oxide layer on the wire surface.
+Johnson E, Lloyd A, Kuttler S, et al: Comparison between a novel nickeltitanium alloy and 508 nitinol on the cyclic fatigue life of ProFile
+25/.04 rotary instruments, J Endod, 34:1406–1409, 2008.
+Introduction of the new M-wire alloy that provides increased fatigue
+resistance for NiTi rotary endodontic instruments.
+Khier SE, Brantley WA, Fournelle RA: Structure and mechanical properties of as-received and heat-treated stainless steel orthodontic wires,
+Am J Orthod Dentofac, 93:206–212, 1988.
+X-ray diffraction analyses in this classic article show that austenitic
+stainless steel orthodontic wires can also contain a bcc martensite
+phase, depending upon the alloy composition and wire processing.
+The heat treatment response of stainless steel orthodontic wires is
+explained.
+Khier SE, Brantley WA, Fournelle RA: Bending properties of superelastic
+and nonsuperelastic nickel-titanium orthodontic wires, Am J Orthod
+Dentofac, 99:310–318, 1991.
+Cantilever bending plots for as-received and heat-treated wires, following the protocol in the former ADA Specification No. 32, were
+obtained for different wire products from six manufacturers. Different
+heat treatment responses and amounts of springback occur for the
+superelastic and nonsuperelastic wires.
+Kim HC, Yum J, Hur B, Cheung GS: Cyclic fatigue and fracture characteristics of ground and twisted nickel-titanium rotary files, J Endod,
+36:147–152, 2010.
+[Comments by Sabala G: J Endod, 36:951, 2010; author reply 951.]
+The processing of the new twisted NiTi files is presented, and their
+fatigue performance is compared to NiTi files that are machined from
+the starting wire blanks.
+
+201.e3
+
+Kusy RP: A review of contemporary archwires: their properties and characteristics, Angle Orthod, 67:197–207, 1997.
+The historical introduction to orthodontics for each of the four major
+wire alloy types is presented. The summary for the nickel-titanium
+wire alloys is excellent. The classifications of martensite-stabilized,
+austenite-active, and martensite-active is introduced for the NiTi
+wires.
+Kusy RP, Greenberg AR: Effects of composition and cross section on the
+elastic properties of orthodontic archwires, Angle Orthod, 51:325–
+341, 1981.
+A comprehensive derivation of the effects of wire shape, wire size,
+and alloy type on the strength, stiffness, and range properties in the
+elastic region.
+Miura R, Mogi M, Ohura Y, et al: The super-elastic property of the Japanese Ni-Ti alloy wire for use in orthodontics, Am J Orthod Dentofac,
+90:1–10, 1986.
+A classic article that first described the metallurgy, mechanical properties, and clinical applications of nickel-titanium orthodontic wires
+possessing superelastic characteristics.
+Parr JG, Hanson A: An Introduction to Stainless Steel. Metals Park, OH,
+1971, American Society for Metals.
+A useful review of the applications, metallurgy, mechanical properties,
+and corrosion principles for stainless steel.
+Sarkar NK, Redmond W, Schwaninger B, et al: The chloride corrosion
+behavior of four orthodontic wires, J Oral Rehabil, 10:121–128, 1983.
+A classic article that presents the in vitro cyclic potentiodynamic
+polarization of stainless steel, cobalt-chromium-nickel, beta-titanium,
+and nickel-titanium orthodontic wires.
+Shen Y, Coil JM, Zhou H, et al: HyFlex nickel-titanium rotary instruments after clinical use: metallurgical properties, Int Endod J, 46:720–
+729, 2013.
+
+201.e4
+
+Shen Y, Zhou HM, Zheng YF, et al: Metallurgical characterization
+of controlled memory wire nickel-titanium rotary instruments,
+J Endod, 37:1566–1571, 2011.
+SEM examination, XRD analyses, and Vickers hardness measurements were performed for controlled-memory NiTi rotary instruments. The low risk for these instruments fracturing in the root canal
+is noted.
+Thompson SA: An overview of nickel-titanium alloys used in dentistry,
+Int Endod J, 33:297–310, 2000.
+A review article describing the shape memory effect and the manufacture of nickel-titanium endodontic instruments.
+Verstrynge A, Van Humbeeck J, Willems G: In-vitro evaluation of the
+material characteristics of stainless steel and beta-titanium orthodontic wires, Am J Orthod Dentofac, 130:460–470, 2006.
+Information about compositions, mechanical properties, and value of
+surface roughness is provided for several different stainless steel and
+beta-titanium wire products.
+Walia H, Brantley WA, Gerstein H: An initial investigation of the bending and torsional properties of Nitinol root canal files, J Endod,
+14:346–351, 1988.
+The original article that stimulated the interest of the endodontic profession and manufacturers in the use of nickel-titanium root canal
+instruments.
+Zinelis S, Annousaki O, Eliades T, et al: Metallographic structure and
+hardness of titanium orthodontic brackets, J Orofac Orthop, 264:426–
+433, 2003.
+Zinelis S, Annousaki O, Makou M, et al: Metallurgical characterization of orthodontic brackets produced by Metal Injection Molding
+(MIM), Angle Orthod, 75:1024–1031, 2005.
+Manufacturing processes for titanium orthodontic brackets are described.
+Information is also provided about stainless steel bracket alloys.
+

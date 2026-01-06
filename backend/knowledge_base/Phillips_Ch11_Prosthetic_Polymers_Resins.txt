@@ -1,0 +1,1948 @@
+11
+
+Prosthetic Polymers and Resins
+OUTLINE
+Acrylic Resins
+
+Physical Properties of Denture Base Resins
+
+General Technique of Denture Base Fabrication
+
+Biological Properties of Denture Base Resins
+
+Heat-Activated Denture Base Resins
+
+Additional Procedures Associated With Dentures
+
+CAD-CAM Procedures in Denture Base Fabrication
+
+Resin Teeth for Prosthetic Applications
+
+Chemical-Activated Denture Base Resins
+
+Materials for Maxillofacial Prosthetics
+
+Light-Activated Denture Base Resins
+
+KEY TERMS
+Denture liner The polymeric material used to replace the tissuecontacting (intaglio) surface of an existing denture. A denture
+liner may be hard or soft, short or long term.
+Long-term resilient soft liner A resilient polymeric material that
+is bonded to the tissue-contacting surface of a denture for
+cushioning and/or improved retention. Such liners typically are
+heat-processed, and thus, they are more durable than chemicalactivated, short-term soft liners and tissue conditioners.
+Rebasing The process of replacing the entire denture base of an
+existing complete or partial denture.
+Relining The process of replacing the tissue-contacting surface of
+an existing denture.
+Resilient soft denture liner A polymeric material that is placed
+on the tissue-contacting surface of a denture base to absorb
+
+some of the mastication impact energy by acting as a type of
+“shock absorber” between the occlusal surfaces of a denture
+and the underlying oral tissues. A denture soft liner may also
+be used to engage natural or prosthetic undercuts so as to
+provide retention, stability, and support. These materials
+may be placed chairside (directly) or in the dental laboratory
+(indirectly).
+Short-term soft liner (tissue conditioner) A resilient polymeric
+material that is employed for brief periods (up to 14 days) to absorb masticatory impact and adapt to changing ridge contours
+(e.g., following the extraction of teeth or surgical alteration of
+an edentulous or partially edentulous ridge). Such materials
+are typically chemical-activated polymers and tend to degrade
+more rapidly than heat-activated resins.
+
+The Glossary of Prosthodontic Terms, 9th edition, defines a complete denture as a removable dental prosthesis that replaces
+the entire dentition and associated structures of the maxilla
+or mandible. Such a prosthesis is composed of artificial teeth
+attached to a denture base. In turn, the denture base derives its
+support through contact with the oral tissues, teeth, or dental
+implants.
+Although individual denture bases can be formed from metals or ceramics, the majority of denture bases are fabricated using
+common polymers. Such polymers are chosen based on availability, dimensional stability, handling characteristics, color, and compatibility with oral tissues.
+A description of commonly used denture base polymers is
+presented in this chapter. Considerable attention is given to individual processing systems and polymerization techniques. In addition, methods for improving the fit and dimensional stability of
+resin-based prostheses are provided.
+
+Acrylic Resins
+Since the mid-1940s, the majority of denture bases have been
+fabricated using poly(methyl methacrylate) resins, also known as
+PMMA. PMMA is a colorless transparent solid that can be tinted
+with pigments, dyes, fillers, and fibers to provide almost any color,
+shade, and degree of translucency. The color, optical characteristics, and dimensional properties of PMMA remain stable under
+normal intraoral conditions, and its physical properties have
+proven to be adequate for dental applications.
+One decided advantage of PMMA is the relative ease with which
+this material can be processed. PMMA denture base material is
+commonly supplied as a powder–liquid system (Figure 11-1). The
+liquid contains mostly methyl methacrylate monomers, di- or trimethacrylate crosslinking agents (Figure 11-2), and an inhibitor,
+and the powder contains predominantly PMMA resin in the form
+of micro-sized beads (or spheres). When the liquid and powder
+
+233
+
+234
+
+PA RT I I I
+
+Indirect Restorative Materials
+
+are mixed in the proper proportions, a workable mass is formed.
+The material is introduced into a properly formed mold cavity
+and polymerized under heat and pressure. Recall from Chapter 2,
+Chemistry of Polymerization, that polymerization can be activated by chemical, heat, and light energy. Microwave energy may
+also be used for polymerization. In addition, computer-aided
+
+design/computer-aided manufacturing (CAD-CAM) technologies of milling PMMA pucks and three-dimensional (3-D) printing using methacrylate-based monomers (Chapter 15, Additive
+Manufacturing—3D printing) are also available.
+
+General Technique of Denture Base
+Fabrication
+
+• Figure 11-1 A representative heat-activated resin. The majority of heatactivated resins are supplied as powder–liquid systems. (Courtesy Lang
+Dental Mfg. Co., Inc., Wheeling, IL.)
+
+Methyl
+methacrylate
+
+Glycol
+dimethacrylate
+
+Several processing techniques are available for the fabrication of
+denture bases (Figures 11-3 to 11-11). Each technique requires
+a suitable impression of the associated dental arch, followed by
+the fabrication of an accurate gypsum cast. In turn, a resin record
+base is fabricated on the cast. Wax is added to the record base, and
+prosthetic teeth are positioned in the wax (Figure 11-3, A). The
+prosthetic teeth are related to the opposing dentition and evaluated in the patient’s mouth before proceeding.
+In the laboratory, a bronze denture flask is used, and the
+completed tooth arrangement is encased in a suitable investing
+medium (usually gypsum). A plastic denture flask is mandatory
+if microwave energy is used. Subsequently, the denture flask is
+opened, and the wax denture base is eliminated in a hot-water
+bath, leaving the prosthetic teeth in place. After a thorough cleansing of the mold, an appropriate separator is applied to the gypsum surface. In turn, a resin denture base material is introduced
+into the mold cavity and polymerized under pressure. Following
+polymerization, the denture is recovered and prepared for clinical
+placement.
+Not all denture base processing requires flasks. When light-activated resin or CAD-CAM processing is used, no flask is needed.
+In this chapter, we will discuss commonly available denture base
+materials and the properties and additional applications of denture base resins.
+
+Crosslinked poly(methyl methacrylate)
+
+Activator
+Initiator
+
+• Figure 11-2 Chemical basis for the formation of crosslinked poly(methyl methacrylate) (PMMA). Glycol
+dimethacrylate is incorporated into PMMA chains and may “bridge” or “interconnect” such chains.
+
+CHAPTER 11
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+Prosthetic Polymers and Resins
+
+235
+
+• Figure 11-3 Steps in mold preparation (compression molding technique). A, Completed tooth arrangement prepared for flasking process. B, Master cast embedded in properly contoured dental gypsum.
+C, Occlusal and incisal surfaces of the prosthetic teeth are exposed to facilitate subsequent denture recovery. D, Fully flasked complete maxillary denture. E, Separation of flask segments during wax-elimination
+process. F, Placement of alginate-based separating medium.
+
+Heat-Activated Denture Base Resins
+Heat-activated materials are used in the fabrication of nearly all
+denture bases. The use of heat-activated polymers involves the
+preparation of a gypsum mold for compression molding, preparation of denture base resin, and a thermal polymerization using a
+water bath or microwave oven.
+
+Compression Molding Technique
+As a rule, heat-activated denture base resins are shaped via compression molding. Therefore the compression molding technique
+is described in detail in the following subsections.
+
+Preparation of the Mold
+Before mold preparation, prosthetic teeth must be selected and
+arranged in a manner that will fulfill both esthetic and functional
+requirements. In turn, the completed tooth arrangement is sealed
+to the master gypsum cast.
+At this stage, the master cast and completed tooth arrangement are removed from the dental articulator (Figure 11-3, A).
+The master cast is coated with a thin layer of separator to prevent
+adherence of dental gypsum to the master cast during the flasking process. The lower half of a denture flask is filled with freshly
+mixed gypsum, and the master cast is placed into this mixture.
+The gypsum is contoured to facilitate wax elimination, packing,
+and deflasking procedures (Figure 11-3, B). Upon reaching the
+initial set, the gypsum surfaces are coated with an appropriate
+separator.
+The upper half of the selected denture flask is then positioned
+atop the lower half of the flask. A surface-tension–reducing agent
+is applied to exposed wax surfaces, and a second mix of dental
+gypsum is prepared. This increment of gypsum is poured into
+the denture flask. Care must be taken to ensure that the investing
+
+material achieves intimate contact with all external surfaces of the
+mounted teeth. The investing gypsum is added until all surfaces of
+the tooth arrangement and denture base are completely covered.
+Incisal and occlusal surfaces are minimally exposed to facilitate
+subsequent deflasking (Figure 11-3, C). The gypsum is then permitted to set and is coated with a colorless separator.
+At this point, an additional increment of gypsum is mixed, and
+the remainder of the flask is filled. The lid of the flask is gently
+seated, and the gypsum is allowed to harden (Figure 11-3, D).
+After the gypsum has hardened, the record base and wax must
+be removed from the mold. To accomplish this task, the denture
+flask is immersed in boiling water for 4 minutes. The flask is
+then removed from the water, and the appropriate segments are
+separated. The record base and softened wax remain in the lower
+half of the denture flask, while the prosthetic teeth remain firmly
+embedded in the investing gypsum of the remaining segment
+(Figure 11-3, E). The record base and softened wax are carefully
+removed from the surface of the mold. Residual wax is removed
+from the mold cavity using wax solvent. The mold cavity is subsequently cleaned with a mild detergent solution and rinsed with
+boiling water.
+
+CRITICAL QUESTIONS
+What is the purpose of a separating medium that is used during denture base
+fabrication? What is the chemical basis for popular separating media?
+
+Selection and Application of a Separating Medium
+The next step in denture base fabrication involves the application of an appropriate separating medium onto the surfaces of
+the mold cavity. This medium prevents direct contact between
+the denture base resin and the mold surface. Failure to place an
+appropriate separating medium can lead to two major difficulties:
+(1) If water is permitted to diffuse into the denture base resin, the
+
+236
+
+PA RT I I I
+
+Indirect Restorative Materials
+
+moisture can affect the polymerization rate and the optical and
+physical properties of the resultant denture base. (2) If dissolved
+polymer or free monomer soaks into the mold surface, portions of
+the investing medium can fuse to the denture base, affecting the
+physical and esthetic properties of processed denture bases.
+Currently, the most popular separating agents are water-soluble
+colloidal alginate solutions. When applied to gypsum surfaces, these
+solutions produce thin, relatively insoluble calcium alginate films.
+These films prevent direct contact of denture base resins and the surrounding dental gypsum.
+A small amount of separator is dispensed into a disposable
+container. Then, a fine brush is used to apply the separating
+medium onto the exposed surfaces of a warm, clean gypsum mold
+(Figure 11-3, F). Separator should not contact the exposed portions of acrylic resin teeth because the separator interferes with
+chemical bonding between acrylic resin teeth and denture base
+resins. Subsequently, the mold sections are oriented to prevent
+“pooling” of separator and permitted to dry.
+
+results in shrinkage. Research indicates that the polymerization
+of methyl methacrylate monomers to form PMMA yields a 21%
+decrease in the volume of material. To minimize dimensional
+changes, resin manufacturers incorporate a significant fraction of
+polymer beads, like the fillers added in resin-based composites.
+When the powder and liquid components are mixed in the
+proper proportions, a doughlike mass results. Commercial products generally exhibit a polymer-to-monomer ratio of approximately 3:1 by volume. This ratio provides sufficient monomer to
+thoroughly wet the polymer beads but does not contribute excess
+monomer that would produce increased polymerization shrinkage. Using a 3:1 ratio, the volumetric shrinkage can be limited to
+approximately 7% (about 2.3% linear shrinkage). Polymerization
+shrinkage is compensated by the initial setting expansion of the
+gypsum mold and swelling of the polymerized acrylic resin upon
+exposure to water in the denture flask and in clinical service. Consequently, the completed prosthesis displays little dimensional
+change.
+
+Preparation of Heat-Activated Denture Resin
+
+CRITICAL QUESTIONS
+
+As previously noted, most PMMA resin systems include powder
+and liquid components (Figure 11-1). The powder consists of
+spheres of PMMA, other copolymer, and a small amount of benzoyl peroxide, termed the initiator. Upon heating, the benzoyl peroxide generates free radicals, which are responsible for initiating
+polymerization. The liquid is predominantly methyl methacrylate
+monomer with small amounts of hydroquinone, as an inhibitor
+to prevent untimely polymerization of the liquid during storage. Inhibitors also retard the curing process and thereby increase
+working time.
+Crosslinking agents, such as glycol dimethacrylate, may be
+added to the liquid. Glycol dimethacrylate is chemically and structurally similar to methyl methacrylate and can be incorporated
+into growing methyl methacrylate polymer chains (Figure 11-2).
+It is important to note that methyl methacrylate possesses one carbon-carbon double bond per molecule, and glycol dimethacrylate
+possesses two double bonds per molecule. As a result, an individual molecule of glycol dimethacrylate may serve as a “bridge” or
+“cross-member” linking two growing polymer chains. If sufficient
+glycol dimethacrylate is included in the mixture, numerous interconnections may be formed. These interconnections yield a netlike structure that provides resistance to deformation and solvent
+swelling that may be caused by exposure to ethanol in the diet.
+Crosslinking agents are incorporated into the liquid component
+at a concentration of 1% to 2% by volume.
+
+What are the five physical stages through which properly mixed denture base
+resins pass? During which stage should compression molding be initiated?
+
+CRITICAL QUESTIONS
+Why do denture base resin systems contain polymer beads? How does the
+inclusion of polymer beads affect volumetric shrinkage?
+
+Polymer-to-Monomer Ratio
+A proper polymer-to-monomer ratio is important in the fabrication of well-fitting denture bases with desirable physical properties. Unfortunately, most discussions of the polymer-to-monomer
+ratio provide little practical information for dental personnel.
+Furthermore, these discussions do not address the relationships
+between molecular events and the gross handling characteristics
+of denture base resins.
+As discussed in Chapter 5, Composition and Function, on
+resin-based composites, the polymerization of denture base resins
+
+Polymer-Monomer Interaction
+When monomer and polymer are mixed in the proper proportions, a workable mass is produced. Upon standing, without subjecting to heat for initiation of polymerization, the resultant mass
+passes through five distinct stages. These stages can be described
+as (1) sandy, (2) stringy, (3) doughlike, (4) rubbery or elastic, and
+(5) stiff.
+During the sandy stage, little or no interaction occurs on a molecular level. Polymer beads remain unaltered, and the consistency of
+the mixture can be described as “coarse” or “grainy.” Later, the mixture enters a stringy stage when the monomer attacks the surfaces
+of individual polymer beads and is absorbed into the beads, causing
+swelling of the beads and dissolution of these non-crosslinked polymer chains into the liquid monomer. These polymer chains uncoil,
+thereby increasing the viscosity of the mix. This stage is characterized by “stringiness” or “stickiness” when the material is touched or
+drawn apart.
+Subsequently, the mass enters a doughlike stage. On a molecular level, an increased number of polymer chains enter the solution. The mixture may be envisioned as polymeric strands within a
+volume of liquid monomer. (Visualize strands of cooked spaghetti
+in a pot containing water.) Clinically, the mass behaves as a pliable
+dough. It is no longer tacky and does not adhere to the surfaces
+of the mixing vessel or spatula. This is the ideal consistency for
+compression molding. As a result, the material should be introduced into the mold cavity during the latter phases of the doughlike stage.
+Following the doughlike stage, the mixture enters a rubbery
+or elastic stage. This is because some monomer is dissipated by
+evaporation, and some penetrates further into remaining polymer
+beads. The mass rebounds when compressed or stretched. Because
+the mass no longer flows freely to assume the shape of its container, the rubbery acrylic is not moldable by conventional compression techniques.
+Upon standing for an extended period, the mixture becomes
+stiff. This is the result of the evaporation of unreacted monomer.
+From a clinical standpoint, the mixture appears dry and is resistant to mechanical deformation.
+
+CHAPTER 11
+
+Prosthetic Polymers and Resins
+
+237
+
+• Figure 11-4 Steps in resin packing (compression-molding technique). A, Properly mixed resin is bent
+into a horseshoe shape and placed into the mold cavity. B, The flask assembly is placed into a flask press,
+and pressure is applied. C, Excess material is carefully removed from the flask. D, The flask is transferred
+to a flask carrier, which maintains pressure on the assembly during processing.
+
+Dough-Forming Time
+The time required for the resin mixture to reach a doughlike stage
+is termed the dough-forming time. American National Standards
+Institute/American Dental Association (ANSI/ADA) Standard
+No. 139—Dental Base polymers: 2020 (ISO 20795-1:2013
+Dentistry—Base polymers—Part 1: Denture base polymers)
+requires that this consistency be attained in less than 40 minutes
+from the start of the mixing process. In clinical use, the majority
+of denture base products reach a doughlike consistency in less
+than 10 minutes.
+Working Time
+Working time is defined as the time a denture base material remains
+in the doughlike stage. This period is critical to the compression
+molding process. ANSI/ADA Standard No. 139 requires the
+dough to remain moldable for at least 5 minutes.
+Ambient temperature affects the working time. Hence the
+working time of a denture resin can be extended via refrigeration.
+A significant drawback associated with this technique is that moisture may condense on the resin when it is exposed to ambient air.
+The presence of moisture may degrade the physical and esthetic
+properties of a processed resin. Moisture contamination can be
+avoided by storing the resin in an airtight container. Following
+removal from the refrigerator, the container should not be opened
+until it reaches room temperature.
+
+Packing
+The introduction of denture base resin into the mold cavity
+is termed packing. This process represents critical steps in denture base fabrication. While in a doughlike state, the resin is
+removed from its mixing container and rolled into a cylindrical
+form. Monomer is painted over the necks of the denture teeth
+to promote bonding to the denture base. Subsequently, the resin
+form is bent into a horseshoe shape and placed into the portion of
+the flask that houses the prosthetic teeth (Figure 11-4, A). A thin
+polyethylene packing sheet is placed over the master cast, and the
+flask is reassembled.
+The flask assembly is placed into a press, and pressure is applied
+incrementally (Figure 11-4, B). Slow application of pressure permits the resin dough to flow uniformly throughout the mold
+space. The application of pressure is continued until the denture
+flask is fully closed. In turn, the flask is opened, and the polyethylene packing sheet is removed from the surface of the resin with
+a rapid, sustained tug.
+Excess resin will be found on the relatively flat areas surrounding the mold cavity. This excess resin is called flash. Using
+a rounded instrument, the flash is carefully teased away from the
+body of resin that occupies the mold cavity (Figure 11-4, C). Care
+is taken not to chip the gypsum surfaces of the mold. Pieces of
+gypsum that have become dislodged must be removed so that they
+are not incorporated into the processed denture base.
+
+238
+
+PA RT I I I
+
+Indirect Restorative Materials
+
+placed into a water bath for polymerization of the denture base
+resin if a heat-curing resin is used. Upon completion, the denture
+is recovered, adjusted, finished, and polished.
+Currently, there is some debate regarding the comparative
+accuracy of denture bases fabricated by compression molding and
+those fabricated by injection molding. Available data and clinical information indicate that denture bases fabricated by injection
+molding can provide slightly improved clinical accuracy.
+
+Polymerization Procedure
+During denture base fabrication, heat is applied to the resin by
+immersing the denture flask and flask carrier in a water bath. The
+water is heated to a prescribed temperature and maintained at that
+temperature for a period suggested by the manufacturer.
+
+Temperature Rise
+The polymerization of denture base resins is exothermic, and the
+amount of heat evolved can affect the properties of processed denture bases. Representative temperature changes occurring in water,
+investing gypsum, and resin are presented in Figure 11-7. The temperature profile of the investing gypsum closely parallels the heating curve for the water. The temperature of the denture base resin
+lags somewhat during the initial stages of the heating process. This
+is caused by the fact that the resin occupies a position in the center
+of the mold, and therefore, heat penetration takes longer.
+As the denture base resin rises slightly above 70 °C, the temperature of the resin begins to increase rapidly. In turn, the
+decomposition rate of benzoyl peroxide is significantly increased.
+This sequence of events leads to an increased rate of polymerization
+and an accompanying increase in the exothermic heat of reaction.
+• Figure 11-5 A cross-sectional representation of the denture flask and
+
+CRITICAL QUESTIONS
+
+its contents.
+
+What causes porosity in denture bases? How can these defects be minimized?
+
+A fresh polyethylene packing sheet is placed between the major
+portions of the flask, and the flask assembly is once again placed in
+the press. Trial closures are repeated until minimal flash is observed.
+At this stage, the mold is closed for the last time with no packing sheet interposed. The mold sections are aligned and placed
+in the flask press. Again, pressure is incrementally applied. Following definitive closure, the flask is transferred to a flask carrier
+(Figure 11-4, D), which maintains pressure on the flask assembly
+during denture base processing. A cross-sectional representation
+of the denture flask assembly is presented in Figure 11-5.
+
+Polymerization Cycle
+Controlled heating processes are used to guide the polymerization
+of heat-activated denture bases. Such heating processes are termed
+polymerization cycles or curing cycles. The relationship between the
+heating rate and temperature rise within the denture base resin is
+illustrated in Figure 11-8. The polymerization cycle represented
+by curve C probably would yield porosity in thick portions of the
+denture because the temperature of the resin exceeds the boiling
+point of the monomer (100.8 °C). On the other hand, the polymerization cycle represented by curve A probably would result in the
+presence of residual monomer because the resin temperature does
+not reach the boiling temperature of the monomer. To minimize
+the likelihood of undesirable outcomes, carefully controlled heating cycles have been developed.
+One technique involves processing the denture base resin in a
+constant-temperature water bath at 74 °C (165 °F) for 8 hours or
+longer, with no terminal boiling treatment. A second technique
+consists of processing in a 74 °C water bath for 8 hours, and then
+increasing the temperature to 100 °C for 1 hour. A third technique
+involves processing the resin at 74 °C for approximately 2 hours and
+increasing the temperature of the water bath to 100 °C and processing for 1 hour. All techniques are commonly used and equally
+effective.
+Following completion of the chosen polymerization cycle, the
+denture flask should be permitted to cool to room temperature.
+Rapid cooling can result in distortion of the denture base because
+
+Injection Molding Technique
+In addition to the compression molding techniques, denture bases
+can be fabricated via injection molding using specially designed
+flasks. One half of the flask is filled with freshly mixed gypsum, and
+the master cast is settled into this mixture. The gypsum is appropriately contoured and permitted to set. Subsequently, sprues or
+ingates are attached to the wax denture base to introduce resin during the injection-molding process (Figure 11-6, A). The remaining half of the flask is positioned, and the investment process is
+completed (Figure 11-6, B). Wax elimination is performed as previously described (Figure 11-6, C), and the flask is reassembled.
+Subsequently, the flask is placed into a carrier that maintains pressure on the assembly during resin introduction and processing.
+Upon completion of the foregoing steps, resin is mixed and
+injected into the mold cavity (Figure 11-6, D). The flask is then
+
+CHAPTER 11
+
+A
+
+Prosthetic Polymers and Resins
+
+239
+
+B
+
+D
+
+C
+
+• Figure 11-6 Steps in mold preparation (injection molding technique). A, Placement of sprues for introduction of resin. B, Occlusal and incisal surfaces of the prosthetic teeth are exposed to facilitate denture
+recovery. C, Separation of flask segments during wax-elimination process. D, Injection of resin and placement of assembly into water bath.
+
+of differences in the thermal contraction of resin and investing gypsum. To minimize potential difficulties, the flask should be removed
+from the water and bench-cooled for 30 minutes. Subsequently, the
+flask should be immersed in cool tap water for 15 minutes. The denture base may then be deflasked and prepared for delivery. To decrease
+the probability of unfavorable dimensional changes, the denture
+should be stored in water until the clinical fitting appointment.
+
+Polymerization via Microwave Energy
+PMMA resin may be polymerized using microwave energy because
+the methyl methacrylate molecule is asymmetrical and therefore
+“lossy.” This technique employs a specially formulated resin and
+a nonmetallic flask (Figure 11-9). A conventional 1100-watt,
+24-GHz microwave oven is used to supply the thermal energy
+required for polymerization.
+The major advantage of this technique is the speed with which
+polymerization may be accomplished. Despite the decreased processing time, overheating can occur in thick sections, causing the
+monomer to boil and yielding porosity. It should also be noted
+that although the polymerization time is reduced, the required
+technician time is unaffected. Available information indicates
+that the physical properties of microwave resins are comparable
+to those of conventional resins. Furthermore, the fit of denture
+bases polymerized using microwave energy is comparable to those
+processed via conventional compression molding techniques.
+
+CAD-CAM Procedures in Denture Base
+Fabrication
+Although the first CAM software program was developed by
+Dr. Patrick Hanratty in the 1950s, it was not until the 1990s
+that CAD-CAM technologies were used to generate complete
+dentures. The first English-language account of computeraided technology in the fabrication of complete dentures was
+published by Maeda et al. in 1994. The authors employed stereolithography to generate complete dentures in a proof-ofconcept effort. Beginning in 1995, Goodacre employed a series
+of procedures intended to facilitate the fabrication of complete
+dentures using subtractive techniques. In the ensuing years,
+Kawahata et al. and Kanazawa et al. used computer numerical
+control (CNC) milling to advance and refine previous efforts.
+CNC is an automated control of machining and 3-D printers
+by means of a computer. In 2012, Goodacre et al. published
+the first clinical account of CAD-CAM dentures milled from
+prepolymerized PMMA.
+Advantages associated with CAD-CAM fabrication of complete dentures include enhanced material properties and improved
+dimensional stability of the resultant prostheses. PMMA “pucks”
+are fabricated at increased pressures and under strictly controlled
+thermal conditions. Consequently, these materials display decreased
+porosity, increased polymerization, and a diminished residual
+
+PA RT I I I
+
+Indirect Restorative Materials
+
+monomer content. Moreover, the prepolymerized resins used in
+current subtractive processes are approximately 8% more dense
+than their conventionally processed counterparts. These factors are
+likely to yield enhanced clinical performance and decreased surface
+colonization by undesirable species such as Candida albicans.
+Machining of prepolymerized PMMA specimens also affects the
+clinical adaptation and the dimensional stability of completed denture bases. As previously noted, dentures fabricated via compression-molding techniques are subject to polymerization shrinkage
+during the fabrication process. In addition, compression-molded
+
+140
+
+Acrylic
+
+100
+
+120
+
+80
+
+C
+B
+
+100
+
+Water
+
+Temperature (°C)
+
+Temperature (°C)
+
+120
+
+prostheses are susceptible to distortion upon recovery from the
+mold. Corresponding changes are not observed in machined specimens because polymerization shrinkage and stress relaxation occur
+before the machining process. As a result, milled denture bases
+exhibit improved adaptation to the underlying ridges upon clinical
+placement and are less susceptible to distortion because relaxation
+has occurred prior to the machining process.
+Currently, the most common CAD-CAM techniques for the
+fabrication of complete dentures employ milling technologies.
+Clinicians are responsible for accurately capturing the anatomical ridge forms, identifying critical landmarks (e.g., incisal edge
+position, facial midline, lip line, etc.), recording desired ridge/
+arch relationships, and determining appropriate tooth shades and
+forms. This information is transferred to the dental laboratory
+or manufacturer responsible for prosthesis fabrication. Design is
+accomplished in a virtual environment (CAD) and subsequently
+exported to a milling device for production (CAM).
+
+60
+Investing gypsum (plaster)
+40
+
+A
+
+Wa
+ter
+
+240
+
+80
+
+ter
+Wa
+
+60
+
+40
+
+20
+
+20
+0
+
+20
+
+40
+
+60
+
+80
+
+0
+
+100
+
+ing plaster, and acrylic resin during the polymerization of a 25.4-mm cube
+of denture resin. (Modified from Tuckfield WJ, Worner HK, Guerin BD:
+Acrylic resins in dentistry. Aust Dent J, 47:119–121, 1943. Reproduced
+with permission from the Australian Dental Journal.)
+
+A
+
+40
+
+60
+
+80
+
+100
+
+120
+
+3 hrs.
+
+Heating time (min)
+
+Time of heating (min)
+
+• Figure 11-7 Temperature–time heating curves for the water bath, invest-
+
+20
+
+• Figure 11-8 Temperature changes in acrylic resin when subjected to
+various curing schedules. Curve A temperature rose to 100 °C in 3 hours,
+curve B temperature rose to 100 °C in 40 minutes, and curve C began at
+100 °C. (Modified from Tuckfield WJ, Worner HK, Guerin BD: Acrylic resins
+in dentistry. Aust Dent J, 47:119–121, 1943. Reproduced with permission
+from the Australian Dental Journal.)
+
+B
+• Figure 11-9 A representative microwave-activated resin system. A, Nonmetallic flask. B, Powder and
+liquid components of the resin. (Courtesy GC America, Inc., Alsip, IL.)
+
+CHAPTER 11
+
+Prosthetic Polymers and Resins
+
+241
+
+In the existing environment, dominant systems employ twocomponent manufacturing processes. The required denture base
+is manufactured as one component, and the corresponding teeth
+are manufactured as a separate yet continuous monolithic component. The denture base and tooth forms may be joined in a variety
+of ways, and the prosthesis is finished, polished, and prepared for
+clinical placement.
+
+polymerized via chemical activation generally display 3% to 5%
+free monomer, whereas heat-activated resins exhibit 0.2% to 0.5%
+free monomer. Therefore it is important that the polymerization
+of chemical-activated resins be as complete as possible. Failure to
+achieve a high degree of polymerization will predispose the denture
+base to dimensional instability and can lead to tissue irritation.
+
+Critical Question
+
+Heat-Activated Versus Chemical-Activated
+Denture Base
+
+What are the benefits associated with the chemical-activated processes
+compared with heat-activated processes?
+
+Chemical-Activated Denture Base Resins
+The same initiator used in heat-activated denture base resin can
+also be activated by a tertiary amine, such as dimethyl-para-toluidine. The tertiary amine may be added to the liquid monomer.
+Upon mixing liquid and powder components, the tertiary amine
+causes decomposition of the benzoyl peroxide contained in the
+powder. As a result, free radicals are produced, and polymerization
+progresses in a manner similar to that described for heat-activated
+systems. Chemical activation does not require the application of
+thermal energy and can be completed at room temperature. For
+this reason, chemical-activated resins often are referred to as coldcuring, self-curing, or autopolymerizing resins.
+
+Technical Considerations
+The powder and liquid components are mixed according to the
+manufacturer’s directions and permitted to attain a doughlike
+consistency. The working time for chemical-activated resins is
+shorter than that for heat-activated materials. Therefore special
+attention must be paid to the consistency of the material and rate
+of polymerization.
+A lengthy initiation period is desirable because this provides
+adequate time for trial closures of the denture flask. One method
+for prolonging the initiation period is to decrease the temperature
+of the resin mass. This may be accomplished by refrigerating the
+liquid component and/or the mixing vessel before the mixing process. When the powder and liquid are mixed, the polymerization
+process is slowed, the resin mass remains in a doughy stage for an
+extended period, and the working time is prolonged.
+Mold preparation and resin packing are accomplished in the
+same manner described for heat-activated resins. In cases of chemical-activated resins with minimal working times, it is doubtful
+that more than two trial closures can be made. Therefore extreme
+care must be taken to ensure that a proper amount of resin is
+employed, and a minimal number of trial closures are needed.
+
+Processing Considerations
+Following definitive closure of the denture flask, pressure must
+be maintained throughout the polymerization process. The time
+required for polymerization will vary with the material chosen.
+Initial hardening of the resin generally will occur within
+30 minutes, but polymerization continues for an extended period.
+To ensure sufficient polymerization, the flask should be held under
+pressure for a minimum of 3 hours.
+The polymerization of chemical-activated resins is never as
+complete as the polymerization of heat-activated materials. Resins
+
+The residual monomer in chemical-activated denture base materials creates two difficulties. First, the residual monomer acts
+as a plasticizer, resulting in decreased transverse strength of the
+denture resin. Second, the residual monomer serves as a potential
+tissue irritant, thereby compromising the biocompatibility of the
+denture base.
+From a physical standpoint, chemical-activated resins display
+slightly less shrinkage than their heat-activated counterparts.
+This imparts greater dimensional accuracy to chemical-activated
+resins.
+The color stability of chemical-activated resins generally
+is inferior to the color stability of heat-activated resins. This
+property is related to the presence of tertiary amines within the
+chemical-activated resins. Such amines are susceptible to oxidation and accompanying color changes that affect the appearance
+of the resin. Discoloration of these resins can be minimized via
+the addition of stabilizing agents that prevent such oxidation.
+
+Fluid-Resin Technique
+The fluid-resin technique employs a pourable, chemical-activated
+resin for the fabrication of denture bases. When mixed in the
+proper proportions, a low-viscosity resin is produced. This resin
+is poured into a mold cavity, subjected to increased atmospheric
+pressure, and allowed to polymerize at ambient temperature. Laboratory aspects of the fluid-resin technique are described in the
+following paragraphs.
+Tooth arrangement is accomplished using accepted prosthodontic principles. The completed tooth arrangement is then
+sealed to the underlying master cast and placed in a specially
+designed flask (Figure 11-10, A). The flask is filled with a reversible hydrocolloid-based investment medium, and the assembly is
+cooled. Following gelation of the hydrocolloid, the master cast
+with the attached tooth arrangement is removed from the flask
+(Figure 11-10, B). At this stage, sprues and vents are cut from the
+external surface of the flask to the mold cavity (Figure 11-10, C).
+Wax is eliminated from the cast using water. The prosthetic
+teeth are retrieved and carefully seated in their respective positions within the hydrocolloid investing medium. Subsequently,
+the master cast is returned to its position within the mold
+(Figure 11-10, D).
+The resin is mixed according to the manufacturer’s directions
+and poured into the mold via the sprue channels (Figure 11-10, E).
+The flask is then placed in a pressurized chamber (i.e., a pressure
+pot) at room temperature, and the resin is permitted to polymerize.
+According to available information, only 30 to 45 min are required
+for polymerization. Nevertheless, a longer period is recommended.
+Following completion of the polymerization process, the denture is retrieved from the flask (Figure 11-10, F), and the sprues
+are removed. The denture/cast assembly is returned to the dental
+articulator for correction of processing changes. Subsequently, the
+
+242
+
+PA RT I I I
+
+Indirect Restorative Materials
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+• Figure 11-10 Steps in mold preparation (fluid-resin technique). A, Completed tooth arrangement
+positioned in a fluid-resin flask. B, Removal of tooth arrangement from reversible hydrocolloid investment.
+C, Preparation of sprues and vents for the introduction of resin. D, Repositioning of the prosthetic teeth
+and master cast. E, Introduction of pour-type resin. F, Recovery of the completed prosthesis.
+
+denture base is finished and polished. At this stage, the denture
+should be stored in water to prevent dehydration and distortion.
+Advantages claimed for the fluid-resin technique include (1)
+improved adaptation to underlying soft tissues; (2) decreased probability of damage to prosthetic teeth and denture bases during
+deflasking; (3) reduced material costs; and (4) simplification of the
+flasking, deflasking, and finishing procedures.
+Potential disadvantages of the fluid-resin technique include (1)
+noticeable shifting of prosthetic teeth during processing, (2) air
+entrapment within the denture base material, (3) poor bonding
+between the denture base material and acrylic resin teeth, and (4)
+technique sensitivity.
+In general, denture bases fabricated in this manner exhibit
+physical properties that are somewhat inferior to those of conventional heat-processed resins. Nonetheless, clinically acceptable
+dentures can be obtained using fluid resins.
+
+Light-Activated Denture Base Resins
+Light-activated denture base resins have been described as resinbased composites having matrices of urethane dimethacrylate
+(UDMA; Figure 5-2), microfine silica, and high-molecular-weight
+acrylic resin monomers. Acrylic resin beads are included as organic
+fillers. Blue light is the activator, and a photosensitizing agent such
+as camphorquinone serves as the initiator for polymerization. Single-component denture base resins are supplied in sheet and rope
+forms and are packed in lightproof pouches to prevent inadvertent
+polymerization (Figure 11-11, A). The most recent generation of
+light-activated denture base resins consists of three distinct components: (1) a base-forming resin, (2) a tooth-setting resin, and (3)
+a contouring resin.
+A light-activated resin cannot be flasked in a conventional
+manner because opaque investing media prevent the penetration
+of light. Instead, a definitive prosthesis is sculpted on the master cast using the aforementioned resins (Figure 11-11, B). The
+
+base-forming resin is first adapted to the master cast and cured
+in a high-intensity light chamber (Figure 11-11, C). Subsequently,
+the tooth-setting resin is used to attach the prosthetic teeth to the
+polymerized base and placed in the light chamber to polymerize
+the tooth-setting resin, thereby maintaining prosthetic teeth in the
+desired positions. Next, a contouring resin is used to generate the
+desired surface anatomy. The resultant prosthesis (Figure 11-11, B)
+is placed into the light chamber to complete the process of denture
+base fabrication. The denture is then removed from the cast, finished, and polished in a conventional manner.
+
+Physical Properties of Denture Base Resins
+The physical properties of denture base resins are critical to the
+fit and function of removable dental prostheses. Characteristics
+of interest include polymerization shrinkage, porosity, water
+sorption, solubility, processing stresses, and crazing. These characteristics are addressed in the following sections.
+
+Polymerization Shrinkage
+When methyl methacrylate monomer is polymerized to form
+PMMA, the density of the mass changes from 0.94 to 1.19 g/cm3.
+This change in density results in a volumetric shrinkage of 21%.
+When a conventional heat-activated resin is mixed at the suggested
+powder-to-liquid ratio, about one third of the mass is liquid monomer. The remainder of the mass is PMMA beads. Consequently, the
+volumetric shrinkage exhibited by the polymerized mass should be
+approximately 7%. This figure agrees with values observed in laboratory and clinical investigations.
+
+Critical Question
+Why is the relatively high volumetric shrinkage of a denture base resin not
+usually considered a significant clinical problem?
+
+CHAPTER 11
+
+Prosthetic Polymers and Resins
+
+243
+
+A
+
+B
+
+C
+
+• Figure 11-11 Steps in denture fabrication (light-activated denture base resins). A, Representative lightactivated denture base resin. Sheet and rope forms are supplied in light-proof pouches to prevent inadvertent polymerization. B, Teeth are arranged, and the denture base is sculpted using light-activated resin. C,
+The denture base is placed into a light chamber and polymerized according to the manufacturer’s recommendations. (Parts A and C courtesy Densply International, York, PA.)
+
+There are several possible reasons a material exhibiting high
+volumetric shrinkage can be used to produce clinically satisfactory
+denture bases. In addition to volumetric shrinkage, one also must
+consider the effects of linear shrinkage. Linear shrinkage exerts significant effects upon denture base adaptation and cuspal interdigitation.
+Based on a projected volumetric shrinkage of 7%, an acrylic resin
+denture base should exhibit a linear shrinkage of 2.3 %, approximately {1/3} the value of the volumetric shrinkage. In reality, linear
+shrinkage within a denture base rarely exceeds 1% (Table 11-1).
+Examination of the polymerization process indicates that
+thermal shrinkage of resin is primarily responsible for the linear
+changes observed in heat-activated systems. During the initial
+stages of the cooling process, the resin remains relatively soft. Consequently, the resin mass contracts at about the same rate as the
+surrounding gypsum.
+
+TABLE 11-1
+
+Polymerization Shrinkage of Maxillary
+Denture Bases
+
+Material
+
+Linear Shrinkage (%)
+
+High-impact acrylic resin
+
+0.12
+
+Vinyl acrylic resin
+
+0.33
+
+Conventional acrylic resin
+
+0.43
+
+Pour-type acrylic resin
+
+0.48
+
+Rapid heat-cured acrylic resin
+
+0.97
+
+Data from Stafford GD, Bates JF, Huggett R, Handley RW: A review of the properties of
+some denture base polymers. J Dent 8:292, 1960.
+
+244
+
+PA RT I I I
+
+Indirect Restorative Materials
+
+A
+
+B
+
+C
+
+D
+• Figure 11-12 Dimensional changes resulting from polymerization. A, Chemical-activated resin, pour
+technique. B, Microwave resin, compression molding. C, Conventional heat-activated resin, compression
+molding. D, Heat-activated resin, injection molding. (Demonstration and photographs courtesy Dr. Rodney
+Phoenix.)
+
+As cooling proceeds, the soft resin approaches its glasstransition temperature, Tg, which is the thermal range in which
+the polymerized resin passes from a soft, rubbery state to a rigid,
+glassy state. Cooling the denture base resin beyond the glasstransition temperature yields a rigid mass. As might be expected,
+this rigid mass contracts at a rate different from that of surrounding dental gypsum. The shrinkage occurring below the glass-transition temperature is thermal in nature and varies according to the
+composition of the resin.
+To illustrate the effect of thermal shrinkage, consider the following example. The glass-transition temperature for PMMA is
+approximately 105 °C. Room temperature is 20 °C. The generally
+accepted value for the linear coefficient of thermal expansion, α,
+for PMMA is 81 ppm/°C. Therefore, as the denture base resin
+cools from the glass-transition temperature to room temperature,
+the resin undergoes a linear shrinkage, which can be expressed as
+follows:
+Linear shrinkage  T  (81  106 )(105  20)  0.69%
+This value agrees with the linear shrinkages of 0.12% to
+0.97% reported for various commercial denture base resins (see
+Table 11-1).
+Complete dentures constructed using chemical-activated resins generally display better adaptation than those constructed
+using heat-activated resins. This phenomenon can be attributed to
+the negligible thermal shrinkage displayed by chemical-activated
+resins. Processing shrinkage has been measured as 0.26% for a
+
+representative chemical-activated resin, compared with 0.53% for
+a representative heat-activated resin.
+Given the preceding information regarding polymerization
+shrinkage and denture base adaptation, chemical-activated resins
+appear to provide significant advantages over heat-activated resins.
+However, there are several other factors that affect the dimensional
+characteristics of processed denture bases, including the type of
+investing medium, method of resin introduction, and temperature used to activate the polymerization process.
+On completion of the polymerization process, individual denture bases and master casts are retrieved and returned to their
+respective dental articulator(s). Dimensional changes are assessed
+with respect to the proposed vertical dimension of occlusion.
+Fluid-resin techniques used in conjunction with hydrocolloid investing media generally yield decreases in the vertical
+dimension. Conversely, dentures processed using heat-activated
+or chemical-activated resins in conjunction with compression
+molding techniques usually display increases in the overall
+vertical dimension. Minimal increases in the vertical dimension are considered desirable because they permit a return to
+the proposed occlusal vertical dimension via occlusal grinding
+procedures.
+Dimensional changes occurring in denture bases fabricated
+from various resins are illustrated in Figure 11-12 as gaps at the
+posterior palatal border. Additional dimensional factors include the
+setting expansion of the gypsum product used to make the master
+cast and investing component and expansion from water sorption
+of the cured acrylic resin after polymerization is complete.
+
+A
+
+B
+
+C
+
+CHAPTER 11
+
+Prosthetic Polymers and Resins
+
+D
+
+E
+
+245
+
+• Figure 11-13 Heat-activated denture base resin exhibiting different types and degrees of porosity.
+A, Properly polymerized; no porosity. B and C, Rapid heating, relatively small subsurface voids. D, Insufficient mixing of monomer and polymer; large voids resulting from localized polymerization shrinkage.
+E, Insufficient pressure during polymerization; relatively large, irregular voids. (From Tuckfield WJ, Worner
+HK, Guerin BD: Acrylic resins in dentistry. Aust Dent J, 47:119–121, 1943.)
+
+CRITICAL QUESTIONS
+What are the causes of porosity when fluid-resin denture fabrication
+techniques are used? How can these difficulties be minimized?
+
+Porosity
+Porosity is noted to likely develop in thicker portions of a denture base. Such porosity results from the vaporization of unreacted monomers when the temperature of a resin reaches or
+exceeds the boiling points of these species. Nonetheless, this type
+of porosity may not occur equally throughout the affected resin
+segments.
+Consider the specimens in Figure 11-13, A (no porosity) and
+B and C (localized subsurface porosity). Specimens B and C
+were flasked in such a manner that the section displaying porosity was nearer to the center of the investment mass, whereas the
+nonporous section was nearer to the surface of the metal flask.
+As might be expected, the metal conducted heat away from the
+periphery, preventing the low-molecular-weight species from boiling and yielding porosity. In contrast, resin specimens surrounded
+by larger amounts of gypsum, a poor thermal conductor, were
+subjected to a significant exotherm that led to vaporization of lowmolecular-weight species and noticeable porosity.
+Porosity also may result from inadequate mixing of powder and
+liquid components. During polymerization, these regions shrink
+more than adjacent regions, and the localized shrinkage tends to
+produce voids (Figure 11-13, D). The occurrence of such porosity
+can be minimized by ensuring the greatest possible homogeneity in the resin. Proper polymer-to-monomer ratios and well-controlled mixing procedures are essential. Because the material is
+more homogeneous in the doughlike stage, delay packing is wise
+until this consistency has been reached.
+A third type of porosity can be caused by inadequate pressure or insufficient material in the mold during polymerization
+(Figure 11-13, E). Voids resulting from these inadequacies are not
+spherical; they assume irregular shapes. These voids may be so
+abundant that the resultant resin appears significantly lighter and
+more opaque than the intended color.
+A final type of porosity most often associated with fluid resins
+is air entrapment during mixing and pouring procedures. Careful
+mixing, spruing, and venting are essential in preventing such voids.
+
+Water Sorption
+PMMA absorbs small amounts of water when placed in an aqueous environment. As water molecules penetrate the PMMA mass,
+they occupy spaces between polymer chains. Consequently, the
+affected polymer chains are forced apart. The introduction of
+water molecules produces two important effects. First, the water
+causes a slight expansion of the polymerized mass. Second, water
+molecules interfere with the entanglement of polymer chains
+and thereby act as plasticizers. This permits the relaxation of
+stresses incurred during polymerization. As stresses are relieved,
+polymerized resins may undergo changes in shape. Fortunately,
+these changes are relatively minor and do not exert significant
+effects on the fit or function of the processed denture bases.
+For each 1% increase in weight produced by water sorption,
+acrylic resin has been estimated to exhibit a linear expansion of
+0.23%. Laboratory tests indicate that the linear expansion caused
+by water sorption is approximately equal to the thermal shrinkage encountered as a result of the polymerization process. Hence,
+these processes very nearly offset one another.
+Because the presence of water adversely affects the physical and dimensional properties of denture base resins, diffusion
+coefficients also warrant consideration. The diffusion coefficient
+of water in representative heat-activated denture acrylic resin
+is 0.011 × 10-6 cm2/s at 37 °C. For a representative chemicalactivated resin, the diffusion coefficient is 0.023 × 10-6 cm2/s.
+Because the diffusion coefficients of water in representative denture resins are relatively low, the time required for a denture base
+to reach saturation can be considerable. This is dependent on the
+thickness of the resin and the storage conditions. A typical heatactivated denture base may require a period of 17 days to become
+fully saturated with water.
+The results of laboratory investigations indicate that there are
+very slight differences in the dimensions of heat-activated and
+chemical-activated denture bases following prolonged storage
+in water. Compression-molded heat-activated denture bases are
+slightly undersized when measured from second molar to second molar. Conversely, compression-molded chemical-activated
+denture bases are slightly oversized when measured in the same
+regions. The clinical significance of this difference is negligible.
+ANSI/ADA Standard No. 139 identifies guidelines regarding
+the testing and acceptance of denture base resins. To test water
+sorption, a disk of material with specified dimensions is prepared
+
+246
+
+PA RT I I I
+
+Indirect Restorative Materials
+
+and dried to a constant weight. This weight is recorded as a baseline value. The disk is then soaked in 37 °C distilled water for
+7 days. Again, the disk is weighed, and this value is compared with
+the baseline value. According to the specification, weight gain following immersion must not be greater than 32 µg/mm3.
+
+Solubility
+Although denture base resins are soluble in a variety of liquids,
+they are virtually insoluble in the fluids commonly encountered in
+the oral cavity. ANSI/ADA Standard No. 139 prescribes a testing
+regimen for the measurement of resin solubility. This procedure
+is a continuation of the water-sorption test described in the preceding section. Following the required water immersion, the test
+disk is permitted to dry and is reweighed. This value is compared
+with the baseline value to determine weight loss. According to
+the standard, weight loss must not be greater than 8.0 µg/mm3
+for chemical-cured PMMA and 1.6 µg/mm3 for heat-, light-, and
+microwave-activated PMMA.
+
+CRITICAL QUESTIONS
+What are the causes of processing stresses? What are the clinical
+implications of these stresses, if any?
+
+Processing Stresses
+Whenever a natural dimensional change is inhibited, the affected
+material sustains internal stresses. If stresses are relaxed, distortion
+of the material can occur. This principle has important ramifications in the fabrication of denture bases because stresses are commonly induced during processing.
+Consider the events that occur during denture base polymerization. A moderate amount of shrinkage occurs as individual
+monomers are linked to form polymer chains. During this process, friction between the mold walls and soft resin may inhibit
+normal shrinkage of these chains. In such instances, the polymer chains are stretched, and tensile stresses develop within the
+material.
+Stresses also are produced as a result of thermal shrinkage. As
+a polymerized resin is cooled below this material’s glass-transition
+temperature, the resin becomes relatively rigid. Further cooling
+results in thermal shrinkage. A denture base resin is encased in a
+rigid investing medium, such as dental gypsum, during this process. Because denture base resins and gypsum materials contract
+at different rates, a contraction differential is established. This disparity in contraction rates yields stresses within the resin. Additional factors that may contribute to processing stresses include
+improper mixing and handling of the resin and poorly controlled
+heating and cooling of the flask assembly.
+
+Crazing
+When dimensional changes alone cannot relieve internal stresses,
+hairline microcracks may develop as a means of dissipating energy
+and completing relaxation. The production of such flaws, or
+microcracks, is termed crazing.
+Figure 11-14 shows crazing of denture base resin around
+porcelain teeth. Such damage may occur during cooling of
+the denture. When this occurs, the resin contracts more than
+the adjacent porcelain, and tensile stresses are established in
+the areas adjacent to the tooth. When these stresses exceed the
+
+• Figure 11-14 Crazing around porcelain teeth.
+tensile strength of the resin, microcracking occurs, and craze
+lines result. Crazing in a transparent resin imparts a “hazy” or
+“foggy” appearance. In a tinted resin, crazing imparts a whitish
+appearance. Each craze line represents physical separation of the
+resin caused by tensile stresses. In addition to esthetic effects,
+these surface cracks predispose a denture resin to fracture. The
+widespread use of acrylic resin teeth of similar thermal contraction of the denture base resins has decreased the incidence of
+denture base crazing.
+Crazing of denture base materials also may be induced by
+organic solvents. When PMMA is immersed in ethanol, the
+material swells as the ethanol diffuses into the PMMA mass. During this process, the solvent overcomes relatively weak van der
+Waals forces and produces narrow gaps in the denture base resin.
+Despite the creation of gaps, strong covalent bonds within the
+polymeric chains maintain the overall integrity of the material.
+Nevertheless, when the solvent evaporates, the gaps manifest as
+craze lines.
+
+CRITICAL QUESTIONS
+What variables reduce the strength of acrylic resin denture bases? What
+processing method is most likely to produce denture bases with decreased
+fracture resistance?
+
+Strength
+The strength of an individual denture base resin is dependent on
+many factors, including the composition of the resin, processing
+technique, and conditions presented by the oral environment.
+To provide acceptable physical properties, denture base resins
+must meet or exceed the standards presented in ANSI/ADA Standard No. 139. A transverse test is used to evaluate the relationship
+between the applied load and resultant deflection in a resin specimen of prescribed dimensions. Representative deflection–load
+results are presented in Figure 11-15.
+Inspection of Figure 11-15 reveals a curvature to each component of the deflection–load plot. Because no straight-line portion
+is evident, one may assume that plastic deformation occurs during
+the loading process. Some elastic deformation also occurs. From
+a clinical standpoint, this means that load application produces
+stresses within a resin and a change in the overall shape of the
+denture base. When the load is released, stresses within the resin
+are relaxed and the denture base begins to return to the denture’s
+
+CHAPTER 11
+
+247
+
+Prosthetic Polymers and Resins
+
+7
+
+Tested in
+
+10
+
+Air 32% R.H.
+Air 32% R.H.
+Water
+Water
+
+Water
+Air
+Water
+Air
+
+9
+8
+7
+Deflection (mm)
+
+Deflection (mm)
+
+6
+
+Condition in
+
+2.5 h
+– 5.7
+kg
+5.5
+h–
+6
+.
+3k
+1
+g
+24 8 h
+–6 9h
+h
+–
+.
+5 k 6.5
+–
+kg
+6.
+g
+5
+kg
+
+8
+
+5
+
+4
+
+3
+
+kg
+8
+6. g
+– k
+h .9
+48 – 6
+h
+72
+
+6
+5
+4
+3
+2
+
+2
+1
+0
+
+1
+
+0
+
+0
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+Load (kg)
+
+• Figure 11-15 Transverse deflection–load curve for a typical denture
+base resin, showing the influences of different conditioning procedures
+and testing environments. Before testing, all specimens were conditioned
+for 3 days as indicated. R.H., Relative humidity. (Data from Swaney AC,
+Paffenbarger GC, Caul HJ, et al.: American Dental Association Specification No. 12 (replaced by No. 139 in 2012) for denture base resin, second
+revision. J Am Dent Assoc, 46:54–66, 1953. Reprinted by permission of
+ADA Publishing, a Division of ADA Business Enterprises, Inc.)
+
+original shape. Nevertheless, plastic deformation prevents complete recovery.
+Perhaps the most important determinant of resin strength is
+the degree of polymerization exhibited by the material. As the
+degree of polymerization increases, the strength of the resin also
+increases. Hence, the polymerization cycle employed with a heatactivated resin is important. Figure 11-16 reveals the effects that
+processing cycles exert on deflection–load properties. Note that
+a longer polymerization cycle appears to yield improved physical
+properties.
+In comparison with heat-activated resins, the chemical-activated resins generally display lower degrees of polymerization. As
+a result, chemical-activated resins exhibit increased levels of residual monomer and decreased strength and stiffness. Despite these
+characteristics, heat- and chemical-activated resins display similar
+elastic moduli.
+
+2
+
+3
+
+4
+Load (kg)
+
+5
+
+6
+
+7
+
+• Figure 11-16 Deflection–load curves for samples of poly(methyl methacrylate) polymerized for different periods at 71 °C (160 °F). Processing times
+and fracture loads are noted on individual curves. (Data from Harman IM:
+Effects of time and temperature on polymerization of a methacrylate resin
+denture base. J Am Dent Assoc, 38:188–203, 1949. Reprinted by permission of ADA Publishing, a Division of ADA Business Enterprises, Inc.)
+
+is dependent on specimen size and geometry, the distance between
+specimen supports, and the presence or absence of notching.
+Knoop hardness values for heat-activated resins may be as high
+as 20 KHN, whereas the associated values for chemically activated
+resins generally range from 16 to 18 KHN.
+
+Creep
+Acrylic denture resins display viscoelastic behavior. When a denture base resin is subjected to a sustained load, the material may
+exhibit deformation with both elastic (recoverable) and plastic
+(irrecoverable) components. If this load is not removed, additional
+plastic deformation can occur over time. This additional deformation is termed creep.
+The rate at which this progressive deformation occurs is termed
+the creep rate. This rate can be elevated by increases in temperature,
+applied load, residual monomer, and/or the presence of plasticizers. Although creep rates for heat-activated and chemical-activated
+resins are very similar at low stresses, creep rates for chemical-activated resins increase more rapidly as stresses are raised.
+
+Impact Strength and Hardness
+
+Biological Properties of Denture Base Resins
+
+Charpy impact strengths for heat-activated denture resins commonly range from 0.98 to 1.27 joules, whereas those for chemical-activated resins are somewhat lower (0.78 joules). Impact
+strengths for high-impact resins such as Lucitone 199 may be
+twice those reported for conventional PMMA resins. Increased
+impact resistance is commonly imparted via the incorporation
+of rubbery hydrocarbon components such as butyl acrylate and
+polystyrene within the associated polymers. Clinicians should recognize that the preceding values are useful only for comparison of
+products because the energy absorbed by an individual specimen
+
+Infection-Control Procedures
+Care should be taken to prevent microbial and viral crosscontamination between patients and dental personnel, including
+personnel in the dental laboratory. New appliances should be disinfected before leaving the dental laboratory. Existing prostheses
+should be disinfected before entering the laboratory and following
+completion of laboratory procedures. All materials used for finishing and polishing should be handled according to established
+infection-control guidelines. Items such as rag wheels should be
+
+248
+
+PA RT I I I
+
+Indirect Restorative Materials
+
+autoclaved, and materials such as pumice should be used according to unit-dose recommendations.
+
+Critical Question
+What is the optimal technique for repairing a fractured acrylic denture base?
+
+Critical Question
+Which components of denture resins are most likely to cause an allergic
+reaction?
+
+Additional Procedures Associated With
+Dentures
+
+Allergic Reactions
+
+Denture Repair
+
+Possible toxic or allergic reactions to PMMA have long been postulated. Reactions can occur following contact with the polymers,
+residual monomers, benzoyl peroxide, hydroquinone inhibitor,
+pigments, or a reaction product between some component of the
+denture base and its environment. Despite the foregoing concerns,
+adverse reactions are more commonly related to uninterrupted
+denture wear.
+Clinical experience indicates that true allergic reactions to
+acrylic resins seldom occur in the oral cavity. Irritation is slightly
+more common and is related to residual monomer. Irritation reactions are relatively rare because the residual monomer content of a
+properly processed denture is less than 1%. Furthermore, surface
+monomer is completely eliminated following storage in water for
+at least 17 hours.
+Reactions to residual monomer should occur shortly after
+prosthesis delivery. However, the majority of patients reporting
+sore mouth resulting from denture wear have worn the offending prostheses for months or even years. Clinical evaluation of
+these cases indicates that tissue irritation is commonly related to
+continuous intraoral wear, fungal colonization, poor oral hygiene,
+trauma secondary to ill-fitting denture bases, and/or suboptimal
+denture occlusion.
+Repeated or prolonged contact with monomer can also result
+in contact dermatitis. Personnel involved in the manipulation of
+denture resins most commonly experience this condition. Hence
+dental laboratory personnel should refrain from handling such
+materials with bare hands. The high concentration of monomer
+in freshly mixed resins may produce local irritation and serious
+sensitization of the fingers.
+Finally, it should be noted that inhalation of monomer vapor
+may be detrimental. Therefore the use of monomer should be
+restricted to well-ventilated areas.
+
+Despite the favorable physical characteristics of denture base resins, denture bases sometimes fracture. In most instances, these
+fractures can be repaired using compatible resins. Repair resins
+may be light-, heat-, or chemical-activated.
+To accurately accomplish the repair of a fractured prosthesis,
+the clinician must realign the denture components and stabilize
+them using an adherent wax or modeling plastic. When this has
+been accomplished, a repair cast is generated using dental gypsum. The denture is then removed from the cast, and the luting
+medium is eliminated. In turn, the fracture surfaces are trimmed
+to provide sufficient room for repair material and produce a survivable repair joint. The gypsum cast is coated with separating
+medium to prevent adherence of repair resin, and the denture base
+sections are repositioned and affixed to the cast.
+At this point, a repair material is chosen. Chemical-activated
+resins are generally preferred over heat- and light-activated resins despite the fact that chemical-activated resins display lower
+transverse strength and color change. The principal advantage
+of chemical-activated resins is that they may be polymerized at
+room temperature. Heat- and light-activated repair materials
+must be placed in water baths and light chambers, respectively.
+Heat generated by water baths and light chambers often causes
+stress release and distortion of previously polymerized denture
+base segments.
+The following sequence is employed to accomplish denture
+base repair using a chemical-activated resin. A small amount of
+monomer is painted onto the prepared surfaces of the denture
+base to promote bonding of the repair material. Increments of
+monomer and polymer are added to the repair area using a small
+sable-hair brush or suitable substitute. An excess of material is
+placed at the repair site to account for polymerization shrinkage.
+The assembly is placed in a pressure chamber under hot water and
+allowed to polymerize. The repair site is then shaped, finished, and
+polished using conventional techniques.
+
+Toxicology
+There is no evidence that commonly used dental resins produce
+systemic toxic effects in humans. As previously noted, the amount
+of residual monomer in processed PMMA is extremely low. To
+enter the circulatory system, residual monomer must pass through
+the oral mucosa and underlying tissues. These structures function
+as barriers that significantly diminish the volume of monomer
+reaching the bloodstream.
+Residual monomer that does reach the bloodstream is rapidly
+hydrolyzed to methacrylic acid and excreted. It is estimated that
+the half-life of methyl methacrylate in circulating blood is 20 to
+40 minutes.
+Metal oxide (cadmium/selenium) red pigments were used for
+many years to color denture base resins. Although toxic in all concentrations, the pigments are locked within the denture base polymer network and used in very small concentrations. Nevertheless,
+most manufacturers have switched to organic pigment systems
+(e.g., Cromophtal Red BRN) to avoid such toxic effects.
+
+CRITICAL QUESTION
+Under what conditions might resilient (soft) denture liners be used rather than
+rebasing an acrylic denture base?
+
+Short-Term and Long-Term Resilient Soft
+Denture Liners
+The purpose of a resilient soft denture liner is to absorb some of
+the energy produced by masticatory impact. Hence, a soft liner
+serves as a “shock absorber” between the occlusal surfaces of a denture and the underlying oral tissues. Liners also may provide added
+retention by entering anatomical undercuts if present. The most
+commonly used liners are plasticized acrylic resins. These resins
+may be heat-activated or chemical-activated resins and are based
+on familiar chemistries. Additional materials include silicone rubber, plasticized vinyl polymers and copolymers, polyphosphazene
+
+CHAPTER 11
+
+fluoropolymers, and fluoroethylene and polyvinyl siloxane addition-cured silicones.
+
+Compositions
+All soft denture liners exhibit glass-transition temperatures that
+are lower than body temperature to allow sustained resilience.
+Most common materials used gain that property by incorporating
+plasticizer. Chairside resilient liners generally employ PMMA or
+poly(ethyl methacrylate) powder as principal structural components mixed with liquids containing 60% to 80% plasticizer. The
+plasticizer commonly is a large molecular species such as dibutyl phthalate or an alcohol. The distribution of large plasticizer
+molecules reduces the entanglement of polymer chains, thereby
+permitting individual chains to “slip” past one another, permitting
+changes in the shape of the soft liner and providing a cushioning
+effect for the underlying tissues. It is important to note that the
+liquids used in such applications do not contain acrylic monomers. Consequently, the resultant liners are considered shortterm soft liners, or tissue conditioners.
+Although plasticizers impart flexibility, they also present certain difficulties. Plasticizers are not bound within the resin mass.
+Therefore they may be “leached out.” As this occurs, resilient liners
+may become progressively more rigid. Hence, the use of liners that
+are less prone to leaching is advantageous.
+In recent years, the phthalate esters have attracted attention
+because they mimic estrogenic hormones in the body after they
+migrate from the liner. Alternatives are now in use, including trimellitates, aliphatic dibasic esters, phosphates, benzoates, citrate
+esters, polymeric plasticizers, sulfonic acid, chloroparaffins, and
+sorbitol.
+As PMMA is replaced by higher-molecular-weight methacrylates (e.g., ethyl, n-propyl, and n-butyl), the Tg becomes progressively lower (Chapter 2, Thermal Properties). As a result, less
+plasticizer is required, and the effects of leaching can be minimized.
+Perhaps the most successful materials for soft liner applications
+have been the silicone rubbers. These materials are not dependent
+on leachable plasticizers, and they retain their elastic properties for
+prolonged periods. Unfortunately, silicone rubbers do not absorb
+shock and may lose adhesion to underlying denture bases over
+time. They are prone to colonization by fungi, which grow in the
+pores in the material and are difficult to remove.
+Silicone rubbers may be chemical-activated or heat-activated
+silicones. Chemical-activated silicones are supplied as two-component systems that polymerize via condensation reactions.
+Processing Resilient Soft Denture Liners
+To reline a denture, the denture base is relieved to permit an
+acceptable thickness of the chosen material. A special adhesive is
+applied to the surface of the denture base to facilitate bonding.
+The resilient material is mixed, applied to the denture base via
+compression molding, and permitted to polymerize. In turn, the
+denture is recovered, finished, and polished. As with all resilient
+liners, the use of rotary instruments that rotate from the liner
+toward the denture base to prevent the initiation of peeling is
+important.
+Heat-activated silicones are one-component systems supplied
+as pastes or gels. These materials are applied and contoured using
+compression molding techniques. Heat-activated silicones may be
+applied to polymerized resin bases, or they may be polymerized in
+conjunction with freshly mixed resins.
+To promote adhesion between silicone resilient liners and rigid
+denture base materials, rubber-PMMA cements often are used.
+
+Prosthetic Polymers and Resins
+
+249
+
+These cements serve as chemical intermediates that bond to both
+soft liners and denture resins. The strongest bonds occur against
+fresh acrylic.
+At least one silicone liner does not require an adhesive when
+it is cured together with an acrylic denture base material. This
+material actually is a silicone copolymer that contains components
+capable of bonding with acrylic resins.
+
+Care of Denture Resilient Soft Liners
+All soft liners display certain shortcomings. For instance, silicone
+liners are poorly adherent to denture base resins. Many resilient
+soft liners bond well to denture bases but become progressively
+more rigid as plasticizers are lost to the oral environment. Hardening rates for these liners are associated with the initial plasticizer
+content. As the plasticizer content is increased, the probability of
+plasticizer loss is increased. Hence, materials with a high initial
+plasticizer content tend to harden rather rapidly.
+Resilient liners also exert significant effects on associated denture bases. As the thickness of a soft liner is increased, the thickness of the accompanying denture base must be decreased, and
+this results in decreased denture base strength. This may result in
+fracture of the denture base during clinical service.
+Perhaps the greatest difficulty associated with silicone longand short-term resilient liners is that these materials cannot be
+cleaned effectively. As a result, patients often report disagreeable
+tastes and odors related to these materials. The liners themselves
+do not support mycotic growth, but such growth is supported by
+debris that accumulates in the pores of these materials. The most
+common fungal growth associated with soft liners is C. albicans.
+Several cleaning regimens have been used in conjunction with
+resilient liners. These regimens have met with limited success.
+Both oxygenating and hypochlorite-type denture cleansers have
+been employed. Unfortunately, these agents can cause significant
+damage to resilient soft liners, particularly the silicone materials.
+Mechanical cleaning of resilient liners also may lead to damage,
+but such debridement often is necessary. If mechanical cleaning
+is undertaken, a soft brush should be used in conjunction with a
+mild detergent solution or nonabrasive dentifrice.
+In attempts to address potential problems, antimycotic agents
+have been incorporated into soft liners. Although this approach is
+promising, the limited duration of antimycotic activity is far from
+ideal. Therefore additional research is warranted.
+In 1989, a long-term soft resilent liner was introduced that
+uses a polyphosphazene fluoroelastomer with a –[P = N]– backbone and interpenetrating di- and tri-functional crosslinking
+acrylics, pigment, and BaSO4 filler. The liner is compressionmolded against fresh acrylic and heat-cured conventionally. The
+material has no plasticizers, absorbs chewing forces because of its
+high energy damping, resists fungal overgrowth, is radiopaque,
+and is machinable.
+
+CRITICAL QUESTION
+Why are denture reline materials considered temporary-use products?
+
+Relining Resin Denture Bases
+Because alveolar ridge contours change with time, it is sometimes
+necessary to alter the tissue surfaces of prostheses to ensure proper
+fit. In some instances, this can be achieved by selective grinding
+procedures. In other instances, tissue surfaces must be replaced by
+relining or rebasing existing dentures.
+
+250
+
+PA RT I I I
+
+Indirect Restorative Materials
+
+Relining involves replacement of the tissue surface of an existing denture, whereas rebasing involves replacement of the entire
+denture base except for the denture teeth. In both instances, an
+impression of the soft tissues is made using the existing denture
+as an impression tray. A gypsum cast is generated in the impression, and the resultant assembly is invested in a denture flask.
+Subsequently, the flask is opened and prepared for the introduction of resin.
+At this stage, the impression material is removed from the denture. The tissue surface is cleaned to enhance bonding between the
+existing denture base and the reline material. Next, an appropriate resin is introduced and shaped using a compression-molding
+technique.
+For relining, a low polymerization temperature is desirable
+to minimize distortion of the remaining denture base. Hence, a
+chemical-activated resin is usually chosen. The selected material is
+mixed according to the manufacturer’s recommendations, placed
+into the mold, compressed, and permitted to polymerize. Finally,
+the denture is recovered, finished, and polished.
+If a chemical-activated resin is selected for relining the existing denture, a specialized mounting assembly may be used in
+lieu of flasking. This assembly maintains the correct vertical and
+horizontal relationships between the cast and the denture, while
+eliminating the need to encase the remaining denture base in dental gypsum. This facilitates recovery of the denture at the end of
+the relining process.
+Relining can also be accomplished using resins that are activated by heat, light, or microwave energy. In all of these instances,
+significant heat can be generated, and distortion of the existing
+denture base will be more likely.
+Similar materials are marketed for home use. Unfortunately, the
+majority of patients do not possess adequate knowledge to manipulate these materials correctly; therefore the use of such products
+can result in damage to the oral tissues and should be discouraged.
+
+Rebasing Resin Dentures
+The steps required in denture rebasing are similar to those
+described for relining. An accurate impression of the soft tissues
+is made using the existing denture as a custom tray. Subsequently,
+a gypsum cast is fabricated in the impression. The cast and denture are mounted in a device designed to maintain the correct
+vertical and horizontal relationships between the gypsum cast and
+surfaces of the prosthetic teeth. The resultant assembly provides
+indices for the occlusal surfaces of the prosthetic teeth. After these
+indices have been established, the denture is removed, and the
+teeth are separated from the existing denture base. The teeth are
+repositioned in their respective indices and held in their original
+relationships to the cast while they are waxed to a new baseplate.
+At this point, the denture base is waxed to the desired form.
+The completed tooth arrangement is sealed to the cast, and the
+assembly is invested as previously described. Following elimination of the wax and removal of the baseplate, freshly mixed denture base resin is introduced into the mold cavity. Subsequently,
+the denture base is processed, recovered, finished, and polished.
+The completed prosthesis consists of a new denture base in conjunction with teeth from the patient’s previous denture.
+
+Resin Impression Trays and Tray Materials
+Resin trays are commonly used in dental impression procedures.
+Unlike stock trays, resin impression trays are fabricated to fit the
+
+arches of individual patients. Therefore resin impression trays are
+commonly called “custom trays.”
+The majority of custom trays are fabricated using light-activated and chemical-activated resin systems. Each system has
+advantages and disadvantages. Light-activated materials eliminate
+methyl methacrylate exposure but are more expensive and require
+high-intensity light units for polymerization. Chemical-activated
+resins are less expensive but have been associated with contact dermatitis, particularly in laboratory personnel.
+The steps in custom tray fabrication may be described as follows: A preliminary impression is made using a stock tray and an
+appropriate impression material. In turn, a gypsum cast is generated. A suitable spacer (e.g., putty silicone [avoid wax]) is placed
+on the gypsum cast to provide the desired relief. Subsequently, a
+separating medium is applied to the surface of the cast. At this
+stage, fabrication techniques for light-activated materials and
+chemical-activated materials become divergent.
+Light-activated resins are supplied in rope, sheet, and gel forms.
+Sheet forms are preferred for custom tray fabrication because of
+their favorable handling characteristics. Individual sheets are pliable and can be adapted to the associated casts and spacers with
+relative ease. A handle is added to facilitate removal of the tray
+from the mouth, the entire assembly is placed in a light chamber,
+and the resin is polymerized.
+Chemical-activated resins typically are PMMA and are supplied as powder–liquid systems. The components are mixed to
+form a doughlike mass. The dough is then rolled into a sheet
+approximately 2 mm thick, adapted to the diagnostic cast with a
+handle as described previously, and allowed to polymerize.
+Upon completion of the fabrication process, both light-activated and chemical-activated custom trays are removed from the
+associated casts and mechanically trimmed. The peripheries are
+rounded to make sure that patients will not be harmed by sharp
+or irregular edges. At this point, trays are evaluated intraorally and
+refined as necessary.
+
+Denture Cleansers
+Patients use a wide variety of agents for cleaning artificial dentures. These include dentifrices, proprietary denture cleansers,
+mild detergents, household cleansers, bleaches, and vinegar.
+The most common commercial products are based on immersion techniques. These cleansers are marketed in powder and
+tablet forms containing alkaline compounds, detergents, sodium
+perborate, and flavoring agents. When dissolved in water, sodium
+perborate decomposes to form an alkaline peroxide solution. This
+solution subsequently releases oxygen, which loosens debris via
+mechanical means.
+Household bleaches (hypochlorites) are also used in denture
+cleaning applications. Dilute bleach solutions can be used to
+remove certain types of stains. Unfortunately, prolonged use of
+bleach-containing solutions can remove color from denture bases,
+denture liners, and prosthetic teeth.
+Bleaches and bleach solutions should not be used for cleaning
+metal prostheses such as removable partial denture frameworks.
+These solutions produce significant darkening of base metals and
+may irreparably damage the affected prostheses.
+The use of brushes and abrasive cleansers can produce a range
+of effects on resin surfaces. Toothbrushes alone produce minimal
+wear of resin surfaces. Toothbrushes in conjunction with most
+commercial dentifrices, mild detergents, and soaps also appear
+to be relatively nondestructive. Conversely, household cleansers,
+
+CHAPTER 11
+
+such as kitchen and bathroom abrasives, are contraindicated. Prolonged use of such cleansers may cause noticeable wear of resin
+surfaces and adversely affect the function and esthetics of these
+prostheses. Therefore patients should be educated regarding the
+care and cleaning of dental prostheses.
+
+CRITICAL QUESTIONS
+What precautions should be taken when using porcelain teeth in a denture?
+What are the clinically relevant differences between porcelain teeth and
+acrylic resin teeth?
+
+Prosthetic Polymers and Resins
+
+251
+
+Unfortunately, porcelain teeth often cause significant wear of
+opposing enamel, metal, and resin tooth surfaces, especially when
+contacting surfaces have been roughened. As a result, porcelain
+teeth should not oppose such surfaces, and if they are used, they
+should be polished periodically to reduce abrasive damage.
+It should be noted that resin teeth are capable of chemical
+bonding with commonly used denture base resins. Porcelain teeth
+do not form chemical bonds with denture base resins and must be
+retained by bonded pins, mechanical undercuts, and/or silanization. As an additional consideration, leakage at the tooth–denture
+base junction can be seen as a dark line when food and microbes
+penetrate the interface.
+
+Resin Teeth for Prosthetic Applications
+The majority of preformed artificial teeth sold in the United States
+are made of acrylic or vinyl-acrylic resins. As might be expected,
+the methacrylate chemistries used in the fabrication of prosthetic
+teeth are similar to those used in denture base construction. The
+degree of crosslinking at the occlusal and incisal surfaces of prosthetic teeth is much greater than that exhibited by polymerized
+denture base materials. The increased crosslinking of prosthetic
+teeth in conjunction with the addition of inorganic filler increases
+wear resistance and improves clinical properties.
+Cervical portions of prosthetic teeth often exhibit reduced
+crosslinking to facilitate chemical bonding with denture base
+resins. Additional retention may be achieved by removing the
+glossy “ridge-lap” surfaces of resin teeth and preparing mechanical
+undercuts.
+Chemical bonding between resin teeth and heat-activated denture base materials has proven extremely effective. Nevertheless,
+bond failures can occur if ridge-lap surfaces are contaminated by
+residual wax or misplaced separating media. To optimize bonding,
+gypsum molds must be flushed with hot water, and the exposed cervical portions of prosthetic teeth must be thoroughly cleaned with
+mild detergent solutions. Separating media must be applied to gypsum mold surfaces but must not extend onto the exposed surfaces of
+resin teeth. As a final measure, ridge-lap surfaces should be wetted
+with monomer immediately before resin introduction.
+To enhance the wear resistance of prosthetic dentitions, manufacturers have introduced “hybrid” teeth exhibiting multilayer construction. These teeth include both resin composites and PMMA
+components. Resin composites are found primarily on occlusal
+and incisal surfaces of the prosthetic teeth and are intended to provide improved wear resistance. Unfortunately, chemical bonding
+between resin composites and heat-activated denture base materials is inferior to that which occurs between resin teeth and such
+denture base materials. To address this shortcoming, manufacturers have incorporated PMMA at the ridge-lap and lingual surfaces
+of hybrid teeth. The presence of PMMA on these surfaces facilitates predictable bonding with heat-activated PMMA resins. Nevertheless, operators must be certain not to eliminate the PMMA
+surfaces during the tooth-arrangement process.
+Despite the current emphasis on resin teeth, prosthetic teeth
+also may be fabricated using vacuum- or pressure-fired feldspathic
+porcelains. Hence a comparison of resin and porcelain teeth is
+warranted.
+Resin teeth display greater impact resistance and ductility than
+porcelain teeth. As a result, resin teeth are less likely to chip or
+fracture on impact, such as when a denture is dropped. Furthermore, resin teeth are easier to adjust, and they display greater
+resistance to thermal shock. In contrast, porcelain teeth display
+improved dimensional stability and increased wear resistance.
+
+CRITICAL QUESTION
+What are the benefits and drawbacks of the materials used in the
+construction of maxillofacial prostheses?
+
+Materials for Maxillofacial Prosthetics
+For centuries, prostheses have been used to mask maxillofacial
+defects. The ancient Egyptians and Chinese used waxes and resins to reconstruct missing portions of the craniofacial complex. In
+the 16th century, the French surgeon Ambroise Paré described a
+variety of simple prostheses used for the cosmetic and functional
+replacement of maxillofacial structures. During the ensuing years,
+restorative techniques and materials were improved and refined.
+Casualties in World Wars I and II established an increased need for
+maxillofacial prosthetics, and the dental profession assumed a major
+role in maxillofacial reconstruction and rehabilitation processes.
+Despite improvements in surgical and restorative techniques,
+the materials used in maxillofacial prosthetics are far from ideal.
+An ideal material should be inexpensive, biocompatible, strong,
+and stable. In addition, the material should be skinlike in color
+and texture. Maxillofacial materials should exhibit tear resistance when used in thin films, should exhibit compatibility with
+skin adhesives, and should be able to withstand moderate thermal and chemical challenges. Currently, no material fulfills all of
+these requirements. A brief summary of maxillofacial materials is
+included in the following paragraphs.
+
+Latexes
+Latexes are soft, inexpensive materials that can be used to create
+lifelike prostheses. Unfortunately, these materials are weak, degenerate rapidly, and exhibit color instability. Therefore latexes are
+rarely used in the fabrication of long-term maxillofacial prostheses.
+One synthetic latex is a terpolymer of butyl acrylate, methyl
+methacrylate, and methyl methacrylamide. Superior to natural
+latex, this material is nearly transparent. Colorants are sprayed
+onto the reverse or tissue side of the prosthesis, thereby providing enhanced translucency and improved blending. Despite these
+advantages, the associated technical processes are lengthy, and the
+resultant prostheses last only a few months. Therefore synthetic
+latexes have limited applications.
+
+Vinyl Plastisols
+Plasticized vinyl resins are sometimes used in maxillofacial applications. Plastisols are thick liquids composed of small vinyl particles
+dispersed in a plasticizer. Colorants are added to these materials
+
+252
+
+PA RT I I I
+
+Indirect Restorative Materials
+
+to match individual skin tones. Subsequently, vinyl plastisols are
+heated to impart desired physical characteristics. Unfortunately,
+vinyl plastisols harden with age as a result of plasticizer migration.
+Ultraviolet light also has an adverse effect on these materials. For
+these reasons, the usefulness of vinyl plastisols is limited.
+
+procedure. A gypsum mold may be housed within a brass denture
+flask, but this increases the risk of damage to the silicone material
+during deflasking.
+
+Silicone Rubbers
+
+Polyurethane also can be used in maxillofacial prosthetics. Fabrication of a polyurethane prosthesis requires accurate proportioning
+of three components. The material is placed in a gypsum or metal
+mold and allowed to polymerize at room temperature. Although
+a polyurethane prosthesis has a natural feel and appearance, it is
+susceptible to rapid deterioration, color change from the diet, and
+fungal growth.
+
+Silicones were introduced in the mid-1940s and have been used
+in maxillofacial applications since the 1950s. Both heat-curing
+and room-temperature–curing silicones are in use today, and both
+exhibit advantages and disadvantages.
+Room-temperature–curing silicones are supplied as singlecomponent materials that cure by the evaporation of acetic acid.
+They are intrinsically colored by the addition of dyed rayon fibers,
+dry earth pigments, and/or oil-based pigments. Prostheses are
+polymerized by bulk packing in two- or three-part gypsum molds,
+although more durable molds have been made from epoxy resins
+or metals.
+Heat-curing silicones are supplied as semisolid or puttylike
+materials and are intrinsically colored via the addition of suitable pigments. Following introduction into an appropriately constructed mold, the resultant assembly is exposed to a 30-minute
+heat application cycle at 180 °C. Heat-curing silicones display better strength and color stability than room-temperature–curing silicones. Nevertheless, all silicones are susceptible to fungal growth
+and fraying at fine margins, so a process of bonding to a sheet of
+polyurethane on the tissue surface has been developed. This process not only enhances prosthesis longevity but also improves the
+effectiveness of skin adhesives.
+The major disadvantage of heat-curing silicones is the requirement for a milling machine and a press. Furthermore, a metal
+mold normally is used, and fabrication of the mold is a lengthy
+
+Selected Readings
+Arima T, Murata H, Hamad T: The effects of cross-linking agents on
+the water sorption and solubility characteristics of denture base
+resins, J Oral Rehabil, 23:476–480, 1996.
+Bartoloni JA, Murchison DF, Wofford DT, et al: Degree of conversion
+in denture base materials for varied polymerization techniques, J Oral
+Rehabil, 27:488–493, 2000.
+Jagger DC, Jagger RG, Allen SM, et al: An investigation into the transverse and impact strength of “high strength” denture base acrylic resins, J Oral Rehabil, 29:263–267, 2002.
+Machado C, Sanchez E, Azer SS, et al: Comparative study of the transverse
+strength of three denture base materials, J Dent, 35:930–933, 2007.
+Rached RN, Powers JM, Del Bel Cury AA: Repair strength of autopolymerizing, microwave, and conventional heat-polymerized acrylic
+resins, J Prosthet Dent, 92:79–82, 2004.
+
+Polyurethane Polymers
+
+Chlorinated Polyethylene
+In an effort to overcome the deficiencies of the latex, vinyl plastisol, silicone, and polyurethane materials, a thermoplastic elastomer based on chlorinated polyethylene (CPE) was investigated
+in the 1970s and 1980s. With further development, CPE was
+shown to provide higher edge strength, permanent elasticity, and
+minimal fungal growth. In a recent randomized, controlled clinical trial, it was found that the material was equally preferred by
+patients who had never worn facial prostheses before, but patients
+who had worn silicone rubber prostheses in the past favored that
+material in the trial. Methods of layering the prosthetic material
+in the molds to develop color at depth and laminating surface
+coloration were also reported, which may be useful in future maxillofacial prosthetics applications.
+Additional information may be found in a review by Lemon
+et al. (2005), which presents current concepts regarding facial
+prosthetic rehabilitation of patients with head and neck cancer
+and facial prosthetic biomaterials.
+
+Stafford GD, Bates JF, Huggett R, et al: A review of the properties of
+some denture base polymers, J Dent, 8:292–306, 1960.
+Swaney AC, Paffenbarger GC, Caul HJ, et al: American Dental Association Specification No. 12 for denture base resin, ed. 2, J Am Dent
+Assoc, 46:54–66, 1953.
+Takahashi Y, Chai J, Takahashi T, et al: Bond strength of denture teeth to
+denture base resins, Int J Prosthodont, 13:59–65, 2000.
+Takamata T, Setcos JC: Resin denture bases: Review of accuracy and
+methods of polymerization, Int J Prosthodont, 2:555–562, 1989.
+Wong D, Cheng LYY, Chow TW, et al: Effect of processing method on
+the dimensional accuracy and water sorption of acrylic resin dentures,
+J Prosthet Dent, 81:300–304, 1999.
+Full Selected Readings for this chapter can be found on www.expertconsult.com.
+
+Selected Readings (Web Version)
+Arima T, Murata H, Hamad T: The effects of cross-linking agents on
+the water sorption and solubility characteristics of denture base resins, J Oral Rehabil, 23:476–480, 1996.
+Bartoloni JA, Murchison DF, Wofford DT, et al: Degree of conversion
+in denture base materials for varied polymerization techniques, J Oral
+Rehabil, 27:488–493, 2000.
+Blagojevic V, Murphy VM: Microwave polymerization of denture base
+materials: a comparative study, J Oral Rehabil, 26:804–808, 1999.
+Caswell CW, Norling BK: Comparative study of the bond strengths of
+three abrasion-resistant plastic denture teeth bonded to a cross-linked
+and a grafted, cross-linked denture base material, J Prosthet Dent,
+55:701–708, 1986.
+Chai J, Takahashi Y, Takahashi T, et al: Bonding durability of conventional resinous denture teeth and highly crosslinked denture teeth to a
+pour-type denture resin, Int J Prosthodont, 13:112–116, 2000.
+Clancy JMS, Boyer DB: Comparative bond strengths of light-cured,
+heat-cured, and autopolymerizing denture resins to denture teeth,
+J Prosthet Dent, 61:457–462, 1989.
+Compagnoni MA, Barros Barbosa D, de Souza RF, et al: The effect of
+polymerization cycles on porosity of microwave-processed denture
+base resin, J Prosthet Dent, 91:281–285, 2004.
+Cunningham JL, Benington IC: An investigation of the variables which
+may affect the bond between plastic teeth and denture base resin,
+J Dent, 27:129–135, 1999.
+Dhir G, Berzins DW, Dhuru VB, et al: Physical properties of denture
+base resins potentially resistant to Candida adhesion, J Prosthodont,
+16:465–472, 2007.
+Gettleman LM: Chlorinated polyethylene and polyphosphazenes. In Setcos JC (editor): Materials research in maxillofacial prosthetics, Trans
+Acad Dent Mater, 5:156–172, 1992.
+Gettleman LM: Uses of polyphosphazene in dentistry. Chapter 2. In Mario
+G, Roger D, editors: Applicative Aspects of Poly(organophosphazenes),
+New York, 2004, Nova Science Publishers, pp 33–47.
+Gettleman LM, Vargo JM, Goist KC, et al: Laboratory and clinical testing of a polyphosphazene resilient denture liner vs. a silicone rubber
+liner editor. In Kawahara H, editor: Oral Implantology and Biomaterials, Amsterdam, 1989, Elsevier. Progress in Biomedical Engineering
+Series, pp 15–20.
+Goodacre CJ, Garbacea A, Naylor P, et al: CAD/CAM fabricated complete dentures: Concepts and clinical methods of obtaining required
+morphological data, J Prosthet Dent, 107:34–46, 2012.
+Jagger DC, Jagger RG, Allen SM, et al: An investigation into the transverse and impact strength of “high strength” denture base acrylic resins, J Oral Rehabil, 29:263–267, 2002.
+Jorge JH, Giampaolo ET, Machado AL, et al: Cytotoxicity of denture
+base acrylic resins: A literature review, J Prosthet Dent, 90:190–193,
+2003.
+Jorge JH, Giampaolo ET, Vergani CE, et al. Cytotoxicity of denture base
+resins: Effect of water bath and microwave postpolymerization heat
+treatments, Int J Prosthodont, 7:340–344, 2004.
+Kanazawa M, Inokoshi M, Minakuchi S, et al: Trial of a CAD/CAM system for fabricating complete dentures, Dent Mater J, 30:93–96, 2011.
+
+Kawahata N, Ono H, Nishi Y, et al: Trial duplication procedure for complete dentures by CAD/CAM, J Oral Rehabil, 24:540–548, 1997.
+Kiat-amnuay S, Jacob RF, Chambers MS, et al: Clinical trial of chlorinated polyethylene for facial prosthetics, Int J Prosthodont, 23:263–
+270, 2010.
+Lemon JC, Kiat-amnuay S, Gettleman LM, et al: Facial prosthetic rehabilitation: preprosthetic surgical techniques and biomaterials, Curr
+Opin Otolaryngol Head Neck Surg, 13:255–262, 2005.
+Levin B, Sanders JL, Reitz PV: The use of microwave energy for processing acrylic resins, J Prosthet Dent, 61:381–383, 1989.
+Machado C, Sanchez E, Azer SS, et al: Comparative study of the transverse strength of three denture base materials, J Dent, 35:930–933,
+2007.
+Maeda Y, Minoura M, Tsutsumi S, et al: A CAD/CAM system for removable denture. Part 1: Fabrication of complete dentures, Int J Prosthodont, 7:17–21, 1994.
+Monsenego P, Baszkin A, de Lourdes Costa J, et al: Complete denture
+retention. Part II Wettability studies on various acrylic resin denture
+base materials, J Prosthet Dent, 62:308–312, 1989.
+Phoenix RD, Mansueto MA, Ackerman NA, et al: Evaluation of mechanical and thermal properties of commonly used denture base resins,
+J Prosthodont, 13:17–27, 2003.
+Rached RN, Powers JM, Del Bel Cury AA: Repair strength of autopolymerizing, microwave, and conventional heat-polymerized acrylic
+resins, J Prosthet Dent, 92:79–82, 2004.
+Sanders JL, Levin B, Reitz PV: Porosity in denture acrylic resins cured by
+microwave energy, Quintessence Int, 18:453–456, 1987.
+Sarac YS, Sarac D, Kulunk T, et al: The effect of chemical surface treatments of different denture base resins on the shear bond strength of
+denture repair, J Prosthet Dent, 94:259–266, 2005.
+Shlosberg SR, Goodacre CJ, Munoz CA, et al: Microwave energy polymerization of poly(methyl methacrylate) denture base resin, Int J Prosthodont, 2:453–458, 1989.
+Stafford GD, Bates JF, Huggett R, et al: A review of the properties of
+some denture base polymers, J Dent, 8:292–306, 1960.
+Swaney AC, Paffenbarger GC, Caul HJ, et al: American Dental Association Specification No. 12 for denture base resin: second revision, J Am
+Dent Assoc, 46:54–66, 1953.
+Takahashi Y, Chai J, Takahashi T, et al: Bond strength of denture teeth to
+denture base resins, Int J Prosthodont, 13:59–65, 2000.
+Takamata T, Setcos JC: Resin denture bases: Review of accuracy and
+methods of polymerization, Int J Prosthodont, 2:555–562, 1989.
+The Academy of Prosthodontics: The Glossary of Prosthodontic Terms,
+9th ed, J Prosthet Dent, 117(5S):e1–e105, 2017.
+Tsuchiya H, Hoshino Y, Tajima K, et al: Leaching and cytotoxicity of
+formaldehyde and methyl methacrylate from acrylic resin denture
+base materials, J Prosthet Dent, 71:618–624, 1994.
+Tuckfield WJ, Worner HK, Guerin BD: Acrylic resins in dentistry, Aust
+Dent J, 47:119–121, 1943.
+Wong D, Cheng LYY, Chow TW, et al: Effect of processing method on
+the dimensional accuracy and water sorption of acrylic resin dentures,
+J Prosthet Dent, 81:300–304, 1999.
+Zappini G, Kammann A, Wachter W: Comparison of fracture tests of
+denture base materials, J Prosthet Dent, 90:578–585, 2003.
+
+252.e1
+

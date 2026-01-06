@@ -1,0 +1,5148 @@
+20
+
+Emerging Technologies
+OUTLINE
+Biomaterials
+
+Instruments and Processes
+
+Biological Materials
+
+Summary
+
+KEY TERMS
+Bioactive Having an effect on or eliciting a response from living
+tissue, an organism, or a cell, especially in inducing the formation of superficial hydroxyapatite.
+Bioinductive Capable of inducing a response in a biological
+system.
+Biomaterial Any matter, surface, or construct that interacts with
+biological systems.
+Biomimetics Study of the formation, structure, or function of biologically produced substances and materials (e.g., silk or nacre)
+and biological mechanisms and processes (e.g., protein synthesis or mineralization) for the purpose of synthesizing similar
+products by artificial mechanisms that mimic natural structures.
+CAD-CAM CAD refers to computer-aided design technology, based
+on the use of computer software and systems to assist in the creation, modification, analysis, and optimization of two-dimensional
+or three-dimensional models of objects. Any computer program
+that embodies computer graphics and an application program
+that facilitates engineering functions in the design process can
+be classified as CAD software. The term CAM refers to computeraided manufacturing of a restorative device using the CAD input
+file. CAM may be additive (buildup) or subtractive (machining of a
+device from a larger starting piece of material).
+
+Cytology The harvesting of disaggregated cells and related microscopic material for analysis of disease.
+Nanotechnology Technology that focuses on the atomic and
+molecular scale (<100 nm) of materials, devices, and other structures. On this scale, in which at least one dimension must be
+below 100 nm, quantum mechanics (quantum theory) controls
+material properties or behavior.
+Osteoconductive Capable of acting as a matrix or scaffold to
+facilitate new bone growth on its surface.
+Self-assembling materials Disordered materials that form an
+organized structure or pattern as a consequence of specific,
+local interactions among the components, without external
+direction.
+Smart materials Synthetic materials that interact with external
+stimuli, such as light, temperature, stress, moisture, pH, and
+electric/magnetic fields, in such a way as to alter specific properties in a controlled fashion and return to the original state after
+the stimulus has been removed.
+Voxel Volumetric picture element that represents a single sample,
+or data point, on a regularly spaced three-dimensional grid. It
+is analogous to how pixel defines a point in two-dimensional
+space.
+
+The materials and devices in current use are effective, but improvements in performance are always needed. For instance, caries-prevention treatments have reduced the need for initial restorations,
+replacement restorations, and removable dentures. Minimally
+invasive dentistry concepts have led to the removal of less tooth
+structure and the sealing of leaking defective margins of restorations. Nonetheless, because of the promotion of higher-cost
+esthetic restorations, sometimes at the expense of durability, the
+need for both repair and replacement of restorations will continue
+because resin restorative materials fail and degrade over time. Thus
+the choice of materials for a given clinical situation will continue
+to be based on a comparative analysis that balances cost, benefits,
+and risks. Until caries is considered truly “curable,” there will be
+a need for novel solutions, such as remineralizing agents, smart
+materials, and durable repair and replacement materials that
+avoid the need to repeatedly restore teeth. The focus of emerging
+applications of dental materials is primarily on the prevention,
+
+detection, and treatment of caries, periodontal disease, and oral
+cancer. These materials are often called dental biomaterials
+because of the increase of interaction with the biological systems.
+New dental biomaterials must satisfy the following requirements: (1) be nontoxic to human cells, (2) not support the growth
+of microbes and fungi, (3) be able to form an excellent seal between
+the oral cavity and underlying tooth structure, (4) be sufficiently
+bioactive to stimulate in vivo repair of tissues, (5) have properties
+similar to the tissue that is to be repaired or replaced, (6) exhibit
+handling properties that allow ease of manipulation and promote
+optimal clinical performance, (7) exhibit an esthetically pleasing
+appearance, and (8) are cost-effective.
+In the following subsections, research and technologies are
+discussed for their relevance to solving oral health–related problems. Figure 20-1 depicts a flowchart of basic, translational, and
+clinical research representing stages in the development of emerging technologies and products. The farther to the right of the chart
+401
+
+402
+
+PA RT V
+
+Assessing Dental Restorations
+
+Research
+stage
+
+Basic
+research
+
+Technology
+classification
+
+Emerging
+technology
+concepts
+
+Nanotechnology
+advances
+
+Nanotechnology
+validation
+
+Established
+nanotechnology
+
+Integrated
+nanotechnology
+and
+microtechnology
+
+Spin-off
+technology
+
+Cost-benefit
+demonstrated
+
+Testing
+stage
+
+Hypothesis
+testing
+
+Product
+evaluation
+
+Bridge between
+basic/applied and
+clinical practice
+
+Pilot and
+retrospective
+studies
+
+Randomized
+controlled trials
+
+Performance
+appraisal
+
+Refinement of
+technologies
+
+Outcomes
+
+Preliminary
+data
+
+Comparative
+performance
+
+Preliminary
+evidence
+
+Validation of
+evidence
+
+Promising
+treatment
+outcomes
+
+Optimum
+treatment
+outcomes
+
+Adoption by
+clinical
+practices or
+dental labs
+
+Further
+refinement
+needed
+
+Technologies
+applied to
+health care
+tasks
+
+Oral health
+care goals
+fully achieved
+
+Application of
+refined
+technology
+
+Demonstrated
+benefits in
+lab and
+clinic tasks
+
+Fully
+documented
+and wellestablished
+evidence
+
+Probable future
+technologies,
+materials, and
+devices
+
+Likely future
+technologies,
+materials, and
+devices
+
+Proven future
+technologies,
+materials, and
+devices
+
+Stage of
+technology
+development
+
+Level of
+evidence
+
+Level of
+success
+
+Applied/transitional research
+
+Technologies are feasible
+
+Clinical
+simulation
+
+Proof of
+concept
+
+Desirable technologies,
+materials, and devices
+
+Clinical trials
+
+Technologies are imminent
+or validated
+
+Probability of
+specific
+outcomes
+
+Limited
+applicability of
+technology
+
+Possible future
+technologies,
+materials, and devices
+
+Applicability to
+dental practices
+
+• Figure 20-1 Flow chart of basic, translational, and clinical research links to develop and evaluate emerging technologies and products. The downward
+arrows show the sequence of steps taken in the process. The rightward arrows show the increasingr probability of having a desirable clinical outcome.
+
+a technology or material is, the higher the probability that this
+material will have a desirable clinical outcome. The discussion is
+divided into three sections: biomaterials, biological materials, and
+instruments and processes.
+
+Biomaterials
+Any matter, surface, or construct that interacts with biological systems is considered to be a biomaterial. In the present context, only
+synthetically derived or highly processed nonsynthetic materials
+(materials of biological origin) are discussed. In dentistry, these are
+also preferably known as dental materials.
+
+CRITICAL QUESTION
+In which ways will nanotechnology provide products or processes that can
+improve oral health outcomes?
+
+Nanotechnology
+Nanotechnology uses nanosized particles and surface features
+with very high ratios of surface area to volume that are usually
+different in their bioactivity, solubility, and antimicrobial effects
+compared with larger particles of the same composition. Thus
+changes in properties cannot be extrapolated by an inverse linear analysis of particle size but must be determined through in
+vitro and in vivo testing of the nanomaterials. In dentistry, nanotechnology had been focused on the development of nanoparticle
+
+fillers to improve dental composite esthetics. The use of nanotechnology today is more diverse.
+In biomimetics, nanotechnology is being used to develop
+materials that promote hard tissue remineralization. Biomimetic
+materials and processes mimic those that occur in nature, particularly self-assembly of components to form, replace, or repair oral
+tissues. These concepts are discussed further later in this chapter.
+For dental implants and related devices, nanoparticles are used
+to modify dental implant surfaces to influence the host response
+at the cellular and tissue levels. Electrophoretic sol-gel fabrication,
+pulsed laser deposition, sputter coating, and ion-beam–assisted
+deposition are among the approaches used to develop nanotextured, thin-film, biocompatible coatings for implant surfaces.
+These technologies reduce the thickness of the coating layer and
+increase the specific surface area and reactivity to improve the
+interaction with the surrounding apical tissue.
+Important nanoparticles include metals, such as silver, and
+ceramic powders, such as silica and titanium dioxide. In situ–
+generated silver nanoparticles have been reported to be highly
+effective in restorative resins, bonding resins, and prosthetic resins for inhibiting a variety of biofilm-forming bacteria while not
+interfering with manipulation, curing, mechanical properties, or
+other performance properties. Silica nanoparticles already have
+wide use in dentistry, from toothpastes to composites. Titania
+nanoparticles are widely used for pigments in dental materials but
+lack the stronger antimicrobial effects of Ag.
+Another recently introduced nanotechnology kills bacteria
+on contact on restoration surfaces. Infinix flowable composite
+
+CHAPTER 20
+
+(Nobio Ltd., Israel), which contains quaternary ammonium
+bound to silica (also known as QASi) was reported to significantly
+reduce Enterococcus faecalis on the surface of the material without
+affecting composite flexural strength, radiopacity, depth of cure,
+water sorption, or water solubility. After 6 and 12 months of use
+in vivo, there was a 50% reduction of live bacteria on Nobio QASi
+composites compared with control composites. An added advantage of the QASi-containing surfaces is that no “recharging” is
+needed, unlike the fluoride in glass ionomers that confers microbial resistance. Prevention of bacterial biofilm protects the integrity of the dental product restorations.
+
+Resin Restorative Materials
+Despite the recent innovations in increasing the service life of
+contemporary resin composites (see “Innovations in Dental Composites” in Chapter 5, Classification of Composites by Unique
+Properties), significant uncertainty exists regarding the interactions of bacterial biofilms, wear, and fatigue leading to recurrent
+caries. Thus further improvements are needed in order to greatly
+increase the clinical life of resin-based restorations to match and
+even surpass the durability of amalgam, the gold standard, and
+eliminate the need to repair the restored teeth. To this end, major
+goals for restorative materials continue to be the reduction of
+composite shrinkage during curing, porosity, wear and attrition,
+improvement of the composite–dentin interface, and increasing
+the degree of conversion of resin monomers.
+One factor that influences restorative longevity is operator
+error. Materials with many steps, the requirements for a dry field,
+difficult handling, or long curing times are inherently prone to
+mistakes that often lead to material defects, such as voids and
+inadequate curing, which hasten the onset of fatigue, fracture, and
+abrasion. Thus more technique insensitive (“forgiving”), operatorfriendly, esthetic, and long-lived composites are being developed.
+As discussed in Chapter 5, Classification of Composites by
+Manipulation Characteristics, two novel flowable composites
+marketed as “bulk-fill, universal restorative resins,” G-aenial
+Universal Flo (GC America, Alsip, IL) and Surefil-SDR flow
+(DENTSPLY International, York, PA), among others, exemplify
+operator-friendly materials that are translucent and have flowable rheology, easy handling properties, and a large depth and
+degree of conversion. Both exhibit low shrinkage and shrinkage
+stress, which allow the composite to be placed in large increments
+instead of the prescribed 2-mm layers, further contributing to
+their technique insensitivity. Because these highly flowable composites contain reinforcing filler on a par with the highly loaded,
+nonflowable, and “packable” hybrids, such as those described in
+Chapter 5, Classification of Composites by Manipulation Characteristics, their performance is similar to those of current posterior
+resins, raising expectations of high durability and long clinical life.
+Early-stage wear resistance and durability tests have validated the
+benefits of their high filler loading, low curing stress, and high
+level and depth of cure.
+Filtek Universal (3M ESPE, St. Paul, MN) is a recent addition (2019) to the category of operator-friendly composites.
+The nanoparticle fillers in this composite provide superior shade
+matching and wear resistance. This composite contains two
+unique monomers: addition-fragmentation monomer (AFM) and
+aromatic urethane dimethacrylate (AUDMA). The AFM fragments and repolymerizes during curing, reducing curing stress and
+enhancing marginal integrity. The AUDMA decreases the number
+of reactive groups in the resin and increases polymer flexibility.
+
+Emerging Technologies
+
+403
+
+Fewer reactive groups moderate the volumetric shrinkage, and the
+increased polymer flexibility reduces the stiffness of the polymer
+matrix before the matrix reaches the gelation point. Both of these
+contribute to decreased curing stress, improved marginal integrity,
+and ultimately, improved abrasive wear resistance.
+Omnichroma (Tokuyama Dental America) is a single-shade,
+universal composite that matches every tooth shade, from A1 to
+D4. The innovative material contains 260-nm spherical nanoparticles that can scatter red-to-yellow colors as ambient light impinges
+on and is reflected from the composite. The red-to-yellow scattering blends with the scattered light of the adjacent dentition to
+produce an esthetic color match and reduces operator sensitivity.
+
+Bioactive Materials
+Most present-day dental materials do not induce dental tissue
+responses and are not bioactive. Bioactivity is defined in ISO
+23317 as a property that elicits a specific biological response at
+the interface of the material, which results in the formation of a
+bond between tissue and material. As such, bioactivity incorporates antimicrobial, remineralizing, and bone-forming materials,
+as discussed in this section. Bioactive materials implanted in a living body form a thin layer rich in Ca and P on their surface. The
+material then connects to the living tissue through this apatite
+layer without a distinct boundary. Bioactive materials are useful
+for the healing of tissues, especially pulp and periapical tissues,
+and for supporting root development in immature teeth.
+Bioactive materials available now include calcium hydroxide,
+bone grafts, bioglass particulates, and hydraulic (water-setting)
+ceramic powders. The calcium–silicate powders are considered
+the gold standard for endodontic surgical procedures, pulpotomy,
+revascularization, and apexification procedures. The calcium aluminate–based powders, being more acid-resistant, are being used
+with glass ionomers for supragingival cement for prosthodontics
+and have found limited use for restorative applications. Their acid
+resistance makes them useful for infected sites, which are generally
+acidic; as such, the aluminates may be used for the same indications as mineral trioxide aggregate (MTA) materials. Calcium
+phosphate cements are generally slower-setting than the hydraulic
+cements but are being used for scaffolding purposes where the formation of hydroxyapatite is necessary and porosity is acceptable.
+Theobromine, a xanthine found in cocoa, promotes the formation of hydroxyapatite mineral and increases the size of hydroxyapatite crystals by upregulating osteogenesis, which would have
+numerous benefits. For instance, theobromine may remineralize adjacent tooth enamel and have the potential to close gaps
+between restoration and tooth, improve bond-strength durability associated with reduced bond degradation, and enhance bone
+integration with implant surfaces. The large crystallite size leads
+to resistance to dissolution via the decreased specific surface area
+available for acid dissolution. New bioactive materials are under
+development that, in general, will create a biomimetic “presence”
+in vivo that induces healing superior to those of many present-day
+dental materials.
+Dental resins have been combined with bioactive TiO2 nanoparticles to promote hydroxyapatite formation, enhance mechanical
+strength, and act photo-catalytically as a bactericidal agent. A dentin
+bonding adhesive with TiO2 nanoparticles can provide on-demand,
+photo-induced microbial inhibition and simultaneously fill marginal
+gaps via remineralization of adjacent dentin and enamel. This technology may reduce recurrent caries, improve tissue integration with
+implant surfaces, and prevent peri-implantitis or other infections at
+
+404
+
+PA RT V
+
+Assessing Dental Restorations
+
+the tissue–implant interface. These results are intriguing and highly
+promising, but they have not yet been tested clinically.
+The surface of materials is often what makes them bioactive. Titanium as an implant material is an example. Like chromium, titanium spontaneously reacts with oxygen to form a
+self-repairing, protective oxide layer (TiO2), which makes the
+implant surface largely corrosion-resistant, inert, and biocompatible. However, surface roughness and other aspects of surface
+topography, together with surface chemistry, are also known
+to strongly influence the early events in healing and osseointegration that follow implant placement. Interactions between
+proteins, cells, tissues, and implant surfaces play a role in determining the success or failure of all implanted materials and
+devices. The surface chemistry and topography-related mechanisms that control these events are poorly understood. Nevertheless, substantial research effort in dental implantology is
+currently directed at developing surfaces with controlled topography and chemistry at the nanoscale level to optimally promote
+protein adsorption and cell adhesion. Biomimetic calcium phosphate coatings for implants are under development to enhance
+osteoconductive properties and incorporate biological agents to
+accelerate bone healing in the peri-implant area. Overall, these
+research efforts to understand and control surfaces are showing
+great promise, and some are likely to lead to materials, processes,
+and/or procedures to enhance the reliability of placement, indications for use, and the success rate of dental implants.
+
+Antimicrobial Materials
+Preventing and removing biofilms is important for pediatric dentistry and especially periodontics and endodontics. Adjunctive
+liquids are needed that can quickly kill and remove bacterial colonies in biofilms during periodontal scaling. In endodontics, new
+irrigants are needed to better remove and deactivate smear layers
+containing remnant bacteria after root canal preparation, which is
+never complete. Some endodontic irrigation liquids are combined
+with acids or surfactant to dissolve the dentinal smear layer created
+by endodontic instruments in a root canal. Combination devices
+containing a drug, bone morphogenetic protein (BMP), or amino
+acids are envisioned for endodontic and periodontal uses. Two such
+combinations, QMIX and MTAD (DENTSPLY Inc.), are irrigants
+in endodontics.
+Endodontics has been dramatically changed by the introduction of hydraulic ceramic (water-setting) cements that create highpH environments and thereby have antimicrobial properties. For
+example, the tricalcium silicates and calcium aluminates have
+enhanced endodontic and pulpal treatment with their antimicrobial properties and dimensional stability.
+Although the clinical performance of dental resins has
+improved remarkably in durability, bond strength, and esthetics,
+most still lack antimicrobial properties and allow bacterial colonization and biofilm formation. Antimicrobial monomers are being
+investigated and developed to prevent recurrent caries better than
+composites that release fluoride ions. Ideally, the polymerized resins would have sustained antimicrobial characteristics. Examples
+include modified (chlorinated) polyethylene or other polymers
+that may provide antimicrobial activity.
+
+CRITICAL QUESTION
+What stages of research will lead to the adoption of new remineralizing
+materials and processes for dental practice?
+
+Remineralizing Agents and Materials
+The dental literature reflects a strong demand for preventive and
+“healing” therapies for individuals at moderate risk for caries to
+prevent a shift to a high level of risk. Thus low concentrations of
+fluoride are included in toothpaste, well water, and other fluoridated sources to have beneficial effects on enamel and dentin
+remineralization.
+Other remineralizing agents include the use of nanoparticles
+of hydroxyapatite because they are on the same crystalline scale as
+naturally occurring hydroxyapatite crystals in enamel or dentin. A
+promising example of this approach was reported by Li et al. in
+2008, who found that 20-nm nanohydroxyapatite particles had
+a superior anticaries repair effect compared with that of larger
+hydroxyapatite particles.
+Liquid remineralizing dentin bonding agents, which should
+wet, flow, and completely fill the demineralized zone created by
+etching prior to or simultaneous with bonding to the restorative
+material, are also being developed. For instance, a tricalcium silicate product was tested with polyacrylic acid and sodium tripolyphosphate for remineralization. When these materials were applied
+under a restorative material, the combined material infiltrated the
+demineralized collagen fibrils with precursors that restored the calcium phosphate at the interfaces of the dentin and the restorative
+material. Incorporation of some of these technologies into primers and dentin bonding agents are expected to both inhibit caries
+activity and increase the service life of composite restorations.
+Theobromine, a bioactive agent discussed earlier, is an alternative to fluoride as a remineralization agent. Theobromine is
+currently used in Theodent toothpaste products (Theodent LLC,
+New Orleans).
+Emerging technologies and materials that promote remineralization at early and moderately advanced stages of caries are
+being developed more rapidly now that highly sensitive imaging
+and measurement processes are available (Chapter 15, Diagnostic
+Systems).
+
+Bone-Grafting Materials
+In addition to remineralizing small lesions, gross remineralizing
+treatments and bone grafts are increasingly needed for dentistry.
+Bone-grafting materials are necessary for various oral surgeries,
+such as alveolar ridge augmentation and sinus augmentation, and
+for the placement of implants or to improve mandibular denture
+stability. Extraction socket grafting materials are gaining popularity to prevent the collapse of cortical bone and enable the placement of an implant. Also, patients prefer faster treatment and
+fewer surgeries, which drives research and development toward
+single-stage implant procedures with immediate functional loading (IFL). Implants with nanotechnology coatings may increase
+the success and acceptability of the single-stage and IFL procedures, but before implant placement, grafts are often needed.
+Graft materials are available containing allogeneic, xenogeneic,
+or synthetic hydroxyapatite particles to act as a scaffold for gradual replacement by the patient’s bone. These current bone grafts
+slowly resorb, and the replacement bone densifies over months
+until a restorative denture or implant can be made. More rapid
+resorption and bone-growth-stimulating materials are needed to
+meet the demand for faster implant placement after tooth extraction, even immediate placement. Some available grafting materials
+are designed for faster resorption and bone growth. For instance,
+PepGen P-15 (DENTSPLY Friadent, Mannheim, Germany), a
+
+CHAPTER 20
+
+hydroxyapatite product with an amino acid, is available for accelerating natural bone regeneration. Infuse (Medtronic, Minneapolis,
+MN), a collagen sponge with recombinant human bone morphogenetic protein-2 (rhBMP-2), is indicated for sinus augmentation
+and localized alveolar ridge augmentation. BMPs, also known as
+cytokines, represent a group of growth factors that can affect cell
+interactions and cell behavior. PerioGlas and NovaBone Dental Putty (NovaBone Products, Jacksonville, FL) contain coarse
+(>100 μm) bioglass particles for implantation as a resorbable scaffold for bone growth and periodontal grafting. Ostim-Paste (aap
+Biomaterials GmbH, Dieburg, Germany) is a nanocrystalline
+hydroxyapatite paste that can be used to repair the intraoral bony
+defects that may result from cystectomies (a surgical procedure to
+remove a cyst), root tip resections, extractions, and surgical tooth
+removal; for augmentations in the areas of the alveolar processes
+and maxillary sinuses (sinus lift); and for filling periodontal defects.
+Clinical trials are needed to determine the success of each of these
+approaches and guide the development of future products.
+New bioactive glasses are under development that contain
+more boron and silica than the original formulas of 45S5 bioglass
+(45 wt% SiO2 and a 5:1 ratio of CaO to P2O5) for osteogenesis, and
+the new formulas may be resorbed more quickly, with faster bone
+replacement. Copper or silver in these glasses may also enhance
+soft tissue deposition in other applications. Powders, fibers, or
+foams of the bioactive glasses may be used as scaffolds for use in
+the rapid replacement of bone or soft tissue. Scaffolds of bioactive glass are used for osteoconduction, and they may also initiate
+the development of cartilage (chondrogenesis). The latter could be
+useful for temporomandibular joint (TMJ) treatments. Combinations of biodegradable polymers with bioactive glass particles may
+also enhance tissue replacement and serve as the basis for new
+grafting materials.
+
+CRITICAL QUESTION
+In which ways does the use of smart materials lead to improvements in the
+quality of oral health care?
+
+Stimulus-Responsive “Smart” Materials
+“Smart” materials are designed for interaction with external stimuli, such as light, temperature change, stress, moisture, pH, or
+electric/magnetic fields. Examples of such dental materials include
+zirconia ceramics that transform from a tetragonal to monoclinic
+crystal form when tensile stress is induced at crack tips, leading
+to an increase in crystal volume and compressive stress to prevent the propagation of cracks. Light-curing composites begin
+curing when irradiated with particular wavelengths of blue light,
+and others change color when irradiated (for use in orthodontics).
+Glass-ionomer cements will weaken when desiccated, making
+orthodontic bands easier to remove. Other glass-ionomer restoratives increase the release of fluoride when the pH in plaque fluid
+decreases (becomes acidic). Nickel-titanium wires are designed
+to soften when chilled below body temperature for bending and
+threading through orthodontic brackets. Smart cements have been
+envisioned to soften and allow debonding by a temperature change
+or irradiation process for the removal of orthodontic devices, indirect restoratives, and some implant components.
+Secondary caries and the unnecessary replacement of defective restorations can be prevented and adjacent enamel remineralized through one of the following preservative treatments: (1)
+sealing of marginal crevices adjacent to defective restorations with
+
+Emerging Technologies
+
+405
+
+a hydrophilic resin, (2) sealing crevices with a smart resin capable
+of the controlled release of chlorhexidine or another antibacterial
+agent, (3) sealing crevices with a smart resin capable of the controlled release of fluoride, and (4) applying a sealing resin or varnish that can release xylitol or other caries-management agents at
+specified concentrations over a specific period of time. Emerging
+technologies and materials for sealing may include smart hydrophilic resins that release fluoride and/or other mineralizing agents
+when the pH of oral fluids decreases to a range of 4.0 to 5.5 to
+seal moist microscopic crevices adjacent to defective restorations
+and reduce enamel demineralization. Improved, smarter sealants,
+varnishes, and composites that release fluoride would be beneficial. Concomitant studies of composition, particle size, and particle-size distribution for smarter release of fluoride (on-demand
+release) would make them “smart sealants.” The rapid induction
+or reversal of anesthesia may be another future application for
+smart materials. For instance, particles or substances applied in
+the sulcus could start or stop the anesthetic reaction. Smart material concepts can provide the clinician with better control, which
+will certainly suggest approaches for new products.
+
+Self-Assembling Materials
+Self-assembling materials automatically construct prespecified
+assemblies. Viruses, cells, tissues, and whole organisms are examples of biological self-assemblies, whereas crystals are an example
+of nonbiological self-assemblies. The latter can be derived from
+polymers, metals, ceramics, or combinations of components. Selfassembly occurs by orchestrated stages of initiation, propagation,
+and termination. Control systems for initiation and/or propagation may be templates (e.g., template polymerization of proteins,
+patterning of silica templates for electrical circuits), or they might
+depend simply on natural rules corresponding to energetically
+favorable physical, chemical, mechanical, and/or biological events
+(e.g., capillary forces, heterogeneous nucleation of crystallization,
+surface-energy reduction, phase separation, micelle formation,
+and steric probabilities for molecular folding).
+Bone or soft tissue scaffolding of graft materials can be considered as self-assembling. The coarse porous particulate or spongy
+bone graft materials are designed to encourage biological tissue
+to respond and replace the scaffold. Templates of proteins may be
+used to encourage biological events, such as specific tissue growth.
+For example, a broad class of self-assembling peptide derivatives
+offers exciting novel therapies of broad potential impact in regenerative medicine. These peptide amphiphiles (PAs) incorporate
+a short hydrophobic domain on one end of a hydrophilic oligopeptide sequence that also contains bioactive signaling sequences.
+Nanostructures can be designed from these peptides through
+self-assembly strategies and supramolecular chemistry, having
+the potential to combine biocompatibility with bioactivity. Such
+structures offer engineering design flexibility for biomedical and
+biomaterials applications. This type of research is nearing clinical application. However, for the regeneration of teeth, translation
+remains a distant but achievable target. Possibilities involve tissue
+engineering, biomimetics, and stem cell biology, which are discussed in greater detail in the following sections.
+
+Self-Healing (Self-Repairing) Materials
+Self-healing is an autonomically initiated response to damage or
+failure. Nature continually remodels bone, which can heal itself
+(self-repair) even after a major fracture. Nature’s mechanisms of
+
+406
+
+PA RT V
+
+Assessing Dental Restorations
+
+repair have inspired efforts to develop self-healing capabilities in
+synthetic materials that may well appear in dental products within
+a few years. To achieve self-healing, a material must be capable of
+identifying and repairing failures.
+Restorative materials are subject to aging in vivo and have a
+limited lifetime; they gradually degrade because of physical, chemical, and biological phenomena such as creep, fatigue, internal
+stresses, dissolution, erosion, or biodegradation. An epoxy system
+has been developed that is self-healing, consisting of microencapsulated dicyclopentadiene and Grubb’s metathesis catalyst. If a
+crack occurs in the epoxy composite, some of the microcapsules
+are ruptured near the crack and release dicyclopentadiene, which
+subsequently fills the crack and reacts with the catalyst, causing
+polymerization of the dicyclopentadiene and repairing the crack.
+These materials improve the recovery of composite fracture toughness after stress in laboratory tests. Similar systems have exhibited
+a significantly longer service life under mechanical stress in situ
+compared with those without the ability for self-repair. A selfhealing dental resin would be extremely important for lengthening service life.
+
+Biological Materials
+Biomaterials science is exploring new technologies and is increasingly shifting to natural tissue repair or replacement therapies.
+Biological biomaterials can lead to natural tissue restoration but
+rely heavily on tissue engineering, biomimetics, self-assembling
+systems, cell biology, and regenerative dentistry.
+
+Biomimetics
+Some biological mechanisms and processes (e.g., protein synthesis, silk and seashell formation) can be mimicked by synthesizing
+similar products by artificial mechanisms. Of particular interest
+here are those that involve self-assembly of components to form,
+replace, or repair oral tissues. An intriguing prospect for this
+approach is the use of self-assembling PAs that contain both a
+photopolymerizable group and the arginine-glycine-aspartic acidserine (RGDS) cell-adhesion sequence. The self-assembling nature
+of the PAs causes the formation of networks of prealigned nanofibers, mimicking natural fibers. These nanofibers can be formed
+into tissue scaffolds as substrates for mesenchymal stem cell (MSC)
+cultures. Topographical patterns produced from aligned PA nanofibers were found to promote the alignment of MSCs, which indicated that the cells sensed and responded to the nanoscale features
+of the scaffold surfaces. The aligned MSCs then differentiated to
+form bone-like tissue.
+Biomimetic technologies are under intense investigation for
+translation into clinically useful materials and treatments. These
+and other biomimetic approaches and the use of tissue engineering scaffolds are discussed further in the sections headed “Tissue
+Engineering” and “Regenerative Dentistry.”
+
+Tissue Engineering
+Tissue engineering has emerged in the past 30 years as a multidisciplinary field recognized by the National Institutes of Health
+involving biology, medicine, and engineering. Experts hope that
+tissue engineering will revolutionize health care and improve quality of life for people worldwide by maintaining, restoring, and
+enhancing tissue and organ repair, regeneration, and function.
+The main requirements for engineered tissues are the appropriate
+
+levels and sequencing of regulatory signals, the presence of responsive progenitor cells, an appropriate extracellular matrix or carrier
+construct (i.e., scaffold), and an adequate blood supply for oxygen
+and nutrients. Either biological or synthetic polymers are used to
+form the tissue engineering scaffolds. Recent advances in understanding growth factors and biodegradable polymer scaffolds have
+made possible the successful tissue engineering of cartilage, bone,
+and related tissues. Nakashiwa and Reddi (2003) have summarized the remaining achievements required to develop the clinical
+techniques needed for the creation, substitution, and/or replacement of dental tissues. Among the many potential applications
+are fracture repair, dentin and periodontal ligament replacement,
+alveolar ridge augmentation, temporomandibular joint reconstruction, preosseointegration of dental implants, pulp regeneration, and partial or whole tooth regeneration.
+Tooth loss is the most common organ failure. The regeneration
+of a tooth can include not only regrowth of the entire tooth complex as a complete biological organ but also the regeneration of
+individual components, including enamel, dentin, pulp, cementum, and periodontal tissues. Two lines of investigation deal with
+restoration of partial tooth damage using tooth-related stem cells
+for the repair or whole-tooth regeneration by using stem cells or
+tissue-engineering techniques. The first successful bioengineering
+of entire tooth structures was reported in 2002 using cells from
+dissociated porcine third molar tooth buds seeded on biodegradable polymer scaffolds that were implanted in rat hosts for 20 to
+30 weeks.
+Osteonecrosis is a new and serious dental disease that arises
+from receiving bisphosphonates intravenously or orally to treat
+other medical conditions. Conventional debridement is ineffective in treating osteonecrosis, so biological solutions are being
+developed to treat the condition and to prevent the onset of other
+dental events, such as surgeries or extractions.
+Chronic periodontitis is one of the most common oral diseases
+worldwide, after caries. In periodontics, tissue-engineering strategies are being developed to serve as periodontal regenerative therapies for the restoration of lost alveolar bone, periodontal ligament,
+and root cementum. These strategies are based on the growth of
+new functional tissue rather than replacement of the periodontium. These studies have shown that regeneration is feasible for
+small to moderate-sized periodontal defects using cell-scaffold
+constructs for future clinical use. Yet even though tissue engineering has created the means for predictable and optimal periodontal
+tissue regeneration, routine clinical periodontal regenerative medicine and clinical use remain in an early stage.
+Still greater challenges are major bone reconstruction after
+trauma or cancer and augmentation following implants. Formidable challenges exist for regenerating normal bone structure and
+restoring the functionality of tooth-supporting tissues. Possibilities depend on an understanding of the cellular and molecular
+mechanisms involved in periodontal tissue regeneration, the differentiation potential of stem cells, and the interactions among
+stem cells, scaffolds, and host tissues. Intense research and development activities in these areas indicate that placing implants may
+soon be possible, even under adverse anatomical or biological
+circumstances. Tissue engineering may soon lead to the reconstruction of lost bone in bone deformities more effectively and
+less traumatically than the traditional autogenous bone-transplantation approach.
+Predicting the full impact of tissue engineering on the future
+of dentistry is difficult. However, tissue engineering brings
+together advances in disparate areas of materials science, genetics,
+
+CHAPTER 20
+
+molecular biology, and cell biology. Researchers in these disciplines may develop new alternatives for the regeneration of soft
+tissues, bone, and enamel. An important consideration will be the
+cost of these procedures, at least initially. Not only is the cost of
+treatment important, but the costs are significant for such projects to develop the technology, demonstrate clinical efficacy, meet
+regulatory requirements, commercialize the technology, and train
+clinicians in these innovative techniques.
+
+Delivery Systems for Biologicals
+Tissue-engineering approaches that combine biomaterials with
+biological materials, such as proteins (growth factors, etc.),
+genes, and cells (both differentiated and stem cells), are promising routes to the therapies discussed previously. Thus biological materials are a source of active, ongoing research directed in
+part toward developing competent scaffolding materials capable
+of fulfilling application-specific requirements for biodegradation, biocompatibility, mechanical stability, biofunctionality,
+and processability. The key attributes of any biological delivery
+system are controlled, sustained, and targeted release of drugs
+and bioactive factors. Each of these attributes is fundamentally
+dependent on the ability to predictably generate a functionalized
+material.
+An example of a promising biological delivery strategy is to
+increase osseointegration of titanium implants by coating them
+to improve healing, induce peri-implant bone formation, and
+enhance osteointegration. Coatings may include extracellular
+matrix components, such as collagen, BMPs, or other proteins.
+Further developments are required to orchestrate the release pattern, optimize the time that the active components remain bioactive, control degradation, optimize the extracellular matrix that
+forms on the implant surfaces, and achieve maximum bone formation at minimal concentrations of the biological material.
+A regenerative approach for diseased or necrotic pulp tissue
+includes tissue removal and replacement with healthy tissue,
+including melanocortin peptides (melanocyte-stimulating hormone, α-MSH), which possess antiinflammatory properties. A
+nanostructured and functionalized multilayered film containing
+α-MSH was reported for endodontic regeneration. Applied as
+a gel or strip, MSH films were placed adjacent to the damaged
+tooth to encourage the growth and regeneration of cells. In tests
+performed on cavity-filled mice teeth, researchers saw extremely
+positive results; after a month, the cavities had disappeared. This
+technology is in its formative stages.
+Many approaches may be viable for biological materials in dentistry, but several more years will be required before a version is
+available for general use in dental practice.
+
+CRITICAL QUESTION
+Why are engineered tooth roots more likely to have a greater impact on
+dentistry than the engineered whole teeth now under development?
+
+Regenerative Dentistry
+Restorative dentistry is gradually transitioning toward biologically
+driven repair, replacement, and regenerative medicine therapies
+and away from replacement therapies using synthetic materials.
+For tooth regeneration, the two major approaches are scaffolds
+seeded with stem cells and stem cells without scaffolds. For these
+approaches, the mouth has special advantages compared with
+
+Emerging Technologies
+
+407
+
+other body locations, such as minimally invasive access and ease of
+observation within the oral cavity.
+Five dental stem cells have been isolated: (1) dental pulp stem
+cells, (2) stem cells from exfoliated deciduous teeth (SHEDs), (3)
+stem cells from apical papillae (SCAPs), (4) periodontal ligament
+stem cells (PDLSCs), and (5) dental follicle progenitor cells. These
+cells can differentiate into odontoblasts, adipocytes, neuron-like
+cells, glial cells, osteoblasts, chondrocytes, melanocytes, myotubes,
+and endothelial cells. Thus they will eventually be used to grow
+replacement human teeth, but the signaling processes that control the development of discrete dental morphologies for incisors,
+canines, premolars, and molars must be better understood before
+whole-tooth regeneration will become a practical goal.
+Instead, the repair and regeneration of dental tissues such as
+dentin, pulp, periodontal ligaments, and whole root structures
+offer possibilities for earlier realization than whole-tooth regeneration. The treatment tends toward either a cell-based or cellattraction mechanism. One example of this strategy is regenerative
+endodontic treatment of infected, immature, permanent teeth
+by Meschi and Lambrechts, who disinfected the root canal and
+introduced stem cells, growth factors, and scaffolds. Another strategy using pulp tissue engineering and transplantation has been
+applied in vitro to promote tissue regeneration. The cell-attraction
+concept has been applied both in vitro and clinically and resulted
+in recovery rather than regeneration of the pulp–dentin complex.
+Long-term results are still lacking, and thus there is a need for
+further clinical, microbial, and translational research.
+Another step was taken toward regenerative endodontics
+when pulp tissue was generated from the cells of human exfoliated deciduous teeth blended with nanofiber peptides as a scaffold material and injected into root canals. A similar approach
+using the self-assembling PAs, discussed previously, as scaffolds
+to encapsulate stem cells from deciduous teeth revealed that they
+proliferate and secrete a soft collagen matrix. At this time, many
+challenges remain; however, it is foreseeable that stem-cell/tissueengineering therapies will become available in the near term to
+stimulate the pulp to deposit dentin and continue natural root
+growth in noninfected, accidentally injured immature teeth.
+Regeneration of the tooth root represents another feasible
+near-term goal. This was demonstrated by transplanting a rootshaped calcium phosphate block loaded with swine SCAPs coated
+with a resorbable gelatin containing PDLSCs. When this block
+was placed into the extraction socket of a minipig lower incisor,
+a root/periodontal structure was generated that was sufficient to
+attach a ceramic crown. SCAPs are easily accessible because they
+can be isolated from human third molars. The development of a
+combination of SCAPs and PDLSCs encapsulated in a resorbable
+scaffold offers a relatively near-term means of clinically inducing
+the regeneration of a root form and connective tissue in alveolar
+bone for the attachment of an artificial crown.
+Both biomaterials and biological materials are playing an
+indispensable role in the progress toward regeneration of a tooth
+root, a crown, pulp, dentin, enamel, or an entire tooth. Repair
+occurs by the use of metals, ceramics, or synthetic resin materials, whereas regeneration is controlled by biological processes.
+Tooth regeneration is an extension of concepts in the broad field
+of regenerative medicine to restore a tissue to its original form
+and function by biological mechanisms. Although substantial
+progress has been and is being made, whole-tooth regeneration
+remains a distant but achievable goal—one that would cause dentistry to undergo a paradigm shift from repair and replacement
+to regeneration.
+
+408
+
+PA RT V
+
+Assessing Dental Restorations
+
+CRITICAL QUESTION
+In what ways do emerging diagnostic tests and processes improve the quality
+of dental treatment?
+
+Instruments and Processes
+Diagnostic Devices and Techniques
+As discussed in Chapter 15, Diagnostic Systems, various new and
+evolving modern diagnostic techniques have been introduced for
+caries, periodontal disease, oral cancer, herpes simplex infection,
+and candidiasis, as well as for incipient fractures and trauma.
+Promising technologies may produce images directly from the
+patient or use saliva or other biological specimens from the patient
+being treated. Diagnostic instruments have been based on radiographic, optical, laser fluorescence, ultrasound imaging, and electrical conductance technologies. A selected group of those that
+appear to be the more promising in the near term are discussed in
+the following sections.
+
+Cone-Beam Computed Tomography
+In dentistry, cone-beam computed tomography (CBCT) provides
+high-resolution, low-distortion, 3-D digital imaging of the hard
+tissues of the head. Thus instead of pixels, the resolution is measured in voxels, and the images are often sharper than conventional CT images. The term cone-beam refers to the cone shape
+of the x-ray beam used to create multiple thin slices instead of
+the fan-shaped beam in conventional CT. CBCT produces Panorex and cephalometric projections, which become 3-D images
+when the data are reformatted in a volume. The images that result
+can be manipulated with the instrument’s visualization software
+from any point of view (e.g., in the axial, coronal, sagittal, and
+cross-sectional planes). Layers can be “peeled away” to show hidden underlying anatomical structures and defects. The slice thickness can be changed, and the structures can be tilted, zoomed,
+and highlighted. These new views can drastically change treatment
+decisions.
+Swept-Source Optical Coherence Tomography
+Swept-source optical coherence tomography (SS-OCT) is a
+CBCT-related technology that uses infrared laser optics rather
+than x-rays to generate high-resolution cross-sectional images of
+microstructures in biological systems. This technology has been
+under development for many years for various medical imaging
+tasks, including examination of the oral cavity. Recent progress
+indicates that a practical device may be available for dental applications within a few years. This nonionizing, real-time tomographic technology can detect structural flaws at a submicron scale
+for dental diagnostic tasks. For example, SS-OCT may be used
+to monitor the accuracy of composite restoration placement, the
+development of polymerization contraction gaps, the detection of
+vascular lesions, and the detection of occlusal caries.
+Laser-Induced Fluorescence
+Quantitative light-induced fluorescence (QLF; Inspektor Research
+Systems, Amsterdam, Netherlands) is a well-advanced technology,
+although it is not widely used in routine dental practice. QLF is a
+simple yet effective technique that detects and quantifies de- and
+remineralization of dental tissue and bacterial activity to reveal
+lesions in teeth before they become frank lesions or cavities. The
+
+QLF method is based on the autofluorescence of teeth and plaque
+microorganisms. When teeth are illuminated with high-intensity
+blue light, they fluoresce (re-emit) light in the green part of the
+spectrum; less light correlates with less mineral content in the
+enamel. Also, bacterial metabolic activity and plaque formation
+can be detected because they produce porphyrin-type biological
+pigments that fluoresce red light. This technique provides a measure of the degree of existing enamel demineralization via a small
+video sensor. A digital image of each tooth is collected, which can
+be analyzed for the amount of enamel loss. White spot lesions
+(early dental caries) can be detected and quantified, as can bacterial metabolic activity on and in the teeth. When lesions are identified at an early stage, the teeth can repair themselves if good oral
+hygiene practices are followed. This method also allows either the
+dentist or oral hygienist to provide the patient with immediate
+information and a direct incentive to monitor the quality of oral
+care procedures. The newer QLF-D BiLuminator collects white
+light and fluorescence images simultaneously to allow assessment of leaking restoration margins, secondary caries, occlusal
+and interproximal caries, sealant integrity and cariogenic activity
+under sealants, calculus, and gingivitis.
+
+Laser Photothermal Radiometry
+Laser photothermal radiometry (PTR) detects a small temperature
+rise modulated by thermal infrared (black-body) radiation emitted from hard dental tissue after absorption of the laser light and
+its nonradiative energy. In translucent materials such as enamel
+and dentin, depth information is obtained following optical-tothermal energy conversion and transport of the incident laser
+power in two modes: (1) the heat conductivity from a near-surface distance (50 to 500 μm), controlled by the thermal diffusivity of enamel and radiatively through black-body emissions from
+several-millimeter depths, owing to optical penetration of the diffusely scattered laser-induced optical field; and (2) partial infrared transparency (infrared “spectral windows”) of the hard dental
+tissue, which allows the thermal photons to exit the enamel and
+register on the detector.
+Two variations on this emerging nondestructive technology for
+exploiting the opto-thermo-physical properties of teeth have been
+reported. Both take advantage of the effects that changes in porosity and the crystalline status of enamel have on the thermal and
+optical properties of hard tissues. As cariogenic demineralization
+and formation of subsurface lesions grow, optical scattering and
+absorption increase, whereas thermal conductivity and diffusivity
+decrease. The two detection modalities are called infrared photothermal radiometry and modulated luminescence (PTR-LUM) and
+thermo-photonic lock-in imaging (TPLI).
+PTR-LUM (The Canary System, Quantum Dental Technologies, Inc., Toronto, Canada) scans a tooth with a low-power pulsating (modulated) laser light. The light is scattered, absorbed by
+the tooth, and then re-emitted at a longer wavelength as luminescence, and heat is generated (<1 °C). Simultaneously, heat
+(mid-infrared) and light (near-infrared) are measured to provide
+information on the presence and extent of decay up to a depth of
+a few millimeters below the surface.
+TPLI uses a laser beam to illuminate the whole tooth and a
+midinfrared camera in the lock-in mode to produce images at a
+fixed frequency. TPLI is an extension of PTR into a full imaging modality. TPLI uses the same physical photothermal wave
+principles as PTR: increased light scattering and absorption by a
+carious lesion increase the thermal-wave amplitude and shift the
+thermal-wave centroid closer to the surface, producing contrast
+
+CHAPTER 20
+
+between a carious lesion and intact enamel in both amplitude and
+phase images. TPLI phase images are emissivity-normalized (just
+as PTR phases are) and therefore are insensitive to the presence of
+surface stains. Amplitude images provide integrated information
+from deeper enamel regions because of the radiative contributions
+that overlap conductive heat transfer. TPLI imaging is noncontacting and is reported to have a higher sensitivity to very early
+demineralization than do dental radiographs.
+
+Ultrasound Imaging
+Better termed ultrasonography, this well-established medical diagnostic imaging technique has recently shown promise for highresolution imaging with enhanced specificity and sensitivity for the
+early detection and monitoring of several oral pathologies. Ultrasonography is nonionizing and noninvasive, and with further development, handheld devices could become available for the detection
+of cracks, calculi, and periapical lesions, in addition to enamel and
+dentin demineralization caused by caries under and around existing restorations or on occlusal and interproximal surfaces.
+Infrared Spectroscopy for Multiple Inflammatory
+Parameters
+An optical spectroscopy instrument is under development to
+enhance the early detection and monitoring of peri-implant
+inflammation and thereby reduce the number of implant failures.
+The instrument uses visible, near-infrared spectroscopy to measure
+alterations in regional tissue hemodynamics in periodontal tissue.
+Tissue oxygenation at peri-implantitis sites is substantially reduced
+compared with healthy sites because of increases in deoxyhemoglobin and decreases in oxyhemoglobin at the peri-implantitis
+sites. To diagnose these changes, the instrument simultaneously
+measures tissue oxygenation, total tissue hemoglobin, deoxyhemoglobin, oxygenated hemoglobin, and tissue edema.
+Salivary Genetic Testing
+Genetic testing using saliva is a molecular biology–based analytical
+test particularly apropos for periodontal disease and oral cancer.
+Chairside salivary sampling can be analyzed by companies such
+as OralDNA Labs (Brentwood, TN) to identify patients who are
+genetically susceptible to periodontal disease. This genetic testing
+for the interleukin-1 (IL-1) gene cluster, a significant inflammatory mediator, complements other periodontal screening procedures and salivary bacterial DNA tests for specific oral pathogens.
+Saliva analysis is used to screen for oral human papillomavirus
+(HPV), especially the variants HPV-16 and HPV-18, as potential etiological agents in the development of squamous-cell carcinoma of the head and neck. Diagnostic testing will continue to
+expand and enhance treatment modalities. Such tests can enhance
+patients’ acceptance of treatment plans and improve their cooperation with the clinician to improve periodontal health.
+Liquid-Based Cytology
+Liquid-based cytology is a relatively new screening technique
+approved by the U.S. Food and Drug Administration (FDA) for
+oral infections. It relies on the minimally invasive collection of
+transepithelial mucosal cells and other microbiological aspects for
+processing and evaluation. A clinician can request tests for several
+generalized oral conditions, such as herpes simplex infection and
+candidiasis, or suspicious areas of leukoplakia or erythroplakia
+(OralCDx, CDx Laboratories, Suffern, NY). Cytology provides
+the evidence needed to determine whether an immediate invasive
+full-thickness biopsy procedure should be performed.
+
+Emerging Technologies
+
+409
+
+Diagnostic technologies, such as CBCT, quantitative laser
+fluorescence (QLF), and salivary genetic testing, are at hand and
+growing. These and other techniques are expected to increase, with
+positive benefits for both clinicians and patients. Each technique
+varies with the mode of action and in its capability as a diagnostic
+aid. Differences in presentation and behavior among anatomical
+sites make it unlikely that any one diagnostic modality will have
+adequate sensitivity and specificity for all circumstances. Thus a
+combination of diagnostic tools will continue to be needed to reliably diagnose oral diseases and conditions and to provide corrective or preventive treatment at a stage where these treatments can
+be most effective.
+
+CRITICAL QUESTION
+How does computer-aided design/computer-aided manufacturing
+(CAD-CAM) production of dental prostheses differ from the processes
+of stereolithography, robocasting, powder-bed ink-jet printing, and laser
+scanning?
+
+Computer-Driven Fabrication Systems
+The present dental CAD-CAM systems vary dramatically in their
+capabilities. Both copy milling and true CAD-CAM systems have
+been developed. No equipment can acquire data directly in the
+mouth, but intraoral sensors are used to acquire data. Not every
+type of restoration can be created by CAD-CAM, although indications continue to expand. Both “additive” and “subtractive”
+systems are available. Temporary crowns can be made in the lab
+using either CAD or CAM systems. The additive systems use the
+programmed buildup of a design from a resin that is cured “voxel
+by voxel” to create the device. This requires resins that are cured
+in special computer-controlled lab equipment with ultraviolet
+light. Three-dimensional printing techniques have been developed for the formation of ceramic or resin composite restoratives
+(see Chapter 15, Prototyping Tools). Three-dimensional printing
+techniques will continue to grow and use enhanced dental materials, especially for fixed prosthodontics. The 3-D printing techniques are beginning to be used to fabricate the metal framework
+of dental crowns and bridges. More advanced dental applications
+include the creation of bone-graft scaffolds. Those developed to
+date are summarized in Figure 20-2. See Chapter 15 for a full
+discussion of these technologies.
+Ceramic crowns, metal crowns, and metal superstructures
+(overdenture bars) have been made using the subtractive (machining) CAD-CAM method using blocks of zirconia, leucitecontaining porcelain, filled resins, cobalt-chromium alloy, and
+titanium. Refinements and esthetic improvements are expected
+for all of the present systems.
+Another emerging area is 3-D bioprinting. In 2019, Grigoryan
+et al. demonstrated the creation of blood-vessel networks and
+organ-like topologies using biocompatible hydrogels with tartrazine, a yellow food color additive projection stereolithography.
+The technique involves polymerizing material using blue light,
+one thin layer at a time. To make the technique work, the light
+must be confined to a single layer so that it does not penetrate to
+previous layers and polymerize them in off-target geometries. Tartrazine absorbs blue light selectively so that intertwined vascular
+networks rapidly form in highly defined geometries.
+These emerging technologies will dramatically expand the
+capabilities for 3-D printing, but they will also require a different
+set of dental and laboratory technical training skills.
+
+410
+
+PA RT V
+
+Assessing Dental Restorations
+
+TECHNIQUE
+
+Stereolithography
+
+Laser sintering
+
+Powder-bed ink-jet
+printing
+
+MATERIALS
+
+1 70 m
+
+Photopolymers
+
+45 100 m
+
+Metals
+Polymers
+
+350 500 m
+
+Ceramics
+Metals
+Polymers
+
+200 400 m
+
+Biopolymers
+Some metals
+Food
+
+260 700 m
+
+Thermoplastics
+
+Laser
+
+Laser cures
+photopolymer
+as platform lowers
+into liquid vat.
+
+Laser melts powder
+rolled onto platform.
+Platform lowers with
+each layer printed.
+
+SMALLEST
+PRINTABLE
+FEATURE
+
+Laser
+Roller
+
+Roller
+
+Printhead
+
+Printhead sprays liquid
+binder onto powder to fuse
+layers. Platform lowers with
+each layer printed.
+
+Syringe
+
+Robocasting
+Syringes extrude fluid
+materials that harden
+on lowering platform.
+
+Fused deposition
+modeling
+Heated extruder melts
+plastic filament, which
+cools on lowering platform.
+
+Filament
+Extruder
+
+• Figure 20-2 The technologies available for three-dimensional printing. A variety of techniques can use
+various materials to build solid objects with different resolutions. The arrows indicate the direction of roller
+and platform movement. (Adapted from Butscher A, Bohner M, Hofmann S, et al: Structural and material approaches to bone tissue engineering in powder-based three-dimensional printing, Acta Biomater
+7:907–920, 2011.)
+
+Summary
+This chapter has focused on technologies that are in the early stages
+of implementation and those that have not yet passed the proofof-concept stage shown in the “level of evidence” section of Figure
+20-1. Technologies that promote 3-D remineralization are needed
+by practicing dentists whose focus is on disease prevention, minimally invasive procedures, and improved methods for extending
+the survivability of restorations. Dentists, educators, and researchers will continue their search for improved technologies that
+detect early stages of lesion development. Improved monitoring
+of early carious lesions is essential to judge whether new methods
+and materials of disease management ensure remineralization to
+avoid surgical intervention. If successful, these technologies and
+diagnostic methods would satisfy the “proven technologies, materials, and devices” outcome of Figure 20-1.
+
+Several innovative methods for prosthesis construction in lab
+settings have already emerged, and others are emerging. Technology improvements related to oral and maxillofacial reconstruction
+methods will continue to offer pathways to improve oral health
+care. Meanwhile, the search will continue for biological technologies that may allow “natural or organic” regeneration of lost or
+diseased tissues.
+This chapter may serve as a platform from which further
+innovative technologies for oral and maxillofacial applications
+can evolve with the research of materials scientists, chemists, implantologists, molecular biologists, cell biologists, and
+geneticists. Sustained collaboration among researchers and clinicians is essential to expedite the development, evaluation,
+and adoption of new technologies for improving oral health
+outcomes.
+
+CHAPTER 20
+
+Selected Readings
+Clough BH, Ylostalo J, Browder E, et al: Theobromine upregulates osteogenesis by human mesenchymal stem cells in vitro and accelerates
+bone development in rats, Calcif Tissue Int 100:298–310, 2017.
+de Josselin de Jong E, Higham SM, Smith PW, et al: Quantified lightinduced fluorescence, review of a diagnostic tool in prevention of oral
+disease, J Appl Phys 105: 102031(1–7), 2009.
+Devi KB, Sheela NV, Prasad BSK: Biosmart materials: A review, IOSRJDMS 18:37–41, 2019.
+Fischer H: Self-repairing material systems—a dream or a reality? Nat Sci
+2:873–901, 2010.
+This review is an analysis of the underlying functional and constructional principles of existing natural and synthetic self-healing systems
+spanning a range of classes of materials; it leads to general rules and
+principles for the design of new and application-tailored self-healing
+material systems.
+Fugolin APP, Pfeifer CS: New resins for dental composites, J Dent Res
+96:1085–1091, 2017.
+Grigoryan B, Paulsen SJ, Corbett DC, et al: Multivascular networks and
+functional intravascular topologies within biocompatible hydrogels,”
+Science 364:458–464, 2019.
+Li L, Pan H, Tao J, et al: Repair of enamel by using hydroxyapatite nanoparticles as the building blocks, J Mater Chem 18:4079–4084, 2008.
+Makade C, Tekam D, Kokane V, et al: A review on integrating contemporary trends of caries diagnostic tools, Central Indian J Den Sci
+7:21–27, 2016.
+
+Emerging Technologies
+
+411
+
+This article reviews technologies that aid in detecting dental caries
+at the earliest stages, including LED light that captures the resulting reflection and refraction of the light in the tooth, enhanced standard image processing techniques, use of three-dimensional images in
+viewing internal structure, and use of infrared photon and coherent
+back-scattered light techniques.
+Saunders SA: Current practicality of nanotechnology in dentistry. Part
+1: Focus on nanocomposite restoratives and biomimetics, Clin Cosm
+Invest Dent 1:47–61, 2009.
+This review discusses the current clinical utility of nanotechnology’s
+most tangible contribution to dentistry to date: the restoration of
+tooth structure with nanocomposites. Characterized by filler-particle sizes of less than 100 nm, these materials can offer esthetic and
+strength advantages over conventional microfilled and hybrid resinbased composite (RBC) systems, primarily in terms of smoothness,
+polishability and precision of shade characterization, plus flexural
+strength and microhardness similar to those of the better-performing
+posterior RBCs. Available comparative data for nanocomposites and
+organically.
+Walsh RM, Woodmansey KF, He J, et al: Histology of NeoMTA Plus and
+Quick-Set2 in contact with pulp and periradicular tissues in a canine
+model, J Endod 44:1389–1395, 2018.
+Full Selected Readings for this chapter can be found on www.expertconsult.com.
+
+Selected Readings (Web Version)
+Useful Websites (Accessed May 2020)
+Library of critically appraised topics related to clinical dental problems
+(https://cats.uthscsa.edu/). The “CAT” library provides key word–
+searchable topics. Each topic is presented as a structured one-page
+summary and critique of the best available evidence on a focused
+question. The library is designed as a rapidly accessible source of evidence-based information for use in making clinical dental decisions.
+The Eco-Dentistry Association: http://www.ecodentistry.org/?page=
+AboutGreenDentistry.
+Information about the association and resources to develop “green”
+dental practices.
+Dental Restorative Materials—A Pollution Prevention Perspective:
+http://wsppn.org/studies/dental-chemical-use/fact-sheets/restorativematerials/.
+Information regarding the health, safety, and environmental issues
+arising from the chemical ingredients used in dental restorative materials.
+The Canary System—A PTR-LUM Diagnostic Instrument. https://www
+.dentistrytoday.com/technology/9589-improving-the-way-to-detect
+-cracks-in-teeth.
+Publications
+Abiodun-Solanke IMF, Ajayi DM, Arigbede AO: Nanotechnology and its
+Application in Dentistry, Ann Med Health Sci Res 4(Suppl 3):S171–
+S177, 2014. doi:10.4103/2141-9248.141951.
+Nanotechnology, or nanoscience, refers to research and development
+of an applied science at the atomic or molecular level [i.e., molecular engineering, manufacturing). The growing interest in the dental
+applications of nanotechnology is leading to the emergence of a new
+field called nanodentistry.
+Artzi Z, Kozlovsky A, Nemcovsky CE, et al: Histomorphometric evaluation of natural mineral combined with a synthetic cell-binding peptide (P-15) in critical-size defects in the rat calvaria, Int J Oral Max
+Impl 23:1063–1070, 2008.
+Bayne SC: Beginnings of the dental composite revolution, J Am Dent Assoc
+144:880–884, 2013. DOI.org/10.14219/jada.archive.2013.0205.
+Besinis A, De Peralta T, Handy RD: The antibacterial effects of silver, titanium dioxide and silica dioxide nanoparticles compared to the dental
+disinfectant chlorhexidine on Streptococcus mutans using a suite of
+bioassays, Nanotoxicology 8:1–16, 2014.
+Chen FM, Jin Y: Periodontal tissue engineering and regeneration: Current approaches and expanding opportunities, Tissue Eng Part B Rev
+16:219–255, 2009.
+Chen FM, Sun H-H, Lu H, et al: Stem cell-delivery therapeutics for
+periodontal tissue regeneration, Biomaterials 27:6320–6344, 2012.
+http://dx.doi.org/10.1016/j.biomaterials.2012.05.048.
+Clough BH, Ylostalo J, Browder E, et al: Theobromine upregulates osteogenesis by human mesenchymal stem cells in vitro and accelerates
+bone development in rats, Calcif Tissue Int 100:298–310, 2017.
+Darvell BW, Wu RCT: “MTA”—an hydraulic silicate cement: review
+update and setting reaction, Dent Mater 27:407–422, 2011.
+de Josselin de Jong E, Higham SM, Smith PW, et al: Quantified lightinduced fluorescence, review of a diagnostic tool in prevention of oral
+disease, J Appl Phys 105:1–7, 2009.
+Devi KB, Sheela NV, Prasad BSK: Biosmart materials: A review, IOSRJDMS 18:37–41. 2019. doi:10.9790/0853-1801093741.
+Donly KJ, Gomez C: In vitro de/remineralization of enamel caries at restoration margins utilizing fluoride releasing composite resin, Quintessence Int 25:355–358, 1994.
+Fan C, Chu L, Rawls HR, et al: Development of an antimicrobial resin—
+a pilot study, Dent Mater 27:322–328, 2011.
+Fan Y, Sun Z, Wang R, et al: Enamel inspired nanocomposite fabrication
+through amelogenin supramolecular assembly, Biomaterials 28:3034–
+3042, 2007.
+Fioretti F, Mendoza-Palomares C, Helms M, et al: Nanostructured assemblies for dental applications, ACS Nano 4:3277–3287, 2010.
+
+Fischer H: Self-repairing material systems—a dream or a reality? Nat Sci
+2:873–901, 2010.
+This review is an analysis of the underlying functional and constructional principles of existing natural and synthetic self-healing systems
+spanning a range of classes of materials; it leads to general rules and
+principles for the design of new and application-tailored self-healing
+material systems.
+Freitas RA Jr: Nanodentistry, J Am Dent Assoc 131:1559–1565, 2000.
+Fugolin APP, Pfeifer CS: New resins for dental composites, J Dent Res
+96:1085–1091, 2017. https://doi.org/10.1177/0022034517720658.
+Galler KM, D’Souza RN, Hartgerink JD: Biomaterials and their potential applications for dental tissue engineering, J Mater Chem 20:8730–
+8746, 2010.
+A brief description is provided of oral anatomy and pathology, stateof-the-art treatment methods and their shortcomings, together with
+an overview of current strategies to fabricate bioactive matrices, with
+an emphasis on nanostructured materials. Design principles are suggested for scaffolding systems specifically tailored toward dental tissue
+regeneration. Future approaches are envisioned based on the emerging
+areas that rely on recent developments in tissue engineering and stem
+cell research.
+Garcia I, Tabak LA: A view of the future: Dentistry and oral health in
+America, J Am Dent Assoc 140(Suppl 1):44S–48S, 2009.
+Gelhard TB, Arends J: Microradiography of in vivo remineralized lesions
+in human enamel. II, J Biol Buccale 12:59–65, 1984.
+Ghorayeb SR, Bertoncini CA, Hinders MK: Dental ultrasonography,
+IEEE T Ultrason FERR 55:1256–1266, 2008.
+Grigoryan B, Paulsen SJ, Corbett DC, et al: Multivascular networks and
+functional intravascular topologies within biocompatible hydrogels,
+Science 364:458–464, 2019.
+Grumezescu AM, editor: Nanobiomaterials in Dentistry: Applications of
+Nanobiomaterials, Vol: 11, Cambridge, MA, 2016, William Andrew.
+ISBN 978-0-323-42867-5.
+This book discusses synthesis methods and novel technologies involving nanostructured bioactive materials with applications in dentistry.
+This book provides current research results for dental materials science.
+Hellen A, Mandelis A, Finer Y, et al: Quantitative evaluation of the kinetics of human enamel simulated caries using photothermal radiometry
+and modulated luminescence, J Biomed Opt 16:1–13, 2011.
+This paper evaluates PTR-LUM, an emerging nondestructive technology, for its potential use for the characterization and quantification of
+early caries.
+Hendricks MP, Sato K, Palmer LC, et al: Supramolecular assembly of
+peptide amphiphiles, Acc Chem Res 50:2440–2448, 2017.
+Hinders M, Bertoncini C, Ghoryeb S: Ultrasonographic detection of
+tooth flaws, Rev Prog Quant Nondestr Eval 29:1559–1565, 2010.
+Hollister SJ, Murphy WL: Scaffold translation: Barriers between concept
+and clinic, Tissue Eng Part B Rev 17:459–474, 2011.
+This article reviews the technical, business, and philosophical barriers
+to the translation of scaffold-based bone tissue engineering therapies
+to clinical use. Enabling translation to clinical application requires
+both understanding the challenges and addressing the complete range
+of these challenges. Engineering scaffold designs as modular systems with a sliding scale of complexity is envisioned as an achievable
+approach for addressing the translational challenges.
+Holten-Andersen N, Harrington MJ, Birkedal H, et al: PH-induced
+metal-ligand cross-links inspired by mussel yield self-healing polymer
+networks with near-covalent elastic moduli, PNAS 108:2651–2655,
+2011.
+Huang G, Yamaza T, Shea LD: Stem/progenitor cell-mediated de
+novo regeneration of dental pulp with newly deposited continuous
+layer of dentin in an in vivo model, Tissue Eng Part A 16:605–615,
+2009.
+Hubbell JA: Materials as morphogenetic guides in tissue engineering,
+Curr Opin Biotechnol 14:551–558, 2003.
+Keller L, Offner D, Schwinté P, et al: Active nanomaterials to meet the
+challenge of dental pulp regeneration, Materials 8:7461–7471, 2015.
+400.e1
+
+Jandt KD, Sigusch BW: Future perspectives of resin-based dental materials, Dent Mater 25:1001–1006, 2009.
+This outlook paper gives a view of selected potential future developments in the area of resin-based biomaterials with an emphasis on
+dental composites. A discussion of potential developments provides
+insights into future performance and application possibilities for these
+materials.
+Jefferies SR, Pameijer CH, Appleby DC, et al: Prospective observation of
+a new bioactive luting cement: 2-Year follow-up, J Prosthodon 21:33–
+41, 2012.
+Jones AS, Rule JD, Moore JS, et al: Life extension of self-healing polymers with rapidly growing fatigue cracks, J R Soc Interface 4:395–403,
+2007.
+Ko H-Y, Kang S-M, Kim HE, et al: Validation of quantitative lightinduced fluorescence-digital (QLF-D) for the detection of approximal
+caries in vitro, J Dent 45:568–575, 2015. https://doi.org/10.1016/j
+.jdent.2015.02.010.
+Le Guéhennec L, Soueidan A, Layrolle P: Surface treatments of titanium
+dental implants for rapid osseointegration, Dent Mater 23:844–854,
+2007.
+Li L, Pan H, Tao J, et al: Repair of enamel by using hydroxyapatite
+nanoparticles as the building blocks, J Mater Chem 18:4079–4084,
+2008.
+Lippert F, Parker DM, Jandt KD: In situ remineralisation of surface softened human enamel studied with AFM nanoindentation, Surf Sci
+553:105–114, 2004.
+Liu Y, Ramanath HS, Wang DA: Tendon tissue engineering using scaffold enhancing strategies, Trends Biotechnol 26:201–209, 2008.
+Kasraei S, Shokri A, Poorolajal J, et al: Comparison of cone-beam computed tomography and intraoral radiography in detection of recurrent caries under composite restorations, Braz Dent J 28:85–91, 2017.
+https://doi.org/10.1590/0103-6440201701248.
+Makade C, Tekam D, Kokane V, et al: A review on integrating contemporary trends of caries diagnostic tools, Central Indian J Den Sci
+7:21–27, 2016.
+This article reviews technologies that aid in detecting dental caries
+at the earliest stages, including LED light that captures the resulting reflection and refraction of the light in the tooth, enhanced standard image processing techniques, use of three-dimensional images in
+viewing internal structure, and use of infrared photon and coherent
+back-scattered light techniques.
+McCabe JF, Yan Z, Al Naimi OT, et al: Smart materials in dentistry—
+future prospects, Dent Mater J 28:37–43, 2009.
+Smart materials have properties that can be altered in a controlled
+fashion by, for example, stress, temperature, moisture, pH, and electric
+or magnetic fields. A key feature of smart behavior includes an ability
+to return to the original state after the stimulus has been removed.
+McGlennen RC: Salivary diagnostics: A catalyst for medical/dental collaboration, Comp Cont Educ Dent 32:96, 2011.
+Mertz-Fairhurst EJ, Curtis JW, Ergle JW, et al: Ultraconservative and
+cariostatic sealed restorations: Results at year 10, J Am Dent Assoc
+129:55–66, 1998.
+A classic study that demonstrated how effectively a sealing resin can
+penetrate defective margin gaps between either amalgam or composite
+restorations placed over carious dentin and prevent the progression of
+lesions.
+Nakahara T, Ide Y: Tooth regeneration: Implications for the use of bioengineered organs in first-wave organ replacement, Hum Cell 20:63–70,
+2007.
+Nakashiwa M, Reddi H: The application of bone morphogenic proteins
+to dental tissue engineering, Nature Biotech 21:1025–1032, 2003.
+An overview of the current and potential uses of tissue engineering in
+dentistry and the role of bone morphogenic proteins (BMPs).
+Nogueira-Filho G, Xiang XM, Shibli JA, et al: On site noninvasive assessment of peri-implant inflammation by optical spectroscopy, J Periodont Res 46:382–388, 2011.
+Nör JE: Tooth regeneration in operative dentistry, Oper Dent 31:633–
+642, 2006.
+400.e2
+
+Oei JD, Zhao WW, Chu L, et al: Antimicrobial acrylic materials with
+in situ generated silver nanoparticles, J Biomed Mater Res Part B
+100B:409–415, 2012.
+Resin biomaterials are described that can help prevent such problems
+as secondary caries and implant infections.
+Otis LL, Everett MJ, Sathyam US, et al: Optical coherence tomography:
+A new imaging technology for dentistry, J Am Dent Assoc 131:511–
+514, 2000.
+Padhye A, Ungewiss C, Fradette JJ, et al: A novel ex vivo tumor system
+identifies SRC-mediated invasion and metastasis in mesenchymal
+tumor cells in non-small cell lung cancer, Sci Rep 9:1–13, 2019.
+Padovani GC, Feitosa VP, Sauro S, et al: Advances in dental materials
+through nanotechnology: Facts, perspectives and toxicological aspects,
+Trends Biotechno 33:621–636, 2015.
+Palmer LC, Newcomb CJ, Kaltz SR, et al: Biomimetic systems for
+hydroxyapatite mineralization inspired by bone and enamel, Chem
+Rev 108:4754–4783, 2008.
+Park CH, Rios HF, Jin Q, et al: Biomimetic hybrid scaffolds for engineering human tooth–ligament interfaces, Biomaterials 31:5945–5952,
+2010.
+Park YS, Ahn JS, Kwon HB, et al: Current status of dental caries diagnosis
+using cone beam computed tomography, Imaging Sci Dent 41(2):43–
+51, 2011. https://doi.org/10.5624/isd.2011.41.2.43.
+Petrovic LM, Drobac MR, Stojanac IL, et al: A method of improving
+marginal adaptation by elimination of singular stress point in composite restorations during resin photo-polymerization, Dent Mater
+26:449–455, 2010.
+Petrovic V, Stefanovic V: Dental tissue—new source for stem cells, Sci
+World J 9:1167–1177, 2009.
+A review focusing on recent findings in the field of dental stem cell
+research and the potential for their therapeutic use.
+Pramanik C, Wang T, Ghoshal S, et al: Microfibrous borate bioactive
+glass dressing sequesters bone-bound bisphosphonate in the presence
+of simulated body fluid, J Mater Chem B 3:959–963, 2015.
+Qi Y-P, Li N, Niu L-N, et al: Remineralization of artificial dentinal caries
+lesions by biomimetically modified mineral trioxide aggregate, Acta
+Biomater 8:836–842, 2012.
+Rhienmora P, Haddawy P, Suebnukarn S, et al: Intelligent dental training
+simulator with objective skill assessment and feedback, Artif Intell Med
+52:115–121, 2011. http://dx.doi.org/10.1016/j.artmed.2011.04.003.
+A virtual reality dental training simulator is described together with
+methods for providing objective skill assessment and feedback. The
+simulator uses force feedback and can classify a particular operator
+as novice-level or expert-level and generate.
+Rosa V, Della Bona A, Cavalcanti BN, et al: Tissue engineering: From
+research to dental clinics, Dent Mater 28:341–348, 2012. http://
+dx.doi.org/10.1016/j.dental.2011.11.025.
+This review presents the principles underlying tissue engineering and
+the current challenges, perspectives, trends, and future applications of
+tissue engineering in dentistry.
+Rugh JD, Hendricson WD, Glass BJ: Teaching evidence-based practice
+at the University of Texas Health Science Center San Antonio Dental
+School, Tex Dent J 128:187–190, 2011.
+The previous two articles describe the development and use of an
+online library of critically appraised topics, or “CATs,” that present one-page summaries and critiques of the best available evidence
+on focused clinical questions. It provides an immediately available
+source for making evidence-based clinical dental decisions (http://cats
+.uthscsa.edu/).
+Rugh JD, Hendricson WD, Hatch JP, et al: The San Antonio CATs initiative, J Am Coll Dent 77:16–21, 2010.
+Saunders SA: Current practicality of nanotechnology in dentistry. Part
+1: Focus on nanocomposite restoratives and biomimetics, Clin Cosm
+Invest Dent 1:47–61, 2009.
+This review discusses the current clinical utility of nanotechnology’s
+most tangible contribution to dentistry to date: The restoration of
+tooth structure with nanocomposites. Characterized by filler-particle
+sizes of less than 100 nm, these materials can offer esthetic and
+
+strength advantages over conventional microfilled and hybrid resinbased composite (RBC) systems, primarily in terms of smoothness,
+polishability, and precision of shade characterization, plus flexural
+strength and microhardness similar to those of the better-performing
+posterior RBCs. Available comparative data for nanocomposites and
+organically.
+Scheifele C, Schmidt-Westhausen A-M, Dietrich T, et al: The sensitivity
+and specificity of the OralCDx technique: Evaluation of 103 cases,
+Oral Oncol 40:824–828, 2004.
+Seeman NC: Nanotechnology and the double helix, Sci Am 290:92–99,
+2004.
+Shimada Y, Sadr A, Burrow MF, et al: Validation of swept-source optical
+coherence tomography (SS-OCT) for the diagnosis of occlusal caries,
+J Dent 38:655–665, 2010.
+Slavkin HC, Bartold PM: Challenges and potential in tissue engineering,
+Periodontol 41:9–15, 2006.
+Sloan AJ, Smith AJ: Stem cells and the dental pulp: Potential roles in
+dentine regeneration and repair, Oral Dis 13:151–157, 2007.
+This article explores tissue engineering alternatives for pulp-capping
+and root canal treatment using dental pulp progenitor/stem cells,
+morphogens, and biomaterial scaffolds. The potential of this approach
+as a clinical therapy is discussed and shown to require close control of
+the regenerative process, because uncontrolled regeneration can inadvertently lead to pulp obliteration and loss of tooth vitality.
+Sonoyama W, Liu Y, Fang D, et al: Mesenchymal stem cell-mediated
+functional tooth regeneration in swine, PLoS One 1:1–8, 2006.
+Steinkeller MD, Salzman N, Weiss EI: In-vivo performance of antibacterial flowable composite, IADR, 2019 Abst.0507.
+Subramani K, Ahmed W: Emerging Nanotechnologies in Dentistry, St.
+Louis, MO, 2012, Elsevier.
+This book brings together an international team of experts from the
+fields of nanomaterials, biomedical engineering, and dentistry to cover
+the new materials and techniques with potential for intra- or extraoral
+use in the restoration, fixation, replacement, or regeneration of hard
+and soft tissues in and about the oral cavity and craniofacial region.
+New dental nanotechnologies include the use of advanced inorganic
+and organic materials, smart and biomimetic materials, tissue engineering, and drug delivery strategies.
+Tabatabaei N, Mandelis A, Amaechi BT: Thermophotonic lock-in
+imaging of early demineralized and carious lesions in human teeth,
+J Biomed Opt 16:071402, 2011.
+A novel dental-imaging modality, thermophotonic lock-in imaging
+(TPLI), is described that uses photothermal wave technology and is
+capable of detecting early carious lesions and cracks on occlusal and
+approximal surfaces.
+Tayalia P, Mooney DJ: Controlled growth factor delivery for tissue engineering, Adv Mater 21:3269–3285, 2009.
+ten Cate JM, van Duinen RN: Hypermineralization of dentinal lesions
+adjacent to glass-ionomer cement restorations, J Dent Res 74:1266–
+1271, 1995.
+
+Vorndran E, Klammert U, Ewald A, et al: Simultaneous immobilization
+of bioactives during 3D powder printing of bioceramic drug-release
+matrices, Adv Funct Mater 20:1585–1591, 2010.
+The combination of a degradable bioceramic scaffold and a drug delivery system in a single low temperature fabrication step is described
+for the reconstruction of bone defects. The production of calcium
+phosphate scaffolds by a multijet 3D printing system enables localized deposition of biologically active drugs and proteins with a spatial
+resolution of approximately 300 μm.
+Walsh RM, Woodmansey KF, He J, et al: Histology of NeoMTA Plus and
+Quick-Set2 in contact with pulp and periradicular tissues in a canine
+model, J Endod 44:1389–1395, 2018.
+Webber MJ, Kessler JA, Stupp SI: Emerging peptide nanomedicine to
+regenerate tissues and organs, J Intern Med 267:71–88, 2010. https://
+doi.org/10.1111/j.1365-2796.2009.02184/x.
+The authors review their work on peptide nanostructures containing
+bioactive signals. These amphiphilic molecules are designed to selfassemble into biocompatible, bioactive biomaterials with the potential
+for use as novel therapies in a wide variety of regenerative medicine
+applications, including the repair of bone, dentin, and enamel and the
+regeneration of whole teeth.
+Welch K, Cai Y, Engqvist H, et al: Dental adhesives with bioactive and
+on-demand bactericidal properties, Dent Mater 26:491–499, 2010.
+ISSN 0109-5641, doi:10.1016/j.dental.2010.01.008.
+Wolf LF: Personal manufacturing, Chem Eng News 89:10–14, 2010.
+A review of CAD/CAM technologies and how they are being used for
+on-demand manufacturing of everything from medical devices such
+as those used in dentistry to food and consumer products.
+Yildirim S, Fu SY, Kim K, et al: Tooth regeneration: A revolution in
+stomatology and evolution in regenerative medicine, Int J Oral Sci
+3:107–116, 2011.
+This review article explores existing and visionary approaches to tooth
+regeneration that represent a paradigm shift from repair by synthetic
+materials to regeneration by biological restoration to restore original
+form and function by biological substitutes.
+Young CS, Terada S, Vacanti JP, et al: Tissue engineering of complex
+tooth structures on biodegradable polymer scaffolds, J Dent Res
+81:695–700, 2002.
+Yuan ZL, Nie HM, Wang S, et al: Biomaterial selection for tooth regeneration, Tissue Eng B-Rev 17:373–388, 2011.
+A critical review of current knowledge of biomaterial use in tooth
+regeneration is presented. The selection of native and/or synthetic
+polymers, three-dimensional scaffold fabrication, stem cell transplantation, and stem cell homing is discussed.
+Zivkovic P, Petrovic V, Najman S, et al: Stem cell–based dental tissue
+engineering, Sci World J: TSW Dev Embryol 10:901–916, 2010.
+This review focuses on the use of tissue engineering strategies in tooth
+regeneration using stem cells and stem cells/scaffold constructs. The
+authors point out that although whole tooth regeneration is still not
+possible, there are promising results.
+
+400.e3
+
+Index
+Page numbers followed by “f ” indicate figures, “t” indicate tables, and “b” indicate boxes.
+A
+Abfraction, 7
+Abrasion, 7, 334, 334f
+air-particle, 344, 348–349
+three-body, 334f
+two-body, 334f
+Abrasive
+blinding, 342
+bonded, 340–341
+coated discs and strips, 342f
+definition, 332
+hardness values, 339t
+instruments, 42, 338
+design, 341
+metal bonds, 342
+modes of wear, 334f
+motion, 335
+nonbonded, 343
+partial denture framework casting, 333f
+particle sizes, 339t
+pastes, 344
+procedures and instruments, 333f
+process, 333
+resinoid-bonded, 342
+types, 333f, 340
+Abrasive wear
+factors influencing, 81
+three-body, 81
+two-body, 81
+Abrasiveness, dentifrices, 351
+Absorption, 53
+definition, 49
+Abutment screw, 269
+Abutment–prosthesis interfaces, 137f
+Accelerated lifetime testing (ALT)
+constant-stress/step-stress accelerated
+lifetime testing (CSALT/SSALT), 383
+definition, 381
+lifetime predictions, 383
+performance of dental materials, 383
+regression model, 383f
+stressor, 383
+Acceleration, 4
+Accelerator, 277
+Acceptability, clinical analysis, 392
+Acceptability threshold (AT), 54
+Accuracy, 381, 384
+Acetylene, heat source, 186
+Acid–base reaction, 128
+Acid-etch technique, 116
+Acid-etching
+dentin, 117
+discovery, 115
+enamel, 117
+Acidulated phosphate fluoride (APF) gels, 203
+usage, 134
+
+Acrylic resins, 88, 233, 234f
+ACTIVA BioACTIVE, 104
+Activation, 87
+Activator, definition, 87
+ADA Specifications and Acceptance Program,
+387
+Addition polymerization, 39
+chain transfer, 40, 41f
+inhibition, 40
+unsaturated functional groups, 39f
+vinyl monomers, 39
+Addition polymers, 38
+Addition silicone, 277, 278f
+advantage, 278
+composition, 289
+contamination, 277
+polymerization, 277, 278f
+Addition-fragmentation monomer (AFM),
+403
+Additive manufacturing (AM), 328
+definition, 326
+fused deposition modeling, 330
+materials, 330
+stereolithography, 330
+Additives, 300
+Adherend, 43
+definition, 15
+Adhesion, 42, 115
+definition, 15
+mechanisms, 116
+Adhesive bonding, 47
+Adhesive wear, 80
+Adhesives, 43, 121
+classification, 122f
+definition, 15
+etch-and-rinse, 123
+self-etch, 123
+Adjacent teeth (restoration), endosteal blade
+implant designs (usage), 256f
+Adverse effects of material, 355–356. See also
+Allergies; Local effects;
+Systemic effects
+Aerosols, 338
+Agar
+composition, 289
+gelation, 289
+impression making, 289, 289f
+sol–gel transformation, 287
+Age-hardening, 176
+definition, 171
+heat treatment, 32
+Air pockets, formation, 47f
+Air-particle abrasion, 332, 344, 348
+Alginate impression material
+composition, 290
+compressive strength, 292, 298t
+
+Alginate impression material (Continued)
+gelation process, 290
+impression making, 292
+powder composition, 293t
+preparation, 291
+setting time, 291, 291f
+shelf life, 292
+sodium, 291f
+strength, 292
+Alginate substitutes, 278
+All-ceramic crowns
+aesthetics, 228
+strengthening, thermal expansion
+mismatch, 225
+stress concentrations, 223
+All-ceramic prostheses
+contraindications, 228
+fractography, 398
+fracture, factors associated, 398
+All-ceramic restorations
+aesthetic appearance, 228
+fracture susceptibility, 226
+All-ceramic systems, 206, 213, 214t
+pressable core ceramics/veneering ceramics,
+214t
+veneering ceramic for, 218t
+Allergic reactions
+inflammatory response, 361, 362f
+prosthetic polymers and resins, 248
+Allergies
+allergens, 360–361
+concept, 356
+contact dermatitis, 364
+definition, 355
+dental alloys
+cobalt, 375
+gold, 375
+immunotoxicity of metal, 375
+nickel allergy, 374
+Ni-Pd cross-reactivity, 375
+palladium allergy, 375
+patch tests, 374
+symptoms, 375
+titanium and titanium alloys, 375
+dental amalgams, 166, 371
+frequencies, 360–361
+Gell and Coombs classification, 360
+hand dermatitis, 360
+immunotoxicity, 362–363, 363f
+inflammation, 361, 362f
+methacrylates and resin composites, 373
+natural rubber latex (NRL), 377
+occupational hazards, 364
+occurrence, 360
+patch test, 362f, 362
+respiratory problems, 364
+413
+
+414
+
+Index
+
+Allergies (Continued)
+sensitization, 361
+sites for reactions, 360f, 360
+symptoms, 361f, 361
+types, 360
+All-metal prostheses
+alloys, 174
+base-metal, 176
+gold-based alloys, 175
+gold-copper alloys, 175
+high-noble alloys, 175
+composition, 175
+noble alloys, 175
+composition, 175
+silver-palladium alloys, 176
+titanium alloys, 176
+Alloplastic, 253
+definition, 253
+Alloys, 15, 23
+composition
+copper percentage, 31
+percent by weight, 264t
+definition, 15
+dental applications classification, 174,
+174t
+ductility, 173
+elastic modulus, 172
+eutectic alloys, 30
+fatigue resistance, 173
+gold-based, 175
+gold-copper, 32f
+hardness, 173
+high palladium content, 33
+mechanical properties, 172
+classification, 174
+noble metal content classification, 173,
+173t
+peritectic, 31
+principal elements classification, 174
+stainless steel, 194
+temperature decrease, 29
+Alpha-hemihydrate, 295
+Alpha-omega-hydroxyl-terminated
+poly-dimethyl siloxane, 277, 278f
+Alpha-titanium alloys (deformation), twinning
+(significance), 191
+Alumina
+core ceramic, 219
+glass formation, 208
+physical properties, 219t
+Alumina core
+ceramic, 219
+dental, 219
+Aluminosilicate, 328
+Aluminous porcelain crowns, 206
+Aluminum oxide, 111, 340
+Amalgam, 153,
+allergies, 371
+biocompatibility, 371f, 370–372
+bonding, 126
+creep, 51
+in dentistry, 42
+environmental mercury exposure, 372
+local reactions, 371f, 371
+mercury handling, 372
+mercury poisoning symptoms, 370
+mercury release, 370
+systemic reactions, 371
+
+Amalgam alloy. See also Dental amalgams
+amalgamation. See Amalgamation
+bonding, 126
+composition
+commercial alloys, 154t
+equilibrium-phase diagram, 155f
+gallium-based alloys, 155
+high-copper alloy, 155
+low-copper alloys, 154
+silver-tin system, 154, 155f
+dental amalgam, 153
+direct restoration, 8
+disadvantages, 88
+particle shapes, 153, 154f
+powder configuration
+atomized powder, 155
+lathe-cut powder, 155
+particle sizes, 155
+vs. spherical powder, 155
+programmable triturator, 153, 154f
+restorations, 109f, 136
+separators, 363
+trituration capsules, 153, 154f
+Amalgam tattoo, 371f, 371
+Amalgamation
+amalgam, 153
+definition, 153
+high-copper alloys
+admixed alloys, 157
+single-composition alloys, 157, 158f
+low-copper alloys
+development sequence, 156f, 156
+microstructure features, 156, 157f
+physical properties, 156
+reaction products, 155, 156f
+reaction process, 153
+American National Standards Institute
+(ANSI), 387
+ADA Specification No. 96 (ISO 9917-1),
+137
+American National Standards Institute
+(ANSI)/American Dental Association
+(ADA) Specification No. 41, 364
+American Society for Testing and Materials
+(ASTM) F 67 unalloyed titanium,
+tensile properties/impurity limits, 177t
+Amorphous silica, 90, 97
+Amorphous structure
+atom, 20
+polymers, 36
+Animal tests, 366
+Ankylosis, 253, 257
+Annealing, 193
+definition, 171
+Anode, 59
+Anodic/oxidation reaction, 59
+Anodization, 262
+Anterior teeth
+active carious lesions, 7f
+misaligned lower, 7f
+wax-up, 10f
+Antiflux, 185
+definition, 171
+Antimicrobial materials, 404
+Apparent surface area, 80
+Aqueous-based cements, 138
+Argon gas atmosphere, laser welding, 188
+Arkansas stone, 340
+
+Aromatic urethane dimethacrylate (AUDMA),
+403
+Artificial implant designs/material, 254
+As-cast Cu-Ag alloy, cored structure, 30
+Asperities, 80
+Asperity junctions, 80
+Astropol finishing/polishing system, 344
+Atomic model, 68f
+Atoms, 16
+interaction, 17, 17f
+size difference, 28
+Atraumatic restorative treatment (ART), 144
+definition, 128
+Atrophic mandibles (accommodation),
+Branemark hybrid prosthesis (usage),
+269
+Attractive force, 17
+Attrition, 7
+Augmented reality (AR), 331
+definition, 326
+Austenite, 194
+Austenitic stainless steels, 195
+corrosion resistance, 195
+mechanical properties, 195
+Autoglazed veneer ceramic, 209f
+Auxiliary dental material, 10
+definition, 3, 276
+B
+Ba glass fillers, 90
+Backbone, 34
+Back-pressure porosity, 322, 323f
+Ball-and-stick model, 20f
+Base metal alloys, 181
+definition, 171
+hardness/strength, 181
+manipulation, 181
+mechanical properties, 182
+removable partial dentures, alloys, 183
+solidification shrinkage, 181
+Base metals
+all-metal prosthesis usage, 176
+dental alloys, 176
+Base paste (base putty), 275, 277
+Baseplate wax, 275, 302–303
+Benzoyl peroxide (BPO)
+activation, 39f
+Beta-hemihydrate, 295
+Beta-titanium alloys, 199
+Beta-titanium wires
+composition, 199
+corrosion resistance, 200
+mechanical properties, 199
+surface property, 200
+welding, 199
+Bezold–Brucke effect, 55
+Biaxial flexural strength, 74
+Binary alloys, 33
+Bioacceptance, definition, 253
+Bioactive, 401
+definition, 253, 401
+Bioactive cements, components, 149
+Bioactive composites, 104
+Bioactive glass, 405
+Bioactive materials, 257, 355–356, 403
+Bioactivity, 129, 265, 403
+definition, 128
+Bioceramics, 135
+
+Index
+
+Biocompatibility, 262
+adverse effects of material, 356
+allergies
+concept, 356
+frequencies, 360–361
+Gell and Coombs classification, 360
+immunotoxicity, 362–363, 363f
+inflammation, 361, 362f
+patch test, 362f, 362
+sites for reactions, 360f, 360
+symptoms, 361f, 361
+types, 360
+alloys, 172
+basic concept, 356f, 356
+bioactive materials/smart materials, 356
+composites, 110
+definition, 355
+dental materials-tissues interaction, 356f, 356
+effect on the environment/chemical waste,
+363
+legal regulations
+Dental Products Panel (DPP) of the
+FDA Medical Devices Advisory
+Committee, 368
+postmarket surveillance, 368
+risk classes, 368
+local effects
+bone–implant interface, 360
+concept, 356, 357f
+foreign substances entry, 358f, 358
+inflammatory response, 357f
+microleakage, 359f, 359
+nanoleakage, 359f, 359–360
+periodontium, 359f, 359
+pulp tissue, 358
+tooth–restoration interfaces, 359f, 359–360
+material selection guidelines
+anamnesis (Patient’s Account of Medical
+History), 379
+intended use and indications for
+materials, 378
+main components of the material, 378
+risk communication, 374f, 379
+risks vs. benefits of dental materials, 378
+safety and performance of material, 378,
+379t
+treatment planning, 379
+occupational hazards for dental personnel,
+363–364
+patient reports and complaints of adverse
+effects, 377–378
+risk, 355–357
+safety, 355–356
+side effect of various material groups
+dental alloys, 373–375
+dental amalgam, 371f, 370–372
+dental ceramics, 376
+glass-ionomer cements, 376–377
+hydrofluoric acid (HF), 376
+methacrylates and resin composites,
+372–373
+natural rubber latex (NRL), 377
+systemic effects
+CMR effects, 358
+concept, 357f, 356
+estrogenicity, 358
+variables, 358
+toxic substances into body, 357
+
+Biocompatibility test
+animal tests, 366
+dose–response relationship of toxicity, 365f,
+365
+extracts, 366
+labeling, 368, 369f
+purpose, 364
+release of substances from materials, 364
+requirements, 365
+responsibilities, 367
+Safety Data Sheet (SDS), 368
+standards, 367–368
+strategy, 366, 367f
+usage tests, 366
+in vitro tests, 366
+Biocorrosion, 7, 8f
+Bioglasses, bioactive ceramic biomaterials, 265
+Bioinductive, definition, 401
+Biointegration, 355, 360
+Glossary of Prosthodontic Terms definition,
+265
+Biological delivery strategy, 407
+Biological issue, teeth, 6
+Biomaterials, 401
+biocompatibility, 267
+biomimetics, 406
+de Condue, Albucasis, 254
+definition, 401
+delivery systems, 407
+nanotechnology, 402
+research/development/applications, 254
+tissue engineering, 406
+Biomechanics, 269
+Biomimetics, 402, 406
+definition, 401
+Biosilicates, 135
+Bisco Aelite LS, 102
+Bismuth oxide, 139
+Bisphenol A (BPA), 358, 372
+Bisphenol A glycidyl methacrylate (bis-GMA),
+89
+Bisphenol-A glycidyl dimethacrylate
+(bis-BAD), 88
+chemical structure, 89f
+Bite wax, 275, 303
+Blacklights, 56
+Blade implants, 254, 255f
+Bleaches, 250
+Bleeding process, 281
+Block copolymer, 35
+Body-centered cubic (BCC) cell, 20
+Bond distance, 17, 17f
+Bond energy, 17
+Bond failure, metal-ceramic prosthesis, 211f
+Bond strength
+aging tests, 123
+measurement, 122
+metal-ceramic prosthesis, 212
+orthodontic brackets, 125
+self-adhesive cements, 125
+Bonded abrasives, 340–341, 342f
+definition, 332
+Bonding, 16, 42
+agents, 118, 122
+amalgam, 126
+applications, 124
+definition, 15
+drying stage, 118
+
+415
+
+Bonding (Continued)
+etching time, 118
+factors, 118
+historical background, 115
+primary bonds, 18
+process/procedural factors, 117
+resin, dental ceramics, 219
+rinsing stage, 118
+surfaces
+cleanliness, 118
+treatments, 125
+Bonding systems, 149
+resin cements, 145
+Bone
+biomechanical stress/strain, 269
+blade implants, embedding, 255f
+endosteal implant, placement, 256f
+integration, 269
+qualities, 267f
+Bone-grafting materials, 404
+Bone–implant interface, 360
+Boric oxide, 208
+Boxing wax, 275, 302–303
+Braces, ceramic/metal-base orthodontic, 7f
+Brackets, 6
+Branched copolymer, 15, 36
+Branched polymers, 35f
+Branemark hybrid prosthesis (usage), 270f
+Brass, grain size and appearance, 192f
+Brazing, 171
+Brinell hardness number, 78
+Brinell hardness test, 78
+Brittle, definition, 64
+Brittleness, 72
+Brushes and abrasive cleansers, 250
+Bruxism, 7
+Buffing, 337
+definition, 332
+Bulk reduction
+definition, 332
+Bulk-fill composites, 101
+Burnished foil, sintering, 184
+Burnout, 306
+Burs, tungsten-carbide, 111
+C
+Calcination, gypsum, 295f, 295
+Calcium aluminate glass-ionomer cement,
+148, 151
+Calcium hydroxide
+insulating abilities, 135
+liners, usage, 135
+reaction, 135
+Calcium phosphates
+cements, 151, 403
+definition, 128
+coating biomaterial usage, 265
+Calcium silicate, 135
+powder, 403
+Calcium sulfate dihydrate, 290
+Camphorquinone (CQ), 94
+CamX Spectra Caries Detection system,
+331
+Canal sealers, 132
+Candelilla wax, 302
+Cantilever beam
+bending, 194f
+elastic deflection, 193
+
+416
+
+Index
+
+Captek crowns
+advantage, 184
+usage, 184
+Carbon steels, 194
+Carcinogenicity, 355, 366
+Caries, quantitative light-induced
+fluorescence, 330
+Carnauba wax, 302
+Carving, 160f, 159–160
+Case-control studies, 392
+definition, 390
+Cast metals
+liquid-to-solid transformation, 25
+margin, burnishing, 71
+surface quality, 312
+Cast structure, homogenization, 30
+Castability, 174
+Casting
+air voids, 321
+crucibles, 318
+defective, 321
+definition, 306
+direct-current arc melting machine, 318
+discolorations and roughness, 324
+distortion, 321
+electrical resistance-heated casting machine,
+317
+foreign bodies, 321
+gypsum investments, 315
+high-heat thermal expansion technique,
+315
+hygroscopic low-heat technique, 315
+incomplete, 323
+induction melting machine, 318, 318f
+liquid/powder ratio, 321
+machines, 317
+mold wall, molten alloy (impact), 321
+pattern position, 322
+phosphate investments, 316
+porosity, 322
+procedure, 314
+shrinkage, 309
+surface roughness, 321
+time allowable, 317
+torch melting/centrifugal casting machine,
+317
+water films, 321
+wax elimination and heating, 314
+Casting alloys
+classification, 173
+linear solidification shrinkage, 184t
+melting range, 172
+Casting fit
+clinical evaluation, 320
+discrepancies, detection, 320
+Casting ring, 307f
+liner, 313
+expansion, ensuring, 314f
+Casting waxes, 303
+Casting-machine spring, 317
+Catalyst, 277
+Catalyst paste, 277
+definition, 275
+Cathode, 59
+Cavitation-erosion wear, 81
+Cavities
+lining material, formulas, 134–135
+varnishes, 135
+
+Cavity liners, 135
+definition, 128
+Cement base, 136
+definition, 128
+thermal conductivity, 136t
+Cementing
+definition, 115
+mechanics, 138f
+Cements, 129
+affixing devices, 152t
+combination, 147
+definition, 115, 128
+disintegration, 131
+durability, 132
+fluid-to-solid transformation, 50
+for luting, 137
+properties, 152t
+sealers, 125
+solubility, 131
+thickness, 138
+definition, 128
+prosthesis retention, 138
+Cementum, 5
+Central incisor metal-ceramic crowns,
+porcelain margins, 56f
+Centrifugal casting machine, spring-wound,
+317f
+Ceramco porcelain, 206
+Ceramic bracket bases, 146
+Ceramic FDPs, performance, 258
+Ceramic implants
+materials, mechanical properties/density,
+259t
+tensile/shear stresses, induction, 265
+Ceramic powders, 42
+Ceramic products identification, 231
+Ceramic prostheses
+fracture resistance, 226
+resin cements, 146
+Ceramic restorations
+classification, 398
+polycrystalline, 146
+Ceramic steel, 216
+Ceramic-ceramic systems, 213
+Ceramic-like coated implant systems, 265
+Ceramic/metal-base orthodontic braces, 7f
+Ceramics, 16, 33
+abrasiveness, 204
+aesthetic qualities, 205
+autoglazed veneer ceramic, 209f
+biological properties, 204
+CAD-CAM processing, 220
+castable, 202, 213
+color-matching ability, 205
+compositions, 208t
+conductivity, 205
+core, 202
+corrosion, 59
+definition, 15, 202
+dental, 202
+glass modifiers, 208
+glass-infiltrated core, 218
+glassy phases, 33
+glaze, 202, 209
+hot-pressed (pressable ceramic), 202
+indications and contraindications, 222t
+indirect restoration, 9
+mechanical properties, 34, 203
+
+Ceramics (Continued)
+physical properties, 205
+slow crack growth, 208
+stain, 202, 209
+static fatigue or delayed failure, 77
+strengthening, methods, 222
+structure, 33, 223
+types, 207
+zirconia-based, 214
+Ceramming, 213
+Cercon zirconia core ceramic, 221f, 221
+finished fixed dental prosthesis framework,
+221f
+green state ceramic milling, 221f
+Ceresin, 302
+Ceria, 216
+Cerpress SL Pressable Ceramic System
+(leucite-based product), 213
+Chain-growth polymerization, 38–39,
+39f
+unsaturated functional groups, 39f
+Chairside salivary sampling, 409
+Chalk, 340
+Change of state, 16
+Charpy-type impact tester, 74
+Chemical bonding mechanisms, 120f
+Chemical corrosion, 59
+Chemical inertness, 203
+dental restoration characteristic, 203
+Chemical polymerization, 8
+Chemical properties, 50
+Chemical waste, 363
+Chemical-activated denture base resins
+fluid-resin technique, 241–242, 242f
+vs. heat-activated denture, 241
+processing considerations, 241
+technical considerations, 241
+tertiary amine, 241
+Chemical-activated resin, 93
+advantages and disadvantages, 94
+definition, 87
+Chemisorption, 44
+Chlorinated polyethylene (CPE), 252
+Chondrogenesis, 405
+Chroma
+definition, 49, 54
+Munsell scale, 54f
+Chromium (Cr2O3), corrosion resistance,
+176
+Chronic periodontitis, 406
+Class IV restoration, hybrid composites,
+100f
+Clenching, 7
+Clenching force, 4
+Clinical relevance
+definition, 381
+vs. precision, 384–385, 385f
+Clinical significance
+definition, 381
+vs. statistical significance, 386
+Close-packed hexagonal lattice, 22f
+Cobalt-chromium (Co-Cr)
+Alloys, fusion temperatures, 181
+castability, 181
+clasps, impact, 183
+selective laser melting, 185t
+stress-strain curves, 83f
+wrought, 200
+
+Index
+
+Cobalt-chromium-molybdenum cast alloys,
+components, 264
+Cobalt-chromium-nickel alloys, 196
+Cobalt-chromium-tungsten-nickel wire, 200
+Coefficient of thermal expansion
+definition, 49, 57
+mismatch, 223
+Cohesion, 15, 43
+Cold welding, 171, 200
+Cold working, 71, 191
+brass grain size and appearance, 192f
+definition, 171
+polycrystalline alloy dislocation, 191
+recrystallization, 193
+tensile strength and ductility, 194f
+Cold-bend test, 71
+Colloid, 275, 287
+Colloidal theory, 296
+Color, 52
+chroma, 54
+definition, 49
+hue, 54
+L*a*b* color chart, 55f
+L*a*b* color space, 54
+matching, 55
+space, three dimensions, 53
+value, 54
+Color matching, intraoral scanner/cameras,
+327
+Commercial resin cements, 145f
+Commercially pure titanium (CP-Ti), 177,
+254
+American Society for Testing and Material
+grades, 177
+composition (percent by weight), 264t
+definition, 171
+laser welding, 187
+Complete removable dentures, 9f
+Compomer, 129, 148, 148f
+definition, 128
+Composite resin veneers, 112
+Composite restorative materials, 99t
+Composites, 4, 16, 129
+benefits, 42
+biocompatibility, 110
+conventional, 88
+definition, 15
+in dentistry, 42
+environment, 111
+factors influencing, 42
+finishing and polishing, 111
+history, 88
+indirect restorations, 112
+longevity, 108
+long-term survival rates, 110t
+low-shrinkage, 102
+materials and instruments, 111
+microstructure, 42
+placement time, 110
+repair, 111, 112f
+surface coating and sealing, 111
+traditional, 88
+Compression molding technique
+mold preparation, 235f, 235
+separating medium selection and
+application, 235–236
+Compressive strength (CS), 70f
+Compressive stress, 66, 65f
+
+Computer-aided design/computer-aided
+manufacturing (CAD-CAM), 34, 172,
+220, 409
+aesthetic ceramics, 328
+bone reduction image, 329f
+ceramic prostheses production, 221
+chairside milling, 221
+chairside system, 327
+clinical case, 328
+complete denture, 239–241
+definition, 326, 401
+dental application, 184
+drill positioning guide, 329f
+feldspathic ceramic block, 220f
+hybrid system, 327
+indications for, 327
+materials, 327
+processing, 184
+stand-alone digital impression systems,
+327
+structural ceramics, 328
+subtractive manufacturing, 327
+Computer-aided manufacturing (or milling)
+(CAM), 326
+Concentration cell
+corrosion, 61
+definition, 50
+Condensable composites, 101
+Condensation
+condensation pressure, 159
+condenser points, 159
+definition, 153
+goal, 159
+low-copper alloys, 154
+polymerization, 41
+procedure, 159
+Condensation polymers, 38
+Condensation silicone, 277
+Condensed porcelain mass, 212
+Conditioning unit, agar impression materials,
+289f
+Conductivity, ceramics, 205
+Conductors, 57
+Cone-beam computed tomography (CBCT),
+326, 330, 408
+definition, 326
+Cones, 52, 55
+Configuration factor (C-factor), 106–107,
+125, 149
+definition, 87
+Constant-stress accelerated lifetime testing
+(CSALT), 383
+Contact angle, 116
+definition, 15, 115
+probing liquids, solid surfaces, 47t
+wetting, 45, 46f
+Control of Substances Hazardous to Health
+(COSHH), 368
+Controlled memory, 199
+Cooling process
+alloy composition, 30
+metal-ceramic prosthesis, 212
+peritectic temperature, 31
+Copolymerization, 35f, 41
+Copolymers, 35
+definition, 15
+graft or branched, 15
+random, 15
+
+417
+
+Copper (Cu), equilibrium cooling, 30
+Copy milling, 184
+Core ceramics, 202, 205
+Coring, 29
+Corrective waxes, 275, 303
+Corrosion, 58,
+classification, 59
+concentration cell, 61
+definition, 50
+electrochemical, 59
+electrochemical mechanism, 59
+impact, 30
+protection, 62
+resistance
+alloys, 172
+austenitic stainless steels, 195
+beta-titanium alloys, 200
+chromium (Cr2O3), 176
+decreased, 191
+dental amalgams, 163f, 163
+stress, 61
+wear, 81
+Corrosive wear, 81
+Corundum, 341
+Coupling agent, 88, 91
+definition, 87
+Covalent bond, 18, 19f
+Cracks
+fiberoptic transillumination, 398f
+in metal-ceramic crown, 225f
+propagation, 106f
+propagation, interruption, 225
+Crazing, 246f, 246
+Creep, 51, 178, 247,
+definition, 49, 153
+dental amalgams, 162–163, 163f
+Crevice corrosion, 61
+Critical strain-energy release rate, 75
+Crosslink, definition, 15
+Crosslinked polymers, 35f
+Crowns
+base-metal alloys, 177t
+cracking and fracture, 215f
+Lava zirconia-based core, 217f
+prostheses, 10f
+veneered, 217f
+Crucible former, 307f
+Crystal, 20
+Crystal imperfections, 188
+Crystal planes, 20
+Crystalline particle strengthening, 225
+Crystalline structure, 20
+two-dimensional illustration, 21f
+CS 3600, 327
+Cure shrinkage, 106
+Curing
+composites, 91
+cycles, 238, 240f
+definition, 15
+delayed, 107
+depth, 96
+dual-cured resins, 96
+exposure time, 96
+lamps, 95–96
+photocuring management, 113
+ramped, 107
+resin-based composites, 39
+resin-based composites classification, 93
+
+418
+
+Index
+
+Curing cycles, 238, 240f
+Cuspid-guided disocclusion, 204
+Custom trays, 250, 279, 279f
+Cutting, 332
+Cuttle, 340
+Cytokines, 404
+Cytology, 401
+Cytotoxicity test, 355–365
+D
+Debonding, shear-stress failure, 66
+Debubblizer, 46, 283
+Deflection–load plot, 247f
+Deformation, 65
+definition, 64
+polymers, 36
+twinning (significance), 191
+Degree of conversion (DC), 89
+definition, 87
+resin-based composites, 105
+Delayed curing, 107
+Delayed expansion, definition, 153
+Dental alloys
+allergic reactions
+cobalt, 375
+gold, 375
+immunotoxicity of metal, 375
+nickel allergy, 374
+Ni-Pd cross-reactivity, 375
+palladium allergy, 375
+patch tests, 374
+symptoms, 375
+titanium and titanium alloys, 375
+as corrosion cell, 62f
+elements in
+atom size, 25t
+crystal structure and chemical properties,
+25t
+physical properties, 24t
+local reactions, 373–374
+metal ions released from alloys, 373
+metal-joining operations, 185
+microstructure, 373
+properties, 172
+surfaces, heterogeneous composition
+(galvanic corrosion), 61
+systemic reactions, 373
+Dental amalgams
+alloy
+amalgamation, 155–157, 156f–158f
+composition, 154–155, 154t, 155f
+definition, 153
+particle shapes, 153, 154f
+powder configuration, 155
+programmable triturator, 154f, 154
+trituration capsules, 153, 154f
+clinical manipulation
+carving and finishing, 159–160, 160f
+condensation procedure, 159
+mechanical trituration, 158, 159f
+mercury/alloy ratio, 158
+clinical performance
+cavity preparations, 163
+dimensional change, 164
+improper cavity preparation/finishing,
+164, 165f
+leakage, 163
+marginal breakdown, 164f, 164
+
+Dental amalgams (Continued)
+repaired amalgam restorations, 165–166
+survival of amalgam restorations, 165f,
+165
+ultimate lifetime, 164
+clinical symptoms after application
+allergic reactions, 371
+environmental mercury exposure, 372
+local reactions, 371f, 371
+mercury handling in the dental office,
+372
+systemic reactions, 371
+creep, 51
+definition, 153
+in dentistry, 42
+mercury poisoning symptoms, 370
+mercury release, 370
+properties
+creep, 162–163, 163f
+dimensional stability, 160–161, 161f
+strength, 161–162, 162f
+tarnish and corrosion resistance, 163f,
+163
+safety
+allergy, 166
+mercury hygiene in dental offices, 166
+regulation of amalgam use, 167
+toxicity, 166
+Dental bonding
+agents, 118
+technologies, turning points/events,
+116f
+Dental castable ceramic, definition, 202
+Dental casting alloys, classification, 173
+Dental casting mold, 307f
+Dental cements
+history, 129
+indications for, 129
+ISO 9917-1 requirements, 132t
+ISO Requirements, 132t
+overview of, 130t
+performance criteria, 131
+Dental ceramics, 202
+abrasiveness, 204
+acidulated phosphate fluoride (APF),
+376
+adverse reactions, 376
+classification, 209t
+fracture-toughness test, 388
+history, 205
+indications and contraindications, 222t
+radioactivity of, 376
+resin bonding, 219
+selection principles, 228
+Dental composites
+chronology, 89f
+classification, 92
+clinical use, 102
+curing, 93
+filler particle size, 96
+manipulation characteristics, 100
+properties, 102
+components, 88
+definition, 87
+history and achievements, 89f
+optimization, 382f, 382
+Dental gold casting alloys, strengthening
+(occurrence), 33
+
+Dental implants
+design features, 382
+fatigue test, 384f, 388
+history, 253
+loading, success, 260
+longevity, 261
+placement, 263f
+popularity, 261
+success/failure, International Congress of
+Oral Implantologists Health Scale
+rating, 261t
+Dental laboratory, variables, 181
+Dental materials
+auxiliary materials, 10
+biocompatibility, 356f, 356. See also
+Biocompatibility
+challenges, 10
+coefficient of thermal expansion, 58t
+density/thermal properties, 57t
+future need, 12
+hardness values, 339t
+performance, 383
+preventive materials, 8, 8f
+properties, 3
+restorative materials, 8
+safety, 12
+selection, 82
+tissue repair/regeneration, 12
+viscosity, 50
+Dental plaster, 275, 295
+Dental prostheses, virtual testing, 381
+Dental resins
+bioactive TiO2 nanoparticles, 403
+clinical performance, 404
+Dental restorations, chemical inertness, 203
+Dental stone, 275
+high strength (type IV), 300
+high strength, high expansion (type V),
+301
+type III stone, 300
+Dental waxes, 275
+components, 302
+flow of, 303
+mechanical properties, 304
+properties, 303
+residual stress, 304
+thermal properties, 303, 304f
+types, 302
+Dentifrices, 350
+abrasiveness, 351
+components, 350, 350t
+composition, 350
+Dentin, 5, 6f
+bond strength, 385
+coefficient of thermal expansion, 58t
+density/thermal properties, 57t
+etching, 117
+prepared surfaces, 142f
+priming, 120
+radiodensity, 56
+reactionary, 134f
+stress-strain plot, 70f
+Dentin-bonding agent
+adhesives, 121
+bond strengths, 122
+classification, 120t, 123
+composition, 118
+definition, 115
+
+Index
+
+Dentin-bonding agent (Continued)
+design, 120
+etchants, 118
+filler particles, 122
+ingredients, 122
+initiators, 121
+microleakage, 122
+M–R–X structures, 121f
+primers, 120, 121f
+requirements, 118
+solvents, 121
+Dentinoenamel junction (DEJ), 5, 6f, 81
+Dentin–resin bond, 359–360
+Dentistry
+eutectic alloys, applications, 31
+wrought metal, application, 193
+Denture base
+resin. See Prosthetic polymers and resins
+retention, 43f
+Denture cleansers, 250
+Denture flask assembly, 238f
+Denture liner, definition, 233
+Denture repair, 248
+Denture-base resins, in dentistry, 42
+Dentures
+complete removable, 9f
+removable partial, 9f
+Depth of cure, 94
+definition, 87
+Design of experiments (DOE)
+definition, 381
+flowchart, 382f, 382
+steps, 383
+Diametral compression test, 72, 73f
+Diametral tensile strength, 72
+Diamond, 341
+Diamond abrasives, 341, 344
+Diatoms, 341
+Dicor glass-ceramic crowns, 213
+Die stone, 300, 307
+Dies, 50, 307t
+Diffuse reflectance, 53
+Diffusion, 21
+Digital, definition, 326
+Digital dentistry
+additive manufacturing, 328
+augmented reality, 331
+color matching, 327
+cone-beam computed tomography, 330
+intraoral scanner/cameras, 326
+prototyping tools, 327
+virtual reality, 331
+Digital impression, 326
+Diketone photosensitizer, 95f
+Dilatant
+definition, 49
+viscosity, 51
+Dimensional change, in dies, 307t
+Dimensional stability, 286, 286f
+of amalgam
+clinical significance, 164
+mechanism of change, 160–161, 161f
+moisture contamination, 161f, 161
+hydrocolloid impressions, 292
+zinc oxide–eugenol (ZOE) impression
+paste, 295
+Dimer dicarbamate dimethacrylate
+(DDCDMA), 103, 104f
+
+Dimethylaminoethyl methacrylate
+(DMAEMA), 94
+Dipoles, generation, 19
+Dipping wax, 302
+Direct composite restoration, 8, 9f
+Direct metal laser sintering (DMLS), 185, 330
+Direct-current arc melting machine, 318
+Disinfection, hydrocolloid impressions, 293
+Dislocations, 189
+definition, 171
+movement, absence, 191
+Dispersion strengthening, 225
+Disproportionation, 40f
+Dissimilar metals, 60
+4,8-Di(methacryloxy methylene)tricyclodecane (TCDDMA), 103
+Divacancy, example, 189f
+DMG Constic, 103
+Doping, 214
+Dose–response relationship of toxicity, 365f,
+365
+Double-cord technique, 280
+Dough-forming time, 237
+Dressing, definition, 332
+Dry strength, gypsum products, 299
+Dual-cured resin, 87, 96
+Ductility, 65, 71
+alloys, 173
+cold working and annealing time, 194f
+Duplicating materials, 293
+DX-511, 103f, 103
+Dynamic mechanical mixing, 281
+E
+Edge dislocation, 189
+cubic crystal structure, 189f
+Effective volume, 381, 386
+Elastic deformation, 64, 68f
+Elastic impression materials, 276
+Elastic limit, 68–69
+Elastic memory, 305
+Elastic modulus, 18, 70, 70f
+definition, 64
+reduction, 194
+Elastic properties, 67
+Elastic recovery, definition, 15
+Elastic strain, 37, 37f
+Elastomeric impression materials
+characteristics, 288t
+chemistry, 277
+common failures, 288t
+components, 277
+dimensional stability, 286
+disinfection, 286
+elasticity and viscoelasticity, 284
+hand mixing, 281
+impression-making technique, 281
+impression removal, 282
+impression trays, 279, 279f
+manipulation, 280
+mishandling, 287
+polyether, 278, 279f
+polysulfide impression material, 277, 277f
+properties, 283, 284t
+rheological properties, 283
+tear strength, 285, 285f
+tissue management, 280
+working and setting times, 283
+
+419
+
+Elastomers, 37, 275–276
+Electrical resistance, spot welding, 185
+Electrical resistance–heated casting machine,
+317
+Electrochemical mechanism of corrosion, 59
+Electrochemical properties, 58
+Electrode potential, 59
+Electroforming, 185
+Electrogalvanism, definition, 50
+Electromagnetic radiation, 53
+Electromotive series, definition, 50
+Electron-cloud model, nitrogen atom, 16f
+Electronegativity, 28
+Elements, periodic chart, 26f
+Elgiloy wires, 199
+Elongation, 67
+Embryos, 24
+Emerging technologies/products, research
+(flow chart), 402f
+Emery, 341
+Enamel, 4
+abrasiveness, 204
+acid-etching, 11
+carious lesion, 7f
+coefficient of thermal expansion, 58t
+density/thermal properties, 57t
+elastic modulus, 81
+etching, 117
+glass-ionomer restoration, 126f
+light effect, 53
+microfracture, 204
+plaque formation, 43f
+refractive index, 53
+stress-strain plot, 70f
+transmission electron microscope images, 5f
+Enamel-bonding agents, 118
+Endodontic cement formula, 151
+Endodontic sealer, 148
+definition, 128
+ISO 6876 and ADA 57 requirements for,
+132t
+solubilities, 132
+Endodontics, 404
+sealers, usage, 125
+Endosseous implants, designs and materials,
+258f
+Endosteal implants, 254
+blade designs, 258f
+definition, 253
+partial arch restorations, 258f
+placement, 256f
+Endurance limit, 173
+Endurance strength, 76
+Energy-balance approach, 76f
+Enterococcus faecalis, 402
+Epinephrine, 280
+Epithelial implant, definition, 253
+Epoxy system, 406
+Epoxy-based sealer, 125, 148
+Equiaxed grain microstructure, 25
+Equilibrium-phase diagrams, 28
+calculated weight percentages, basis, 29f
+eutectic alloy, 30f
+platinum-silver system, 31f
+Erosion, 8f, 332, 334
+Erosion test, cements, 131
+Erosion wear, 81
+Erythematous reaction sites, 361, 362f
+
+420
+
+Index
+
+Esthetic dentistry, 52
+Esthetics
+definition, 49
+restoration, 11
+Estrogenicity, 355, 358
+Etch and rinse adhesives, 122f
+Etch-and-rinse technique, 117, 123
+Ethyl silicate–bonded investments, 312
+European Conformity (CE) marking, 12
+Eutectic alloys
+applications, 31
+equilibrium-phase diagram, 30f
+physical properties, 31
+Eutectic composition, 30
+Evidence-based dentistry (EBD)
+definition, 390
+level of evidence, 390
+observational studies, 391
+in vitro testing, 390
+Evidence-based medicine, 381
+External plasticizer, 37
+F
+Fabricating prostheses, alternative
+technologies, 184
+Fabrication
+direct composite inlays, 112
+metal-ceramic prosthesis, 212
+molten alloy, 172
+Face-centered cubic (FCC) cell, 20
+Fatigue behavior, S-N diagram, 77f, 77
+Fatigue failure, 76
+Fatigue resistance, alloys, 173
+Fatigue strength, 76, 173
+Fédération Dentaire Internationale (FDI),
+364, 387
+Feldspathic ceramics, 202
+Feldspathic porcelain, 203, 207
+autoglazed, 209
+glazing, 209
+principal phase fields, 207f
+types, 207
+Ferric sulfate, 135
+Ferrite, 194
+Ferritic stainless steels, 195
+compositions, 195t
+Fillers, 42, 88, 122
+benefits, 90
+characteristics, 90
+definition, 87
+function, 90
+loading maximizing, 102
+ormocer, 91
+particle size, 96, 97t
+types, 91
+Film thickness
+definition, 128
+dental cements, 131
+Filtek LS (3M ESPE), 103
+Filtek Universal, 403
+Finishing
+benefits, 333
+composites, 111
+definition, 332
+procedures
+aerosols, production, 338
+goals, 333
+technique, steps, 345
+
+Finite-element analysis (FEA), 229f
+accuracy, 384
+definition, 381
+elements, 384
+solid model, 383, 384f
+stress and strain results, 384
+Fissure sealants, 126
+Fixed dental prostheses (FDPs), 66f, 66, 206
+base-metal alloys, 177t
+sag deformation, 179f
+Flavored fluoride varnish, 136f
+Flexibility, 71
+Flexural strength, 73
+Flow, 52
+definition, 276
+division, 281
+temperature, 186
+Flowable composite, definition, 87, 100
+Fluid-resin technique, 241–242, 242f
+Fluids
+rheological behaviors, 51f
+viscosity, 51
+Fluorapatite glass-ceramic, 214
+Fluorescence, 56
+Fluoridated varnishes, 135
+Fluoride recharge, 134
+Fluoride release
+fillers, 90
+profiles, 133f
+Fluoride-releasing materials
+clinical significance, 133
+factors affecting, 133
+fluoride-release profiles, 133f
+Flux
+definition, 171
+entrapment, 186
+inclusions, 187
+metal oxides, combination, 186
+noble-metal alloys, 186
+soldering, 185
+usage, 186
+Force, 4, 50, 65
+Foreign bodies, casting, 321, 322f
+Formocresol, 135
+Four-point test, 73f
+Fractography
+all-ceramic prostheses, 398
+crack features, 397
+definition, 390
+fracture surface characteristics, 396
+principal fracture paths, 397f, 397
+vinyl polysiloxane impression, 397
+Fracture
+ceramic connectors, 228
+Griffith criterion, 76f
+midpontic, three-unit bridges, 229f
+plastic deformation, 67
+porcelain crowns, 206
+restorations, 74
+susceptibility
+metal-ceramic/all-ceramic restorations,
+design effect, 226
+tensile, resistance, 204
+toughness, 204
+Fracture toughness, 64, 75
+definition, 64
+glass-ionomer materials, 144t
+restorative materials, 144t
+
+Fractured connectors, 227
+Fractured maxillary central incisor, 100f
+Fractured microfilled composite, 99f
+Fractured Procera AllCeram premolar crown,
+397f
+Fractured prosthesis, repair, 248
+Fracture-resistant all-porcelain crowns, 206
+Free radicals, 92
+chain transfer, occurrence, 41f
+definition, 87
+Fretting wear, 81
+Friction, 78, 80
+kinetic, 80
+laws of, 80
+mechanism, 80
+static, 80
+Frit, 207
+Frost paradigm, 269
+schematic diagram, 269f
+Fuel-gas combustion, thermal characteristics,
+186t
+Fully stabilized zirconia (FSZ), 216
+Fumed silica particles
+formation, pyrogenic reaction, 97f
+transmission electron microscope image,
+98f
+Furnace soldering, 186
+Fused deposition modeling (FDM), 326, 330
+Fused filament fabrication (FFF), 330
+Fused granular fabrication (FGF), 330
+Fused particle fabrication (FPF), 330
+G
+G-aenial Universal Flo, 403
+Galvanic corrosion, 59
+definition, 50
+Galvanic currents
+clinical significance, 62
+mouth, 60f
+Galvanic shock, 60
+definition, 50
+γ-Methacryl-oxypropyltrimethoxy silane, 92f
+Garnet, 341
+Gel, 287
+definition, 275
+Gel point/gelation, 106
+definition, 87
+Gelation, 106
+alginate impression material, 290
+definition, 275
+reversible hydrocolloid, 287
+General controls, 368
+Genetic issue, teeth, 7f
+Genotoxicity, 355, 358
+Gingivitis, 361, 362f, 373
+Giomer, 104, 147
+Glass
+insulating abilities, 135
+modifiers, 208
+strengthening, thermal tempering (usage),
+225
+Glass polyalkenoate cement, 140
+Glass-ceramics, 34, 213
+definition, 202
+fluorapatite, 214
+Glass-infiltrated core ceramic systems, 218
+cross-sectional illustration, 218f
+definition, 202
+
+Index
+
+Glass-ionomer cement (GIC), 405
+adverse reactions, 376–377
+calcium aluminate, 149f
+chemistry and setting, 141
+clinical manipulation, 142
+composition and release of substances, 376
+cumulative fluoride release, 144t
+definition, 128
+fracture toughness, 144t
+high-viscosity, 144
+nominal compositions, 141t
+properties, 144t
+structure, 142f
+unreacted particles, 142f
+usage, 140
+Glass-transition temperature, 21, 303
+definition, 15
+plot, 23f
+polymethacrylate ester, 38f, 38
+Glaze ceramics, 202, 209
+Globally Harmonized System of Classification
+and Labeling of Chemicals (GHS),
+368, 369f
+Glycerin, 289
+Glycerol phosphate dimethacrylate (GPDM)
+monomers, 103
+Gold
+atoms, location (randomness), 33
+ductility, 71
+monoatomic metals, 34f
+Gold crown, mechanical retention, 137f
+Gold-based alloys, 175
+Gold-copper system, 31
+alloys, heat treatment, 175
+phase diagram, 32f
+structure, 32f
+Gold-palladium alloys, metal-ceramic systems,
+179
+Gold-palladium-silver alloys, metal-ceramic
+systems, 179
+Gold-platinum-palladium alloys, high noble/
+noble alloys, 179
+Graft copolymer, 15, 36
+Graft materials, 404
+Grain, 25
+boundary, 25
+definition, 15
+Grain growth, 193
+definition, 171
+Grain refinement, 26
+definition, 171
+Grain size, 26
+solidification, 28
+Gray scale, 49, 54
+Green shrinkage, 312
+Green state
+definition, 202
+milling, 221f
+Green strength, gypsum products, 299
+Greening, 181
+Griffith energy approach, 396
+Griffith theory, 75
+Grinder’s disease, 338
+Grinding
+definition, 332
+operation, 337
+processes, biological hazards, 338
+Ground quartz filler particles, 97f
+
+Guidelines for material selection
+anamnesis (Patient’s Account of Medical
+History), 379
+intended use and indications for materials,
+378
+main components of the material, 378
+risk communication, 374f, 379
+risks vs. benefits of dental materials, 378
+safety and performance of material, 378,
+379t
+treatment planning, 379
+Gum dammar, 302
+Gutta-percha, 125, 129
+Gypsum
+die stones, 307
+fabrication, 50
+models, 276
+Gypsum-based investment, 295, 315
+Gypsum-bonded investments
+casting shrinkage, 309
+classifications, 309
+composition, 309
+dimensional change, 309f
+hygroscopic expansion
+magnitude, 310
+sources, 315
+water/powder (W/P) ratio, 310f, 310
+porosity, 311
+setting expansion, 310
+storage, 311
+strength, 311
+thermal expansion, 310, 310f–311f
+Gypsum products
+calcination process, 295f
+care of, 301
+cast care, 302
+definition, 275
+dental stone, 300–301
+impression plaster (type I), 300
+infection control, 302
+manipulation, 301
+mixing and pouring, 301
+mixing time, 296
+model plaster, 300
+mounting casts, 301
+powder particle, 295f
+production, 295
+properties, 300t
+proportioning, 301
+refractory filler addition, 295
+setting, 296
+dimensional changes, 298f
+expansion mechanism, 297
+hygroscopic, 298
+reaction, 296, 296f
+setting time, 296
+control, 296
+modifiers for controlling, 297
+strength, 299
+manipulation and additives, 300
+water content, 299
+water/powder ratio, 299
+types, 300
+working time, 296
+H
+Hagger’s dentin-bonding system, 120
+Hand dermatitis, 360
+
+421
+
+Hand mixing, elastomeric impression, 281
+Hard glass, 91
+Hardened type III/IV gold alloy castings,
+restoration, 33
+Hardness
+alloys, 173
+definition, 64
+Heat, homogenization heat treatment, 29
+Heat-activated denture base resin
+vs. chemical-activated denture base resins,
+241
+compression molding technique
+mold preparation, 235f, 235
+separating medium selection and
+application, 235–236
+polymerization
+polymerization cycles/curing cycles, 238,
+240f
+temperature–time heating curves, 238,
+240f
+via microwave energy, 239, 240f
+preparation
+crosslinking agents, 234f, 236
+denture flask assembly, 238f
+dough-forming time, 237
+injection molding technique, 238, 239f
+packing, 237f–238f, 237–238
+polymer-monomer interaction, 236
+polymer-to-monomer ratio, 236
+powder–liquid systems, 234f, 236
+representation, 234f
+working time, 237
+Hertzian cone cracks, 223
+Hertzian load, 75
+Heterogeneous microfill composites, 97
+Heterogeneous nucleation, 24
+Hierarchy of evidence, 381, 382f
+High noble (HN) alloys
+all-metal prosthesis usage, 175
+gold-platinum-palladium alloys, 179
+metal-ceramic systems, 179
+systems, solid-state reactions, 31
+High-frequency induction, argon/arc, 176
+High-heat thermal expansion technique, 315
+High-palladium alloys, Pd-Ga system, 33
+High-viscosity glass-ionomer cements, 144, 145f
+Homogeneous microfill composites, 97
+Homogeneous nucleation, 24
+Homogeneous solution, 28
+Homogenization heat treatment, 29
+Hooke’s law, 67–68, 70
+Hot-isostatically pressed (HIP) core ceramic,
+213
+Hot-pressed ceramics, 202, 213
+H-statements, 368
+Hue
+definition, 49
+Munsell scale, 54f
+three-dimensional color solid, 54
+Humans, vision role, 52
+Hume–Rothery rules, 28
+Hunter L*a*b* color chart, 55f
+Hybrid composites, 100, 101f
+Hybrid ionomer cement, 147, 151
+definition, 128
+Hybrid layer, 117, 123
+Hybrid material, 278
+Hydration theory, 296
+
+422
+
+Index
+
+Hydraulic cements, 128, 149
+Hydrocolloid impressions
+accuracy, 293
+dimensional stability, 292
+disinfection, 293
+duplicating materials, 293
+failures, 299t
+gypsum setting, 292
+irreversible, 290
+properties, 292
+reversible, 287
+sol–gel transformation, 287
+Hydrodynamic theory, 358
+Hydrofluoric acid (HF)
+calcium gluconate gel, 376
+emergency treatment, 376
+etching, 146
+exposure of skin, mucosa, and eyes, 376
+fume inhalation, 376
+risks, 376
+ventilation, 376
+Hydrogen, heat source, 186
+Hydrogen bond, 20
+dipole attraction, 20
+formation, 20f
+Hydrogen bridge, 20
+Hydroxyapatite (HA), 265, 403
+HA-coated implants, 265
+characteristics, 266
+coating and bone quality, 267, 267f
+2-Hydroxyethyl methacrylate (HEMA), 120,
+148
+Hygroscopic expansion, 310, 310f
+definition, 306
+magnitude, 310
+water/powder (W/P) ratio, 310f, 310
+Hygroscopic low-heat technique, 315
+Hygroscopic setting expansion, 275, 298, 298f
+Hygroscopy, 298
+Hypersensitivity, 355, 360
+I
+Ice, 16
+IdentAlloy certificate, 174f
+IdentAlloy codes, 231
+IdentAlloy program, 173
+IdentCeram certificate, 231, 231f
+Imbibition, 275, 292
+Immunotoxicity
+concept, 362
+glutathione (GSH) to mercury ions, 363f,
+362
+tumor necrosis factor alpha (TNF-α)
+secretion, 363f, 363
+Impact strength, 74, 247
+Implantation, 253
+definition, 253
+Implants
+attachment mechanism, 256
+biocompatibility, 267
+biomaterials, 262
+bone, integration, 269
+ceramic and ceramic-like coated metal, 265
+classification, 254
+clinical success, evaluation, 260
+components, 259, 259f
+dentistry, Stage 1 surgery, 260f
+design, 254
+
+Implants (Continued)
+load transfer, balance, 262
+material/host, primary surface interactions,
+268
+metallic, 262
+placement, 260, 269
+properties, 256
+prosthesis, fit (consideration), 269
+restoration, intention, 260
+selection, 266
+site, loading condition types (occurrence),
+269
+Stage 2 surgical technique, 260f
+strength, 266
+surgical placement, 260
+Implant-supported restorations, difference, 258
+Implant-to-bone interaction
+(osseointegration), 257
+Impression
+digital, 326
+removal, 276
+shelf life, 292
+trays, 279, 279f
+wax, 303
+Impression compound, 276, 294
+Impression materials, 275
+classification, 276, 277t
+composition, 276
+in dentistry, 42
+elastic, 276
+fluid-to-solid transformation, 50
+gypsum products, 295
+hydrocolloids, 287
+inelastic, 276, 294
+irreversible, 276
+reversible, 276
+setting mechanism, 276
+Impression plaster, 294
+Improper cavity preparation/finishing, 164,
+165f
+In vitro bonding tests, 182
+In vitro research, dental materials
+accelerated lifetime testing (ALT), 383f,
+383
+clinical vs. statistical significance, 386
+definition, 381
+design of experiments (DOE), 382f,
+382–383
+drawbacks, 381
+hierarchy of evidence, 381, 382f
+limitations of standards, 388
+merits, 381
+precision vs. clinical relevance
+dentin bond-strength evaluation, 385
+microtensile bond-strength test (μTBS),
+385f, 385
+single material property measurement,
+384
+standardization
+ADA Specifications and Acceptance
+Program, 387
+International Standards, 387–388
+testing methods, 381
+virtual modeling, 383–384, 384f
+Weibull size effect, 385–386, 386f–387f
+In vitro tests, 366, 390
+In vivo fluoride recharging, 134
+In-Ceram Spinel (ICS), 218
+
+In-Ceram Zirconia, 219
+Incomplete casting, 323, 323f–324f
+Indirect posterior composites, 112
+Indirect restorations, 112
+Indirect restorative materials, 8, 9f
+Induction
+addition polymerization, 39, 39f
+melting casting machine, 318f
+Inelastic, definition, 275
+Inelastic impression materials, 276
+impression compound, 294
+impression plaster, 294
+zinc oxide–eugenol, 294
+Infection-control procedures, 247
+Inflammation, allergies, 361, 362f
+Infrared spectroscopy, 409
+Inhibitors, 87, 92
+Inhomogeneous dental gold alloy, tarnish/
+corrosion (impact), 30
+Initiator, 121
+definition, 87
+polyether impression material, 278
+Injection molding technique, 238, 239f
+Inlay wax, 302
+definition, 276
+flow requirements, 304t
+manipulation, 304
+thermal expansion, 304f
+thermal expansion coefficient, 58
+time–temperature cooling curve, 304f
+Insulators, 57
+Interatomic bonds, 17
+Interfacial zone fracture, cross-sectional
+illustration, 226f
+Intermetallic compound, 28
+International Congress of Oral
+Implantologists Health Scale, dental
+implant success/failure rating, 261t
+International Organization for Standardization
+(ISO), 387
+Interstitial atom, 188, 189f
+Interstitial solid solution, 28
+Intraoral digital scanner, digital impressions,
+326
+Invariant point, 30
+Investment, 307f
+burnout, 309
+ethyl silicate–bonded investments, 312
+gypsum-based materials, 309
+hygroscopic expansion, 310
+materials, 308
+phosphate-bonded, 311
+procedure, 313
+shrinkage, compensation, 313
+types, 309
+Ion exchange, 225
+Ion implantation, 262
+Ionic bonds, 18, 19f
+Ionomers, 124, 129
+IPS Empress (leucite-based product), 213
+IPS Empress 2 (Ivoclar Vivadent), 213
+Iron-carbon system, 194
+Irreversible hydrocolloid, 290
+Irreversible materials, 276
+ISO 7405#1997, 364
+ISO 14971#2019, 356
+ISO 10993, Biological Evaluation of Medical
+Devices, 367
+
+Index
+
+ISO 7405#2018, Evaluation of
+Biocompatibility of Medical Devices
+Used in Dentistry, 364, 367
+ISO standard, 388
+iTero, 327
+Ivoclar Tetric EvoCeram Bulk Fill Aessencio
+Technology, 102
+Ivory-colored wax, 302
+Izod-type impact tester, 74
+K
+Kalore, 103f, 103
+Kelvin (K), 57
+definition, 49
+Kerr Vertise Flow, 103
+Kieselguhr, 341
+Kinetic energy, 16
+Kinetic friction, 80
+Knoop hardness test, 79
+L
+Labeling, 368, 369f
+Laboratory grinding/finishing kit, 347f
+Lamellar eutectic structure, formation, 30
+Lamellar structure, formation, 30
+Large-particle composite, 97
+Laser photothermal radiometry (PTR), 408
+Laser powder bed fusion (LPBF), 330
+Laser welding, commercially pure titanium,
+187
+Laser-induced fluorescence, 408
+Latexes, 251
+Lattice types, 22f
+Lava zirconia-based core, 217f
+Laws of Sliding Friction, 80
+Layered structure, formation, 30
+LED lamps, 95
+Lethal dose fifty (LD50), 355–365
+Lichenoid contact lesions, 361f, 361
+Lichenoid reactions, 371
+Life Ceramics Analysis and Reliability
+Evaluation software (CARES), 229
+Light
+attenuation, 96
+nature, 52
+source effect, 56
+visible spectrum, 52f
+white, 52f
+Light-activated denture base resins, 242, 243f
+Light-cured composite, 88, 94
+advantages and disadvantages, 94
+definition, 87
+diketone photosensitizer, 95f
+Line defects (dislocations), 189, 189f
+Linear coefficient of expansion
+definition, 49
+Linear polymers, 35f
+Linear shrinkage, 243
+Liner, 307f
+Liquefaction temperature, agar, 287
+Liquid remineralizing dentin bonding agents,
+404
+Liquid-based cytology, 409
+Liquid/powder ratio (L/P), 321
+Liquid-to-solid transformation, 25
+Liquidus, 28
+Lithia disilicate, 213, 328
+Lithia-disilicate-based ceramic core, 215f
+
+Lithium disilicate all-ceramic crown, 10f
+Local effects, 356, 357f
+bone–implant interface, 360
+concept, 356, 357f
+foreign substances entry, 358f, 358
+inflammatory response, 357f
+microleakage, 359f, 359
+nanoleakage, 359f, 359–360
+periodontium, 359f, 359
+pulp tissue, 358
+tooth–restoration interfaces, 359f, 359–360
+Local reactions
+dental alloys, 373–374
+dental amalgam, 371f, 371
+gingival reactions, 373
+pulp reactions, 372
+Long-term resilient soft liner
+definition, 233
+processing, 249
+Lost wax technique, 171–172, 306
+Low-fusing ceramics, 207
+Low-shrinkage composites, 102
+Low-viscosity hybrid ionomers, 147
+Lucite, 328
+Luminous reflectance, 49
+Luting, 124
+cements, usage, 137
+mechanical retention, 137
+Luting agent, 124, 137
+definition, 128
+M
+3M Filtek One Bulk Fill Smart Contrast Ratio
+Management system, 102
+Machinable glass-ceramic (MGC), 206, 213
+Macrofill composite, 88, 97
+Macromolecules, polymers, 34
+Magnesia, 216
+Magnesia-alumina spinel, 218
+Magnesium oxide (MgO), 33, 34f
+Magnet, definition, 50
+Magnetic materials, 62
+Magnetism, 63
+Magnetite, 63
+Malleability, 71, 173
+definition, 64
+Malocclusion, 6
+Managing accurate resin curing (MARC), 113
+Mandibular staple implant, 255
+Manually condensed feldspathic veneering
+porcelains, 212
+Marginal breakdown
+clinical performance, 164f, 164
+definition, 153
+Martensite, 195
+Martensitic stainless steels, 195
+Master die, preparation, 306
+Mastication, forces, 136
+Material Safety Data Sheet (MSDS), 368
+Matrix, definition, 88
+Maturation, 128–129
+Maxillofacial prosthetics
+chlorinated polyethylene (CPE), 252
+latexes, 251
+polyurethane polymers, 252
+silicone rubbers, 252
+tear resistance, 251
+vinyl plastisols, 251
+
+423
+
+Maximum elastic strain, 67
+Mechanical integrity, 11
+Mechanical interlocking, 46
+Mechanical issue, teeth, 7, 8f
+Mechanical mixing, 313
+Mechanical properties
+strain, 67
+strength, 67
+stress, 65, 65f
+stress-strain properties, 68
+Medit i500, 327
+Medium wax, 302
+Melanocortin peptides, 407
+Mercury, 166, 370. See also Dental amalgam
+Mercury/alloy ratio, 158
+Mesio-occulso-distal (MOD) restoration, 310
+Metal bonds, 342
+Metal oxides flux, combination, 186
+Metal prosthesis, 23
+Metal-backed strips, 343
+Metal-ceramic (MC) alloys, castability studies,
+181
+Metal-ceramic (MC) applications
+alloy requirements, 178
+base-metal alloys, 177t
+metals, porcelain bonding, 178
+solidus temperature, 178
+thermal contraction, coefficient, 179
+Metal-ceramic (MC) contraction mismatch,
+effect, 179
+Metal-ceramic (MC) crown, 10f
+crack patterns, 226f
+crack, three-unit bridge cooling, 225f
+designs, 227f
+porcelain veneer, residual stress, 224f
+Metal-ceramic prosthesis
+alloy composition and properties, 178, 210t
+bond failure, 211f
+bond strength, 212
+ceramic types, 207
+compatibility, 211
+cooling, 212
+definition, 202
+fabrication, 212
+firing procedure, 212
+high noble alloys
+compositions, 175, 180t
+physical and mechanical properties, 175t
+multiple firings, impact, 212
+occlusal surface, design, 182
+porcelain bonding, 211
+ultralow-fusing ceramics, 207
+Metal-ceramic restorations, fracture
+susceptibility, 226
+Metal-ceramic (MC) systems, 206
+gold-palladium alloys, 179
+gold-palladium-silver alloys, 179
+gold-platinum-palladium alloys, 179
+high noble alloys, 175, 179
+metal-ceramic contraction mismatch, effect,
+179
+noble alloys, 175, 179
+palladium-copper-gallium alloys, 181
+palladium-gallium alloys, 181
+palladium-gold alloy, 179
+palladium-gold-silver alloys, 179
+palladium-silver alloys, 179
+stress and intraorally induced stresses, 224f
+
+424
+
+Index
+
+Metal-ceramic (MC) systems (Continued)
+thermal compatibility, 179, 224f
+thermal contraction coefficient, 179
+thermal expansion coefficient, 179
+thermally incompatible, 224f
+Metal-joining processes, 185
+Metallic bond, 19, 19f
+Metallic implants, 262
+materials, mechanical properties/density,
+259t
+usage, debate, 266
+Metallic mercury, 370
+Metallic prostheses, resin cements, 146
+Metallic restoration, 61f
+Metals, 16
+characteristics, 23
+definition, 15
+dissimilar, 60
+electromotive series, 60t
+grain refinement and size, 26
+laboratory grinding/finishing kit, 347f
+liquid-to-solid transformation, 25
+microstructure, 24
+plastic deformation, inherent ability, 188
+porcelain, bonding, 178, 211
+solidification, 24
+strengthening, effects, 191
+theoretical/observed shear strengths, 188
+Metamerism, 56
+definition, 49
+Methacryl polyhedral oligomeric
+silsesquioxane, 91f
+Methacrylates, 360
+allergic reactions, 373
+local reactions
+gingival reactions, 373
+pulp reactions, 372
+released substance vs. polymerization, 372
+systemic reactions, 372
+4-Methacryloxyethyl trimellitic acid
+(4-META), 103
+12-Methacryloyloxydodecylpyridinium
+bromide (MDPB), 122
+Methyl mercury, 370
+Methylmethacrylate
+chain transfer, 41f
+free radical approaches, 39f
+Methylmethacrylate copolymer, 35f
+Micelles, 287
+Microcracks, 246f, 246
+Microcrystalline wax, 302
+Microfilled (heterogeneous microfill)
+composites, 97
+fractured, 99f
+inorganic filler loading, 97
+resin filler particles preparation, 98f
+Microleakage, 115, 359f, 359
+definition, 115
+measurement, 122
+Micromechanical bonding, 16, 46
+Micromechanical interlocking, 360
+Micromotion, 261
+definition, 253
+Microporosity, 322f
+Microstructure, 15, 25
+Microtensile bond-strength test (μTBS), 385f,
+385
+Microwave irradiation, 299
+
+Minamata Convention on Mercury, 167
+Mineral trioxide aggregate (MTA), 135
+definition, 128
+pH, 150
+pulp capping, 135
+pulpotomies, 135
+Mineral-based waxes, 302
+Mini-implants
+indications, 254
+orthodontic anchorage, 256f
+Mixing systems, 280, 280f
+Model, definition, 275
+Modeling plastic, 294
+Modified α-hemihydrate, 295
+Modified alginates, 290
+Modulus of elasticity, 70
+Molecule, 16
+Molten alloy, rapid cooling (roomtemperature water bath/ice-water bath
+usage), 32
+Moment, 66
+Monoclinic lattice, 22f
+Monolithic zirconia, 217
+Monomer and mer, 16
+Monophase technique, 282
+shear rate and elapsed time, 283t
+stone casts and dies, 283
+Montan wax, 302
+Mouth, galvanic current, 60f
+Multicomponent alloy systems, 33
+Multiple-mix technique, 281, 282f
+Munsell three-dimensional (3-D) color space,
+53
+Mutagenicity, 355, 358
+Mylar-backed abrasive strips, 342f
+N
+Nanocomposites, 99
+Nanofill composites, 99
+Nanoleakage, 359f, 359–360
+Nanometer-sized silica particles, 122
+Nanoparticles, 151, 402
+Nanostructures, 405
+Nanotechnology, 401–402
+Natural gas, heat source, 186t
+Natural healing biological process, 12
+Natural rubber latex (NRL)
+allergic reactions, 377
+composition and release of substances,
+377
+precautionary measures, 377
+Natural teeth, implants (attachment), 270
+Natural waxes, 302
+N’Durance, 103
+Near-ultraviolet radiation, 56
+Newton, 4
+Newtonian viscosity, 51
+Newton’s third law of motion, 65
+Nickel-chromium (Ni-Cr) alloys, 181
+Nickel-titanium alloys, 196
+endodontic instrument, 198, 199f
+mechanical properties, 197
+superelasticity and shape memory, 197
+Nickel-titanium wires, 405
+Ni-Cr-Be alloys, 174
+Nitinol, 196
+Nitrogen atom, electron-cloud model, 16f
+Nobio QASi composites, 402
+
+Noble (N) alloys
+all-metal prosthesis usage, 175
+gold-platinum-palladium alloys, 179
+metal-ceramic prosthesis composition, 177t
+metal-ceramic systems, 179
+systems, solid-state reactions, 31
+torch melting, 318
+Noble metals, 58, 172
+content classification, 173, 173t
+corrosion, 62
+definition, 171
+Noble-metal wires, 200, 200t
+physical properties, 200t
+Nonbonded abrasives, 343
+Noncarious cervical carious lesions, 8f
+Nonconsumable tungsten electrode, argon/
+arc, 176
+Noncrystalline structure, 21
+Noneugenol cements, 140
+Nongypsum die materials, 307
+No-observed-adverse-effect level (NOAEL),
+355, 365
+Normal setting expansion, 275, 298
+NovaBone Dental Putty, 404
+N-phenyl glycine and glycidyl methacrylate
+(NPG-GMA), 120
+Nucleus formation, 24
+O
+Observational studies, 391
+Observer, effect, 55
+Obturation, 125
+definition, 115
+Occlusal reduction, diamond burs (usage),
+343f
+Occupational hazards for dental personnel,
+363–364
+Omnichroma, 403
+Opacity, 53
+definition, 49
+Opening-mode loading, 76
+Optical effects, 52
+Optical modifiers, 92
+Optically based caries diagnosis, 330
+Oral cavity
+dental material challenges, 10
+force, 4
+mastication, 4
+Oral environment, electrochemical action
+(impact), 58
+Oral mucosa, epithelial implant, 255
+Organically modified ceramics, 91
+Ormocer, 91
+Orthodontic anchorage, mini-implants
+(usage), 256f
+Orthodontic bands, cementing, 144
+Orthodontic brackets, 125, 146
+Orthogonal arrays, 383
+Orthorhombic lattice, 22f
+Osseointegration, 253, 355, 257, 360
+Osteoconductive
+definition, 401
+properties, 404
+Osteogenesis, 405
+Osteoinductive
+ability, 265
+definition, 253
+Osteonecrosis, 406
+
+Index
+
+Ostim-Paste, 404
+Oxidation, 59
+Oxidation potential, 59
+Oxide-doped zirconia, 216
+Oxygen-inhibited layer, 93
+definition, 88
+P
+Packable composites, 101
+Palladium-based alloy
+optical microscopic image, 27f
+scanning electron microscope image, 27f
+Palladium-based alloys, 33
+Palladium-copper-gallium alloys, 181
+Palladium-gallium alloys, 181
+Palladium-gold alloy, 179
+Palladium-gold-silver alloys, 179
+Palladium-silver (Pd-Ag) alloys, 28, 31f
+equilibrium-phase diagrams, 29f
+metal-ceramic systems, 179
+Paper-backed discs, 342f
+Paraffin wax flakes, 302
+Partial arch restorations, endosteal implants,
+258f
+Partially stabilized zirconia (PSZ), 216
+Pascal (Pa), 4
+Passivating oxide, 195
+Passivation, 262
+Paste–paste system, 146
+Patch test for allergies, 362f, 362
+Patient reports, 377–378
+Pattern waxes, 302
+Pearlite, 194
+Pentron Fusio Liquid Dentin, 103
+PepGen P-15, 404
+Peptide amphiphiles (PAs), 405
+Percent elongation, 173
+Perceptibility threshold (PT), 54
+Peri-implantitis, 261
+Perimucositis, 261
+Periodic chart (elements), 26f
+Periodontal ligament stem cells (PDLSCs),
+407
+Periodontal tissue regeneration, 406
+Periodontium disease, 359f, 359
+PerioGlas, 404
+Periosteum, subperiosteal implant
+(positioning), 257f
+Peritectic alloys, 31
+Permanent or plastic deformation, 64
+Phase and phase diagram, 28
+compositions, 30
+definition, 16
+interpretation, 29
+solid solutions, 29
+pH-cycling testing methodology, 391
+Phosphate-bonded investments
+casting, 316
+composition, 311
+setting reaction, 311
+surface quality, 312
+thermal expansion, 312, 312f
+working and setting time, 312
+Photocuring, 113
+Photopolymerization, 8
+Photothermal radiometry and modulated
+luminescence (PTR-LUM), 408
+Physical properties, 50
+
+Pickling process, 319
+Piston-on-three-ball test, 74f
+Pit
+corrosion, 61
+sealants, 126
+Plaster of Paris, 295
+setting expansion, 299t
+strength
+drying, 300t
+mixing time, 304t
+water/powder (W/P) ratio, 304t
+Plastic deformation, 19
+dislocation movement, absence, 191
+shear force, 68f
+Plastic strain, 37
+Plastic-backed strips, 343
+Plasticity, 65
+Plasticization, 37
+Plasticizers, 37
+Plasticizing, 36–37
+Pneumoconiosis, 364
+Point contact, 75
+Point defects, 188, 189f
+Poisson’s ratio, 72
+Polish, definition, 332
+Polishing, 159–160, 160f, 332
+Polyacrylic acid (PAA), 148
+Polycarboxylate, insulating abilities, 136
+Polycrystalline, 25
+Polycrystalline alloys, dislocation movement,
+190
+Polycrystalline alumina, 328
+Polycrystalline ceramic restorations, 146
+Polycrystalline zirconia, 328
+Polydispersity, polymers, 35
+Polyether impression material, 278
+elasticity and viscoelasticity, 284
+ring-opening polymerization, 279f
+Polyhedral oligomeric silsesquioxane (POSS), 91
+Polymeric prostheses, resin cements, 146
+Polymerization, 16, 34
+addition, 39
+chemistry, 38
+condensation, 41
+curing, 96
+mechanism, 38
+microwave energy, 239, 240f
+polymerization cycles/curing cycles, 238, 240f
+step-growth, 41
+temperature–time heating curves, 238, 240f
+shrinkage
+dimensional changes, 244f, 244
+maxillary denture bases, 243t
+thermal shrinkage, 243–244
+volumetric and linear shrinkage, 243
+Polymer–monomer interaction, 236
+Polymers, 16
+chain branching, 35
+copolymer structures, 35
+crosslinking, 35
+definition, 16
+dissolution properties, 36
+fundamental nature, 35
+linear, yield point, 69f
+mechanical properties, 36
+molecular organization, 36
+molecular weight, 35
+polymerization, 38
+
+425
+
+Polymers (Continued)
+radiopacity, 56
+rheometric properties, 37
+solvation properties, 37
+thermal properties, 37
+Poly(methyl methacrylate) (PMMA), 88, 233,
+234f
+Polysulfide impression material, 277, 277f
+Polysulfide materials, 286
+Polyurethane polymers, 252
+Polyvinyl siloxane (PVS), 286
+hydrophilized, 286
+impression material, 277, 284
+sealers, 148
+Polyvinylchloride (PVC), 37
+Pontic
+chipped veneer ceramic, 215f
+veneer ceramic chipping, 215f
+Porcelain
+adherence, 180
+bonding, 172
+classification, 209t
+debonding, metal pontic substrate, 223f
+definition, 202
+in dentistry, 42
+discoloration, silver (impact), 179
+feldspathic, 202–203
+finishing kit, 346f
+oxide layer, thickness/wetting, 181
+thermal contraction mismatch, 224
+VITA Zahnfabrik development, 206
+Porcelain fused to metal (PFM), 9, 178, 206
+Porcelain teeth, 251
+Porosity, 245f, 245
+Posterior composites, selection criteria, 113
+Postmarket surveillance, 368
+Potassium silicate glass, amorphous structure,
+203f
+Powder–liquid system
+compomer, 148f
+for hand mixing, 149f
+Powder-to-liquid (P/L) ratio, 131
+Precious metals, 173
+Precipitation hardening, 171, 191
+Precision, 381, 384
+Predominantly base metal (PB), 173
+Premarket approval (PMA), 368
+Press-on metal (POM) method, 220
+Pressure, 4, 64, 66
+Preventive dental material, 3, 8, 8f
+Preventive sealant, 8f
+Preventive-resin restoration (PRR), 126
+Primary bond, 18, 19f
+combination of, 19
+definition, 16
+Primary sprue, wax pattern orientation, 307f
+Primers, 118, 120, 121f
+definition, 115
+silane, 220
+Procera AllCeram, 219
+Procera AllCeram alumina-based crown, 397
+Processing stresses, 246
+Processing wax, 303
+Product safety data sheet (PSDS), 368
+Proof stress (yield strength), 173
+Propagation, 39
+and chain growth, 40f
+reactions, 39
+
+426
+
+Index
+
+Propane, heat source, 186
+Propane-oxygen torch flame, flame zones,
+187f
+Proportional limit, 67, 69, 70f
+definition, 64
+ProRoot MTA, 149
+Prospective analysis study, 390, 392
+Prostheses
+cementing mechanics, 138f
+devices and restorations, 276
+fabrication, 178
+first-stage contraction, 184
+Prosthetic polymers and resins
+acrylic resins, 233, 234f
+additional procedures
+denture cleansers, 250
+denture repair, 248
+rebasing resin dentures, 250
+relining resin denture bases, 250
+resin impression trays and tray materials,
+250
+short-term and long-term resilient soft
+denture liners, 248–249
+biological properties
+allergic reactions, 248
+infection-control procedures, 247
+toxicology, 248
+CAD-CAM procedures, 239–241
+chemical basis, 234f
+chemical-activated denture base resins,
+241–242, 242f
+general fabrication technique, 234
+heat-activated resin
+compression molding technique,
+235–236, 235f
+polymerization procedure, 238–239
+preparation, 237f–239f, 236–238
+representation, 234f
+light-activated denture base resins, 242, 243f
+maxillofacial prosthetics
+chlorinated polyethylene (CPE), 252
+latexes, 251
+polyurethane polymers, 252
+silicone rubbers, 252
+vinyl plastisols, 251
+physical properties
+crazing, 246f, 246
+creep, 247
+impact strength and hardness, 247
+polymerization shrinkage, 242–244,
+243t, 244f
+porosity, 245f, 245
+processing stresses, 246
+solubility, 246
+strength, 246–247, 247f
+water sorption, 245
+resin teeth for prosthetic applications, 251
+Prosthetic resin-veneering materials, 112
+Prototyping, definition, 326
+Provisional restorative materials, 10
+Pseudoelasticity, 197
+Pseudoperiodontium, 257
+Pseudoplastic, definition, 49
+Pseudoplastic fluids, viscosity, 51
+Pseudoplasticity, 275, 283
+P-statements, 368
+Puce, 53
+Pulp, physiological functions, 5
+
+Pulp capping, 129
+definition, 128
+Pulp damage, 358, 372
+Pulp protection, cements, 134
+Pulpotomies, 135
+Pumice, 341
+Pure metals, 23, 26f
+Putty-wash technique, 277, 282
+Pyrogenic reaction, 97f
+Q
+Quantitative light-induced fluorescence
+(QLF), 408
+caries diagnosis, 330
+definition, 326
+QLF-D BiLuminator, 331
+Quartz, 90, 341
+Quartz-tungsten-halogen (QTH) lamps, 95
+Quaternary ammonium bound to silica
+(QASi), 402
+Quenching, 32
+R
+Radiopacity, 56, 90
+Ramped curing, 107
+Random copolymer, 15, 35
+Randomized controlled clinical trial, 392
+definition, 390
+Reactionary dentin, 134f
+Reactor, 277
+Rebasing
+definition, 233
+resin dentures, 250
+Reciprocal clasp, 64
+Recombinant human bone morphogenetic
+protein-2 (rhBMP-2), 404
+Recovery, 171, 193–194
+Recrystallization, 191
+definition, 171
+Reflection, 53
+definition, 49
+Refractory
+definition, 276, 306
+material, 302, 307f
+Refract/refraction, 53
+definition, 49
+Reinforcement material, 42
+Reinforcing filler particles, 97t
+Reinforcing material, 42
+Relining, definition, 233
+Relining resin denture bases, 250
+Remineralizing agents and materials, 404
+Removable partial dentures (RPDs)
+alloys for, 183
+base metal alloys, 183
+composition/mechanical properties, 183t
+clasp seating, 65f
+ductility and malleability, 173
+economic considerations, 172
+elastic modulus, 172
+framework, 9f
+metal components, 183
+titanium-based alloys, 183
+Repaired amalgam restorations, 165–166
+Replantation, 253
+definition, 253
+Repulsion force, 17
+Reservoir, 307f
+
+Residual compressive stresses, development,
+223
+Residual flux, 186
+Residual stress, 179, 223, 224f
+Resilience, 72
+definition, 64
+Resilient soft denture liner
+care, 249
+compositions, 249
+definition, 233
+processing, 249
+purpose, 248
+short-term soft liners/tissue conditioners, 249
+Resin cements, 129, 151
+ceramic prostheses, 146
+commercial, 145f
+composition, 145
+dual-cured cements, 145
+evaluation, 146
+manipulation, 146
+metallic prostheses, 146
+orthodontic brackets, 125, 146
+polymeric prostheses, 146
+restorative composites, low-viscosity
+versions, 124
+self-adhesive, 124
+setting, 145
+solubility, 132
+Resin filler particle preparation, 98f
+Resin impression trays and tray materials, 250
+Resin materials, advantage, 88
+Resin restorative materials, 403
+Resin tag, 115–116
+Resin teeth
+chemical bonding with denture base resins,
+251
+fabrication, 251
+impact resistance and ductility, 251
+vs. porcelain teeth, 251
+wear resistance, 251
+Resin-based adhesives, 46
+Resin-based composites
+cements, 219
+classification, 93t
+components, 88
+composition and function, 88
+coupling agent, 91
+degree of conversion, 105
+fillers, 90
+history, 88
+indication, 93t
+inhibitors, 92
+matrix, 89
+matrix constraint, 105
+optical modifiers, 92
+properties, 105
+restorations, 345, 345f
+strengthening mechanism, 106
+wear, 107
+Resin-based filling material, 46
+Resin-modified glass ionomer (RMGI), 124
+cement, 129
+clinical indications, 147
+definition, 128
+hybrid ionomer, 147
+2-hydroxyethyl methacrylate, 148
+marketing, 147
+polymerization, 147
+
+Index
+
+Resin-modified glass-ionomer cement
+(RMGIs), 147, 147f, 376–377
+Resinoid-bonded abrasive, 342
+Resins, 34
+bonding, dental ceramics, 219
+definition, 16, 88
+pit/fissure sealant usage, 126
+radiopacity, 56
+Response-surface methods/sequential
+minimum-energy design, 383
+Restorations
+anterior class III silicate cement, 13f
+clinical assessment, 392
+esthetic appearance, 11
+Fédération Dentaire Internationale (FDI)
+Criteria, 393b, 396b
+fracture, 74
+longevity, 11
+Original Cvar and Ryge Criteria, 393
+survival probabilities, 109
+retention, 11, 11f
+Restorative dental materials, 8
+definition, 3
+direct, 8, 9f
+indirect, 8, 9f
+temporary restorative, 10
+Restorative dentistry, 407
+Restorative glass ionomer cements, properties,
+144t
+Restorative materials
+aging, 406
+finishing and polishing benefits, 333
+fracture toughness, 144t
+Retentive clasp, 64, 65f
+Retraction cords, 280
+Retrospective studies, 392
+definition, 390
+Reversible hydrocolloid, 287
+composition, 289, 290t
+distortion, 290
+sol–gel transformation, 287
+Reversible materials, 276
+Rheology, 50
+definition, 49
+Rheometric properties, 37
+Rhombic lattice, 22f
+Rhombohedral lattice, 22f
+Rockwell hardness test, 79
+Rods, 52
+Roman cement, 151
+Root canal sealers, 125
+Rouge, 341
+Rubber-bonded abrasives, 342
+S
+Safety Data Sheet (SDS), 368
+Sag, definition, 49
+Salivary genetic testing, 409
+Salt, atomic arrangement, 20f
+Sand, 341
+Sandblasting, 341
+Sandwich technique, 147
+Scientific Committee on Emerging and Newly
+Identified Health Risks (SCENIHR),
+371
+Screw dislocation, 189f, 189
+Sealant, 8f, 126
+Secondary bonds, 19
+
+Selective laser melting, 185
+cobalt-chromium (Co-Cr) powder
+compositions, 185t
+Self-activating capsules, 158
+Self-adhesive flowable composites, 103
+Self-adhesive resin cement, 146
+Self-assembling materials, 405
+definition, 401
+Self-diffusion, 21
+Self-etch adhesives, 122f, 123
+Self-healing (self-repairing) materials, 405
+Sensitization, 195, 355, 361
+Shape memory, 197
+Shear strain, 50f, 51f
+Shear stress, 66, 188f
+Shear thinning, 275, 282–283
+Shore hardness test, 79
+Short-term soft liner (tissue conditioner)
+composition, 249
+definition, 233
+Shrinkage, stress, 106
+Silane primers, 220
+Silica, allotropic forms, 42
+Silica-based ceramic, silane bonding, 220f,
+220
+Silicate cement, 129
+Silicate glass, 203
+Silicon carbide, 341
+Silicone
+addition, 277
+condensation, 277
+rubbers, 252
+Silicosis, 338
+Silorane chemistry, 103
+Silver diammine fluoride (SDF), 136
+Silver-copper system, 30
+equilibrium-phase diagram, 30f
+phase transformations, 30, 30f
+Silver-palladium alloys, 176
+Simple hexagonal lattice, 22f
+Single teeth (restoration), endosteal blade
+implant designs (usage), 258f
+Sintering, 34, 178, 202, 206
+burnished foil, 184
+process, 342
+Sliding friction, 200
+Slip, 34f, 34
+Slip direction, 189
+Slip plane, 34, 67, 189
+Slip system, 189
+Smart materials, 401
+definition, 401
+Smear layer, 115
+Soda–lime glass, 33
+Soft glass, 91
+Soft wax, 302
+Softening heat treatment, 176
+Soft-Start, 107
+Solder, 185
+Soldering, 175
+acetylene, heat source, 186
+brazing, 185
+definition, 171
+filler metal, 186
+fluidity, 186
+flux, 185
+furnace soldering, 186
+gap width, 187
+
+427
+
+Soldering (Continued)
+heat sources for, 186
+natural gas, heat source, 186t
+propane, heat source, 186t
+stainless steel, 196
+technical considerations, 196
+technique considerations, 186
+temperature/time, 187
+torch flame, zone, 187f
+wetting, 186
+Sol–gel transformation, 287
+Solid adhering, dentistry, 43f
+Solids
+electrochemical properties, 58
+magnetic materials, 62
+rheology, 50
+solubility, conditions, 28
+structural relaxation, 51
+thermal properties, 57
+Solid solutions, 28
+definition, 16
+interstitial, 28
+mechanical properties, 28
+phase diagram interpretation, 29
+substitutional, 28
+Solid-state reactions, 31
+Solidus temperature, 28, 178
+Solubility, 246
+Solutes, 28
+Solution, 28
+Solution heat treatment, 176
+Solvation properties, 37
+Solvents, 28, 121
+Solvus line, 30
+Special controls, 368
+Specific heat, 57
+Specifications, 381, 387
+Specular reflectance, 53
+Spinel/spinelle, 202
+Spiral wheel polishers, 342f
+Spot welding, 185
+Springback, definition, 171
+Spring-wound casting machine, 317f
+Sprue
+attachment, 308
+definition, 276, 306
+design, 307
+diameter, 308
+problem, shrinkage, 308f
+former connection, 308
+length, 308
+orientation, 308f
+porosity, 308f
+position, 308
+primary sprue, wax pattern orientation,
+307f
+representation, 307f
+reservoir, addition, 308
+Sprued wax pattern, 307
+Stabilization, 195
+Stain ceramics, 202, 209
+Stainless steel, 264
+austenitic stainless steels, 195
+carbon steel, 194
+compositions, 195t
+ferritic stainless steels, 195
+martensitic stainless steels, 195
+soldering, 196
+
+428
+
+Index
+
+Stainless steel (Continued)
+types, 195
+welding, 196
+Stainless steel alloys, 194
+Stainless steel orthodontic wire, 196t
+Staple bone implant, 255
+Static friction, 80
+Static mixing, 146, 275
+design, 281f
+elastomeric impression, 281
+Statistical significance
+vs. clinical significance, 386
+definition, 381
+Stem cells from apical papillae (SCAPs), 407
+Step-growth polymerization, 38, 41
+Step-stress accelerated lifetime testing
+(SSALT), 383
+Stereolithography, 330
+Sticky wax, definition, 276
+Sticky wax, 302–303
+Stimulus-responsive “smart” materials, 405
+Stock tray, 279, 279f
+Stone casts and dies, 283
+Strain, definition, 16, 64
+Strain field, 32
+Strain hardening, 71, 171, 191
+definition, 64
+Strength, 67
+Strength, amalgam
+amalgam hardening rate effects, 162
+compressive and tensile strength, 161–162
+condensation effects, 162
+mercury content effects, 162f, 162
+porosity effects, 162
+trituration effects, 162
+Strengthening mechanism, resin-based
+composites, 106
+Stress, 4
+combined, 66
+compressive, 65f, 66
+definition, 16, 64
+relief, 191
+shear, 66
+tensile, 65f, 66
+unit, 66
+Stress concentration, 34, 74
+definition, 64
+Stress corrosion, 61
+definition, 50
+Stress distribution, 66
+Stress gradient, 66
+Stress intensity, 64
+Stress intensity factor, 75
+Stress relaxation, 51
+Stresses, 23
+Stress-relief heat treatment, 196
+Stress-strain properties, 68, 68f
+Structural relaxation, 51
+definition, 49
+Subperiosteal implant, 254–255, 257f
+definition, 253
+positioning, 257f
+Substitutional solid solution, 28
+Substrate metal, 185
+Subsurface porosity, 322f, 322
+Suck-back porosity, 323f, 322
+Sulfur contamination, addition silicone, 277
+Supercooled liquids, 21
+
+Supercooling, 24
+Superelasticity, 171, 197
+Superficial active carious lesions, 6
+Superlattice, 32
+Surefil-SDR flow, 403
+Surface, 43f, 43
+Surface defects, 74
+Surface energy, 16, 43, 44t
+Surface flaws, impact, 75f
+Surface interactions, hardness, 78
+Surface profilometry, 395
+Surface tension, 16, 44
+Surface-fatigue wear, 81
+Surfactant, 46
+Surgical implants, 260
+Survival, clinical analysis, 392
+Swept-source optical coherence tomography
+(SS-OCT), 408
+Syneresis, 275, 292
+Synthetic resins, 34
+Synthetic waxes, 302
+Systemic effects, 356, 357f
+CMR effects, 358
+concept, 356, 357f
+estrogenicity, 358
+variables, 358
+Systemic reactions
+dental alloys, 373
+dental amalgam, 371
+methacrylates and resin composites, 372
+T
+Taguchi robust design, 383
+Tarnish, 58
+alloys, 172
+definition, 50
+dental amalgams, 163f, 163
+impact, 30
+Tartaric acid, glass-ionomer cement setting,
+141f, 141
+TC 106, 387–388
+Tear-strength test
+configurations, 285f
+specimen designs, 285
+Technique sensitivity, 381, 383
+Teeth
+biological issue, 6, 7f
+genetic issue, 7f
+mechanical issue, 7, 8f
+movement, achievement, 197
+Teeth, structure
+anterior tooth and supporting tissues, 5f
+cementum, 5
+dentin, 5, 6f
+dentin-enamel junction, 5, 6f
+enamel, 4
+pulp, 5
+third molars, properties, 82t
+Tempering, 195
+Temporary restorative material, 3, 10
+Tensile fracture, susceptibility, 204
+Tensile strength, 161–162, 194f
+Tensile stress, 65f, 66
+Tensile stress-strain curve, 71f
+Termination, 40f
+vinyl monomers, 39
+Terrometallic porcelain teeth, placement,
+205
+
+Tesla (T), 50, 63
+Tetrafunctional silorane monomer, 104f
+Tetragonal lattice, 22f
+Tetragonal unit cell structures, 216f
+Tetragonal zirconia polycrystal (TZP), 216
+Texturing, 262
+Theobromine, 403–404
+TheraCal and TheraCal PT, 135
+Thermal compatibility, 202
+Thermal conductivity, 57
+cement base, 136t
+definition, 49
+Thermal contraction coefficient (TCC),
+179
+Thermal diffusivity, 57
+definition, 49
+Thermal energy, 17
+Thermal expansion, 17
+gypsum-bonded investments, 310
+high-heat, 315
+Thermal insulation, zinc phosphate cement
+(basis), 136
+Thermal properties, 57
+alloys, 172
+polymers, 37
+Thermal shrinkage, 243–244
+Thermal tempering, 225
+Thermally compatible metal-ceramic system,
+224f
+Thermally compatible systems, 211, 223
+Thermo-photonic lock-in imaging (TPLI),
+408
+Thermoplastic polymers, 16, 37
+Thermoset polymers, 16, 38f, 38
+Third molars, properties, 82t
+Thixotropic, definition, 49
+Thixotropic fluid, viscosity, 51
+Thixotropy, 275, 284
+Three-body abrasion, 334f, 334
+Three-dimensional (3-D) printing, 185, 328,
+409
+advantage, 328
+model, diagnostic casts, 329f
+technologies, 410f
+Three-point test, 73f
+Three-unit bridge, veneer ceramic chipping,
+215f
+Three-unit ceramic bridge
+connector dimensions, 227f
+lithia disilicate core ceramic, usage
+(postcementation photograph),
+228f
+Threshold dosage, 365
+Thymol, 289
+Tie line, 29
+Tin oxide, 341
+Tissue integration, 257
+Tissue engineering, 406
+Tissue fluid, 61
+Tissue repair/regeneration, dental materials,
+12
+Titanium, 404
+castings, surface, 176
+corrosion, 62
+laboratory casting, challenge, 184
+products, 264
+Titanium alloys, 177
+all-metal prosthesis usage, 177
+
+Index
+
+Titanium alloys (Continued)
+American Society for Testing and Materials
+(ASTM) F 67 unalloyed titanium,
+tensile properties/impurity limits, 177t
+fabrication, oxygen effect (elimination), 178
+manipulation, 178
+stabilizers, 177
+Titanium-based alloys, 182
+high-noble and base-metal alloy properties,
+182t
+removable partial dentures, alloys, 183
+in vitro bonding tests, 182
+Titanium-molybdenum alloy (TMA), 199
+Tooth
+contour, 64
+undercut, 64
+Tooth loss, 406
+Tooth preparation, 280
+Tooth structure
+hardness values, 339t
+properties, 82t
+strength, 81
+tensile properties, 82
+Toothbrushes, 351
+Torch flame, zones (division), 187
+Torch melting (noble metal alloy), 318
+Torch melting/centrifugal casting machine,
+317
+Torsion, 66
+Total-etch technique, 118
+Toughness, 72
+definition, 64
+Toxicity, 355, 358
+dental amalgams, 166
+Toxicology, 248
+Traditional composite, 97
+Transformation toughening, 202
+rack propagation, 225
+Transient stress, 179, 223
+Translucency, 53, 92
+definition, 49
+Transmandibular implant (TMI), 255
+Transmission, 49, 53
+Transmit, 49
+Transosteal implant
+definition, 253
+panoramic radiograph, 257f
+transmucosal abutment, 257f
+Transparency, 49, 53
+Transplants, failure rates (recognition), 254
+Tray compound, 294
+Tribology, 64, 79
+Tricalcium silicate product, 404
+Triclinic lattice, 22f
+Tri-/dicalcium silicate cements, 149
+solubilities, 132
+Triethylene glycol dimethacrylate
+(TEGDMA), 89f
+TRIOS 3, 327
+Triple-tray technique, 284
+Tripoli, 341
+Trituration
+consistency of the mix, 158, 159f
+definition, 153
+objective, 158
+triturators, 158
+True Definition Scanner, 327
+True strength, 71
+
+True stress, 71
+definition, 64
+True/truing, definition, 332
+Tungsten-carbide burs, 111
+Tungsten-inert gas (TIG) arc, 185
+Twin, 191
+Twinning, 191, 193f
+Twinning plane, 191
+Two single-paste systems, compomer, 148f
+Two-body abrasion, 334f, 334
+Two-body abrasive wear, 81
+Two-putty system, 281
+U
+Ultimate strength, 71
+Ultralow-fusing ceramics, 207
+Ultrasonography, 409
+Undercooling, 24
+Uniaxial flexural strength, 73, 73f
+Unit cells, 20
+cubic space lattices, 21f
+Universal bonding agents, 145
+Urethane dimethacrylate (UDMA), 90
+chemical structure, 89f
+U.S. Public Health Service Guidelines
+(USPHS), 392
+Usage tests, 366
+Utility wax, 303
+V
+Vacancy
+definition, 21
+example, 189f
+Vacuum mixing, 313
+Valence, 28
+Valence electrons, 16
+Value
+definition, 49, 54
+Munsell scale, 54f
+van der Waals forces
+definition, 16, 19
+dipole attraction, 19f, 19
+Varnish, 129
+definition, 128
+flavored fluoride, 136f
+fluoridated, 135
+infection control, 135
+Veneered crown, 217f
+Veneered leucite-based glass-ceramic core
+restorations, 213
+Veneering ceramics (layering ceramics), 207
+compositions, 208t
+expansion and contraction coefficient, 207
+properties, 230t
+tensile strength, 227
+Venus Diamond (Kulzer), 103
+Vickers hardness number (VHN), 173
+Vickers hardness test, 79
+Vinyl monomers
+addition polymerization, stages, 39
+induction, 39
+propagation, 39
+termination, 39
+Vinyl plastisols, 251
+Vinyl polysiloxane (VPS) impression material,
+277
+Virtual reality (VR), 326, 331
+Viscoelastic materials, 284
+
+429
+
+Viscoelastic strain, 37, 37f
+Viscoelastic/viscoelasticity, 275
+Viscosity, 50
+definition, 49
+fluids, 51f, 51
+shear strain, 50f
+Vision
+phenomenon, 52
+role, 52
+VITA In-Ceram Alumina, 218
+Vita shade guide, 55f
+VITA Zahnfabrick, porcelain development,
+206
+VITABLOCS Triluxe Forte (VITA
+Zahnfabrik) ceramic, 221
+Vitapan classical shade guide, tab
+arrangements, 55f
+Vitreous-bond materials, 342
+VM 9 Ceramics, 222t
+Voids, 245f, 245
+Voltage (V), 59
+Volumetric shrinkage, 243
+Voxel, definition, 401
+Vulcanization, 377
+W
+Water
+density/thermal properties, 57t
+gypsum products, 299
+sorption, 245
+Water/powder (W/P) ratio
+compressive strength, 299f
+plaster of paris
+setting expansion, 299t
+strength, 304t
+Water-settable glass ionomer, 141
+Wax., 275. See also Dental waxes
+baseplate, 303
+bite, 303
+boxing, 303
+carnauba, 302
+casting, 303, 314
+corrective, 303
+dipping, 302
+elastic memory, 305
+elimination and heating, 314
+impression, 303
+inlay, 302, 304
+microcrystalline, 302
+mineral-based, 302
+Montan, 302
+natural, 302
+pattern, 302
+processing, 303
+sticky, 303
+synthetic, 302
+utility, 303
+Wax patterns
+cleaner, 313
+distortion, 307
+primary sprue, 307f
+removal, 308
+and sprue design, 307
+sprued, 307
+Wear, 107
+abrasive, 81
+adhesive, 80
+analysis, 393
+
+430
+
+Index
+
+Wear (Continued)
+cavitation-erosion, 81
+corrosive, 81
+debris, 334
+definition, 80
+direct method, 395, 395f
+erosion, 81
+fretting, 81
+indirect method, 391f, 393, 394f
+micro-CT scan, 395f
+resistance improvement, 81
+surface-fatigue, 81
+types of, 80
+Weibull distribution, 77, 78f
+Weibull modulus, 77
+Weibull size effect
+conversion of specimen strengths, 386,
+387f
+effective volume, 386
+specimen size, 385
+Weibull distribution, 385
+Weibull modulus, 386f, 386
+Welding, 171
+beta-titanium wires, 199
+stainless steel, 196
+Wet corrosion, 59
+Wet strength, gypsum products, 299
+Wetting
+adhesion, 44, 116
+contact angle, 45, 46f
+definition, 16
+Wetting agent, 16, 46
+White spot lesions (WSLs), 6
+White stone, 341
+
+Whitening toothpastes, 350
+Work hardening, 71
+definition, 64
+Working range, 171
+Working time, 237
+Wrought alloys, 171–172, 188
+annealing effects, 193
+dentistry, 194
+plastic deformation, 188
+recovery, 193
+types of, 193
+Wrought structure, cast structure, 196
+X
+Xenoestrogens, 355, 358
+X-ray energy, absorption, 56
+X-rays, spectrum placement, 56
+Y
+Yield point, 69
+Yield strength, 69, 172
+definition, 64
+Young’s modulus, 70
+definition, 64
+Yttria-stabilized tetragonal zirconia polycrystal
+(Y-TZP) ceramic
+hydrothermal degradation, 218
+physical properties, 219t
+transformation toughening, 217f
+Yttria-stabilized zirconia, 202
+Z
+Zinc oxide, definition, 128
+Zinc oxide eugenol, 140
+
+Zinc oxide (ZnO) powder, 129
+Zinc oxide–based cements, 138
+Zinc oxide–eugenol (ZOE), 129, 294,
+294f
+consistency, 295
+dimensional stability, 295
+root canal sealers, solubilities, 132
+setting reaction, 294f, 294
+Zinc phosphate cement, 129, 131, 136
+bismuth oxide, 139
+definition, 128
+mixing, 139
+thermal insulation, 136
+Zinc polycarboxylate cement, 139
+powder#liquid ratio, 140
+setting time, 140
+working time, 140
+Zirconia, 214
+core materials, veneering ceramics
+(properties), 230t
+fracture strength, 217
+monolithic, 217
+stabilized, 214
+transformation toughening, 225
+yttria stabilization, 202
+Zirconia reinforced lithia silicate, 328
+Zirconia-toughened alumina (ZTA),
+219
+physical properties, 219t
+Zirconium dioxide
+ceramics, 214
+mechanical properties, 203
+Zirconium oxide, 341
+Zirconium silicate, 341
+
+
